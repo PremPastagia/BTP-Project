@@ -1,0 +1,54 @@
+[
+  {
+    "source_id": "PPAC_ARCHIVE",
+    "url": "https://ppac.gov.in/archives/reports?page=24",
+    "extraction_timestamp": "2026-11-05T10:26:29.647800+00:00",
+    "http_status": 200,
+    "final_url": "https://ppac.gov.in/archives/reports?page=24",
+    "content_type": "text/html; charset=UTF-8",
+    "raw_path": "raw/recovery/PPAC_ARCHIVE/54c7702564c8fd8768c0514c70aa0b62208660aa09a0fd0ac0d4c258b25c3fc7.html",
+    "sha256": "54c7702564c8fd8768c0514c70aa0b62208660aa09a0fd0ac0d4c258b25c3fc7",
+    "bytes": 620999,
+    "status": "retrieved_unparsed",
+    "error": ""
+  },
+  {
+    "source_id": "PPAC_REPORT_1",
+    "url": "https://ppac.gov.in/download.php?file=rep_studies/1792155544_Snapshot_of_India_Oil_and_Gas_Sept_2026_V3.pdf",
+    "extraction_timestamp": "2026-11-05T10:26:29.648748+00:00",
+    "http_status": 200,
+    "final_url": "https://ppac.gov.in/download.php?file=rep_studies/1792155544_Snapshot_of_India_Oil_and_Gas_Sept_2026_V3.pdf",
+    "content_type": "application/octet-stream",
+    "raw_path": "raw/recovery/PPAC_REPORT_1/6c0735e9d2d9dc55aaa2bbe977f908540149c3eb11227f557478d49cbf788490.pdf",
+    "sha256": "6c0735e9d2d9dc55aaa2bbe977f908540149c3eb11227f557478d49cbf788490",
+    "bytes": 9872429,
+    "status": "retrieved_unparsed",
+    "error": ""
+  },
+  {
+    "source_id": "PPAC_REPORT_2",
+    "url": "https://ppac.gov.in/download.php?file=rep_studies/1784899305_The_PPAC_Ready_Reckoner_FY_2025%E2%80%9326_Final.pdf",
+    "extraction_timestamp": "2026-11-05T10:26:29.649304+00:00",
+    "http_status": 200,
+    "final_url": "https://ppac.gov.in/download.php?file=rep_studies/1784899305_The_PPAC_Ready_Reckoner_FY_2025%E2%80%9326_Final.pdf",
+    "content_type": "application/octet-stream",
+    "raw_path": "raw/recovery/PPAC_REPORT_2/808f416d9b87ecf0a2c2702631b43e8ef83180b6d4596fa06bb5ae3482eb9643.pdf",
+    "sha256": "808f416d9b87ecf0a2c2702631b43e8ef83180b6d4596fa06bb5ae3482eb9643",
+    "bytes": 32644469,
+    "status": "retrieved_unparsed",
+    "error": ""
+  },
+  {
+    "source_id": "PPAC_REPORT_3",
+    "url": "https://ppac.gov.in/download.php?file=rep_studies/1793182058_Monthly_Gas_Report_Sep_26-WebV.pdf",
+    "extraction_timestamp": "2026-11-05T10:26:29.649869+00:00",
+    "http_status": 200,
+    "final_url": "https://ppac.gov.in/download.php?file=rep_studies/1793182058_Monthly_Gas_Report_Sep_26-WebV.pdf",
+    "content_type": "application/octet-stream",
+    "raw_path": "raw/recovery/PPAC_REPORT_3/178dadc39c3238a0ddba6a7ac50ac39c12c670fa50a32e02c8a43694bdcf0a8e.pdf",
+    "sha256": "178dadc39c3238a0ddba6a7ac50ac39c12c670fa50a32e02c8a43694bdcf0a8e",
+    "bytes": 681252,
+    "status": "retrieved_unparsed",
+    "error": ""
+  }
+]

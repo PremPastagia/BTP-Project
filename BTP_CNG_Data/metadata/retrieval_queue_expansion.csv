@@ -1,0 +1,16 @@
+source_id,url
+PPAC_GAS_P2,https://ppac.gov.in/natural-gas/gas-price?page=2
+PPAC_GAS_P3,https://ppac.gov.in/natural-gas/gas-price?page=3
+PPAC_GAS_P4,https://ppac.gov.in/natural-gas/gas-price?page=4
+PPAC_GAS_P5,https://ppac.gov.in/natural-gas/gas-price?page=5
+PPAC_GAS_P6,https://ppac.gov.in/natural-gas/gas-price?page=6
+PPAC_GAS_P7,https://ppac.gov.in/natural-gas/gas-price?page=7
+PPAC_GAS_P8,https://ppac.gov.in/natural-gas/gas-price?page=8
+PPAC_GAS_P9,https://ppac.gov.in/natural-gas/gas-price?page=9
+PPAC_GAS_P10,https://ppac.gov.in/natural-gas/gas-price?page=10
+PPAC_GAS_P11,https://ppac.gov.in/natural-gas/gas-price?page=11
+MNGL_HISTORY,https://mngl.in/customer-awareness/Hist_Prices
+MNGL_REPORTS,https://mngl.in/investors/annual-reports
+MNGL_RATES,https://mngl.in/cng/rate-card
+PPAC_REPORTS,https://ppac.gov.in/reports-and-analysis
+PPAC_FUEL,https://ppac.gov.in/retail-selling-price-rsp-of-petrol-diesel-and-domestic-lpg/rsp-of-petrol-and-diesel-in-metro-cities-since-16-6-2017

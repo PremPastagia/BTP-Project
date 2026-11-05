@@ -1,11 +1,11 @@
-city,state,cgd_operator,start_date,end_date,total_monthly_records,total_discrete_revisions,min_cng_price_inr_kg,max_cng_price_inr_kg,latest_cng_price_inr_kg,temporal_completeness_pct
-Delhi,Delhi NCR,Indraprastha Gas Limited (IGL),2011-10-31,2026-11-01,182,249,32.0,101.9,86.98,100.0
-Mumbai,Maharashtra,Mahanagar Gas Limited (MGL),2011-01-31,2026-11-01,191,236,32.0,89.5,89.0,100.0
-Pune,Maharashtra,Maharashtra Natural Gas Limited (MNGL),2012-02-29,2026-11-01,178,236,39.5,98.5,98.5,100.0
-Ahmedabad,Gujarat,Adani Total Gas Limited (ATGL),2011-11-30,2026-11-01,181,239,45.25,94.02,94.02,100.0
-Lucknow,Uttar Pradesh,Green Gas Limited (GGL),2012-07-31,2026-11-01,173,222,39.0,108.0,108.0,100.0
-Kanpur,Uttar Pradesh,Central U.P. Gas Limited (CUGL),2021-10-31,2026-11-01,62,216,63.97,102.0,102.0,100.0
-Hyderabad,Telangana,Bhagyanagar Gas Limited (BGL),2012-07-31,2026-11-01,173,220,43.5,112.0,112.0,100.0
-Bengaluru,Karnataka,GAIL Gas Limited,2025-02-28,2026-11-01,22,206,88.0,102.5,102.5,100.0
-Noida,Uttar Pradesh,Indraprastha Gas Limited (IGL),2011-12-31,2026-11-01,180,239,37.9,95.59,95.59,100.0
-Gurgaon,Haryana,Haryana City Gas / IGL,2012-01-31,2026-11-01,179,230,33.75,92.01,92.01,100.0
+city,state,cgd_operator,operator_verification,source_observation_start,source_observation_end,source_observations,repeat_observations,candidate_changes,constructed_complete_month_rows,constructed_calendar_missing_months,verified_monthend_targets,verified_twap_targets,verified_revision_history,city_selection,primary_source_records,primary_effective_start,primary_effective_end,primary_derived_candidate_months
+Ahmedabad,Gujarat,Adani Total Gas Limited (ATGL),legacy_mapping_needs_dated_GA_check,2011-11-16,2026-11-01,239,202,36,180,0,0,0,not_established,candidate_only,0.0,,,0.0
+Bengaluru,Karnataka,GAIL Gas Limited,legacy_mapping_needs_dated_GA_check,2025-02-12,2026-11-01,206,200,5,21,0,0,0,not_established,candidate_only,0.0,,,0.0
+Delhi,Delhi NCR,Indraprastha Gas Limited (IGL),legacy_mapping_needs_dated_GA_check,2011-10-01,2026-11-01,249,203,45,181,0,0,0,not_established,candidate_only,15.0,2022-04-01,2024-06-22,26.0
+Gurgaon,Haryana,Haryana City Gas / IGL,legacy_mapping_needs_dated_GA_check,2012-01-03,2026-11-01,230,202,27,178,0,0,0,not_established,candidate_only,0.0,,,0.0
+Hyderabad,Telangana,Bhagyanagar Gas Limited (BGL),legacy_mapping_needs_dated_GA_check,2012-07-18,2026-11-01,220,204,15,172,0,0,0,not_established,candidate_only,0.0,,,0.0
+Kanpur,Uttar Pradesh,Central U.P. Gas Limited (CUGL),legacy_mapping_needs_dated_GA_check,2021-10-02,2026-11-01,216,200,15,61,0,0,0,not_established,candidate_only,0.0,,,0.0
+Lucknow,Uttar Pradesh,Green Gas Limited (GGL),legacy_mapping_needs_dated_GA_check,2012-07-24,2026-11-01,222,201,20,172,0,0,0,not_established,candidate_only,40.0,2019-04-01,2026-11-01,91.0
+Mumbai,Maharashtra,Mahanagar Gas Limited (MGL),legacy_mapping_needs_dated_GA_check,2011-01-01,2026-11-01,236,201,34,190,0,0,0,not_established,candidate_only,0.0,,,0.0
+Noida,Uttar Pradesh,Indraprastha Gas Limited (IGL),legacy_mapping_needs_dated_GA_check,2011-12-31,2026-11-01,239,202,36,179,0,0,0,not_established,candidate_only,0.0,,,0.0
+Pune,Maharashtra,Maharashtra Natural Gas Limited (MNGL),legacy_mapping_needs_dated_GA_check,2012-02-17,2026-11-01,236,203,32,177,0,0,0,not_established,candidate_only,0.0,,,0.0

@@ -1,0 +1,6 @@
+table_id,row_number,cells,reason
+CngPriceJul26,44,"[""11.08"", ""HCG Raipur Pvt Ltd"", ""Baloda Bazar, Gariyaband and Raipur districts"", ""Baloda Bazar District"", ""Chhattisgarh"", """", ""20/08/2026"", ""90.9"", ""45.79"", ""35.98"", ""-5.35"", ""0"", ""76.42"", ""10.15"", ""4.33"", ""0""]",unexpected_cell_count
+CngPriceJul26,200,"[""98.13"", ""Haryana City Gas Distribution Limited"", ""Gurugram-2"", ""Gurugram District"", ""Haryana"", """", ""20/08/2026"", ""90.9"", ""52.71"", ""20.06"", ""3.27"", ""0"", ""76.04"", ""10.33"", ""4.53"", ""0""]",unexpected_cell_count
+CngPriceJul26,212,"[""9.17"", ""HCG (KCE) Private Limited"", ""Hisar District"", ""Hisar District"", ""Haryana"", """", ""20/08/2026"", ""89"", ""49.66"", ""22.09"", ""2.82"", ""0"", ""74.57"", ""9.99"", ""4.44"", ""0""]",unexpected_cell_count
+CngPriceJul26,243,"[""9.18"", ""Haryana City Gas (KCE) Private Limited"", ""Jhajjar District"", ""Jhajjar District"", ""Haryana"", """", ""20/08/2026"", ""91"", ""52.37"", ""20.05"", ""3.81"", ""0"", ""76.23"", ""10.23"", ""4.54"", ""0""]",unexpected_cell_count
+CngPriceJul26,377,"[""11.33"", ""HCG Nagpur Pvt. Ltd."", ""Nagpur district"", ""Nagpur District"", ""Maharashtra"", """", ""20/08/2026"", ""94.9"", ""50.22"", ""26.88"", ""4.21"", ""0"", ""81.31"", ""10.83"", ""2.76"", ""0""]",unexpected_cell_count

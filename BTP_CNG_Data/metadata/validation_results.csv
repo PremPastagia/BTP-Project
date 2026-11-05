@@ -1,0 +1,20 @@
+check,status,evidence
+original_bytes_preserved,pass,"{""files"": 46, ""mismatches"": []}"
+all_original_price_observations_preserved,pass,2293
+candidate_changes_exclude_repeats,pass,265
+unverified_effective_and_release_dates_blank,pass,2293
+incomplete_month_targets_excluded,pass,1511
+unknown_effective_paths_have_no_final_target,pass,1511
+annual_GDP_stays_annual,pass,66
+quarantined_demand_factors_monthly,pass,"[""dataset"", ""status"", ""reason"", ""preserved_original""]"
+quarantined_external_shocks_monthly,pass,"[""dataset"", ""status"", ""reason"", ""preserved_original""]"
+quarantined_external_shocks_daily,pass,"[""dataset"", ""status"", ""reason"", ""preserved_original""]"
+website_captures_not_news,pass,125
+retrieved_file_hashes_match,pass,"{""attempts"": 828, ""mismatches"": []}"
+source_authenticity_and_publication_timing,pending,"""Official hosting, PDF text, dates and raw hashes checked; independent price conflicts, missing publication dates, OCR transcriptions and statistical vintages remain unresolved."""
+snapshot_source_row_key_unique,pass,0
+snapshot_dates_and_arithmetic,pending,"{""flagged_rows"": 136, ""future_revision_dates"": 124, ""retail_sum_mismatch_over_005"": 15, ""arithmetic_not_testable_missing_components"": 1208}"
+independent_price_reconciliation,pending,"{""no_exact_secondary_date"": 155, ""agree"": 14, ""CONFLICT"": 6}"
+all_nine_factor_groups_in_inventory,pass,69
+active_structured_csvs_parse,pass,[]
+csv_parquet_shape_consistency,pass,[]

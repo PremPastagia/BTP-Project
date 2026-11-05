@@ -1,0 +1,67 @@
+[
+  {
+    "source_id": "PNGRB_DOC_23",
+    "url": "https://www.pngrb.gov.in/data-bank/20260228-CGD-MIS-Report.pdf",
+    "extraction_timestamp": "2026-11-05T10:38:50.646253+00:00",
+    "http_status": 200,
+    "final_url": "https://www.pngrb.gov.in/data-bank/20260228-CGD-MIS-Report.pdf",
+    "content_type": "application/pdf",
+    "raw_path": "raw/recovery/PNGRB_DOC_23/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.html",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "bytes": 0,
+    "status": "empty_response",
+    "error": "HTTP success with zero bytes"
+  },
+  {
+    "source_id": "MOPNG_POLICY_INDEX_DOC_7",
+    "url": "https://mopng.gov.in/files/natural-gas/policies-and-guidelines/Modalities-for-recognition-of-Gas-Production-from-new-wells.pdf",
+    "extraction_timestamp": "2026-11-05T10:38:50.647208+00:00",
+    "http_status": 200,
+    "final_url": "https://mopng.gov.in/files/natural-gas/policies-and-guidelines/Modalities-for-recognition-of-Gas-Production-from-new-wells.pdf",
+    "content_type": "application/pdf",
+    "raw_path": "raw/recovery/MOPNG_POLICY_INDEX_DOC_7/8671cdf757b5733b1c99cf818c40ad0ef75f1fb8ef6fd00e5359ab8f1f3b679a.pdf",
+    "sha256": "8671cdf757b5733b1c99cf818c40ad0ef75f1fb8ef6fd00e5359ab8f1f3b679a",
+    "bytes": 1695521,
+    "status": "retrieved_unparsed",
+    "error": ""
+  },
+  {
+    "source_id": "MOPNG_POLICY_INDEX_DOC_8",
+    "url": "https://mopng.gov.in/files/natural-gas/policies-and-guidelines/notification-dt-7th-april-2023.pdf",
+    "extraction_timestamp": "2026-11-05T10:38:50.647746+00:00",
+    "http_status": 200,
+    "final_url": "https://mopng.gov.in/files/natural-gas/policies-and-guidelines/notification-dt-7th-april-2023.pdf",
+    "content_type": "application/pdf",
+    "raw_path": "raw/recovery/MOPNG_POLICY_INDEX_DOC_8/d21bb1d3d4510bdc06ff62bf7a9099cedfb6b1311b1013652084a1a86dd44573.pdf",
+    "sha256": "d21bb1d3d4510bdc06ff62bf7a9099cedfb6b1311b1013652084a1a86dd44573",
+    "bytes": 468477,
+    "status": "retrieved_unparsed",
+    "error": ""
+  },
+  {
+    "source_id": "ATGL_REPORTS_PDF_144",
+    "url": "https://www.adanigas.com/-/media/Project/AdaniGas/Investors/Financials/Adani-Portfolio-Updates/Adani-Portfolio-Q1FY26-Credit-Summary.pdf",
+    "extraction_timestamp": "2026-11-05T10:38:50.650355+00:00",
+    "http_status": 200,
+    "final_url": "https://www.adanigas.com/-/media/Project/AdaniGas/Investors/Financials/Adani-Portfolio-Updates/Adani-Portfolio-Q1FY26-Credit-Summary.pdf",
+    "content_type": "application/pdf",
+    "raw_path": "raw/recovery/ATGL_REPORTS_PDF_144/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.html",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "bytes": 0,
+    "status": "empty_response",
+    "error": "HTTP success with zero bytes"
+  },
+  {
+    "source_id": "GGL_REPORTS_PDF_165",
+    "url": "https://www.gujarat-energy.com/resources/downloads/12th-annual-report-2023-24-03-09-2024.pdf",
+    "extraction_timestamp": "2026-11-05T10:38:50.653048+00:00",
+    "http_status": 200,
+    "final_url": "https://www.gujarat-energy.com/resources/downloads/12th-annual-report-2023-24-03-09-2024.pdf",
+    "content_type": "application/pdf",
+    "raw_path": "raw/recovery/GGL_REPORTS_PDF_165/c79dd63af1564d14f35e2692c5d6b633a15af45b607e84350d04ff748a81c009.pdf",
+    "sha256": "c79dd63af1564d14f35e2692c5d6b633a15af45b607e84350d04ff748a81c009",
+    "bytes": 3822427,
+    "status": "retrieved_unparsed",
+    "error": ""
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "attempts": 828,
+  "downloaded_source_ids": 780,
+  "nonempty_downloaded_source_ids": 778,
+  "unique_nonempty_raw_responses": 769,
+  "unresolved_latest_requests": 44,
+  "pdf_source_documents": 717,
+  "unique_pdf_hashes": 709,
+  "extracted_document_pages": 21072,
+  "corporate_documents": 188,
+  "independent_article_records": 14,
+  "primary_price_rows": 175,
+  "factor_candidates": 69,
+  "stage3_complete": false,
+  "model_ready": false
+}

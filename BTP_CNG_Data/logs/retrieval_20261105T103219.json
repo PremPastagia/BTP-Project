@@ -1,0 +1,90 @@
+[
+  {
+    "source_id": "IGL_REPORTS",
+    "url": "https://www.iglonline.net/annual-reports",
+    "extraction_timestamp": "2026-11-05T10:30:33.063782+00:00",
+    "http_status": 200,
+    "final_url": "https://www.iglonline.net/annual-reports",
+    "content_type": "text/html",
+    "raw_path": "raw/recovery/IGL_REPORTS/66bbbd0c193ac53bea5b2a11f6ec031eb1717b9689fa676ec6c328748c3515a8.html",
+    "sha256": "66bbbd0c193ac53bea5b2a11f6ec031eb1717b9689fa676ec6c328748c3515a8",
+    "bytes": 4200,
+    "status": "retrieved_unparsed",
+    "error": ""
+  },
+  {
+    "source_id": "ATGL_REPORTS",
+    "url": "https://www.adanigas.com/investors/investor-downloads",
+    "extraction_timestamp": "2026-11-05T10:30:33.064697+00:00",
+    "http_status": 200,
+    "final_url": "https://www.adanigas.com/investors/investor-downloads",
+    "content_type": "text/html; charset=utf-8",
+    "raw_path": "raw/recovery/ATGL_REPORTS/765a49bbabcfc0c7ca995b53486cbdb24b0cdda716c1b98e5000c267cab93245.html",
+    "sha256": "765a49bbabcfc0c7ca995b53486cbdb24b0cdda716c1b98e5000c267cab93245",
+    "bytes": 138564,
+    "status": "retrieved_unparsed",
+    "error": ""
+  },
+  {
+    "source_id": "GGL_REPORTS",
+    "url": "https://www.gujarat-energy.com/investors/annual-reports/",
+    "extraction_timestamp": "2026-11-05T10:30:33.066203+00:00",
+    "http_status": 200,
+    "final_url": "https://www.gujarat-energy.com/investors/annual-reports/",
+    "content_type": "text/html; charset=UTF-8",
+    "raw_path": "raw/recovery/GGL_REPORTS/a96d929109369206abfd7f4b0ed21e49e500878e72059531f944f74bd547c2db.html",
+    "sha256": "a96d929109369206abfd7f4b0ed21e49e500878e72059531f944f74bd547c2db",
+    "bytes": 48747,
+    "status": "retrieved_unparsed",
+    "error": ""
+  },
+  {
+    "source_id": "GGL_OLD_REPORTS",
+    "url": "https://www.gujaratgas.com/investors/annual-reports-ggcl/",
+    "extraction_timestamp": "2026-11-05T10:30:33.067407+00:00",
+    "http_status": 200,
+    "final_url": "https://www.gujarat-energy.com/",
+    "content_type": "text/html; charset=UTF-8",
+    "raw_path": "raw/recovery/GGL_OLD_REPORTS/b5c65786a1aa161610dcf22631e93d4b5a194ba4a987caeebdf2a94e42833a83.html",
+    "sha256": "b5c65786a1aa161610dcf22631e93d4b5a194ba4a987caeebdf2a94e42833a83",
+    "bytes": 67453,
+    "status": "retrieved_unparsed",
+    "error": ""
+  },
+  {
+    "source_id": "MGL_REPORTS",
+    "url": "https://www.mahanagargas.com/MGL-corporate/investors/annual-reports",
+    "extraction_timestamp": "2026-11-05T10:30:33.068444+00:00",
+    "status": "retrieval_failed",
+    "error": "HTTP Error 403: Forbidden",
+    "raw_path": "",
+    "sha256": "",
+    "bytes": 0
+  },
+  {
+    "source_id": "ATGL_FY24",
+    "url": "https://www.adanigas.com/-/media/Project/AdaniGas/Investors/Financials/Annual-Report/FY24.pdf",
+    "extraction_timestamp": "2026-11-05T10:30:33.069136+00:00",
+    "http_status": 200,
+    "final_url": "https://www.adanigas.com/-/media/Project/AdaniGas/Investors/Financials/Annual-Report/FY24.pdf",
+    "content_type": "application/pdf",
+    "raw_path": "raw/recovery/ATGL_FY24/59e60617e8e6a51b514d613adcbc973ea5e4d7b4c91564e317238eda38745bdd.pdf",
+    "sha256": "59e60617e8e6a51b514d613adcbc973ea5e4d7b4c91564e317238eda38745bdd",
+    "bytes": 52738104,
+    "status": "retrieved_unparsed",
+    "error": ""
+  },
+  {
+    "source_id": "GGL_NSE_FY25",
+    "url": "https://nsearchives.nseindia.com/corporate/GUJGASLTD_30082025225131_1482SECReg34AnnualReport24-25.pdf",
+    "extraction_timestamp": "2026-11-05T10:30:40.408665+00:00",
+    "http_status": 200,
+    "final_url": "https://nsearchives.nseindia.com/corporate/GUJGASLTD_30082025225131_1482SECReg34AnnualReport24-25.pdf",
+    "content_type": "application/pdf",
+    "raw_path": "raw/recovery/GGL_NSE_FY25/69ddc110795f35dab91ba4482e5827689f520e6fa4a5b83d40a51dddd1d04a58.pdf",
+    "sha256": "69ddc110795f35dab91ba4482e5827689f520e6fa4a5b83d40a51dddd1d04a58",
+    "bytes": 5030522,
+    "status": "retrieved_unparsed",
+    "error": ""
+  }
+]

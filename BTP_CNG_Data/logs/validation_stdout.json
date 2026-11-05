@@ -1,0 +1,133 @@
+{
+  "extraction_timestamp": "2026-11-05T10:43:54.854044+00:00",
+  "engineering_checks_pass": true,
+  "stage3_ready": false,
+  "model_ready_validated": false,
+  "checks": [
+    {
+      "check": "original_bytes_preserved",
+      "status": "pass",
+      "evidence": {
+        "files": 46,
+        "mismatches": []
+      }
+    },
+    {
+      "check": "all_original_price_observations_preserved",
+      "status": "pass",
+      "evidence": 2293
+    },
+    {
+      "check": "candidate_changes_exclude_repeats",
+      "status": "pass",
+      "evidence": 265
+    },
+    {
+      "check": "unverified_effective_and_release_dates_blank",
+      "status": "pass",
+      "evidence": 2293
+    },
+    {
+      "check": "incomplete_month_targets_excluded",
+      "status": "pass",
+      "evidence": 1511
+    },
+    {
+      "check": "unknown_effective_paths_have_no_final_target",
+      "status": "pass",
+      "evidence": 1511
+    },
+    {
+      "check": "annual_GDP_stays_annual",
+      "status": "pass",
+      "evidence": 66
+    },
+    {
+      "check": "quarantined_demand_factors_monthly",
+      "status": "pass",
+      "evidence": [
+        "dataset",
+        "status",
+        "reason",
+        "preserved_original"
+      ]
+    },
+    {
+      "check": "quarantined_external_shocks_monthly",
+      "status": "pass",
+      "evidence": [
+        "dataset",
+        "status",
+        "reason",
+        "preserved_original"
+      ]
+    },
+    {
+      "check": "quarantined_external_shocks_daily",
+      "status": "pass",
+      "evidence": [
+        "dataset",
+        "status",
+        "reason",
+        "preserved_original"
+      ]
+    },
+    {
+      "check": "website_captures_not_news",
+      "status": "pass",
+      "evidence": 125
+    },
+    {
+      "check": "retrieved_file_hashes_match",
+      "status": "pass",
+      "evidence": {
+        "attempts": 828,
+        "mismatches": []
+      }
+    },
+    {
+      "check": "source_authenticity_and_publication_timing",
+      "status": "pending",
+      "evidence": "Official hosting, PDF text, dates and raw hashes checked; independent price conflicts, missing publication dates, OCR transcriptions and statistical vintages remain unresolved."
+    },
+    {
+      "check": "snapshot_source_row_key_unique",
+      "status": "pass",
+      "evidence": 0
+    },
+    {
+      "check": "snapshot_dates_and_arithmetic",
+      "status": "pending",
+      "evidence": {
+        "flagged_rows": 136,
+        "future_revision_dates": 124,
+        "retail_sum_mismatch_over_005": 15,
+        "arithmetic_not_testable_missing_components": 1208
+      }
+    },
+    {
+      "check": "independent_price_reconciliation",
+      "status": "pending",
+      "evidence": {
+        "no_exact_secondary_date": 155,
+        "agree": 14,
+        "CONFLICT": 6
+      }
+    },
+    {
+      "check": "all_nine_factor_groups_in_inventory",
+      "status": "pass",
+      "evidence": 69
+    },
+    {
+      "check": "active_structured_csvs_parse",
+      "status": "pass",
+      "evidence": []
+    },
+    {
+      "check": "csv_parquet_shape_consistency",
+      "status": "pass",
+      "evidence": []
+    }
+  ]
+}
