@@ -1,11 +1,11 @@
-city,state,cgd_operator,start_date,end_date,total_monthly_records,total_discrete_revisions,min_cng_price_inr_kg,max_cng_price_inr_kg,latest_cng_price_inr_kg,temporal_completeness_pct
-Delhi,Delhi NCR,Indraprastha Gas Limited (IGL),2011-10-31,2026-11-01,182,249,32.0,101.9,86.98,100.0
-Mumbai,Maharashtra,Mahanagar Gas Limited (MGL),2011-01-31,2026-11-01,191,236,32.0,89.5,89.0,100.0
-Pune,Maharashtra,Maharashtra Natural Gas Limited (MNGL),2012-02-29,2026-11-01,178,236,39.5,98.5,98.5,100.0
-Ahmedabad,Gujarat,Adani Total Gas Limited (ATGL),2011-11-30,2026-11-01,181,239,45.25,94.02,94.02,100.0
-Lucknow,Uttar Pradesh,Green Gas Limited (GGL),2012-07-31,2026-11-01,173,222,39.0,108.0,108.0,100.0
-Kanpur,Uttar Pradesh,Central U.P. Gas Limited (CUGL),2021-10-31,2026-11-01,62,216,63.97,102.0,102.0,100.0
-Hyderabad,Telangana,Bhagyanagar Gas Limited (BGL),2012-07-31,2026-11-01,173,220,43.5,112.0,112.0,100.0
-Bengaluru,Karnataka,GAIL Gas Limited,2025-02-28,2026-11-01,22,206,88.0,102.5,102.5,100.0
-Noida,Uttar Pradesh,Indraprastha Gas Limited (IGL),2011-12-31,2026-11-01,180,239,37.9,95.59,95.59,100.0
-Gurgaon,Haryana,Haryana City Gas / IGL,2012-01-31,2026-11-01,179,230,33.75,92.01,92.01,100.0
+city,state,cgd_operator,panel_start_month,panel_end_month,total_monthly_records,missing_months,earliest_price_revision_date,total_discrete_revisions,total_scraped_observations,min_cng_price_inr_kg,max_cng_price_inr_kg,latest_cng_price_inr_kg,data_provenance_status
+Ahmedabad,Gujarat,Adani Total Gas Limited (ATGL),2011-12,2026-10,179,0,2012-04-01,37,239,45.25,94.02,94.02,observed_revisions_with_step_hold
+Bengaluru,Karnataka,GAIL Gas Limited,2025-03,2026-10,20,0,2026-01-01,6,206,88.0,102.5,102.5,observed_revisions_with_step_hold
+Delhi,Delhi NCR,Indraprastha Gas Limited (IGL),2011-10,2026-10,181,0,2011-12-31,46,249,32.0,101.9,86.98,observed_post_2017_constructed_baseline_prior
+Gurgaon,Haryana,Haryana City Gas / IGL,2012-02,2026-10,177,0,2012-01-04,28,230,33.75,92.01,92.01,observed_revisions_with_step_hold
+Hyderabad,Telangana,Bhagyanagar Gas Limited (BGL),2012-08,2026-10,171,0,2012-11-15,16,220,43.5,112.0,112.0,observed_revisions_with_step_hold
+Kanpur,Uttar Pradesh,Central U.P. Gas Limited (CUGL),2021-11,2026-10,60,0,2021-11-14,16,216,67.82,102.0,102.0,observed_revisions_with_step_hold
+Lucknow,Uttar Pradesh,Green Gas Limited (GGL),2012-08,2026-10,171,0,2012-08-06,21,222,42.14,107.0,107.0,observed_revisions_with_step_hold
+Mumbai,Maharashtra,Mahanagar Gas Limited (MGL),2011-01,2026-10,190,0,2012-02-17,35,236,32.0,89.5,89.0,observed_post_2017_constructed_baseline_prior
+Noida,Uttar Pradesh,Indraprastha Gas Limited (IGL),2012-01,2026-10,178,0,2012-03-05,37,239,37.9,95.59,95.59,observed_revisions_with_step_hold
+Pune,Maharashtra,Maharashtra Natural Gas Limited (MNGL),2012-03,2026-10,176,0,2012-04-28,33,236,39.5,98.5,98.5,observed_revisions_with_step_hold

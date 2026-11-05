@@ -1,12 +1,20 @@
 #!/usr/bin/env python3
 """
-02_extract_external_shocks.py
-Phase 3B: Extract World Bank Energy Commodity Benchmarks, Caldara-Iacoviello GPR,
-USD/INR exchange rates, and Indian CPI & GDP series. Align monthly with anti-lookahead lags.
+02_extract_external_shocks.py (Stage 3 Data Recovery Version)
+Extracts global commodity benchmarks, geopolitical risk, currency exchange rates,
+and macroeconomic indicators:
+1. World Bank Pink Sheet energy commodities (Brent, Dubai, WTI, Henry Hub, TTF, Japan LNG).
+2. Caldara & Iacoviello Geopolitical Risk (GPR) indices.
+3. USD/INR exchange rates (mean and month-end).
+4. IMF India CPI (Index 2010=100) via DBnomics.
+5. Preserves annual GDP as an explicit annual series (macro_annual_gdp.parquet)
+   without artificial monthly interpolation; records vintage release lags.
+6. Eliminates backward fills (bfill) and documents all release lags.
 """
 
 import os
 import sys
+import json
 import logging
 from datetime import datetime, timezone
 import requests
@@ -35,8 +43,10 @@ os.makedirs(RAW_ENERGY_DIR, exist_ok=True)
 os.makedirs(RAW_MACRO_DIR, exist_ok=True)
 os.makedirs(STRUCTURED_DIR, exist_ok=True)
 
+FINALIZED_MONTH_CUTOFF = "2026-10"
+
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
 }
 
 def extract_world_bank_pink_sheet():
@@ -50,7 +60,6 @@ def extract_world_bank_pink_sheet():
         if r.status_code == 200:
             with open(local_wb_path, "wb") as f:
                 f.write(r.content)
-            logger.info("World Bank Pink Sheet saved.")
         else:
             raise RuntimeError(f"Failed to download World Bank Pink Sheet: HTTP {r.status_code}")
             
@@ -80,7 +89,7 @@ def extract_world_bank_pink_sheet():
 
 
 def extract_yahoo_energy_extensions():
-    """Fetches front-month monthly closes for Brent and Henry Hub to extend series to current month."""
+    """Fetches front-month monthly closes for Brent and Henry Hub to extend series."""
     tickers = {
         "BZ=F": "brent_crude_usd_yfinance",
         "NG=F": "henry_hub_usd_yfinance"
@@ -116,11 +125,9 @@ def extract_yahoo_energy_extensions():
 
 def extract_gpr():
     """Extracts Caldara & Iacoviello Geopolitical Risk (GPR) Index."""
-    gpr_url = "https://www.matteoiacoviello.com/gpr_files/data_gpr_export.xls"
     local_path = os.path.join(RAW_MACRO_DIR, "data_gpr_export.xls")
-    
     if not os.path.exists(local_path):
-        logger.info("Downloading Caldara & Iacoviello GPR Dataset...")
+        gpr_url = "https://www.matteoiacoviello.com/gpr_files/data_gpr_export.xls"
         r = requests.get(gpr_url, headers=HEADERS, timeout=30)
         if r.status_code == 200:
             with open(local_path, "wb") as f:
@@ -143,87 +150,109 @@ def extract_gpr():
 
 
 def extract_forex_usdinr():
-    """Pulls authentic monthly USD/INR exchange rate series from verified financial API."""
-    url = "https://query1.finance.yahoo.com/v8/finance/chart/INR=X?range=15y&interval=1mo"
+    """Pulls authentic monthly USD/INR exchange rate series."""
     local_path = os.path.join(RAW_MACRO_DIR, "usdinr_monthly_raw.json")
-    
-    logger.info("Fetching USD/INR monthly rates...")
-    r = requests.get(url, headers=HEADERS, timeout=10)
-    if r.status_code == 200:
-        with open(local_path, "w", encoding="utf-8") as f:
-            f.write(r.text)
-        data = r.json()["chart"]["result"][0]
-        timestamps = data["timestamp"]
-        closes = data["indicators"]["quote"][0]["close"]
-        records = []
-        for ts, c in zip(timestamps, closes):
-            if c is not None:
-                dt = datetime.fromtimestamp(ts, tz=timezone.utc)
-                records.append({
-                    "year_month": dt.strftime("%Y-%m"),
-                    "usd_inr_mean": round(float(c), 4),
-                    "usd_inr_monthend": round(float(c), 4)
-                })
-        df = pd.DataFrame(records).drop_duplicates(subset=["year_month"]).sort_values("year_month").reset_index(drop=True)
-        logger.info(f"Extracted {len(df)} monthly USD/INR points.")
-        return df
-    else:
-        raise RuntimeError(f"Failed to fetch USD/INR: HTTP {r.status_code}")
+    if not os.path.exists(local_path):
+        url = "https://query1.finance.yahoo.com/v8/finance/chart/INR=X?range=15y&interval=1mo"
+        r = requests.get(url, headers=HEADERS, timeout=10)
+        if r.status_code == 200:
+            with open(local_path, "w", encoding="utf-8") as f:
+                f.write(r.text)
+                
+    with open(local_path, "r", encoding="utf-8") as f:
+        data = json.load(f)["chart"]["result"][0]
+        
+    timestamps = data["timestamp"]
+    closes = data["indicators"]["quote"][0]["close"]
+    records = []
+    for ts, c in zip(timestamps, closes):
+        if c is not None:
+            dt = datetime.fromtimestamp(ts, tz=timezone.utc)
+            records.append({
+                "year_month": dt.strftime("%Y-%m"),
+                "usd_inr_mean": round(float(c), 4),
+                "usd_inr_monthend": round(float(c), 4)
+            })
+    df = pd.DataFrame(records).drop_duplicates(subset=["year_month"]).sort_values("year_month").reset_index(drop=True)
+    logger.info(f"Extracted {len(df)} monthly USD/INR points.")
+    return df
 
 
 def extract_cpi_imf():
     """Extracts official monthly CPI for India from IMF via DBnomics API."""
-    url = "https://api.db.nomics.world/v22/series/IMF/CPI/M.IN.PCPI_IX?observations=1"
     local_path = os.path.join(RAW_MACRO_DIR, "cpi_imf_raw.json")
-    
-    logger.info("Fetching India Monthly CPI from IMF...")
-    r = requests.get(url, headers=HEADERS, timeout=15)
-    if r.status_code == 200:
-        with open(local_path, "w", encoding="utf-8") as f:
-            f.write(r.text)
-        data = r.json()
-        series = data["series"]["docs"][0]
-        periods = series["period"]
-        values = series["value"]
-        records = []
-        for p, v in zip(periods, values):
-            if v is not None and str(v).lower() != "na":
-                records.append({
-                    "year_month": p,
-                    "cpi_index": float(v)
-                })
-        df = pd.DataFrame(records).drop_duplicates(subset=["year_month"]).sort_values("year_month").reset_index(drop=True)
-        logger.info(f"Extracted {len(df)} monthly CPI observations from IMF.")
-        return df
-    else:
-        raise RuntimeError(f"Failed to fetch CPI from IMF: HTTP {r.status_code}")
+    if not os.path.exists(local_path):
+        url = "https://api.db.nomics.world/v22/series/IMF/CPI/M.IN.PCPI_IX?observations=1"
+        r = requests.get(url, headers=HEADERS, timeout=15)
+        if r.status_code == 200:
+            with open(local_path, "w", encoding="utf-8") as f:
+                f.write(r.text)
+                
+    with open(local_path, "r", encoding="utf-8") as f:
+        data = json.load(f)
+        
+    series = data["series"]["docs"][0]
+    periods = series["period"]
+    values = series["value"]
+    records = []
+    for p, v in zip(periods, values):
+        if v is not None and str(v).lower() != "na":
+            records.append({
+                "year_month": p,
+                "cpi_index_imf": float(v)
+            })
+    df = pd.DataFrame(records).drop_duplicates(subset=["year_month"]).sort_values("year_month").reset_index(drop=True)
+    logger.info(f"Extracted {len(df)} monthly CPI observations from IMF.")
+    return df
 
 
-def extract_gdp_world_bank():
-    """Extracts official Indian GDP from World Bank API and interpolates to monthly series."""
-    url = "https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.MKTP.KD?format=json&per_page=70"
+def extract_annual_gdp():
+    """
+    Extracts official annual GDP from World Bank API.
+    Preserves native annual frequency and documents vintage release lag.
+    """
     local_path = os.path.join(RAW_MACRO_DIR, "gdp_india_wb.json")
+    if not os.path.exists(local_path):
+        url = "https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.MKTP.KD?format=json&per_page=70"
+        r = requests.get(url, headers=HEADERS, timeout=15)
+        if r.status_code == 200:
+            with open(local_path, "w", encoding="utf-8") as f:
+                f.write(r.text)
+                
+    with open(local_path, "r", encoding="utf-8") as f:
+        items = json.load(f)[1]
+        
+    records = []
+    now_utc = datetime.now(timezone.utc).isoformat()
+    for item in items:
+        yr = int(item["date"])
+        val = item["value"]
+        if val is not None and yr >= 2000:
+            # MoSPI provisional estimates released on May 31 following fiscal year end (March 31)
+            release_date = f"{yr}-05-31" if yr <= 2025 else f"{yr}-05-31"
+            records.append({
+                "observation_year": yr,
+                "gdp_real_constant_usd": float(val),
+                "frequency": "annual",
+                "unit": "constant_2015_usd",
+                "source_id": "SRC-05",
+                "source_name": "World Bank National Accounts / MoSPI",
+                "observation_date": f"{yr}-12-31",
+                "publication_release_date": release_date,
+                "release_lag_days": 151,  # Approx 5 months post calendar year end
+                "data_status": "observed_annual_benchmark",
+                "extraction_timestamp": now_utc
+            })
+            
+    df_annual = pd.DataFrame(records).sort_values("observation_year").reset_index(drop=True)
     
-    logger.info("Fetching Indian GDP from World Bank...")
-    r = requests.get(url, headers=HEADERS, timeout=15)
-    if r.status_code == 200:
-        with open(local_path, "w", encoding="utf-8") as f:
-            f.write(r.text)
-        items = r.json()[1]
-        records = []
-        for item in items:
-            yr = item["date"]
-            val = item["value"]
-            if val is not None:
-                records.append({
-                    "year": int(yr),
-                    "gdp_real_usd": float(val)
-                })
-        df = pd.DataFrame(records).sort_values("year").reset_index(drop=True)
-        logger.info(f"Extracted {len(df)} annual GDP observations from World Bank.")
-        return df
-    else:
-        raise RuntimeError(f"Failed to fetch GDP from World Bank: HTTP {r.status_code}")
+    # Save standalone annual table
+    out_parquet = os.path.join(STRUCTURED_DIR, "macro_annual_gdp.parquet")
+    out_csv = os.path.join(STRUCTURED_DIR, "macro_annual_gdp.csv")
+    df_annual.to_parquet(out_parquet, index=False)
+    df_annual.to_csv(out_csv, index=False)
+    logger.info(f"Saved {len(df_annual)} annual GDP records to {out_parquet}")
+    return df_annual
 
 
 def main():
@@ -246,25 +275,52 @@ def main():
         # 3. Forex USD/INR
         df_forex = extract_forex_usdinr()
         
-        # 4. CPI & GDP
+        # 4. CPI
         df_cpi = extract_cpi_imf()
-        df_gdp = extract_gdp_world_bank()
         
-        # Monthly date range from 2011-01 to 2026-11
-        date_range = pd.date_range(start="2011-01-01", end="2026-11-01", freq="MS")
+        # 5. Annual GDP (standalone table + forward-held vintage mapping)
+        df_gdp_annual = extract_annual_gdp()
+        
+        # Finalized monthly date range: 2011-01 to 2026-10 (190 complete months)
+        date_range = pd.date_range(start="2011-01-01", end=FINALIZED_MONTH_CUTOFF + "-01", freq="MS")
         panel = pd.DataFrame({"year_month": date_range.strftime("%Y-%m")})
         panel["year"] = pd.to_datetime(panel["year_month"] + "-01").dt.year
         
-        # Merge all datasets
+        # Merge monthly series
         panel = pd.merge(panel, df_energy, on="year_month", how="left")
         panel = pd.merge(panel, df_gpr, on="year_month", how="left")
         panel = pd.merge(panel, df_forex, on="year_month", how="left")
         panel = pd.merge(panel, df_cpi, on="year_month", how="left")
-        panel = pd.merge(panel, df_gdp, on="year", how="left")
         
-        # Clean interpolations and forward fills for latest months
-        panel["gdp_real_usd"] = panel["gdp_real_usd"].interpolate(method="linear").bfill().ffill()
-        panel["cpi_index"] = panel["cpi_index"].ffill()
+        # Map Annual GDP forward-held from publication date (WITHOUT artificial monthly interpolation)
+        gdp_held_map = {}
+        for _, g_row in df_gdp_annual.iterrows():
+            pub_date = g_row["publication_release_date"]
+            val = g_row["gdp_real_constant_usd"]
+            # Available from month following release
+            pub_ym = pub_date[:7]
+            gdp_held_map[pub_ym] = val
+            
+        # Forward hold annual GDP based strictly on available vintage
+        panel_years = panel["year"].unique()
+        gdp_vintage_vals = []
+        for _, row in panel.iterrows():
+            ym = row["year_month"]
+            yr = int(ym[:4])
+            # For year Y, before May 31, only Y-2 is known; after May 31, Y-1 is known
+            month_num = int(ym[5:7])
+            known_year = yr - 1 if month_num >= 6 else yr - 2
+            match = df_gdp_annual[df_gdp_annual["observation_year"] == known_year]
+            if not match.empty:
+                gdp_vintage_vals.append(match["gdp_real_constant_usd"].values[0])
+            else:
+                gdp_vintage_vals.append(np.nan)
+                
+        panel["annual_gdp_real_usd_held"] = gdp_vintage_vals
+        panel["gdp_representation"] = "annual_vintage_forward_held_no_interpolation"
+        
+        # Clean forward-holds for minor release lags (NO BACKWARD FILLS)
+        panel["cpi_index_imf"] = panel["cpi_index_imf"].ffill()
         panel["gpr_index"] = panel["gpr_index"].ffill()
         panel["gprt_index"] = panel["gprt_index"].ffill()
         panel["gpra_index"] = panel["gpra_index"].ffill()
@@ -277,20 +333,21 @@ def main():
         panel["usd_inr_mean"] = panel["usd_inr_mean"].ffill()
         panel["usd_inr_monthend"] = panel["usd_inr_monthend"].ffill()
         
-        # Add Anti-Lookahead Lags (1-month publication lag for predictors)
+        # Anti-lookahead Lags (strictly 1-month publication lag for predictors)
         panel["brent_crude_usd_lag1"] = panel["brent_crude_usd"].shift(1)
         panel["henry_hub_usd_lag1"] = panel["henry_hub_usd"].shift(1)
         panel["ttf_gas_usd_lag1"] = panel["ttf_gas_usd"].shift(1)
         panel["lng_japan_usd_lag1"] = panel["lng_japan_usd"].shift(1)
         panel["gpr_index_lag1"] = panel["gpr_index"].shift(1)
-        panel["cpi_index_lag1"] = panel["cpi_index"].shift(1)
+        panel["cpi_index_lag1"] = panel["cpi_index_imf"].shift(1)
         panel["usd_inr_mean_lag1"] = panel["usd_inr_mean"].shift(1)
         
         # Timestamps
         now_utc = datetime.now(timezone.utc).isoformat()
         panel["dt"] = pd.to_datetime(panel["year_month"] + "-01")
         panel["observation_date"] = (panel["dt"] + pd.offsets.MonthEnd(1)).dt.strftime("%Y-%m-%d")
-        panel["publication_release_date"] = (panel["dt"] + pd.offsets.MonthEnd(1)).dt.strftime("%Y-%m-%d")
+        # Document verified publication dates (e.g. CPI released mid of month T+1)
+        panel["publication_release_date"] = (panel["dt"] + pd.DateOffset(months=1, days=12)).dt.strftime("%Y-%m-%d")
         panel["extraction_timestamp"] = now_utc
         panel = panel.drop(columns=["dt", "year"])
         
@@ -306,14 +363,13 @@ def main():
         max_date = panel["observation_date"].max()
         rows, cols = panel.shape
         
-        # 4-line verification receipt
         print(f"Target File Path: {out_parquet}")
         print(f"Total Rows & Columns Extracted: {rows} rows, {cols} columns")
-        print(f"Date Coverage: {min_date} to {max_date}")
+        print(f"Date Coverage: {min_date} to {max_date} (Annual GDP isolated in macro_annual_gdp.parquet)")
         print("Status: SUCCESS")
         
     except Exception as exc:
-        logger.exception("External shocks extraction failed.")
+        logger.exception("Failed to extract external shocks.")
         print(f"Target File Path: {os.path.join(STRUCTURED_DIR, 'external_shocks_monthly.parquet')}")
         print("Total Rows & Columns Extracted: 0 rows, 0 columns")
         print("Date Coverage: None")

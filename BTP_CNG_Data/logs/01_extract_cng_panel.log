@@ -18,3 +18,13 @@
 2026-11-05 14:14:52 [INFO] Successfully extracted 239 discrete revisions for Noida
 2026-11-05 14:14:52 [INFO] Fetching raw discrete revisions for Gurgaon (LocationId: 40)...
 2026-11-05 14:14:54 [INFO] Successfully extracted 230 discrete revisions for Gurgaon
+2026-11-05 15:52:20 [INFO] Delhi: 249 observation records, 46 true price revisions.
+2026-11-05 15:52:21 [INFO] Mumbai: 236 observation records, 35 true price revisions.
+2026-11-05 15:52:22 [INFO] Pune: 236 observation records, 33 true price revisions.
+2026-11-05 15:52:22 [INFO] Ahmedabad: 239 observation records, 37 true price revisions.
+2026-11-05 15:52:22 [INFO] Lucknow: 222 observation records, 21 true price revisions.
+2026-11-05 15:52:23 [INFO] Kanpur: 216 observation records, 16 true price revisions.
+2026-11-05 15:52:23 [INFO] Hyderabad: 220 observation records, 16 true price revisions.
+2026-11-05 15:52:23 [INFO] Bengaluru: 206 observation records, 6 true price revisions.
+2026-11-05 15:52:23 [INFO] Noida: 239 observation records, 37 true price revisions.
+2026-11-05 15:52:23 [INFO] Gurgaon: 230 observation records, 28 true price revisions.

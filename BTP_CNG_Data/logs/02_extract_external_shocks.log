@@ -16,3 +16,19 @@
 2026-11-05 14:23:42 [INFO] Extracted 823 monthly CPI observations from IMF.
 2026-11-05 14:23:42 [INFO] Fetching Indian GDP from World Bank...
 2026-11-05 14:23:43 [INFO] Extracted 66 annual GDP observations from World Bank.
+2026-11-05 15:53:12 [INFO] Parsed 780 monthly commodity records from World Bank Pink Sheet.
+2026-11-05 15:53:14 [INFO] Extracted 1522 monthly GPR records.
+2026-11-05 15:53:14 [ERROR] Failed to extract external shocks.
+Traceback (most recent call last):
+  File "C:\Users\Prem Pastagia\Desktop\BTP\BTP_CNG_Data\scripts\02_extract_external_shocks.py", line 275, in main
+    df_forex = extract_forex_usdinr()
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Prem Pastagia\Desktop\BTP\BTP_CNG_Data\scripts\02_extract_external_shocks.py", line 162, in extract_forex_usdinr
+    data = json.load(f)["chart"]["result"][0]
+           ^^^^
+NameError: name 'json' is not defined. Did you forget to import 'json'
+2026-11-05 15:53:33 [INFO] Parsed 780 monthly commodity records from World Bank Pink Sheet.
+2026-11-05 15:53:36 [INFO] Extracted 1522 monthly GPR records.
+2026-11-05 15:53:36 [INFO] Extracted 165 monthly USD/INR points.
+2026-11-05 15:53:36 [INFO] Extracted 823 monthly CPI observations from IMF.
+2026-11-05 15:53:36 [INFO] Saved 26 annual GDP records to C:\Users\Prem Pastagia\Desktop\BTP\BTP_CNG_Data\structured\numerical_factors\macro_annual_gdp.parquet

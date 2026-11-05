@@ -9,3 +9,102 @@
 2026-11-05 14:32:52 [INFO] Saved city coverage matrix to C:\Users\Prem Pastagia\Desktop\BTP\BTP_CNG_Data\metadata\city_coverage_matrix.csv
 2026-11-05 14:32:52 [INFO] Asserting anti-lookahead lag alignment...
 2026-11-05 14:32:52 [INFO] All integrity assertions passed successfully with 100% compliance.
+2026-11-05 16:01:57 [INFO] Executing comprehensive Stage 3 validation suite...
+2026-11-05 16:01:57 [INFO] [PASS] file_existence_and_non_emptiness: All 12 core datasets present and non-empty.
+2026-11-05 16:01:57 [ERROR] Integrity validation failed.
+Traceback (most recent call last):
+  File "C:\Users\Prem Pastagia\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\indexes\base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'vahan_cng_registrations_monthly'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Prem Pastagia\Desktop\BTP\BTP_CNG_Data\scripts\05_validate_integrity.py", line 317, in main
+    matrix_path, df_cov, report_path = validate_all()
+                                       ^^^^^^^^^^^^^^
+  File "C:\Users\Prem Pastagia\Desktop\BTP\BTP_CNG_Data\scripts\05_validate_integrity.py", line 105, in validate_all
+    vahan_non_null = df_demand["vahan_cng_registrations_monthly"].dropna()
+                     ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Prem Pastagia\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Prem Pastagia\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\indexes\base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'vahan_cng_registrations_monthly'
+2026-11-05 16:02:29 [INFO] Executing comprehensive Stage 3 validation suite...
+2026-11-05 16:02:29 [INFO] [PASS] file_existence_and_non_emptiness: All 12 core datasets present and non-empty.
+2026-11-05 16:02:29 [ERROR] Integrity validation failed.
+Traceback (most recent call last):
+  File "C:\Users\Prem Pastagia\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\indexes\base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'quarantine_reason'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Prem Pastagia\Desktop\BTP\BTP_CNG_Data\scripts\05_validate_integrity.py", line 318, in main
+    matrix_path, df_cov, report_path = validate_all()
+                                       ^^^^^^^^^^^^^^
+  File "C:\Users\Prem Pastagia\Desktop\BTP\BTP_CNG_Data\scripts\05_validate_integrity.py", line 114, in validate_all
+    assert "synthetic_formula_unlabeled" in df_q_log["quarantine_reason"].values, "Quarantine log missing reason"
+                                            ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Prem Pastagia\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Prem Pastagia\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\indexes\base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'quarantine_reason'
+2026-11-05 16:03:19 [INFO] Executing comprehensive Stage 3 validation suite...
+2026-11-05 16:03:19 [INFO] [PASS] file_existence_and_non_emptiness: All 12 core datasets present and non-empty.
+2026-11-05 16:03:19 [ERROR] Integrity validation failed.
+Traceback (most recent call last):
+  File "C:\Users\Prem Pastagia\Desktop\BTP\BTP_CNG_Data\scripts\05_validate_integrity.py", line 318, in main
+    matrix_path, df_cov, report_path = validate_all()
+                                       ^^^^^^^^^^^^^^
+  File "C:\Users\Prem Pastagia\Desktop\BTP\BTP_CNG_Data\scripts\05_validate_integrity.py", line 114, in validate_all
+    assert any("Exponential synthetic formula" in str(r) for r in df_q_log["formula_or_method"].values), "Quarantine log missing VAHAN formula"
+AssertionError: Quarantine log missing VAHAN formula
+2026-11-05 16:03:43 [INFO] Executing comprehensive Stage 3 validation suite...
+2026-11-05 16:03:43 [INFO] [PASS] file_existence_and_non_emptiness: All 12 core datasets present and non-empty.
+2026-11-05 16:03:43 [INFO] [PASS] zero_unlabelled_synthetic_data: Synthetic VAHAN proxy successfully quarantined; active monthly series is strictly unobserved/NaN.
+2026-11-05 16:03:43 [ERROR] Integrity validation failed.
+Traceback (most recent call last):
+  File "C:\Users\Prem Pastagia\Desktop\BTP\BTP_CNG_Data\scripts\05_validate_integrity.py", line 318, in main
+    matrix_path, df_cov, report_path = validate_all()
+                                       ^^^^^^^^^^^^^^
+  File "C:\Users\Prem Pastagia\Desktop\BTP\BTP_CNG_Data\scripts\05_validate_integrity.py", line 126, in validate_all
+    assert (df_prov["year_month"] == "2026-11").all(), "Provisional table contains non-provisional months"
+AssertionError: Provisional table contains non-provisional months
+2026-11-05 16:04:13 [INFO] Executing comprehensive Stage 3 validation suite...
+2026-11-05 16:04:13 [INFO] [PASS] file_existence_and_non_emptiness: All 12 core datasets present and non-empty.
+2026-11-05 16:04:13 [INFO] [PASS] zero_unlabelled_synthetic_data: Synthetic VAHAN proxy successfully quarantined; active monthly series is strictly unobserved/NaN.
+2026-11-05 16:04:13 [INFO] [PASS] current_month_boundary: November 2026 isolated in provisional table; finalized panel strictly terminates at complete month 2026-10.
+2026-11-05 16:04:13 [INFO] [PASS] arithmetic_and_price_bounds: TWAP strictly bounded by min/max; 265 revision price deltas verified; 275 revisions extracted from 2293 observations.
+2026-11-05 16:04:13 [INFO] [PASS] anti_lookahead_lag_alignment: All 1-month lags strictly match shift(1) with zero forward contamination.
+2026-11-05 16:04:13 [INFO] [PASS] release_timing_provenance: Verified observation_date <= publication_release_date across 100% of panel records.
+2026-11-05 16:04:13 [INFO] [PASS] corporate_and_news_integrity: Verified 799 BSE corporate disclosures, 10 hashed news records, and 8 regulatory timeline events.
+2026-11-05 16:04:13 [INFO] Computing city coverage matrix...
+2026-11-05 16:04:13 [INFO] [PASS] city_coverage_matrix_generation: Generated coverage matrix for 10 cities saved to C:\Users\Prem Pastagia\Desktop\BTP\BTP_CNG_Data\metadata\city_coverage_matrix.csv
+2026-11-05 16:04:13 [INFO] Saved data quality report to C:\Users\Prem Pastagia\Desktop\BTP\BTP_CNG_Data\metadata\data_quality_report.md
+2026-11-05 16:07:20 [INFO] Executing comprehensive Stage 3 validation suite...
+2026-11-05 16:07:20 [INFO] [PASS] file_existence_and_non_emptiness: All 12 core datasets present and non-empty.
+2026-11-05 16:07:20 [INFO] [PASS] zero_unlabelled_synthetic_data: Synthetic VAHAN proxy successfully quarantined; active monthly series is strictly unobserved/NaN.
+2026-11-05 16:07:20 [INFO] [PASS] current_month_boundary: November 2026 isolated in provisional table; finalized panel strictly terminates at complete month 2026-10.
+2026-11-05 16:07:20 [INFO] [PASS] arithmetic_and_price_bounds: TWAP strictly bounded by min/max; 265 revision price deltas verified; 275 revisions extracted from 2293 observations.
+2026-11-05 16:07:20 [INFO] [PASS] anti_lookahead_lag_alignment: All 1-month lags strictly match shift(1) with zero forward contamination.
+2026-11-05 16:07:20 [INFO] [PASS] release_timing_provenance: Verified observation_date <= publication_release_date across 100% of panel records.
+2026-11-05 16:07:20 [INFO] [PASS] corporate_and_news_integrity: Verified 799 BSE corporate disclosures, 10 hashed news records, and 8 regulatory timeline events.
+2026-11-05 16:07:20 [INFO] Computing city coverage matrix...
+2026-11-05 16:07:20 [INFO] [PASS] city_coverage_matrix_generation: Generated coverage matrix for 10 cities saved to C:\Users\Prem Pastagia\Desktop\BTP\BTP_CNG_Data\metadata\city_coverage_matrix.csv
+2026-11-05 16:07:20 [INFO] Saved data quality report to C:\Users\Prem Pastagia\Desktop\BTP\BTP_CNG_Data\metadata\data_quality_report.md
