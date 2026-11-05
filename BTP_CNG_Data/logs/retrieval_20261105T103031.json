@@ -1,0 +1,80 @@
+[
+  {
+    "source_id": "PNGRB_TARIFF_INDEX",
+    "url": "https://www.pngrb.gov.in/eng-web/NG-trans-tariff.html",
+    "extraction_timestamp": "2026-11-05T10:30:17.879595+00:00",
+    "http_status": 200,
+    "final_url": "https://www.pngrb.gov.in/eng-web/NG-trans-tariff.html",
+    "content_type": "text/html",
+    "raw_path": "raw/recovery/PNGRB_TARIFF_INDEX/a38a604cf424e7ca6b809d828b8656bc61f620d7030d3e879416eab16b9f32f4.html",
+    "sha256": "a38a604cf424e7ca6b809d828b8656bc61f620d7030d3e879416eab16b9f32f4",
+    "bytes": 16402,
+    "status": "retrieved_unparsed",
+    "error": ""
+  },
+  {
+    "source_id": "MOPNG_POLICY_INDEX",
+    "url": "https://mopng.gov.in/en/natural-gas/policies-guidelines",
+    "extraction_timestamp": "2026-11-05T10:30:17.881317+00:00",
+    "http_status": 200,
+    "final_url": "https://mopng.gov.in/en/natural-gas/policies-guidelines",
+    "content_type": "text/html; charset=UTF-8",
+    "raw_path": "raw/recovery/MOPNG_POLICY_INDEX/2f94a722c9c862ae146b71b26495305082785160c5eaaed973c2f4b6f8642e4c.html",
+    "sha256": "2f94a722c9c862ae146b71b26495305082785160c5eaaed973c2f4b6f8642e4c",
+    "bytes": 334390,
+    "status": "retrieved_unparsed",
+    "error": ""
+  },
+  {
+    "source_id": "PIB_ALLOCATION",
+    "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2122694",
+    "extraction_timestamp": "2026-11-05T10:30:17.882623+00:00",
+    "http_status": 200,
+    "final_url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2122694&reg=48&lang=2",
+    "content_type": "text/html; charset=utf-8",
+    "raw_path": "raw/recovery/PIB_ALLOCATION/972408cc42b6a84274479cbe5251d2204ee030a8c7f943eecbb3be7c519dc9ed.html",
+    "sha256": "972408cc42b6a84274479cbe5251d2204ee030a8c7f943eecbb3be7c519dc9ed",
+    "bytes": 202208,
+    "status": "retrieved_unparsed",
+    "error": ""
+  },
+  {
+    "source_id": "IMD_API_DOC",
+    "url": "https://api.imd.gov.in/public/api_reference.html",
+    "extraction_timestamp": "2026-11-05T10:30:17.883481+00:00",
+    "http_status": 200,
+    "final_url": "https://api.imd.gov.in/public/api_reference.html",
+    "content_type": "text/html",
+    "raw_path": "raw/recovery/IMD_API_DOC/a71bc74b76d62134984e2df45d17d878eaf8dd3f0631595a43f405135e6bdfed.html",
+    "sha256": "a71bc74b76d62134984e2df45d17d878eaf8dd3f0631595a43f405135e6bdfed",
+    "bytes": 58835,
+    "status": "retrieved_unparsed",
+    "error": ""
+  },
+  {
+    "source_id": "PNGRB_TARIFF_2026",
+    "url": "https://pngrb.gov.in/pdf/orders/20260330_TariffOrder_UFT.pdf",
+    "extraction_timestamp": "2026-11-05T10:30:17.884822+00:00",
+    "http_status": 200,
+    "final_url": "https://pngrb.gov.in/pdf/orders/20260330_TariffOrder_UFT.pdf",
+    "content_type": "application/pdf",
+    "raw_path": "raw/recovery/PNGRB_TARIFF_2026/ec45606d1edf69b7bb5beb4413e1e6024d6b3c2a15adabf14c98c23d8d860a04.pdf",
+    "sha256": "ec45606d1edf69b7bb5beb4413e1e6024d6b3c2a15adabf14c98c23d8d860a04",
+    "bytes": 1728739,
+    "status": "retrieved_unparsed",
+    "error": ""
+  },
+  {
+    "source_id": "PNGRB_TARIFF_MIS",
+    "url": "https://pngrb.gov.in/data-bank/20260113-NGPL-Tariff-MIS.pdf",
+    "extraction_timestamp": "2026-11-05T10:30:17.888739+00:00",
+    "http_status": 200,
+    "final_url": "https://pngrb.gov.in/data-bank/20260113-NGPL-Tariff-MIS.pdf",
+    "content_type": "application/pdf",
+    "raw_path": "raw/recovery/PNGRB_TARIFF_MIS/4005691c3c3deadfa9b5301a8840fb0f453fee7bd94e8d008a3cc7e6fa3d0bb4.pdf",
+    "sha256": "4005691c3c3deadfa9b5301a8840fb0f453fee7bd94e8d008a3cc7e6fa3d0bb4",
+    "bytes": 561502,
+    "status": "retrieved_unparsed",
+    "error": ""
+  }
+]

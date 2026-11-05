@@ -1,0 +1,113 @@
+[
+  {
+    "source_id": "IIT_FIN",
+    "url": "https://library.iitkgp.ac.in/pages/eSearch3.0/finDB.html",
+    "extraction_timestamp": "2026-11-05T10:24:15.489212+00:00",
+    "http_status": 200,
+    "final_url": "https://library.iitkgp.ac.in/pages/eSearch3.0/finDB.html",
+    "content_type": "text/html",
+    "raw_path": "raw/recovery/IIT_FIN/4c50cf0aaba1c3cf4f278332627165e1a66c56089254d0a3b80aa829232fa3d6.html",
+    "sha256": "4c50cf0aaba1c3cf4f278332627165e1a66c56089254d0a3b80aa829232fa3d6",
+    "bytes": 18768,
+    "status": "retrieved_unparsed",
+    "error": ""
+  },
+  {
+    "source_id": "PPAC_HOME",
+    "url": "https://ppac.gov.in/",
+    "extraction_timestamp": "2026-11-05T10:24:15.490168+00:00",
+    "http_status": 200,
+    "final_url": "https://ppac.gov.in/",
+    "content_type": "text/html; charset=UTF-8",
+    "raw_path": "raw/recovery/PPAC_HOME/884dc0facf73be05558155d3a4c2b10dea41418f3e4f4737c7563ffa520ef7af.html",
+    "sha256": "884dc0facf73be05558155d3a4c2b10dea41418f3e4f4737c7563ffa520ef7af",
+    "bytes": 312975,
+    "status": "retrieved_unparsed",
+    "error": ""
+  },
+  {
+    "source_id": "IGL_PRICES",
+    "url": "https://www.iglonline.net//cng-png-prices",
+    "extraction_timestamp": "2026-11-05T10:24:15.491492+00:00",
+    "http_status": 200,
+    "final_url": "https://www.iglonline.net//cng-png-prices",
+    "content_type": "text/html",
+    "raw_path": "raw/recovery/IGL_PRICES/9f58edeec515fbb391617dea7f2071c41a4ae624f85a68352c7b34aeaad626e2.html",
+    "sha256": "9f58edeec515fbb391617dea7f2071c41a4ae624f85a68352c7b34aeaad626e2",
+    "bytes": 4203,
+    "status": "retrieved_unparsed",
+    "error": ""
+  },
+  {
+    "source_id": "IEA",
+    "url": "https://www.iea.org/data-and-statistics/data-tools/gas-trade-flows",
+    "extraction_timestamp": "2026-11-05T10:24:15.493011+00:00",
+    "status": "retrieval_failed",
+    "error": "HTTP Error 404: Not Found",
+    "raw_path": "",
+    "sha256": "",
+    "bytes": 0
+  },
+  {
+    "source_id": "GDELT",
+    "url": "https://api.gdeltproject.org/api/v2/doc/doc?query=CNG%20India&mode=artlist&format=json&maxrecords=250&timespan=3months",
+    "extraction_timestamp": "2026-11-05T10:24:15.494080+00:00",
+    "status": "retrieval_failed",
+    "error": "HTTP Error 503: Service Unavailable",
+    "raw_path": "",
+    "sha256": "",
+    "bytes": 0
+  },
+  {
+    "source_id": "NEWS_BS_2024",
+    "url": "https://www.business-standard.com/industry/auto/cng-price-in-national-capital-adjoining-cities-hiked-by-re-1-per-kg-124062200544_1.html",
+    "extraction_timestamp": "2026-11-05T10:24:15.499344+00:00",
+    "http_status": 200,
+    "final_url": "https://www.business-standard.com/industry/auto/cng-price-in-national-capital-adjoining-cities-hiked-by-re-1-per-kg-124062200544_1.html",
+    "content_type": "text/html; charset=utf-8",
+    "raw_path": "raw/recovery/NEWS_BS_2024/7907ad0eb5fe787429b40592efdca6f66efc592342662ea7b28001d47f040c45.html",
+    "sha256": "7907ad0eb5fe787429b40592efdca6f66efc592342662ea7b28001d47f040c45",
+    "bytes": 167535,
+    "status": "retrieved_unparsed",
+    "error": ""
+  },
+  {
+    "source_id": "NEWS_IE_2023",
+    "url": "https://indianexpress.com/article/cities/delhi/cng-png-cheapest-delhi-price-dip-8546566/",
+    "extraction_timestamp": "2026-11-05T10:24:20.674529+00:00",
+    "http_status": 200,
+    "final_url": "https://indianexpress.com/article/cities/delhi/cng-png-cheapest-delhi-price-dip-8546566/",
+    "content_type": "text/html; charset=UTF-8",
+    "raw_path": "raw/recovery/NEWS_IE_2023/603a5d0ff29c3f230c458b4afe8f813496bc1d8c5b2af682916a40d1bd84dd0d.html",
+    "sha256": "603a5d0ff29c3f230c458b4afe8f813496bc1d8c5b2af682916a40d1bd84dd0d",
+    "bytes": 702338,
+    "status": "retrieved_unparsed",
+    "error": ""
+  },
+  {
+    "source_id": "NEWS_ET_2022",
+    "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/indraprastha-gas-raises-cng-prices-in-delhi-ncr/articleshow/96292690.cms",
+    "extraction_timestamp": "2026-11-05T10:24:21.321218+00:00",
+    "http_status": 200,
+    "final_url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/indraprastha-gas-raises-cng-prices-in-delhi-ncr/articleshow/96292690.cms",
+    "content_type": "text/html;charset=UTF-8",
+    "raw_path": "raw/recovery/NEWS_ET_2022/89d2ead3d54dc8d8fa7064e71d72152d5408d5c714425fd907aa170f252aad5c.html",
+    "sha256": "89d2ead3d54dc8d8fa7064e71d72152d5408d5c714425fd907aa170f252aad5c",
+    "bytes": 295250,
+    "status": "retrieved_unparsed",
+    "error": ""
+  },
+  {
+    "source_id": "NEWS_BS_NOV2024",
+    "url": "https://www.business-standard.com/markets/news/cng-price-hiked-by-rs-2-in-mumbai-and-others-delhi-spared-ahead-of-polls-124112500431_1.html",
+    "extraction_timestamp": "2026-11-05T10:24:22.216050+00:00",
+    "http_status": 200,
+    "final_url": "https://www.business-standard.com/markets/news/cng-price-hiked-by-rs-2-in-mumbai-and-others-delhi-spared-ahead-of-polls-124112500431_1.html",
+    "content_type": "text/html; charset=utf-8",
+    "raw_path": "raw/recovery/NEWS_BS_NOV2024/a8c2fc3bb048963c17b9b48562e09a0f62e382c50b30829ddb5f8b53b6450c08.html",
+    "sha256": "a8c2fc3bb048963c17b9b48562e09a0f62e382c50b30829ddb5f8b53b6450c08",
+    "bytes": 200621,
+    "status": "retrieved_unparsed",
+    "error": ""
+  }
+]

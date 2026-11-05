@@ -1,0 +1,176 @@
+city,effective_date,primary_price,source_id,secondary_exact_date_rows,secondary_price,comparison
+Agra,2019-04-01,59.35,GGL_HISTORY,0,,no_exact_secondary_date
+Agra,2019-04-03,61.05,GGL_HISTORY,0,,no_exact_secondary_date
+Agra,2019-07-04,63.55,GGL_HISTORY,0,,no_exact_secondary_date
+Agra,2019-10-05,62.5,GGL_HISTORY,0,,no_exact_secondary_date
+Agra,2020-04-04,59.5,GGL_HISTORY,0,,no_exact_secondary_date
+Agra,2020-06-03,60.5,GGL_HISTORY,0,,no_exact_secondary_date
+Agra,2020-07-01,62.5,GGL_HISTORY,0,,no_exact_secondary_date
+Agra,2020-10-06,60.95,GGL_HISTORY,0,,no_exact_secondary_date
+Agra,2020-12-16,60.95,GGL_HISTORY,0,,no_exact_secondary_date
+Agra,2021-04-07,63.45,GGL_HISTORY,0,,no_exact_secondary_date
+Agra,2021-10-03,68.1,GGL_HISTORY,0,,no_exact_secondary_date
+Agra,2021-11-01,70.5,GGL_HISTORY,0,,no_exact_secondary_date
+Agra,2021-12-18,72.5,GGL_HISTORY,0,,no_exact_secondary_date
+Agra,2022-04-01,83.53,GGL_HISTORY,0,,no_exact_secondary_date
+Agra,2022-04-23,86.53,GGL_HISTORY,0,,no_exact_secondary_date
+Agra,2022-05-09,88.53,GGL_HISTORY,0,,no_exact_secondary_date
+Agra,2022-05-22,89.83,GGL_HISTORY,0,,no_exact_secondary_date
+Agra,2022-06-17,89.83,GGL_HISTORY,0,,no_exact_secondary_date
+Agra,2022-07-03,91.96,GGL_HISTORY,0,,no_exact_secondary_date
+Agra,2022-08-01,97.25,GGL_HISTORY,0,,no_exact_secondary_date
+Agra,2022-08-18,93.15,GGL_HISTORY,0,,no_exact_secondary_date
+Agra,2022-10-01,95.0,GGL_HISTORY,0,,no_exact_secondary_date
+Agra,2022-10-16,97.0,GGL_HISTORY,0,,no_exact_secondary_date
+Agra,2022-12-18,98.96,GGL_HISTORY,0,,no_exact_secondary_date
+Agra,2023-04-08,93.96,GGL_HISTORY,0,,no_exact_secondary_date
+Agra,2023-12-01,94.75,GGL_HISTORY,0,,no_exact_secondary_date
+Agra,2024-03-07,92.25,GGL_HISTORY,0,,no_exact_secondary_date
+Agra,2024-06-16,94.0,GGL_HISTORY,0,,no_exact_secondary_date
+Agra,2024-11-21,96.75,GGL_HISTORY,0,,no_exact_secondary_date
+Agra,2025-04-16,97.75,GGL_HISTORY,0,,no_exact_secondary_date
+Agra,2025-10-17,96.75,GGL_HISTORY,0,,no_exact_secondary_date
+Agra,2026-01-10,96.0,GGL_HISTORY,0,,no_exact_secondary_date
+Agra,2026-01-26,95.75,GGL_HISTORY,0,,no_exact_secondary_date
+Agra,2026-05-07,98.0,GGL_HISTORY,0,,no_exact_secondary_date
+Agra,2026-06-02,99.5,GGL_HISTORY,0,,no_exact_secondary_date
+Agra,2026-07-18,102.0,GGL_HISTORY,0,,no_exact_secondary_date
+Agra,2026-08-08,105.0,GGL_HISTORY,0,,no_exact_secondary_date
+Agra,2026-10-03,105.0,GGL_HISTORY,0,,no_exact_secondary_date
+Agra,2026-10-04,107.0,GGL_HISTORY,0,,no_exact_secondary_date
+Agra,2026-11-01,108.0,GGL_HISTORY,0,,no_exact_secondary_date
+Ayodhya & Sultanpur,2019-04-01,,GGL_HISTORY,0,,no_exact_secondary_date
+Ayodhya & Sultanpur,2019-04-03,,GGL_HISTORY,0,,no_exact_secondary_date
+Ayodhya & Sultanpur,2019-07-04,,GGL_HISTORY,0,,no_exact_secondary_date
+Ayodhya & Sultanpur,2019-10-05,,GGL_HISTORY,0,,no_exact_secondary_date
+Ayodhya & Sultanpur,2020-04-04,,GGL_HISTORY,0,,no_exact_secondary_date
+Ayodhya & Sultanpur,2020-06-03,,GGL_HISTORY,0,,no_exact_secondary_date
+Ayodhya & Sultanpur,2020-07-01,,GGL_HISTORY,0,,no_exact_secondary_date
+Ayodhya & Sultanpur,2020-10-06,,GGL_HISTORY,0,,no_exact_secondary_date
+Ayodhya & Sultanpur,2020-12-16,64.4,GGL_HISTORY,0,,no_exact_secondary_date
+Ayodhya & Sultanpur,2021-04-07,65.9,GGL_HISTORY,0,,no_exact_secondary_date
+Ayodhya & Sultanpur,2021-10-03,70.55,GGL_HISTORY,0,,no_exact_secondary_date
+Ayodhya & Sultanpur,2021-11-01,72.95,GGL_HISTORY,0,,no_exact_secondary_date
+Ayodhya & Sultanpur,2021-12-18,72.95,GGL_HISTORY,0,,no_exact_secondary_date
+Ayodhya & Sultanpur,2022-04-01,81.25,GGL_HISTORY,0,,no_exact_secondary_date
+Ayodhya & Sultanpur,2022-04-23,84.25,GGL_HISTORY,0,,no_exact_secondary_date
+Ayodhya & Sultanpur,2022-05-09,86.25,GGL_HISTORY,0,,no_exact_secondary_date
+Ayodhya & Sultanpur,2022-05-22,88.25,GGL_HISTORY,0,,no_exact_secondary_date
+Ayodhya & Sultanpur,2022-06-17,90.25,GGL_HISTORY,0,,no_exact_secondary_date
+Ayodhya & Sultanpur,2022-07-03,92.25,GGL_HISTORY,0,,no_exact_secondary_date
+Ayodhya & Sultanpur,2022-08-01,97.55,GGL_HISTORY,0,,no_exact_secondary_date
+Ayodhya & Sultanpur,2022-08-18,93.45,GGL_HISTORY,0,,no_exact_secondary_date
+Ayodhya & Sultanpur,2022-10-01,96.45,GGL_HISTORY,0,,no_exact_secondary_date
+Ayodhya & Sultanpur,2022-10-16,98.45,GGL_HISTORY,0,,no_exact_secondary_date
+Ayodhya & Sultanpur,2022-12-18,99.85,GGL_HISTORY,0,,no_exact_secondary_date
+Ayodhya & Sultanpur,2023-04-08,94.85,GGL_HISTORY,0,,no_exact_secondary_date
+Ayodhya & Sultanpur,2023-12-01,94.85,GGL_HISTORY,0,,no_exact_secondary_date
+Ayodhya & Sultanpur,2024-03-07,92.35,GGL_HISTORY,0,,no_exact_secondary_date
+Ayodhya & Sultanpur,2024-06-16,94.0,GGL_HISTORY,0,,no_exact_secondary_date
+Ayodhya & Sultanpur,2024-11-21,94.0,GGL_HISTORY,0,,no_exact_secondary_date
+Ayodhya & Sultanpur,2025-04-16,95.0,GGL_HISTORY,0,,no_exact_secondary_date
+Ayodhya & Sultanpur,2025-10-17,95.0,GGL_HISTORY,0,,no_exact_secondary_date
+Ayodhya & Sultanpur,2026-01-10,94.25,GGL_HISTORY,0,,no_exact_secondary_date
+Ayodhya & Sultanpur,2026-01-26,94.0,GGL_HISTORY,0,,no_exact_secondary_date
+Ayodhya & Sultanpur,2026-05-07,96.75,GGL_HISTORY,0,,no_exact_secondary_date
+Ayodhya & Sultanpur,2026-06-02,97.75,GGL_HISTORY,0,,no_exact_secondary_date
+Ayodhya & Sultanpur,2026-07-18,99.75,GGL_HISTORY,0,,no_exact_secondary_date
+Ayodhya & Sultanpur,2026-08-08,101.75,GGL_HISTORY,0,,no_exact_secondary_date
+Ayodhya & Sultanpur,2026-10-03,103.75,GGL_HISTORY,0,,no_exact_secondary_date
+Ayodhya & Sultanpur,2026-10-04,103.75,GGL_HISTORY,0,,no_exact_secondary_date
+Ayodhya & Sultanpur,2026-11-01,105.0,GGL_HISTORY,0,,no_exact_secondary_date
+Delhi,2022-04-01,60.81,DELHI_PARLIAMENT,0,,no_exact_secondary_date
+Delhi,2022-04-02,61.61,DELHI_PARLIAMENT,0,,no_exact_secondary_date
+Delhi,2022-04-04,64.11,DELHI_PARLIAMENT,1,64.11,agree
+Delhi,2022-04-06,66.61,DELHI_PARLIAMENT,1,66.61,agree
+Delhi,2022-04-07,69.11,DELHI_PARLIAMENT,1,69.11,agree
+Delhi,2022-04-14,71.61,DELHI_PARLIAMENT,1,71.61,agree
+Delhi,2022-05-15,73.61,DELHI_PARLIAMENT,1,73.61,agree
+Delhi,2022-05-21,75.61,DELHI_PARLIAMENT,1,75.61,agree
+Delhi,2022-10-08,78.61,DELHI_PARLIAMENT,1,78.61,agree
+Delhi,2022-12-17,79.56,DELHI_PARLIAMENT,1,79.56,agree
+Delhi,2023-04-09,73.59,DELHI_PARLIAMENT,1,73.59,agree
+Delhi,2023-08-23,74.59,DELHI_PARLIAMENT,1,74.59,agree
+Delhi,2023-12-14,76.59,DELHI_PARLIAMENT,0,,no_exact_secondary_date
+Delhi,2024-03-07,74.09,DELHI_PARLIAMENT,0,,no_exact_secondary_date
+Delhi,2024-06-22,75.09,DELHI_PARLIAMENT,0,,no_exact_secondary_date
+Lucknow,2019-04-01,59.35,GGL_HISTORY,1,61.05,CONFLICT
+Lucknow,2019-04-03,61.05,GGL_HISTORY,0,,no_exact_secondary_date
+Lucknow,2019-07-04,63.55,GGL_HISTORY,0,,no_exact_secondary_date
+Lucknow,2019-10-05,62.5,GGL_HISTORY,0,,no_exact_secondary_date
+Lucknow,2020-04-04,59.5,GGL_HISTORY,0,,no_exact_secondary_date
+Lucknow,2020-06-03,60.5,GGL_HISTORY,0,,no_exact_secondary_date
+Lucknow,2020-07-01,62.5,GGL_HISTORY,0,,no_exact_secondary_date
+Lucknow,2020-10-06,60.95,GGL_HISTORY,0,,no_exact_secondary_date
+Lucknow,2020-12-16,60.95,GGL_HISTORY,0,,no_exact_secondary_date
+Lucknow,2021-04-07,63.45,GGL_HISTORY,0,,no_exact_secondary_date
+Lucknow,2021-10-03,68.1,GGL_HISTORY,0,,no_exact_secondary_date
+Lucknow,2021-11-01,70.5,GGL_HISTORY,0,,no_exact_secondary_date
+Lucknow,2021-12-18,72.5,GGL_HISTORY,0,,no_exact_secondary_date
+Lucknow,2022-04-01,80.8,GGL_HISTORY,1,80.8,agree
+Lucknow,2022-04-23,83.8,GGL_HISTORY,0,,no_exact_secondary_date
+Lucknow,2022-05-09,85.8,GGL_HISTORY,0,,no_exact_secondary_date
+Lucknow,2022-05-22,87.8,GGL_HISTORY,0,,no_exact_secondary_date
+Lucknow,2022-06-17,87.8,GGL_HISTORY,0,,no_exact_secondary_date
+Lucknow,2022-07-03,90.8,GGL_HISTORY,0,,no_exact_secondary_date
+Lucknow,2022-08-01,96.1,GGL_HISTORY,0,,no_exact_secondary_date
+Lucknow,2022-08-18,92.0,GGL_HISTORY,0,,no_exact_secondary_date
+Lucknow,2022-10-01,95.0,GGL_HISTORY,0,,no_exact_secondary_date
+Lucknow,2022-10-16,97.0,GGL_HISTORY,1,97.0,agree
+Lucknow,2022-12-18,98.96,GGL_HISTORY,1,98.96,agree
+Lucknow,2023-04-08,93.96,GGL_HISTORY,0,,no_exact_secondary_date
+Lucknow,2023-12-01,94.75,GGL_HISTORY,0,,no_exact_secondary_date
+Lucknow,2024-03-07,92.25,GGL_HISTORY,0,,no_exact_secondary_date
+Lucknow,2024-06-16,94.0,GGL_HISTORY,0,,no_exact_secondary_date
+Lucknow,2024-11-21,96.75,GGL_HISTORY,0,,no_exact_secondary_date
+Lucknow,2025-04-16,97.75,GGL_HISTORY,0,,no_exact_secondary_date
+Lucknow,2025-10-17,96.75,GGL_HISTORY,0,,no_exact_secondary_date
+Lucknow,2026-01-10,96.0,GGL_HISTORY,0,,no_exact_secondary_date
+Lucknow,2026-01-26,95.75,GGL_HISTORY,1,96.75,CONFLICT
+Lucknow,2026-05-07,98.0,GGL_HISTORY,1,95.75,CONFLICT
+Lucknow,2026-06-02,99.5,GGL_HISTORY,0,,no_exact_secondary_date
+Lucknow,2026-07-18,102.0,GGL_HISTORY,1,99.5,CONFLICT
+Lucknow,2026-08-08,105.0,GGL_HISTORY,1,99.5,CONFLICT
+Lucknow,2026-10-03,107.0,GGL_HISTORY,0,,no_exact_secondary_date
+Lucknow,2026-10-04,107.0,GGL_HISTORY,1,105.0,CONFLICT
+Lucknow,2026-11-01,108.0,GGL_HISTORY,1,108.0,agree
+Unnao,2019-04-01,,GGL_HISTORY,0,,no_exact_secondary_date
+Unnao,2019-04-03,,GGL_HISTORY,0,,no_exact_secondary_date
+Unnao,2019-07-04,,GGL_HISTORY,0,,no_exact_secondary_date
+Unnao,2019-10-05,,GGL_HISTORY,0,,no_exact_secondary_date
+Unnao,2020-04-04,,GGL_HISTORY,0,,no_exact_secondary_date
+Unnao,2020-06-03,,GGL_HISTORY,0,,no_exact_secondary_date
+Unnao,2020-07-01,,GGL_HISTORY,0,,no_exact_secondary_date
+Unnao,2020-10-06,60.95,GGL_HISTORY,0,,no_exact_secondary_date
+Unnao,2020-12-16,60.95,GGL_HISTORY,0,,no_exact_secondary_date
+Unnao,2021-04-07,63.45,GGL_HISTORY,0,,no_exact_secondary_date
+Unnao,2021-10-03,68.1,GGL_HISTORY,0,,no_exact_secondary_date
+Unnao,2021-11-01,70.5,GGL_HISTORY,0,,no_exact_secondary_date
+Unnao,2021-12-18,72.5,GGL_HISTORY,0,,no_exact_secondary_date
+Unnao,2022-04-01,80.8,GGL_HISTORY,0,,no_exact_secondary_date
+Unnao,2022-04-23,83.8,GGL_HISTORY,0,,no_exact_secondary_date
+Unnao,2022-05-09,85.8,GGL_HISTORY,0,,no_exact_secondary_date
+Unnao,2022-05-22,87.8,GGL_HISTORY,0,,no_exact_secondary_date
+Unnao,2022-06-17,87.8,GGL_HISTORY,0,,no_exact_secondary_date
+Unnao,2022-07-03,90.8,GGL_HISTORY,0,,no_exact_secondary_date
+Unnao,2022-08-01,96.1,GGL_HISTORY,0,,no_exact_secondary_date
+Unnao,2022-08-18,92.0,GGL_HISTORY,0,,no_exact_secondary_date
+Unnao,2022-10-01,95.0,GGL_HISTORY,0,,no_exact_secondary_date
+Unnao,2022-10-16,97.0,GGL_HISTORY,0,,no_exact_secondary_date
+Unnao,2022-12-18,98.96,GGL_HISTORY,0,,no_exact_secondary_date
+Unnao,2023-04-08,93.96,GGL_HISTORY,0,,no_exact_secondary_date
+Unnao,2023-12-01,94.75,GGL_HISTORY,0,,no_exact_secondary_date
+Unnao,2024-03-07,92.25,GGL_HISTORY,0,,no_exact_secondary_date
+Unnao,2024-06-16,94.0,GGL_HISTORY,0,,no_exact_secondary_date
+Unnao,2024-11-21,94.0,GGL_HISTORY,0,,no_exact_secondary_date
+Unnao,2025-04-16,95.0,GGL_HISTORY,0,,no_exact_secondary_date
+Unnao,2025-10-17,95.0,GGL_HISTORY,0,,no_exact_secondary_date
+Unnao,2026-01-10,94.25,GGL_HISTORY,0,,no_exact_secondary_date
+Unnao,2026-01-26,94.0,GGL_HISTORY,0,,no_exact_secondary_date
+Unnao,2026-05-07,96.75,GGL_HISTORY,0,,no_exact_secondary_date
+Unnao,2026-06-02,97.75,GGL_HISTORY,0,,no_exact_secondary_date
+Unnao,2026-07-18,99.75,GGL_HISTORY,0,,no_exact_secondary_date
+Unnao,2026-08-08,101.75,GGL_HISTORY,0,,no_exact_secondary_date
+Unnao,2026-10-03,101.75,GGL_HISTORY,0,,no_exact_secondary_date
+Unnao,2026-10-04,105.0,GGL_HISTORY,0,,no_exact_secondary_date
+Unnao,2026-11-01,106.0,GGL_HISTORY,0,,no_exact_secondary_date

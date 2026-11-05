@@ -1,1 +1,2 @@
-""
+dataset,status,reason,preserved_original
+external_shocks_daily,quarantined,synthetic_or_filled_or_mixed_grain_values,quarantine/original_fd4e65b/structured/numerical_factors/external_shocks_daily.csv

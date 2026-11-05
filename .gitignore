@@ -19,3 +19,13 @@ __pycache__/
 .idea/
 .DS_Store
 Thumbs.db
+
+# Large new evidence is preserved in checksum-tracked evidence bundles.
+BTP_CNG_Data/raw/recovery/
+BTP_CNG_Data/documents/extracted/
+BTP_CNG_Data/documents/ocr/
+BTP_CNG_Data/raw/manual/
+__pycache__/
+
+# Equivalent large CSV can be regenerated from the committed Parquet.
+BTP_CNG_Data/structured/source_native/document_table_rows.csv

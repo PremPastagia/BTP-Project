@@ -1,0 +1,15 @@
+[
+  {
+    "source_id": "PNGRB_DOC_97",
+    "url": "https://www.pngrb.gov.in/data-bank/NGPLReport 31.12.2020.pdf",
+    "extraction_timestamp": "2026-11-05T10:31:00.045321+00:00",
+    "http_status": 200,
+    "final_url": "https://www.pngrb.gov.in/data-bank/NGPLReport%2031.12.2020.pdf",
+    "content_type": "application/pdf",
+    "raw_path": "raw/recovery/PNGRB_DOC_97/720fc1b279c5ecfac006f21b73bd59160a0ec378d948a54d6d8b30287faf48d3.pdf",
+    "sha256": "720fc1b279c5ecfac006f21b73bd59160a0ec378d948a54d6d8b30287faf48d3",
+    "bytes": 365919,
+    "status": "retrieved_unparsed",
+    "error": ""
+  }
+]

@@ -6,7 +6,7 @@ import csv, hashlib, json, urllib.request, urllib.parse, argparse
 BASE=Path(__file__).resolve().parents[1]
 
 def retrieve(item):
-    url=item['url']; sid=item['source_id']; now=datetime.now(timezone.utc).isoformat()
+    url=urllib.parse.quote(item['url'],safe=':/?=&()%'); sid=item['source_id']; now=datetime.now(timezone.utc).isoformat()
     row=dict(item,extraction_timestamp=now)
     try:
         req=urllib.request.Request(url,headers={'User-Agent':'BTP academic data collection; public records'})
@@ -16,7 +16,7 @@ def retrieve(item):
         suffix='.pdf' if data.startswith(b'%PDF') else '.xlsx' if data.startswith(b'PK') else '.xls' if data.startswith(bytes.fromhex('d0cf11e0')) else '.json' if 'json' in ctype else '.html'
         p=BASE/'raw'/'recovery'/sid/(digest+suffix);p.parent.mkdir(parents=True,exist_ok=True)
         if not p.exists(): p.write_bytes(data)
-        row.update(raw_path=str(p.relative_to(BASE)),sha256=digest,bytes=len(data),status='retrieved_unparsed',error='')
+        row.update(raw_path=str(p.relative_to(BASE)),sha256=digest,bytes=len(data),status='retrieved_unparsed' if len(data) else 'empty_response',error='' if len(data) else 'HTTP success with zero bytes')
     except Exception as e: row.update(status='retrieval_failed',error=str(e),raw_path='',sha256='',bytes=0)
     return row
 

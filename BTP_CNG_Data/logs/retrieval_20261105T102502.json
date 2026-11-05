@@ -1,0 +1,28 @@
+[
+  {
+    "source_id": "DELHI_PARLIAMENT",
+    "url": "https://sansad.in/getFile/annex/266/AU2367_vJNz2O.pdf?source=pqars",
+    "extraction_timestamp": "2026-11-05T10:24:51.964497+00:00",
+    "http_status": 200,
+    "final_url": "https://sansad.in/getFile/annex/266/AU2367_vJNz2O.pdf?source=pqars",
+    "content_type": "application/pdf",
+    "raw_path": "raw/recovery/DELHI_PARLIAMENT/7768a1214bd355477df5b0b03461f0977e2c4a5e2cc8d4cb718a8d6cb6b08479.pdf",
+    "sha256": "7768a1214bd355477df5b0b03461f0977e2c4a5e2cc8d4cb718a8d6cb6b08479",
+    "bytes": 300903,
+    "status": "retrieved_unparsed",
+    "error": ""
+  },
+  {
+    "source_id": "GGL_HISTORY",
+    "url": "https://gglonline.net/storage/pdf-uploads/Historical-CNG-Prices-from-01.04.2019-onwards.pdf",
+    "extraction_timestamp": "2026-11-05T10:24:51.965628+00:00",
+    "http_status": 200,
+    "final_url": "https://gglonline.net/storage/pdf-uploads/Historical-CNG-Prices-from-01.04.2019-onwards.pdf",
+    "content_type": "application/pdf",
+    "raw_path": "raw/recovery/GGL_HISTORY/222345dc247a6e482d3f7ea4a1525f1907ccb41233eef81c4432fb3a594a07a9.pdf",
+    "sha256": "222345dc247a6e482d3f7ea4a1525f1907ccb41233eef81c4432fb3a594a07a9",
+    "bytes": 527919,
+    "status": "retrieved_unparsed",
+    "error": ""
+  }
+]

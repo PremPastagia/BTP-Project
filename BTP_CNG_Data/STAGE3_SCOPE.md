@@ -1,0 +1,13 @@
+# Binding research scope
+
+We remain in Stage 3: collection, source extraction, storage and verification. No preprocessing, EDA, feature selection, stationarity tests, feature generation or model training is authorised.
+
+Research: forecast multi-city Indian retail CNG prices, selecting cities using verified history and geographic/operator diversity; retain maximum reliable history without a fixed starting year. Preserve original frequency, geography, units, vintages and observation/effective/publication/extraction dates. Later monthly targets are month-end and day-weighted monthly average (INR/kg), at 1, 3 and 6 months. Later compare pooled/panel and individual-city GAM, statistical and ML models. H1 numerical factors and H2 incremental news/company information must be independently testable; predictive association is not causation.
+
+All nine Stage 2 groups are candidates: (2.1) retail/revisions and procurement/distribution/compression/transmission/margins/taxes; (2.2) APM/non-APM/LNG/production/allocations/sourcing/blended cost/disruptions; (2.3) observed vehicle registrations and stock, consumption, stations, petrol/diesel, seasonal transport; (2.4) pricing/allocation policies, VAT/duties, tariffs, licensing and environment/transport regulations; (2.5) operators/GAs, regional sourcing/taxes/connectivity/infrastructure/demand; (2.6) international LNG/crude/FX, geopolitical events, global demand, interruptions and weather; (2.7) news events, sentiment, uncertainty, volume, POS-validated collocations, forward statements, credibility; (2.8) procurement/financial/operational disclosures, tone/guidance/risks/novelty; (2.9) potential management/media bias, duplicates/overlap, timing, sentiment errors and disagreements. All individual candidates also appear in the inventory, including GDP/PFCE/CPI.
+
+Source priority: official PNGRB, PPAC, MoPNG/PIB/gazettes, VAHAN, RBI, MoSPI, IMD; then company/exchange disclosures, World Bank, IEA, GPR and independent news. Institutional exports require ordinary authorised access and licensing checks; no access controls may be bypassed.
+
+No source observation is silently relabelled as a revision. No synthetic figures become observations. No missing prices, publication times, tax regimes or procurement mixtures are invented. A benchmark is a proxy, not an operator's procurement cost. Archive captures are not articles. Company facts and subjective narratives remain separate. Every raw response is preserved with a checksum, including unsuccessful content.
+
+Stage 3 stays open until factor/city/time coverage, independent price verification, release/vintage timing, remaining accessible retrievals and irreducible limitations are reviewed. Engineering checks passing does not establish data readiness.

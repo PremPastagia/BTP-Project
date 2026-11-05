@@ -1,31 +1,7 @@
-# BTP: Forecasting Retail CNG Prices Across Indian Cities
+# BTP CNG research — Stage 3 recovery
 
-## Dataset & Extraction Pipeline (`BTP_CNG_Data`)
+This branch audits, preserves and expands the CNG data collection. **Stage 3 remains open.** No preprocessing, EDA, features, stationarity tests or model training has been performed.
 
-This repository contains the dataset, extraction pipeline, and validation framework for the research project: **"Forecasting Retail CNG Prices Across Indian Cities Using Statistical and Machine Learning Models"**.
+Start with [the progress and verification report](BTP_CNG_Data/STAGE3_PROGRESS.md), [the binding research scope](BTP_CNG_Data/STAGE3_SCOPE.md), and [replay/export instructions](BTP_CNG_Data/README_STAGE3.md).
 
-### Repository Structure
-```text
-BTP_CNG_Data/
-├── raw/                         # Raw primary downloads and responses
-│   ├── cng_prices/              # Raw discrete revision HTML responses per city
-│   ├── energy_markets/          # World Bank Pink Sheet historical benchmarks
-│   └── macro_weather/           # Caldara-Iacoviello GPR, IMF CPI, World Bank GDP
-├── structured/                  # Normalized Parquet and CSV files
-│   ├── price_revisions/         # Discrete revisions & monthly city panels (2011–2026)
-│   ├── numerical_factors/       # Aligned external shocks & demand/fuel parity panels
-│   ├── policy_events/           # Discrete policy shifts & APM price ceilings ($6.50/MMBTU)
-│   ├── news/                    # Structured Wayback Machine archive metadata
-│   └── corporate_disclosures/   # Statutory BSE corporate announcements
-├── documents/                   # Primary source corporate filings (PDF)
-├── metadata/                    # Data dictionary, source registry, coverage matrix
-├── scripts/                     # Standalone Python extraction & validation modules
-└── logs/                        # Timestamped execution run logs
-```
-
-### Extraction & Validation Pipeline
-1. `01_extract_cng_panel.py`: Extracts discrete price revision points across 10 major Indian cities, applies calendar zero-order hold, and computes monthly Month-End & TWAP prices.
-2. `02_extract_external_shocks.py`: Downloads World Bank commodity benchmarks (Brent, WTI, Dubai, Henry Hub, TTF, Japan LNG), Caldara-Iacoviello GPR index, USD/INR exchange rates, IMF CPI, and World Bank GDP.
-3. `03_extract_domestic_factors.py`: Compiles PPAC APM pricing timeline, state VAT histories, petrol/diesel substitute retail prices, and VAHAN demand growth metrics.
-4. `04_ingest_disclosures_and_news.py`: Ingests BSE regulatory filings and Wayback Machine historical snapshots with SHA-256 deduplication.
-5. `05_validate_integrity.py`: Validates zero synthetic numbers, complete date continuity across target cities, and anti-lookahead lag alignment.
+Source registries, factor/city/period coverage, quality flags, manual retrieval instructions and scripts are under `BTP_CNG_Data/`. Original dataset files and unsafe legacy scripts are preserved under `quarantine/original_fd4e65b/`. Large immutable source documents and extracted text are saved in 15 checksum-tracked evidence bundles, linked from the progress report, and can be restored to their original paths. Engineering checks passing does not mean forecasting data is validated.
