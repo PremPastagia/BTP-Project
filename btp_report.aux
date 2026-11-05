@@ -1,0 +1,41 @@
+\relax 
+\providecommand\hyper@newdestlabel[2]{}
+\providecommand\HyField@AuxAddToFields[1]{}
+\providecommand\HyField@AuxAddToCoFields[2]{}
+\@writefile{toc}{\contentsline {section}{\numberline {1}Introduction and Motivation}{1}{section.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {2}Data and Empirical Setup}{1}{section.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.1}Raw City-Month CNG Price Dataset}{1}{subsection.2.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.2}Macroeconomic Panel}{1}{subsection.2.2}\protected@file@percent }
+\newlabel{subsec:macro}{{2.2}{1}{Macroeconomic Panel}{subsection.2.2}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces Descriptive Statistics of Model Variables (2011–2025)}}{2}{table.1}\protected@file@percent }
+\newlabel{tab:descriptives}{{1}{2}{Descriptive Statistics of Model Variables (2011–2025)}{table.1}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.3}Model Dataset Construction}{2}{subsection.2.3}\protected@file@percent }
+\newlabel{subsec:merge}{{2.3}{2}{Model Dataset Construction}{subsection.2.3}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.4}Multicollinearity Diagnostics and Gram--Schmidt Orthogonalization}{2}{subsection.2.4}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {2}{\ignorespaces Generalized Additive Model Structural Components and Multicollinearity Diagnostics}}{3}{table.2}\protected@file@percent }
+\newlabel{tab:gam_components}{{2}{3}{Generalized Additive Model Structural Components and Multicollinearity Diagnostics}{table.2}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {3}Model Specification and Results}{3}{section.3}\protected@file@percent }
+\newlabel{sec:results}{{3}{3}{Model Specification and Results}{section.3}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1}Generalized Additive Model Formulation}{3}{subsection.3.1}\protected@file@percent }
+\newlabel{eq:gam}{{1}{3}{Generalized Additive Model Formulation}{equation.1}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2}Out-of-Sample Holdout Evaluation}{3}{subsection.3.2}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {3}{\ignorespaces Out-of-Sample Forecasting Performance: GAM vs. ARIMA Benchmark}}{4}{table.3}\protected@file@percent }
+\newlabel{tab:model_comparison}{{3}{4}{Out-of-Sample Forecasting Performance: GAM vs. ARIMA Benchmark}{table.3}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces Out-of-sample holdout evaluation: GAM vs.\ ARIMA$(1,1,2)$ forecasts against actual cross-city mean CNG price (July 2021--December 2025). Shaded band denotes the GAM 95\,\% confidence interval for the conditional mean, constructed from the asymptotic standard errors of the GLMGam fit; it is not a prediction interval. Note that both models diverge materially from actual prices during major regulatory step-change events, reflecting the absence of upstream/regulatory variables in the current specification.}}{4}{figure.1}\protected@file@percent }
+\newlabel{fig:forecast}{{1}{4}{Out-of-sample holdout evaluation: GAM vs.\ ARIMA$(1,1,2)$ forecasts against actual cross-city mean CNG price (July 2021--December 2025). Shaded band denotes the GAM 95\,\% confidence interval for the conditional mean, constructed from the asymptotic standard errors of the GLMGam fit; it is not a prediction interval. Note that both models diverge materially from actual prices during major regulatory step-change events, reflecting the absence of upstream/regulatory variables in the current specification}{figure.1}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {4}Limitations and Items Requiring Verification}{4}{section.4}\protected@file@percent }
+\newlabel{sec:limitations}{{4}{4}{Limitations and Items Requiring Verification}{section.4}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Estimated smooth functions $g_j(\cdot )$ from the fitted GAM (Equation~\ref {eq:gam}) for each orthogonalized macro predictor. Axes show the residualized, orthogonalized predictor (horizontal) and the partial contribution to the fitted price (vertical). Because the predictors are orthogonalized, $g_1$ reflects the variation attributable to GDP after removing nothing (GDP is first in the ordering); $g_2$ reflects CPI after projecting out GDP; and $g_3$ reflects PFCE after projecting out both. The approximately linear shapes of $g_2$ and $g_3$ indicate that the penalized B-spline defaulted to a near-linear fit for those predictors under the chosen penalty; this does not invalidate the GAM framework but indicates weak evidence for non-linearity in those components under the current specification.}}{5}{figure.2}\protected@file@percent }
+\newlabel{fig:smooth}{{2}{5}{Estimated smooth functions $g_j(\cdot )$ from the fitted GAM (Equation~\ref {eq:gam}) for each orthogonalized macro predictor. Axes show the residualized, orthogonalized predictor (horizontal) and the partial contribution to the fitted price (vertical). Because the predictors are orthogonalized, $g_1$ reflects the variation attributable to GDP after removing nothing (GDP is first in the ordering); $g_2$ reflects CPI after projecting out GDP; and $g_3$ reflects PFCE after projecting out both. The approximately linear shapes of $g_2$ and $g_3$ indicate that the penalized B-spline defaulted to a near-linear fit for those predictors under the chosen penalty; this does not invalidate the GAM framework but indicates weak evidence for non-linearity in those components under the current specification}{figure.2}{}}
+\bibcite{wood2017gam}{1}
+\bibcite{ruppert2003}{2}
+\bibcite{box2015}{3}
+\bibcite{diebold1995}{4}
+\bibcite{dentoncholette}{5}
+\bibcite{unsna}{6}
+\bibcite{mospi}{7}
+\bibcite{rbihandbook}{8}
+\bibcite{ppac}{9}
+\bibcite{statsmodels}{10}
+\@writefile{toc}{\contentsline {section}{\numberline {5}Conclusions}{6}{section.5}\protected@file@percent }
+\gdef \@abspage@last{7}
