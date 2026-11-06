@@ -1,0 +1,14 @@
+{
+  "generated_at": "2026-11-06T05:53:39.606205+00:00",
+  "raw_pdf_hashes_processed": 709,
+  "expected_text_members": 738,
+  "extraction_status_counts": {
+    "extracted": 640,
+    "scan_or_no_native_text": 69
+  },
+  "original_text_member_checksums_reproduced": 533,
+  "original_text_unique_checksums_reproduced": 482,
+  "derived_text_versions_not_original": 205,
+  "tool_version": "pdftotext version 26.06.0",
+  "no_semantic_facts_verified": true
+}

@@ -1,0 +1,112 @@
+{
+  "receipts": 24,
+  "retained_articles": 24,
+  "dated_articles": 23,
+  "failed_or_excluded": [],
+  "hash_checks": [
+    {
+      "article_id": "5def83ff0121e355ffefb166",
+      "hash_matches": true
+    },
+    {
+      "article_id": "8a7d23bd8b01cb3b5612a718",
+      "hash_matches": true
+    },
+    {
+      "article_id": "41519e2167f7815ba1f33719",
+      "hash_matches": true
+    },
+    {
+      "article_id": "44ac0ea9ccb039d5b4afe268",
+      "hash_matches": true
+    },
+    {
+      "article_id": "ffd7d5fd17c0f1e3dee750dc",
+      "hash_matches": true
+    },
+    {
+      "article_id": "c5a51e4402ffdb3230e5d797",
+      "hash_matches": true
+    },
+    {
+      "article_id": "1b0f2fc2dd24eeb61e9b517d",
+      "hash_matches": true
+    },
+    {
+      "article_id": "9cc21d9e9042097c5e844c93",
+      "hash_matches": true
+    },
+    {
+      "article_id": "e460cac3403cab4c8aad9741",
+      "hash_matches": true
+    },
+    {
+      "article_id": "d8d737d3701b6078c298ddda",
+      "hash_matches": true
+    },
+    {
+      "article_id": "1a540e442c23fdc17d8b8ea3",
+      "hash_matches": true
+    },
+    {
+      "article_id": "3e09814e54aa975342f8de4f",
+      "hash_matches": true
+    },
+    {
+      "article_id": "0ab35d5055775d11752576ce",
+      "hash_matches": true
+    },
+    {
+      "article_id": "acb153a29e5f23c9bb2c9e40",
+      "hash_matches": true
+    },
+    {
+      "article_id": "e8c50bf1ad790ab98cebd398",
+      "hash_matches": true
+    },
+    {
+      "article_id": "4249062b99bdeacd7095f1cf",
+      "hash_matches": true
+    },
+    {
+      "article_id": "328163916f049602c0e4cd05",
+      "hash_matches": true
+    },
+    {
+      "article_id": "a267f813445c9b6da08fe273",
+      "hash_matches": true
+    },
+    {
+      "article_id": "ecfcdba94bc675a9a81cf1b2",
+      "hash_matches": true
+    },
+    {
+      "article_id": "13b061d19dfc328cc0831a1a",
+      "hash_matches": true
+    },
+    {
+      "article_id": "9832af87d7bd4906c2f7b539",
+      "hash_matches": true
+    },
+    {
+      "article_id": "5ec55fd4078edecbdc475bc2",
+      "hash_matches": true
+    },
+    {
+      "article_id": "3ccfcb489eb0ec83bcb4432b",
+      "hash_matches": true
+    },
+    {
+      "article_id": "dc9fae2f0a00189abfe5ae8f",
+      "hash_matches": true
+    }
+  ],
+  "aliases": [],
+  "stage3_complete": false,
+  "limitations": [
+    "Seed sample is not a representative historical news corpus",
+    "Publication metadata is a publisher claim, not independently proven original release time",
+    "Syndication and semantic duplication remain unclassified",
+    "No sentiment, collocations, event-volume features or modeling performed"
+  ]
+}

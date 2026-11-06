@@ -1,0 +1,28 @@
+{
+  "url": "https://timesofindia.indiatimes.com/city/delhi/cng-price-hiked-petrol-and-diesel-may-be-next/articleshow/6056800.cms",
+  "expected_sha256": "fd64f2c8be0f4614b0d7dae272bd9acd954798549b16765d0c5130b40e640a80",
+  "original_publication_claim": "2010-06-17T02:48:00+05:30",
+  "title_claim": "CNG price hiked, petrol and diesel may be next",
+  "origin": "github-pr1",
+  "source_id": "NEWS_HISTORY_2",
+  "http_status": 200,
+  "final_url": "https://timesofindia.indiatimes.com/city/delhi/cng-price-hiked-petrol-and-diesel-may-be-next/articleshow/6056800.cms",
+  "source_path": "PROJECT_ROOT/Stage3_Consolidated_2026-11-06/text/raw/fd64f2c8be0f4614b0d7dae272bd9acd954798549b16765d0c5130b40e640a80.html",
+  "retrieved_sha256": "fd64f2c8be0f4614b0d7dae272bd9acd954798549b16765d0c5130b40e640a80",
+  "matches_previous_hash": true,
+  "retrieved_at": "2026-11-06T05:48:20.451198+00:00",
+  "retrieval_method": "direct_original_url",
+  "title": "CNG price hiked, petrol and diesel may be next | Delhi News - Times of India",
+  "publication_date": "2010-06-17T02:48:00+05:30",
+  "publication_date_claims": [
+    [
+      "JSON-LD datePublished",
+      "2010-06-17T02:48:00+05:30"
+    ]
+  ],
+  "date_status": "publisher_date_claim_preserved",
+  "status": "retained_public_html",
+  "historical_availability_status": "publisher_claim_not_independent_archive_verification",
+  "redistribution_license": "not_established_no_public_full_text_release",
+  "synthetic": false
+}

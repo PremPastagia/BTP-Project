@@ -1,0 +1,45 @@
+source_id,market,start_source_locator,end_source_locator,start_date,end_date,reason
+igl_chronology,Delhi,CNG Price!C55,CNG Price!C56,2021-10-13,2021-10-28,Missing/nonpositive quote or invalid/nonincreasing boundary; no interval bridge
+igl_chronology,Delhi,CNG Price!C56,CNG Price!C57,2021-10-28,2021-11-14,Missing/nonpositive quote or invalid/nonincreasing boundary; no interval bridge
+igl_chronology,Delhi,CNG Price!C58,CNG Price!C59,2021-12-04,2021-12-07,Missing/nonpositive quote or invalid/nonincreasing boundary; no interval bridge
+igl_chronology,Delhi,CNG Price!C59,CNG Price!C60,2021-12-07,2021-12-09,Missing/nonpositive quote or invalid/nonincreasing boundary; no interval bridge
+igl_chronology,Delhi,CNG Price!C60,CNG Price!C61,2021-12-09,2022-01-12,Missing/nonpositive quote or invalid/nonincreasing boundary; no interval bridge
+igl_chronology,Delhi,CNG Price!C90,CNG Price!C91,2024-06-22,2024-07-18,Missing/nonpositive quote or invalid/nonincreasing boundary; no interval bridge
+igl_chronology,Delhi,CNG Price!C91,CNG Price!C92,2024-07-18,2024-08-24,Missing/nonpositive quote or invalid/nonincreasing boundary; no interval bridge
+igl_chronology,Delhi,CNG Price!C92,CNG Price!C93,2024-08-24,2024-08-31,Missing/nonpositive quote or invalid/nonincreasing boundary; no interval bridge
+igl_chronology,Delhi,CNG Price!C93,CNG Price!C94,2024-08-31,2024-09-01,Missing/nonpositive quote or invalid/nonincreasing boundary; no interval bridge
+igl_chronology,Delhi,CNG Price!C94,CNG Price!C95,2024-09-01,2024-09-14,Missing/nonpositive quote or invalid/nonincreasing boundary; no interval bridge
+igl_chronology,Delhi,CNG Price!C95,CNG Price!C96,2024-09-14,2024-11-08,Missing/nonpositive quote or invalid/nonincreasing boundary; no interval bridge
+igl_chronology,Delhi,CNG Price!C96,CNG Price!C97,2024-11-08,2024-11-23,Missing/nonpositive quote or invalid/nonincreasing boundary; no interval bridge
+igl_chronology,Delhi,CNG Price!C99,CNG Price!C100,2025-01-11,2025-03-18,Missing/nonpositive quote or invalid/nonincreasing boundary; no interval bridge
+igl_chronology,Delhi,CNG Price!C100,CNG Price!C101,2025-03-18,2025-04-05,Missing/nonpositive quote or invalid/nonincreasing boundary; no interval bridge
+igl_chronology,Noida,CNG Price!D55,CNG Price!D56,2021-10-13,2021-10-28,Missing/nonpositive quote or invalid/nonincreasing boundary; no interval bridge
+igl_chronology,Noida,CNG Price!D56,CNG Price!D57,2021-10-28,2021-11-14,Missing/nonpositive quote or invalid/nonincreasing boundary; no interval bridge
+igl_chronology,Noida,CNG Price!D57,CNG Price!D58,2021-11-14,2021-12-04,Missing/nonpositive quote or invalid/nonincreasing boundary; no interval bridge
+igl_chronology,Noida,CNG Price!D58,CNG Price!D59,2021-12-04,2021-12-07,Missing/nonpositive quote or invalid/nonincreasing boundary; no interval bridge
+igl_chronology,Noida,CNG Price!D59,CNG Price!D60,2021-12-07,2021-12-09,Missing/nonpositive quote or invalid/nonincreasing boundary; no interval bridge
+igl_chronology,Noida,CNG Price!D60,CNG Price!D61,2021-12-09,2022-01-12,Missing/nonpositive quote or invalid/nonincreasing boundary; no interval bridge
+igl_chronology,Noida,CNG Price!D61,CNG Price!D62,2022-01-12,2022-01-15,Missing/nonpositive quote or invalid/nonincreasing boundary; no interval bridge
+igl_chronology,Noida,CNG Price!D62,CNG Price!D63,2022-01-15,2022-01-24,Missing/nonpositive quote or invalid/nonincreasing boundary; no interval bridge
+igl_chronology,Noida,CNG Price!D63,CNG Price!D64,2022-01-24,2022-01-29,Missing/nonpositive quote or invalid/nonincreasing boundary; no interval bridge
+igl_chronology,Noida,CNG Price!D64,CNG Price!D65,2022-01-29,2022-02-12,Missing/nonpositive quote or invalid/nonincreasing boundary; no interval bridge
+igl_chronology,Noida,CNG Price!D65,CNG Price!D66,2022-02-12,2022-02-16,Missing/nonpositive quote or invalid/nonincreasing boundary; no interval bridge
+igl_chronology,Noida,CNG Price!D66,CNG Price!D67,2022-02-16,2022-02-19,Missing/nonpositive quote or invalid/nonincreasing boundary; no interval bridge
+igl_chronology,Noida,CNG Price!D67,CNG Price!D68,2022-02-19,2022-02-23,Missing/nonpositive quote or invalid/nonincreasing boundary; no interval bridge
+igl_chronology,Noida,CNG Price!D68,CNG Price!D69,2022-02-23,2022-03-08,Missing/nonpositive quote or invalid/nonincreasing boundary; no interval bridge
+igl_chronology,Noida,CNG Price!D90,CNG Price!D91,2024-06-22,2024-07-18,Missing/nonpositive quote or invalid/nonincreasing boundary; no interval bridge
+igl_chronology,Noida,CNG Price!D91,CNG Price!D92,2024-07-18,2024-08-24,Missing/nonpositive quote or invalid/nonincreasing boundary; no interval bridge
+igl_chronology,Noida,CNG Price!D92,CNG Price!D93,2024-08-24,2024-08-31,Missing/nonpositive quote or invalid/nonincreasing boundary; no interval bridge
+igl_chronology,Noida,CNG Price!D93,CNG Price!D94,2024-08-31,2024-09-01,Missing/nonpositive quote or invalid/nonincreasing boundary; no interval bridge
+igl_chronology,Noida,CNG Price!D94,CNG Price!D95,2024-09-01,2024-09-14,Missing/nonpositive quote or invalid/nonincreasing boundary; no interval bridge
+igl_chronology,Noida,CNG Price!D95,CNG Price!D96,2024-09-14,2024-11-08,Missing/nonpositive quote or invalid/nonincreasing boundary; no interval bridge
+igl_chronology,Noida,CNG Price!D96,CNG Price!D97,2024-11-08,2024-11-23,Missing/nonpositive quote or invalid/nonincreasing boundary; no interval bridge
+igl_chronology,Noida,CNG Price!D99,CNG Price!D100,2025-01-11,2025-03-18,Missing/nonpositive quote or invalid/nonincreasing boundary; no interval bridge
+igl_chronology,Noida,CNG Price!D100,CNG Price!D101,2025-03-18,2025-04-05,Missing/nonpositive quote or invalid/nonincreasing boundary; no interval bridge
+ggl_chronology,Unnao,line8:Unnao,line9:Unnao,2019-04-01,2019-04-03,Sale not commenced/absent price; no invented precommencement quote
+ggl_chronology,Unnao,line9:Unnao,line10:Unnao,2019-04-03,2019-07-04,Sale not commenced/absent price; no invented precommencement quote
+ggl_chronology,Unnao,line10:Unnao,line11:Unnao,2019-07-04,2019-10-05,Sale not commenced/absent price; no invented precommencement quote
+ggl_chronology,Unnao,line11:Unnao,line12:Unnao,2019-10-05,2020-04-04,Sale not commenced/absent price; no invented precommencement quote
+ggl_chronology,Unnao,line12:Unnao,line13:Unnao,2020-04-04,2020-06-03,Sale not commenced/absent price; no invented precommencement quote
+ggl_chronology,Unnao,line13:Unnao,line14:Unnao,2020-06-03,2020-07-01,Sale not commenced/absent price; no invented precommencement quote
+ggl_chronology,Unnao,line14:Unnao,line15:Unnao,2020-07-01,2020-10-06,Sale not commenced/absent price; no invented precommencement quote

@@ -1,0 +1,44 @@
+{
+  "source_files": 13,
+  "source_observation_rows": 56,
+  "unique_economic_keys": 56,
+  "source_vintage_conflict_keys": 0,
+  "review_items": 6,
+  "all_values_independently_text_crosschecked": true,
+  "visual_spot_check": {
+    "image": "verification/bulletin_march2026_page13.png",
+    "values": [
+      [
+        "cng_sales_volume",
+        "2026-03-01",
+        "2026-03-31",
+        "946"
+      ],
+      [
+        "cng_sales_volume",
+        "2025-03-01",
+        "2025-03-31",
+        "813"
+      ],
+      [
+        "cng_sales_volume",
+        "2025-04-01",
+        "2026-03-31",
+        "10721"
+      ],
+      [
+        "cng_station_reported_indicator",
+        "2026-03-01",
+        "2026-03-31",
+        "224"
+      ]
+    ]
+  },
+  "limitations": [
+    "National totals do not establish city CNG consumption",
+    "Station indicator stock/flow not explicitly defined; excluded from operating-station-stock interpretation",
+    "Entity-reported aggregates are source claims, not independent measurements",
+    "Financial-year totals and monthly totals remain separate",
+    "Reported monthly values rounded by source; not daily measurements"
+  ]
+}

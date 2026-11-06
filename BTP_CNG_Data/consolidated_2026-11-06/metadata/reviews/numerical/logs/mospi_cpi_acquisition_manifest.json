@@ -1,0 +1,357 @@
+[
+  {
+    "url": "https://api.mospi.gov.in/api/cpi/getCpiData?level=Group&base_year=2012&state_code=99&sector_code=3&group_code=0&subgroup_code=0.99&year=2011&limit=100",
+    "query_year": "2011",
+    "query_base": "2012",
+    "retrieved_at": "2026-11-06T05:49:47.962842+00:00",
+    "method": "TLS_legacy_server_connect_with_certificate_validation",
+    "http_status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "raw_sha256": "6b1754863e35ad2b1b4c2349f016301c131b5c20b4c749cf37260122395592c5",
+    "raw_file": "raw/mospi_cpi_6b1754863e35ad2b1b4c2349f016301c131b5c20b4c749cf37260122395592c5.response",
+    "bytes": 2312,
+    "records": 12,
+    "message": "Data fetched successfully",
+    "metadata": {
+      "page": 1,
+      "totalRecords": 12,
+      "totalPages": 1,
+      "recordPerPage": 100
+    }
+  },
+  {
+    "url": "https://api.mospi.gov.in/api/cpi/getCpiData?level=Group&base_year=2012&state_code=99&sector_code=3&group_code=0&subgroup_code=0.99&year=2012&limit=100",
+    "query_year": "2012",
+    "query_base": "2012",
+    "retrieved_at": "2026-11-06T05:49:47.963158+00:00",
+    "method": "TLS_legacy_server_connect_with_certificate_validation",
+    "http_status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "raw_sha256": "b7cca48d74dd6c0c15ad8a3469c4b639c700d7c3f05c41bf26a98a584efae214",
+    "raw_file": "raw/mospi_cpi_b7cca48d74dd6c0c15ad8a3469c4b639c700d7c3f05c41bf26a98a584efae214.response",
+    "bytes": 2346,
+    "records": 12,
+    "message": "Data fetched successfully",
+    "metadata": {
+      "page": 1,
+      "totalRecords": 12,
+      "totalPages": 1,
+      "recordPerPage": 100
+    }
+  },
+  {
+    "url": "https://api.mospi.gov.in/api/cpi/getCpiData?level=Group&base_year=2012&state_code=99&sector_code=3&group_code=0&subgroup_code=0.99&year=2013&limit=100",
+    "query_year": "2013",
+    "query_base": "2012",
+    "retrieved_at": "2026-11-06T05:49:47.963239+00:00",
+    "method": "TLS_legacy_server_connect_with_certificate_validation",
+    "http_status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "raw_sha256": "c96d9caa974ad345ae27bf0091418a5dcfc2a8596e068b7fbc2e79e7d3736a2e",
+    "raw_file": "raw/mospi_cpi_c96d9caa974ad345ae27bf0091418a5dcfc2a8596e068b7fbc2e79e7d3736a2e.response",
+    "bytes": 3245,
+    "records": 17,
+    "message": "Data fetched successfully",
+    "metadata": {
+      "page": 1,
+      "totalRecords": 17,
+      "totalPages": 1,
+      "recordPerPage": 100
+    }
+  },
+  {
+    "url": "https://api.mospi.gov.in/api/cpi/getCpiData?level=Group&base_year=2012&state_code=99&sector_code=3&group_code=0&subgroup_code=0.99&year=2014&limit=100",
+    "query_year": "2014",
+    "query_base": "2012",
+    "retrieved_at": "2026-11-06T05:49:48.227805+00:00",
+    "method": "TLS_legacy_server_connect_with_certificate_validation",
+    "http_status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "raw_sha256": "c72b1575e34899f7559e85b234c60f9ac632cfba71f7b174597858ab41a77df0",
+    "raw_file": "raw/mospi_cpi_c72b1575e34899f7559e85b234c60f9ac632cfba71f7b174597858ab41a77df0.response",
+    "bytes": 2348,
+    "records": 12,
+    "message": "Data fetched successfully",
+    "metadata": {
+      "page": 1,
+      "totalRecords": 12,
+      "totalPages": 1,
+      "recordPerPage": 100
+    }
+  },
+  {
+    "url": "https://api.mospi.gov.in/api/cpi/getCpiData?level=Group&base_year=2012&state_code=99&sector_code=3&group_code=0&subgroup_code=0.99&year=2015&limit=100",
+    "query_year": "2015",
+    "query_base": "2012",
+    "retrieved_at": "2026-11-06T05:49:48.228097+00:00",
+    "method": "TLS_legacy_server_connect_with_certificate_validation",
+    "http_status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "raw_sha256": "1a5631d11fb1d3be672c384b49d176852566774572c1b94d1d53cd612df8080b",
+    "raw_file": "raw/mospi_cpi_1a5631d11fb1d3be672c384b49d176852566774572c1b94d1d53cd612df8080b.response",
+    "bytes": 2348,
+    "records": 12,
+    "message": "Data fetched successfully",
+    "metadata": {
+      "page": 1,
+      "totalRecords": 12,
+      "totalPages": 1,
+      "recordPerPage": 100
+    }
+  },
+  {
+    "url": "https://api.mospi.gov.in/api/cpi/getCpiData?level=Group&base_year=2012&state_code=99&sector_code=3&group_code=0&subgroup_code=0.99&year=2016&limit=100",
+    "query_year": "2016",
+    "query_base": "2012",
+    "retrieved_at": "2026-11-06T05:49:48.260588+00:00",
+    "method": "TLS_legacy_server_connect_with_certificate_validation",
+    "http_status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "raw_sha256": "1795dccd2270cf8f2229a08f868990fd513434f9ccb3de19bfff84a73ceacceb",
+    "raw_file": "raw/mospi_cpi_1795dccd2270cf8f2229a08f868990fd513434f9ccb3de19bfff84a73ceacceb.response",
+    "bytes": 2348,
+    "records": 12,
+    "message": "Data fetched successfully",
+    "metadata": {
+      "page": 1,
+      "totalRecords": 12,
+      "totalPages": 1,
+      "recordPerPage": 100
+    }
+  },
+  {
+    "url": "https://api.mospi.gov.in/api/cpi/getCpiData?level=Group&base_year=2012&state_code=99&sector_code=3&group_code=0&subgroup_code=0.99&year=2017&limit=100",
+    "query_year": "2017",
+    "query_base": "2012",
+    "retrieved_at": "2026-11-06T05:49:48.477920+00:00",
+    "method": "TLS_legacy_server_connect_with_certificate_validation",
+    "http_status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "raw_sha256": "2278dcb6f5db2d4fa35e1eb30224b1ad1cb3ae3a25117d6aa48f57c076291039",
+    "raw_file": "raw/mospi_cpi_2278dcb6f5db2d4fa35e1eb30224b1ad1cb3ae3a25117d6aa48f57c076291039.response",
+    "bytes": 2348,
+    "records": 12,
+    "message": "Data fetched successfully",
+    "metadata": {
+      "page": 1,
+      "totalRecords": 12,
+      "totalPages": 1,
+      "recordPerPage": 100
+    }
+  },
+  {
+    "url": "https://api.mospi.gov.in/api/cpi/getCpiData?level=Group&base_year=2012&state_code=99&sector_code=3&group_code=0&subgroup_code=0.99&year=2018&limit=100",
+    "query_year": "2018",
+    "query_base": "2012",
+    "retrieved_at": "2026-11-06T05:49:48.480524+00:00",
+    "method": "TLS_legacy_server_connect_with_certificate_validation",
+    "http_status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "raw_sha256": "49fbe247a433da60cd49a7299f030299b2825a1907fc506707478379a1526fed",
+    "raw_file": "raw/mospi_cpi_49fbe247a433da60cd49a7299f030299b2825a1907fc506707478379a1526fed.response",
+    "bytes": 2348,
+    "records": 12,
+    "message": "Data fetched successfully",
+    "metadata": {
+      "page": 1,
+      "totalRecords": 12,
+      "totalPages": 1,
+      "recordPerPage": 100
+    }
+  },
+  {
+    "url": "https://api.mospi.gov.in/api/cpi/getCpiData?level=Group&base_year=2012&state_code=99&sector_code=3&group_code=0&subgroup_code=0.99&year=2019&limit=100",
+    "query_year": "2019",
+    "query_base": "2012",
+    "retrieved_at": "2026-11-06T05:49:48.508673+00:00",
+    "method": "TLS_legacy_server_connect_with_certificate_validation",
+    "http_status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "raw_sha256": "a2cbe53f6053ca252474d51984d7691c609f3a65afe538681fb7c1b239d9672d",
+    "raw_file": "raw/mospi_cpi_a2cbe53f6053ca252474d51984d7691c609f3a65afe538681fb7c1b239d9672d.response",
+    "bytes": 2348,
+    "records": 12,
+    "message": "Data fetched successfully",
+    "metadata": {
+      "page": 1,
+      "totalRecords": 12,
+      "totalPages": 1,
+      "recordPerPage": 100
+    }
+  },
+  {
+    "url": "https://api.mospi.gov.in/api/cpi/getCpiData?level=Group&base_year=2012&state_code=99&sector_code=3&group_code=0&subgroup_code=0.99&year=2020&limit=100",
+    "query_year": "2020",
+    "query_base": "2012",
+    "retrieved_at": "2026-11-06T05:49:48.721846+00:00",
+    "method": "TLS_legacy_server_connect_with_certificate_validation",
+    "http_status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "raw_sha256": "8673535877e3bcf599b8715bac8c098d0aaa84afc3b71b0821679ead676151f6",
+    "raw_file": "raw/mospi_cpi_8673535877e3bcf599b8715bac8c098d0aaa84afc3b71b0821679ead676151f6.response",
+    "bytes": 2346,
+    "records": 12,
+    "message": "Data fetched successfully",
+    "metadata": {
+      "page": 1,
+      "totalRecords": 12,
+      "totalPages": 1,
+      "recordPerPage": 100
+    }
+  },
+  {
+    "url": "https://api.mospi.gov.in/api/cpi/getCpiData?level=Group&base_year=2012&state_code=99&sector_code=3&group_code=0&subgroup_code=0.99&year=2021&limit=100",
+    "query_year": "2021",
+    "query_base": "2012",
+    "retrieved_at": "2026-11-06T05:49:48.722560+00:00",
+    "method": "TLS_legacy_server_connect_with_certificate_validation",
+    "http_status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "raw_sha256": "3d0f85d8390160f6b64bc6a9f515d0fd309efd333a110532267175e46a010d4f",
+    "raw_file": "raw/mospi_cpi_3d0f85d8390160f6b64bc6a9f515d0fd309efd333a110532267175e46a010d4f.response",
+    "bytes": 2348,
+    "records": 12,
+    "message": "Data fetched successfully",
+    "metadata": {
+      "page": 1,
+      "totalRecords": 12,
+      "totalPages": 1,
+      "recordPerPage": 100
+    }
+  },
+  {
+    "url": "https://api.mospi.gov.in/api/cpi/getCpiData?level=Group&base_year=2012&state_code=99&sector_code=3&group_code=0&subgroup_code=0.99&year=2022&limit=100",
+    "query_year": "2022",
+    "query_base": "2012",
+    "retrieved_at": "2026-11-06T05:49:48.813508+00:00",
+    "method": "TLS_legacy_server_connect_with_certificate_validation",
+    "http_status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "raw_sha256": "c50dd656673ce737fb372a0ebc2061d6d22900b8d3dad5cb7474321cbf57fe8a",
+    "raw_file": "raw/mospi_cpi_c50dd656673ce737fb372a0ebc2061d6d22900b8d3dad5cb7474321cbf57fe8a.response",
+    "bytes": 2348,
+    "records": 12,
+    "message": "Data fetched successfully",
+    "metadata": {
+      "page": 1,
+      "totalRecords": 12,
+      "totalPages": 1,
+      "recordPerPage": 100
+    }
+  },
+  {
+    "url": "https://api.mospi.gov.in/api/cpi/getCpiData?level=Group&base_year=2012&state_code=99&sector_code=3&group_code=0&subgroup_code=0.99&year=2023&limit=100",
+    "query_year": "2023",
+    "query_base": "2012",
+    "retrieved_at": "2026-11-06T05:49:49.018298+00:00",
+    "method": "TLS_legacy_server_connect_with_certificate_validation",
+    "http_status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "raw_sha256": "4ae5972c45b67a8acf5ad2c16f1971c172f2bb523df3860d729c2278dd8c3fff",
+    "raw_file": "raw/mospi_cpi_4ae5972c45b67a8acf5ad2c16f1971c172f2bb523df3860d729c2278dd8c3fff.response",
+    "bytes": 2348,
+    "records": 12,
+    "message": "Data fetched successfully",
+    "metadata": {
+      "page": 1,
+      "totalRecords": 12,
+      "totalPages": 1,
+      "recordPerPage": 100
+    }
+  },
+  {
+    "url": "https://api.mospi.gov.in/api/cpi/getCpiData?level=Group&base_year=2012&state_code=99&sector_code=3&group_code=0&subgroup_code=0.99&year=2024&limit=100",
+    "query_year": "2024",
+    "query_base": "2012",
+    "retrieved_at": "2026-11-06T05:49:49.025609+00:00",
+    "method": "TLS_legacy_server_connect_with_certificate_validation",
+    "http_status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "raw_sha256": "f67b566f77f29ce0192ab50dfa1ba6e345ed3bd97786074245ea126aa216865d",
+    "raw_file": "raw/mospi_cpi_f67b566f77f29ce0192ab50dfa1ba6e345ed3bd97786074245ea126aa216865d.response",
+    "bytes": 2348,
+    "records": 12,
+    "message": "Data fetched successfully",
+    "metadata": {
+      "page": 1,
+      "totalRecords": 12,
+      "totalPages": 1,
+      "recordPerPage": 100
+    }
+  },
+  {
+    "url": "https://api.mospi.gov.in/api/cpi/getCpiData?level=Group&base_year=2012&state_code=99&sector_code=3&group_code=0&subgroup_code=0.99&year=2025&limit=100",
+    "query_year": "2025",
+    "query_base": "2012",
+    "retrieved_at": "2026-11-06T05:49:49.167258+00:00",
+    "method": "TLS_legacy_server_connect_with_certificate_validation",
+    "http_status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "raw_sha256": "41ade89acdd8f981972d3fdb5acc339747ac00ec1ebf170e9040ce7b3cff5801",
+    "raw_file": "raw/mospi_cpi_41ade89acdd8f981972d3fdb5acc339747ac00ec1ebf170e9040ce7b3cff5801.response",
+    "bytes": 2348,
+    "records": 12,
+    "message": "Data fetched successfully",
+    "metadata": {
+      "page": 1,
+      "totalRecords": 12,
+      "totalPages": 1,
+      "recordPerPage": 100
+    }
+  },
+  {
+    "url": "https://api.mospi.gov.in/api/cpi/getCpiData?level=Group&base_year=2012&state_code=99&sector_code=3&group_code=0&subgroup_code=0.99&year=2026&limit=100",
+    "query_year": "2026",
+    "query_base": "2012",
+    "retrieved_at": "2026-11-06T05:49:49.269423+00:00",
+    "method": "TLS_legacy_server_connect_with_certificate_validation",
+    "http_status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "raw_sha256": "ab8bc9dd51190bee5da5478bd2e8b37074c787b085ca82efe1c6371148ca8c53",
+    "raw_file": "raw/mospi_cpi_ab8bc9dd51190bee5da5478bd2e8b37074c787b085ca82efe1c6371148ca8c53.response",
+    "bytes": 51,
+    "records": 0,
+    "message": "No Data Found",
+    "metadata": null
+  },
+  {
+    "url": "https://api.mospi.gov.in/api/cpi/getCpiData?level=Group&base_year=2024&state_code=99&sector_code=3&group_code=0&subgroup_code=0.99&year=2025&limit=100",
+    "query_year": "2025",
+    "query_base": "2024",
+    "retrieved_at": "2026-11-06T05:49:49.320401+00:00",
+    "method": "TLS_legacy_server_connect_with_certificate_validation",
+    "http_status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "raw_sha256": "61a3878139ec7f824d12687225455643e094bed2c62ec431f7c597dcb2ab5f66",
+    "raw_file": "raw/mospi_cpi_61a3878139ec7f824d12687225455643e094bed2c62ec431f7c597dcb2ab5f66.response",
+    "bytes": 126,
+    "records": 0,
+    "message": "No Data Found",
+    "metadata": {
+      "page": 1,
+      "totalRecords": 0,
+      "totalPages": 1,
+      "recordPerPage": 100
+    }
+  },
+  {
+    "url": "https://api.mospi.gov.in/api/cpi/getCpiData?level=Group&base_year=2024&state_code=99&sector_code=3&group_code=0&subgroup_code=0.99&year=2026&limit=100",
+    "query_year": "2026",
+    "query_base": "2024",
+    "retrieved_at": "2026-11-06T05:49:49.457700+00:00",
+    "method": "TLS_legacy_server_connect_with_certificate_validation",
+    "http_status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "raw_sha256": "61a3878139ec7f824d12687225455643e094bed2c62ec431f7c597dcb2ab5f66",
+    "raw_file": "raw/mospi_cpi_61a3878139ec7f824d12687225455643e094bed2c62ec431f7c597dcb2ab5f66.response",
+    "bytes": 126,
+    "records": 0,
+    "message": "No Data Found",
+    "metadata": {
+      "page": 1,
+      "totalRecords": 0,
+      "totalPages": 1,
+      "recordPerPage": 100
+    }
+  }
+]

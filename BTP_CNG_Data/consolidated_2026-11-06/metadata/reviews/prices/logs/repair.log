@@ -1,0 +1,44 @@
+{
+  "source_observations_before_dedup": 11718,
+  "canonical_source_observations": 11699,
+  "exact_source_claim_duplicates": 19,
+  "source_counts": {
+    "pngrb_prices": 10557,
+    "igl_chronology": 695,
+    "ggl_chronology": 145,
+    "mngl_history_0": 11,
+    "mngl_history_1": 30,
+    "mngl_history_2": 10,
+    "mngl_history_3": 78,
+    "mngl_history_4": 30,
+    "mngl_history_5": 30,
+    "mngl_history_6": 9,
+    "parliament_2010_floor": 11,
+    "parliament_2012_floor": 112
+  },
+  "pngrb_schema_repairs": 1208,
+  "pngrb_component_status": {
+    "within_0.05": 10523,
+    "conflict": 15
+  },
+  "igl_cell_status": {
+    "positive_numeric": 690,
+    "missing": 746,
+    "positive_numeric_string": 5,
+    "nonpositive_or_unknown_token": 71
+  },
+  "date_status": {
+    "unambiguous_numeric_source_date": 5301,
+    "ambiguous_or_invalid_numeric_date": 5228,
+    "unparsed_source_date": 12,
+    "exact_source_date": 937,
+    "explicit_source_footnote_overrides_row": 1,
+    "overnight_window_not_exact_day": 155,
+    "source_month_only": 45,
+    "midnight_day_unspecified": 18,
+    "source_mid_month_only": 2
+  },
+  "sources_verified_by_hash": 14,
+  "stage3_price_path_accepted": false,
+  "stage4_started": false
+}

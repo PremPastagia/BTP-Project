@@ -1,0 +1,97 @@
+STAGE 3 PRICE SOURCE REPAIR AND VERIFICATION — 6 NOVEMBER 2026
+
+Scope: source-level extraction repair, provenance, duplicate control and targeted
+corroboration. No Stage 4 monthly targets, EDA, lag features or models were created.
+All original project files were preserved.
+
+ACTUAL OUTPUT
+11,718 source claims before duplicate control; 11,699 canonical source claims.
+19 exact repeated PNGRB source rows were merged by source hash, geography, date,
+price and full raw cells. Every removed duplicate locator remains in the alias
+register. Component records reference the same canonical observation IDs.
+
+Canonical PNGRB snapshots: 10,538, March 2025–August 2026 across 18 source tables.
+IGL current-workbook prices: 695, not the earlier 690. Five positive prices stored
+as strings were correctly read at I41, I42, D87, M90 and P90. Ten zero cells,
+61 dash markers and 746 absent cells do not establish retail prices. No filling
+was used. The UPSRTC-specific and LNG sheets were not mixed into public CNG prices.
+GGL source prices: 145. Sale-not-commenced markers remain excluded records.
+MNGL source prices: 198, retaining CNG versus DPNG column separation and PMC/PCMC
+differences. Blank merged PCMC cells are not copied from PMC.
+Parliamentary interval claims: 123. Original date and price tokens were reconciled
+to source PDF pages. Their geographic assignment remains prior extraction evidence
+requiring manual review, rather than independently certified target paths.
+
+CRITICAL PNGRB REPAIR
+The original January 2026 and December 2025 HTML tables have a GA-ID header but
+omit that cell from every body row, appending a blank final cell. This source
+layout defect shifts operator, geography, state, date, retail price and components.
+1,208 rows were repaired. The previous audit's 1,207 count missed one row because
+its revision-date cell was blank rather than a date string.
+
+The repair inserts an explicitly blank GA ID; no ID is inferred from another month.
+For example, January 2026 Dewas/GAIL/Madhya Pradesh is INR96/kg, rather than the
+INR55.48/kg gas-cost cell previously misclassified as retail price. Independent
+verification also caught the missing-date Bastar row, whose retail INR87.71/kg
+had previously been mistaken for its INR65.60/kg component.
+
+Every table month is checked against the actual source heading, not inferred
+solely from table position. Original table headers and body layout classifications
+are retained in metadata/pngrb_table_schema.csv.
+
+QUALITY LIMITATIONS RETAINED
+- 15 PNGRB component arithmetic conflicts remain; they were not repaired using
+  invented values. 10,523 canonical rows satisfy basic price plus taxes within
+  INR0.05/kg. Agreement is arithmetic, not proof of source truth.
+- 12 canonical snapshots have unambiguous last-revision dates after their stated
+  snapshot month. Those contradictions remain explicit.
+- 5,228 canonical rows have ambiguous or invalid numeric dates. No arbitrary
+  day/month convention was applied. Unknown source dates remain unknown.
+- 155 MNGL rows retain overnight windows; 18 retain unspecified midnight wording.
+  The source's impossible 31 June dates remain unparsed rather than corrected.
+- Chronology publication dates are unknown. Retrospective source documents do
+  not establish historical predictor availability or complete price continuity.
+- Shared operators and named service markets must not be counted as independent
+  cities/operators. The coverage register reports endpoints, not continuity.
+
+TARGETED INDEPENDENT CORROBORATION
+Two publisher HTML originals were downloaded and checksummed; one NDTV403 failure
+was recorded. Offline reruns reuse saved bytes and do not repeatedly contact a
+blocked source.
+
+New Indian Express/PTI, 22 June2024: Delhi75.09, Noida79.70, Greater Noida79.70,
+Ghaziabad79.70 and Ajmer82.94 agree with IGL chronology for that effective date.
+These are five market claims in one event, not five independent events.
+
+Autocar, published10 April2023: Delhi73.59 agrees with the nearby IGL quote.
+Its reported Pune87.00 conflicts with MNGL's source chronology86.00 at the
+7th/8th April2023 row. The conflict and uncertain exact event timing are retained.
+No value was changed to manufacture agreement.
+
+The NIE visible article time and JSON-LD timezone interpretation disagree, so
+its exact publication timestamp requires review before any as-of H2 use.
+
+INDEPENDENT VERIFICATION
+verify_prices_independent.py imports no code from the repair implementation.
+It uses BeautifulSoup rather than lxml, an explicit alternative source-layout
+specification, Decimal arithmetic and independent worksheet cell enumeration.
+It reconciles all10,538 canonical PNGRB rows, all10,538 component rows, all695 IGL
+quotes, all14 original source hashes and component-to-observation foreign keys.
+A deliberately corrupted retail price is rejected. All structural/transcription
+checks pass. These checks do not certify economic source accuracy or authenticity.
+
+REPRODUCE
+python repair_prices.py
+python verify_prices_independent.py
+python corroborate_events.py
+Dependencies: lxml, openpyxl, pdfplumber, pypdf, python-dateutil, beautifulsoup4,
+requests. Original source paths/hashes are in metadata/source_manifest.csv.
+No collector overwrites original files. New receipts remain in
+metadata/corroboration_acquisitions.json.
+
+STAGE ACCEPTANCE POSITION
+Source-extraction repairs are verified and useful for consolidation. A final
+accepted multi-operator historical price path has not been certified. Resolve
+or explicitly scope out the Pune conflict, chronological timing uncertainties,
+geographic ambiguities and uncorroborated intervals before claiming Stage3 complete.
+Stage4 must not silently convert these source claims into accepted target labels.

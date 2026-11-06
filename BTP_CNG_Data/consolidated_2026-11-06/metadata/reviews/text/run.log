@@ -1,0 +1,13 @@
+{
+  "receipts": 24,
+  "retained_articles": 24,
+  "dated_articles": 23,
+  "aliases": [],
+  "stage3_complete": false,
+  "limitations": [
+    "Seed sample is not a representative historical news corpus",
+    "Publication metadata is a publisher claim, not independently proven original release time",
+    "Syndication and semantic duplication remain unclassified",
+    "No sentiment, collocations, event-volume features or modeling performed"
+  ]
+}

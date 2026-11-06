@@ -1,0 +1,80 @@
+BOUNDED SOURCE-SUPPORTED PRICE PATH REVIEW — 6 NOVEMBER 2026
+
+RESULT
+Useful bounded date-resolution source paths can be proposed for Delhi/Noida
+(IGL) and Lucknow/Agra/Unnao (Green Gas). They provide two source operators,
+but do not yet satisfy an unconditional accepted-data gate.
+
+The review creates287 source interval claims. Twelve intervals abut independently
+disputed GGL dates and are explicitly excluded from uncontested candidates.
+The remaining275 are documentary candidates, not researcher-approved target paths.
+No month-end target, TWAP, monthly join or EDA was computed.
+
+WHY THIS IS DIFFERENT FROM FILLING SPARSE SNAPSHOTS
+IGL's worksheet explicitly calls its event column Date of Revision. GGL's primary
+PDF declares Historical CNG prices from01.04.2019 onwards and labels Effective From.
+Interpreting a quoted tariff as applying until the next listed tariff event is
+supported by these chronology definitions. The ledger does not infer persistence
+from a PNGRB monthly snapshot or fill an unexplained missing market cell.
+
+IGL intervals use consecutive actual worksheet rows only, with positive quotes
+for the same market at both boundaries. A blank, zero, dash or invalid source
+boundary breaks the interval. No interpolation bridges such breaks. GGL intervals
+start after explicit sales commencement and preserve its Lucknow24July2026 footnote.
+Neither operator's final quote is extended beyond a subsequent source boundary.
+
+SOURCE INTERVAL COUNTS (ENDPOINTS DO NOT PROVE CONTINUOUS COVERAGE)
+Delhi:93 candidates, source range17June2010 to29August2026 exclusive, with gaps.
+Noida:84 candidates, same source endpoints, with gaps.
+Lucknow:39 source intervals,4 disputed-boundary exclusions,35 candidates.
+Agra:39 source intervals,4 disputed-boundary exclusions,35 candidates.
+Unnao:32 source intervals,4 disputed-boundary exclusions,28 candidates.
+GGL endpoints:1April2019 for Lucknow/Agra,6October2020 for Unnao,1November2026
+exclusive for all. Source commencement history has not been independently proved.
+
+NEW INDEPENDENT SOURCE REVIEW
+Three original publisher HTMLs were downloaded and checksummed. The source URLs,
+saved bytes and retrieval evidence are in bounded_path_review_acquisitions.csv.
+
+1. Jagran,9April2023: explicitly reports93.96/kg for Lucknow and says the new
+   rates apply Sunday, also naming Unnao/Agra. That is9April2023. GGL's PDF says
+   8April2023 for the93.96 row. Prices agree but effective calendar days conflict.
+2. Hindustan,5March2024: says new92.25/kg rates apply Wednesday06:00. With the
+   explicitly datedTuesday article, the calendar interpretation is6March2024.
+   GGL's PDF says7March2024. Again, prices agree but effective days conflict.
+3. Navbharat Times,16June2024: says94/kg applies Sunday06:00 for Lucknow,
+   Agra and Unnao. This agrees with the source16June calendar day and provides
+   an intraday time for this event. It does not certify every other event.
+
+No source was silently declared the winner. All intervals touching disputed
+8April2023 or7March2024 boundaries are flagged for exclusion pending source
+clarification, rather than repairing dates by preference.
+
+ACTUAL GATE CONSTRAINTS
+- Date-only event headers do not prove prices changed at midnight. New primary
+  reporting explicitly gives06:00 changes. A true continuous-time monthly TWAP
+  requires the relevant intraday times, or an explicitly approved date-resolution
+  estimand plus uncertainty/sensitivity treatment. The ledger assumes no midnight.
+- Unknown chronology publication dates remain unknown. A later workbook can
+  support retrospective label reconstruction but not establish that every lagged
+  price/predictor was available at a historical forecasting origin.
+- Documentary chronology completeness is a source assertion, not independent
+  verification that every revision was recorded. Selected event corroboration
+  is not an audit of every interval.
+- IGL source gaps remain. GGL known timing disagreements remain. Excluding Pune
+  avoids its86-versus87 price dispute, but does not resolve these other issues.
+- Multiple nearby cities serviced by one operator must not be treated as fully
+  independent price experiments; effective sample size remains a later assessment.
+
+SCIENTIFICALLY DEFENSIBLE NEXT DECISION
+The researcher could review a restricted source-based, date-resolution study with
+explicit interval exclusions and uncertainty, retaining H1/H2 feasibility limits.
+That is a transparent scope/estimand qualification requiring explicit acceptance.
+It must not be represented as a fully verified continuous-time historical path.
+Without that qualification or further event evidence, the unconditional Stage3
+price-acceptance gate remains unsatisfied. This review does not approve Stage4.
+
+REPRODUCTION
+Run Python on bounded_path_review_reproduce.txt. It produces only native source
+intervals, exclusions, source coverage counts and event-conflict records.
+Producer price files and original sources are unchanged.

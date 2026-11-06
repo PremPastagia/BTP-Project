@@ -1,0 +1,12 @@
+{
+  "checked_at": "2026-11-06T05:45:33.022796+00:00",
+  "bundle_records": 15,
+  "total_expected_bytes": 2536629330,
+  "probe_url": "https://chatgpt.com/library?file_id=libfile_9039c173bbc48191a386df93c15bb5ad&account_id=personal",
+  "authenticated_session_used": false,
+  "http_status": 200,
+  "final_url": "https://chatgpt.com/library?file_id=libfile_9039c173bbc48191a386df93c15bb5ad&account_id=personal",
+  "content_type": "text/html; charset=utf-8",
+  "zip_signature": false,
+  "status": "bundle_not_retrieved_no_public_zip_response"
+}

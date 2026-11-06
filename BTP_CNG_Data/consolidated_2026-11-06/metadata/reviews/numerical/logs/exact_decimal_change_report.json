@@ -1,0 +1,43 @@
+{
+  "changed_at": "2026-11-06T05:59:09.841005+00:00",
+  "reason": "Independent scientific review rejected12significant-digit numeric equivalence; exact reported numerical differences must remain visible.",
+  "new_equality": "Decimal(original_value_string), no normalize and no rounding context operation",
+  "preserved_prior_version": "logs/versions/before_exact_decimal",
+  "counts": {
+    "active_native_rows": {
+      "before": 47830,
+      "after": 47830
+    },
+    "unverified_candidate_rows": {
+      "before": 395,
+      "after": 395
+    },
+    "source_hashes_verified": {
+      "before": 241,
+      "after": 241
+    },
+    "duplicates_suppressed": {
+      "before": 8096,
+      "after": 8096
+    },
+    "conflicting_rows_excluded": {
+      "before": 44,
+      "after": 44
+    },
+    "missing_raw_rows_excluded": {
+      "before": 0,
+      "after": 0
+    },
+    "invalid_or_incomplete_rows_excluded": {
+      "before": 2,
+      "after": 2
+    }
+  },
+  "table_byte_equality": {
+    "structured/native_numerical_observations.csv": true,
+    "structured/unverified_transcription_candidates.csv": true,
+    "metadata/duplicate_aliases.csv": true,
+    "metadata/conflicts.csv": true
+  },
+  "independent_checks_passed": true
+}

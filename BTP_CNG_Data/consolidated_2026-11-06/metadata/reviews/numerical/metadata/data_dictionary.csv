@@ -1,0 +1,27 @@
+field,definition,missing_meaning
+family,Explicit source label or extraction metadata; consult original source and input origin.,unknown/not supplied; never interpreted as zero
+series,Explicit source label or extraction metadata; consult original source and input origin.,unknown/not supplied; never interpreted as zero
+geography,Explicit source label or extraction metadata; consult original source and input origin.,unknown/not supplied; never interpreted as zero
+frequency,Explicit source label or extraction metadata; consult original source and input origin.,unknown/not supplied; never interpreted as zero
+period,Explicit source label or extraction metadata; consult original source and input origin.,unknown/not supplied; never interpreted as zero
+period_end,Explicit source label or extraction metadata; consult original source and input origin.,unknown/not supplied; never interpreted as zero
+value,"Reported numerical value retained without interpolation, fill or frequency conversion.",unknown/not supplied; never interpreted as zero
+unit,Explicit source label or extraction metadata; consult original source and input origin.,unknown/not supplied; never interpreted as zero
+source_id,Explicit source label or extraction metadata; consult original source and input origin.,unknown/not supplied; never interpreted as zero
+source_url,Explicit source label or extraction metadata; consult original source and input origin.,unknown/not supplied; never interpreted as zero
+raw_sha256,"SHA256 of unchanged original source bytes, rechecked locally.",unknown/not supplied; never interpreted as zero
+raw_file,Existing original raw file path relative to ME BTP; no duplicate copies created.,unknown/not supplied; never interpreted as zero
+source_locator,Explicit source label or extraction metadata; consult original source and input origin.,unknown/not supplied; never interpreted as zero
+reference_period_raw,Explicit source label or extraction metadata; consult original source and input origin.,unknown/not supplied; never interpreted as zero
+effective_date,Explicit source label or extraction metadata; consult original source and input origin.,unknown/not supplied; never interpreted as zero
+effective_end_date,Explicit source label or extraction metadata; consult original source and input origin.,unknown/not supplied; never interpreted as zero
+publication_date,Source-recorded release/date claim only; blanks remain unknown.,unknown/not supplied; never interpreted as zero
+publication_basis,Explicit source label or extraction metadata; consult original source and input origin.,unknown/not supplied; never interpreted as zero
+retrieved_at,Explicit source label or extraction metadata; consult original source and input origin.,unknown/not supplied; never interpreted as zero
+value_status,Explicit source label or extraction metadata; consult original source and input origin.,unknown/not supplied; never interpreted as zero
+availability_status,Records whether a release-date claim exists; not certification of historical point-in-time usability.,unknown/not supplied; never interpreted as zero
+verification_status,Explicit source label or extraction metadata; consult original source and input origin.,unknown/not supplied; never interpreted as zero
+definition_note,Explicit source label or extraction metadata; consult original source and input origin.,unknown/not supplied; never interpreted as zero
+input_origins,JSON list of extracted input table hashes and original CSV row numbers.,unknown/not supplied; never interpreted as zero
+record_key,"SHA256 prefix of raw hash, variable, geography, native frequency/period, interval end, unit and effective date.",unknown/not supplied; never interpreted as zero
+observation_id,Source-version-aware identifier including reported value.,unknown/not supplied; never interpreted as zero

@@ -1,0 +1,26 @@
+{
+  "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/more-cuts-in-domestic-gas-supply-to-cng-firms-igl-says-to-impact-profitability/articleshow/115335321.cms",
+  "expected_sha256": "14a8b81d3eec4de784ad4b66b4d81978ea62c9e8f0dece7a6da748d12ed139a0",
+  "original_publication_claim": "2024-11-15T17:46:00+05:30",
+  "title_claim": "More cuts in domestic gas supply to CNG firms, IGL says to impact profitability",
+  "origin": "fresh",
+  "source_id": "TXT_6ac921e4e4b71e2d",
+  "source_path": "PROJECT_ROOT/BTP/BTP_CNG_Fresh_2026-11-06/text/raw/TXT_6ac921e4e4b71e2d.html",
+  "retrieved_sha256": "14a8b81d3eec4de784ad4b66b4d81978ea62c9e8f0dece7a6da748d12ed139a0",
+  "matches_previous_hash": true,
+  "retrieved_at": "",
+  "retrieval_method": "reused_existing_exact_hash",
+  "title": "More cuts in domestic gas supply to CNG firms, IGL says to impact profitability - The Economic Times",
+  "publication_date": "2024-11-15T17:46:00+05:30",
+  "publication_date_claims": [
+    [
+      "JSON-LD datePublished",
+      "2024-11-15T17:46:00+05:30"
+    ]
+  ],
+  "date_status": "publisher_date_claim_preserved",
+  "status": "retained_public_html",
+  "historical_availability_status": "publisher_claim_not_independent_archive_verification",
+  "redistribution_license": "not_established_no_public_full_text_release",
+  "synthetic": false
+}

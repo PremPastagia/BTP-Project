@@ -1,0 +1,12 @@
+{
+  "generated_at": "2026-11-06T05:48:04.034130+00:00",
+  "targeted_missing_unique_hashes": 330,
+  "status_counts": {
+    "recovered_exact_hash": 327,
+    "rejected_unreadable_pdf": 3
+  },
+  "recovered_exact_distinct_hashes": 327,
+  "remaining_expected_unique_hashes": 3,
+  "semantic_table_extraction_not_claimed": true,
+  "stage3_complete": false
+}

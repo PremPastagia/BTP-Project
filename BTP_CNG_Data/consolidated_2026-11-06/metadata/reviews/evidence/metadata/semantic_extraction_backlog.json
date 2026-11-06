@@ -1,0 +1,20 @@
+{
+  "generated_at": "2026-11-06T05:57:35.289502+00:00",
+  "distinct_pdf_count": 761,
+  "document_category_counts": {
+    "PNGRB_MIS_progress_pipeline_and_bulletins": 114,
+    "PPAC_gas_price_notifications": 108,
+    "PPAC_reports_and_ready_reckoners": 301,
+    "operator_price_histories_or_other_documents": 17,
+    "corporate_reports_and_disclosures": 185,
+    "parliamentary_evidence": 1,
+    "MoPNG_policy_and_guidelines": 32,
+    "other_official_or_operator_reports": 3
+  },
+  "pdfs_with_native_extraction_record": 709,
+  "native_text_available": 640,
+  "native_text_empty_requires_OCR": 69,
+  "pdfs_without_recreated_native_text_record": 52,
+  "semantic_completion_status": "Not certified by recovery; downstream fact extraction/review must report document/page-specific evidence.",
+  "publication_timing": "Corporate public release timing remains unknown; no dates inferred."
+}

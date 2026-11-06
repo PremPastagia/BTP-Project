@@ -1,0 +1,10 @@
+{
+  "generated_at": "2026-11-06T05:48:12.304928+00:00",
+  "targeted_unique_hashes": 55,
+  "status_counts": {
+    "recovered_exact_hash": 17,
+    "retrieved_different_version": 34,
+    "failed": 4
+  },
+  "claim_limit": "Different byte versions are not restored historical evidence. HTML access evidence is not a numerical dataset."
+}

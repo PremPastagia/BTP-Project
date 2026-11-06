@@ -1,0 +1,25 @@
+{
+  "generated_at": "2026-11-06T05:55:19.975894+00:00",
+  "main_commit": "4d4959cc5659c34989a32cc1902622b28a47e429",
+  "pr1_commit": "5e57b0ed4867bca25461c1e3211f11796a1c76f4",
+  "normalized_receipts": 1382,
+  "receipt_counts_by_collection": {
+    "github_pr1": 831,
+    "github_main": 551
+  },
+  "distinct_expected_source_hashes": 856,
+  "exact_original_source_hashes_available": 796,
+  "unrecovered_original_source_hashes": 60,
+  "distinct_expected_pdf_hashes": 761,
+  "exact_pdf_hashes_available": 761,
+  "poppler_pdf_failures": 0,
+  "parser_disagreement_hashes": 3,
+  "new_content_addressed_object_files": 1188,
+  "new_object_hash_failures": 0,
+  "pr1_bundle_expected_unique_hashes": 1453,
+  "pr1_bundle_hashes_locally_available": 1214,
+  "pr1_bundle_hashes_still_missing": 239,
+  "publication_dates_inferred": 0,
+  "stage3_complete": false,
+  "claim_limit": "This is file recovery and provenance reconciliation, not full semantic data validation. Three malformed-trailer PDFs need Poppler or explicit exclusion; changed HTML does not restore prior versions."
+}

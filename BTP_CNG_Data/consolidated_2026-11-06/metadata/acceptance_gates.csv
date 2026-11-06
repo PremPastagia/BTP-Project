@@ -1,0 +1,10 @@
+gate,status,evidence
+G01_original_identity,pass,All available source objects copied once per SHA256 and rehashed.
+G02_structured_lineage,pass,All exported observation/document source hashes resolve to retained raw objects.
+G03_independent_engineering_checks,pass,See module checks and independent scientific review receipts.
+G04_synthetic_exclusion,pass,"No fabricated observations, filled missing targets, lags or invented vehicle series imported."
+G05_verified_price_paths,blocked,All415source-marketcoverageentries remain uncertified complete paths; ambiguous dates and Pune conflict remain.
+G06_forecast_origin_information,blocked,Historical publication/release vintages remain unknown for many numerical inputs and corporate documents.
+G07_semantic_extraction,blocked,Recovered document volume does not equal verified factor extraction; OCR and review queue remain.
+G08_researcher_acceptance,pending,"Researcher must review exclusions, bounded market/period scope and accepted snapshot before Stage4."
+G09_stage4,not_started,"No accepted Stage3 snapshot; no preprocessing,EDA,features or models performed."

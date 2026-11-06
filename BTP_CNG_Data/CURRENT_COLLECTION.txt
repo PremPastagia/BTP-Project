@@ -1,0 +1,5 @@
+The root structured tables and older reports are preserved legacy artifacts.
+They must not be interpreted as accepted or model-ready data.
+The current reviewed repair candidate is consolidated_2026-11-06/.
+Read its STAGE3_CHECKPOINT_REPORT.txt and acceptance gates before proceeding.
+Stage3 is not accepted; Stage4 has not begun.

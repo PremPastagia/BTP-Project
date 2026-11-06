@@ -1,0 +1,1513 @@
+source_id,source_locator,geography_name,raw_value,source_date_raw,effective_date,value_class
+igl_chronology,CNG Price!C5,Delhi,27.5,17.06.10,2010-06-17,positive_numeric
+igl_chronology,CNG Price!D5,Noida,30.6,17.06.10,2010-06-17,positive_numeric
+igl_chronology,CNG Price!E5,G Noida,,17.06.10,2010-06-17,missing
+igl_chronology,CNG Price!F5,Ghaziabad,,17.06.10,2010-06-17,missing
+igl_chronology,CNG Price!G5,Ghaziabad DM-1&2,,17.06.10,2010-06-17,missing
+igl_chronology,CNG Price!H5,Hapur,,17.06.10,2010-06-17,missing
+igl_chronology,CNG Price!I5,Rewari,,17.06.10,2010-06-17,missing
+igl_chronology,CNG Price!J5,Gurugram,,17.06.10,2010-06-17,missing
+igl_chronology,CNG Price!K5,Karnal,,17.06.10,2010-06-17,missing
+igl_chronology,CNG Price!L5,Kaithal,,17.06.10,2010-06-17,missing
+igl_chronology,CNG Price!M5,Muzaffar Nagar,,17.06.10,2010-06-17,missing
+igl_chronology,CNG Price!N5,Kanpur,,17.06.10,2010-06-17,missing
+igl_chronology,CNG Price!O5,Ajmer,,17.06.10,2010-06-17,missing
+igl_chronology,CNG Price!P5,Banda,,17.06.10,2010-06-17,missing
+igl_chronology,CNG Price!C6,Delhi,27.75,01.10.10,2010-10-01,positive_numeric
+igl_chronology,CNG Price!D6,Noida,31,01.10.10,2010-10-01,positive_numeric
+igl_chronology,CNG Price!E6,G Noida,,01.10.10,2010-10-01,missing
+igl_chronology,CNG Price!F6,Ghaziabad,,01.10.10,2010-10-01,missing
+igl_chronology,CNG Price!G6,Ghaziabad DM-1&2,,01.10.10,2010-10-01,missing
+igl_chronology,CNG Price!H6,Hapur,,01.10.10,2010-10-01,missing
+igl_chronology,CNG Price!I6,Rewari,,01.10.10,2010-10-01,missing
+igl_chronology,CNG Price!J6,Gurugram,,01.10.10,2010-10-01,missing
+igl_chronology,CNG Price!K6,Karnal,,01.10.10,2010-10-01,missing
+igl_chronology,CNG Price!L6,Kaithal,,01.10.10,2010-10-01,missing
+igl_chronology,CNG Price!M6,Muzaffar Nagar,,01.10.10,2010-10-01,missing
+igl_chronology,CNG Price!N6,Kanpur,,01.10.10,2010-10-01,missing
+igl_chronology,CNG Price!O6,Ajmer,,01.10.10,2010-10-01,missing
+igl_chronology,CNG Price!P6,Banda,,01.10.10,2010-10-01,missing
+igl_chronology,CNG Price!C7,Delhi,29,02.01.11,2011-01-02,positive_numeric
+igl_chronology,CNG Price!D7,Noida,32.5,02.01.11,2011-01-02,positive_numeric
+igl_chronology,CNG Price!E7,G Noida,,02.01.11,2011-01-02,missing
+igl_chronology,CNG Price!F7,Ghaziabad,,02.01.11,2011-01-02,missing
+igl_chronology,CNG Price!G7,Ghaziabad DM-1&2,,02.01.11,2011-01-02,missing
+igl_chronology,CNG Price!H7,Hapur,,02.01.11,2011-01-02,missing
+igl_chronology,CNG Price!I7,Rewari,,02.01.11,2011-01-02,missing
+igl_chronology,CNG Price!J7,Gurugram,,02.01.11,2011-01-02,missing
+igl_chronology,CNG Price!K7,Karnal,,02.01.11,2011-01-02,missing
+igl_chronology,CNG Price!L7,Kaithal,,02.01.11,2011-01-02,missing
+igl_chronology,CNG Price!M7,Muzaffar Nagar,,02.01.11,2011-01-02,missing
+igl_chronology,CNG Price!N7,Kanpur,,02.01.11,2011-01-02,missing
+igl_chronology,CNG Price!O7,Ajmer,,02.01.11,2011-01-02,missing
+igl_chronology,CNG Price!P7,Banda,,02.01.11,2011-01-02,missing
+igl_chronology,CNG Price!C8,Delhi,29.3,02.04.11,2011-04-02,positive_numeric
+igl_chronology,CNG Price!D8,Noida,32.85,02.04.11,2011-04-02,positive_numeric
+igl_chronology,CNG Price!E8,G Noida,,02.04.11,2011-04-02,missing
+igl_chronology,CNG Price!F8,Ghaziabad,,02.04.11,2011-04-02,missing
+igl_chronology,CNG Price!G8,Ghaziabad DM-1&2,,02.04.11,2011-04-02,missing
+igl_chronology,CNG Price!H8,Hapur,,02.04.11,2011-04-02,missing
+igl_chronology,CNG Price!I8,Rewari,,02.04.11,2011-04-02,missing
+igl_chronology,CNG Price!J8,Gurugram,,02.04.11,2011-04-02,missing
+igl_chronology,CNG Price!K8,Karnal,,02.04.11,2011-04-02,missing
+igl_chronology,CNG Price!L8,Kaithal,,02.04.11,2011-04-02,missing
+igl_chronology,CNG Price!M8,Muzaffar Nagar,,02.04.11,2011-04-02,missing
+igl_chronology,CNG Price!N8,Kanpur,,02.04.11,2011-04-02,missing
+igl_chronology,CNG Price!O8,Ajmer,,02.04.11,2011-04-02,missing
+igl_chronology,CNG Price!P8,Banda,,02.04.11,2011-04-02,missing
+igl_chronology,CNG Price!C9,Delhi,29.8,06.06.11,2011-06-06,positive_numeric
+igl_chronology,CNG Price!D9,Noida,33.4,06.06.11,2011-06-06,positive_numeric
+igl_chronology,CNG Price!E9,G Noida,,06.06.11,2011-06-06,missing
+igl_chronology,CNG Price!F9,Ghaziabad,,06.06.11,2011-06-06,missing
+igl_chronology,CNG Price!G9,Ghaziabad DM-1&2,,06.06.11,2011-06-06,missing
+igl_chronology,CNG Price!H9,Hapur,,06.06.11,2011-06-06,missing
+igl_chronology,CNG Price!I9,Rewari,,06.06.11,2011-06-06,missing
+igl_chronology,CNG Price!J9,Gurugram,,06.06.11,2011-06-06,missing
+igl_chronology,CNG Price!K9,Karnal,,06.06.11,2011-06-06,missing
+igl_chronology,CNG Price!L9,Kaithal,,06.06.11,2011-06-06,missing
+igl_chronology,CNG Price!M9,Muzaffar Nagar,,06.06.11,2011-06-06,missing
+igl_chronology,CNG Price!N9,Kanpur,,06.06.11,2011-06-06,missing
+igl_chronology,CNG Price!O9,Ajmer,,06.06.11,2011-06-06,missing
+igl_chronology,CNG Price!P9,Banda,,06.06.11,2011-06-06,missing
+igl_chronology,CNG Price!C10,Delhi,30,15.08.11,2011-08-15,positive_numeric
+igl_chronology,CNG Price!D10,Noida,33.6,15.08.11,2011-08-15,positive_numeric
+igl_chronology,CNG Price!E10,G Noida,,15.08.11,2011-08-15,missing
+igl_chronology,CNG Price!F10,Ghaziabad,,15.08.11,2011-08-15,missing
+igl_chronology,CNG Price!G10,Ghaziabad DM-1&2,,15.08.11,2011-08-15,missing
+igl_chronology,CNG Price!H10,Hapur,,15.08.11,2011-08-15,missing
+igl_chronology,CNG Price!I10,Rewari,,15.08.11,2011-08-15,missing
+igl_chronology,CNG Price!J10,Gurugram,,15.08.11,2011-08-15,missing
+igl_chronology,CNG Price!K10,Karnal,,15.08.11,2011-08-15,missing
+igl_chronology,CNG Price!L10,Kaithal,,15.08.11,2011-08-15,missing
+igl_chronology,CNG Price!M10,Muzaffar Nagar,,15.08.11,2011-08-15,missing
+igl_chronology,CNG Price!N10,Kanpur,,15.08.11,2011-08-15,missing
+igl_chronology,CNG Price!O10,Ajmer,,15.08.11,2011-08-15,missing
+igl_chronology,CNG Price!P10,Banda,,15.08.11,2011-08-15,missing
+igl_chronology,CNG Price!C11,Delhi,32,01.10.11,2011-10-01,positive_numeric
+igl_chronology,CNG Price!D11,Noida,35.9,01.10.11,2011-10-01,positive_numeric
+igl_chronology,CNG Price!E11,G Noida,,01.10.11,2011-10-01,missing
+igl_chronology,CNG Price!F11,Ghaziabad,,01.10.11,2011-10-01,missing
+igl_chronology,CNG Price!G11,Ghaziabad DM-1&2,,01.10.11,2011-10-01,missing
+igl_chronology,CNG Price!H11,Hapur,,01.10.11,2011-10-01,missing
+igl_chronology,CNG Price!I11,Rewari,,01.10.11,2011-10-01,missing
+igl_chronology,CNG Price!J11,Gurugram,,01.10.11,2011-10-01,missing
+igl_chronology,CNG Price!K11,Karnal,,01.10.11,2011-10-01,missing
+igl_chronology,CNG Price!L11,Kaithal,,01.10.11,2011-10-01,missing
+igl_chronology,CNG Price!M11,Muzaffar Nagar,,01.10.11,2011-10-01,missing
+igl_chronology,CNG Price!N11,Kanpur,,01.10.11,2011-10-01,missing
+igl_chronology,CNG Price!O11,Ajmer,,01.10.11,2011-10-01,missing
+igl_chronology,CNG Price!P11,Banda,,01.10.11,2011-10-01,missing
+igl_chronology,CNG Price!C12,Delhi,33.75,01.01.12,2012-01-01,positive_numeric
+igl_chronology,CNG Price!D12,Noida,37.9,01.01.12,2012-01-01,positive_numeric
+igl_chronology,CNG Price!E12,G Noida,,01.01.12,2012-01-01,missing
+igl_chronology,CNG Price!F12,Ghaziabad,,01.01.12,2012-01-01,missing
+igl_chronology,CNG Price!G12,Ghaziabad DM-1&2,,01.01.12,2012-01-01,missing
+igl_chronology,CNG Price!H12,Hapur,,01.01.12,2012-01-01,missing
+igl_chronology,CNG Price!I12,Rewari,,01.01.12,2012-01-01,missing
+igl_chronology,CNG Price!J12,Gurugram,,01.01.12,2012-01-01,missing
+igl_chronology,CNG Price!K12,Karnal,,01.01.12,2012-01-01,missing
+igl_chronology,CNG Price!L12,Kaithal,,01.01.12,2012-01-01,missing
+igl_chronology,CNG Price!M12,Muzaffar Nagar,,01.01.12,2012-01-01,missing
+igl_chronology,CNG Price!N12,Kanpur,,01.01.12,2012-01-01,missing
+igl_chronology,CNG Price!O12,Ajmer,,01.01.12,2012-01-01,missing
+igl_chronology,CNG Price!P12,Banda,,01.01.12,2012-01-01,missing
+igl_chronology,CNG Price!C13,Delhi,35.45,06.03.12,2012-03-06,positive_numeric
+igl_chronology,CNG Price!D13,Noida,39.8,06.03.12,2012-03-06,positive_numeric
+igl_chronology,CNG Price!E13,G Noida,,06.03.12,2012-03-06,missing
+igl_chronology,CNG Price!F13,Ghaziabad,,06.03.12,2012-03-06,missing
+igl_chronology,CNG Price!G13,Ghaziabad DM-1&2,,06.03.12,2012-03-06,missing
+igl_chronology,CNG Price!H13,Hapur,,06.03.12,2012-03-06,missing
+igl_chronology,CNG Price!I13,Rewari,,06.03.12,2012-03-06,missing
+igl_chronology,CNG Price!J13,Gurugram,,06.03.12,2012-03-06,missing
+igl_chronology,CNG Price!K13,Karnal,,06.03.12,2012-03-06,missing
+igl_chronology,CNG Price!L13,Kaithal,,06.03.12,2012-03-06,missing
+igl_chronology,CNG Price!M13,Muzaffar Nagar,,06.03.12,2012-03-06,missing
+igl_chronology,CNG Price!N13,Kanpur,,06.03.12,2012-03-06,missing
+igl_chronology,CNG Price!O13,Ajmer,,06.03.12,2012-03-06,missing
+igl_chronology,CNG Price!P13,Banda,,06.03.12,2012-03-06,missing
+igl_chronology,CNG Price!C14,Delhi,42.8,07.07.12,2012-07-07,positive_numeric
+igl_chronology,CNG Price!D14,Noida,43.1,07.07.12,2012-07-07,positive_numeric
+igl_chronology,CNG Price!E14,G Noida,,07.07.12,2012-07-07,missing
+igl_chronology,CNG Price!F14,Ghaziabad,,07.07.12,2012-07-07,missing
+igl_chronology,CNG Price!G14,Ghaziabad DM-1&2,,07.07.12,2012-07-07,missing
+igl_chronology,CNG Price!H14,Hapur,,07.07.12,2012-07-07,missing
+igl_chronology,CNG Price!I14,Rewari,,07.07.12,2012-07-07,missing
+igl_chronology,CNG Price!J14,Gurugram,,07.07.12,2012-07-07,missing
+igl_chronology,CNG Price!K14,Karnal,,07.07.12,2012-07-07,missing
+igl_chronology,CNG Price!L14,Kaithal,,07.07.12,2012-07-07,missing
+igl_chronology,CNG Price!M14,Muzaffar Nagar,,07.07.12,2012-07-07,missing
+igl_chronology,CNG Price!N14,Kanpur,,07.07.12,2012-07-07,missing
+igl_chronology,CNG Price!O14,Ajmer,,07.07.12,2012-07-07,missing
+igl_chronology,CNG Price!P14,Banda,,07.07.12,2012-07-07,missing
+igl_chronology,CNG Price!C15,Delhi,39.9,05.01.13,2013-01-05,positive_numeric
+igl_chronology,CNG Price!D15,Noida,45.1,05.01.13,2013-01-05,positive_numeric
+igl_chronology,CNG Price!E15,G Noida,,05.01.13,2013-01-05,missing
+igl_chronology,CNG Price!F15,Ghaziabad,,05.01.13,2013-01-05,missing
+igl_chronology,CNG Price!G15,Ghaziabad DM-1&2,,05.01.13,2013-01-05,missing
+igl_chronology,CNG Price!H15,Hapur,,05.01.13,2013-01-05,missing
+igl_chronology,CNG Price!I15,Rewari,,05.01.13,2013-01-05,missing
+igl_chronology,CNG Price!J15,Gurugram,,05.01.13,2013-01-05,missing
+igl_chronology,CNG Price!K15,Karnal,,05.01.13,2013-01-05,missing
+igl_chronology,CNG Price!L15,Kaithal,,05.01.13,2013-01-05,missing
+igl_chronology,CNG Price!M15,Muzaffar Nagar,,05.01.13,2013-01-05,missing
+igl_chronology,CNG Price!N15,Kanpur,,05.01.13,2013-01-05,missing
+igl_chronology,CNG Price!O15,Ajmer,,05.01.13,2013-01-05,missing
+igl_chronology,CNG Price!P15,Banda,,05.01.13,2013-01-05,missing
+igl_chronology,CNG Price!C16,Delhi,41.9,25.06.13,2013-06-25,positive_numeric
+igl_chronology,CNG Price!D16,Noida,47.35,25.06.13,2013-06-25,positive_numeric
+igl_chronology,CNG Price!E16,G Noida,,25.06.13,2013-06-25,missing
+igl_chronology,CNG Price!F16,Ghaziabad,,25.06.13,2013-06-25,missing
+igl_chronology,CNG Price!G16,Ghaziabad DM-1&2,,25.06.13,2013-06-25,missing
+igl_chronology,CNG Price!H16,Hapur,,25.06.13,2013-06-25,missing
+igl_chronology,CNG Price!I16,Rewari,,25.06.13,2013-06-25,missing
+igl_chronology,CNG Price!J16,Gurugram,,25.06.13,2013-06-25,missing
+igl_chronology,CNG Price!K16,Karnal,,25.06.13,2013-06-25,missing
+igl_chronology,CNG Price!L16,Kaithal,,25.06.13,2013-06-25,missing
+igl_chronology,CNG Price!M16,Muzaffar Nagar,,25.06.13,2013-06-25,missing
+igl_chronology,CNG Price!N16,Kanpur,,25.06.13,2013-06-25,missing
+igl_chronology,CNG Price!O16,Ajmer,,25.06.13,2013-06-25,missing
+igl_chronology,CNG Price!P16,Banda,,25.06.13,2013-06-25,missing
+igl_chronology,CNG Price!C17,Delhi,45.6,08.09.13,2013-09-08,positive_numeric
+igl_chronology,CNG Price!D17,Noida,51.55,08.09.13,2013-09-08,positive_numeric
+igl_chronology,CNG Price!E17,G Noida,,08.09.13,2013-09-08,missing
+igl_chronology,CNG Price!F17,Ghaziabad,,08.09.13,2013-09-08,missing
+igl_chronology,CNG Price!G17,Ghaziabad DM-1&2,,08.09.13,2013-09-08,missing
+igl_chronology,CNG Price!H17,Hapur,,08.09.13,2013-09-08,missing
+igl_chronology,CNG Price!I17,Rewari,,08.09.13,2013-09-08,missing
+igl_chronology,CNG Price!J17,Gurugram,,08.09.13,2013-09-08,missing
+igl_chronology,CNG Price!K17,Karnal,,08.09.13,2013-09-08,missing
+igl_chronology,CNG Price!L17,Kaithal,,08.09.13,2013-09-08,missing
+igl_chronology,CNG Price!M17,Muzaffar Nagar,,08.09.13,2013-09-08,missing
+igl_chronology,CNG Price!N17,Kanpur,,08.09.13,2013-09-08,missing
+igl_chronology,CNG Price!O17,Ajmer,,08.09.13,2013-09-08,missing
+igl_chronology,CNG Price!P17,Banda,,08.09.13,2013-09-08,missing
+igl_chronology,CNG Price!C18,Delhi,50.1,27.12.13,2013-12-27,positive_numeric
+igl_chronology,CNG Price!D18,Noida,56.7,27.12.13,2013-12-27,positive_numeric
+igl_chronology,CNG Price!E18,G Noida,,27.12.13,2013-12-27,missing
+igl_chronology,CNG Price!F18,Ghaziabad,,27.12.13,2013-12-27,missing
+igl_chronology,CNG Price!G18,Ghaziabad DM-1&2,,27.12.13,2013-12-27,missing
+igl_chronology,CNG Price!H18,Hapur,,27.12.13,2013-12-27,missing
+igl_chronology,CNG Price!I18,Rewari,,27.12.13,2013-12-27,missing
+igl_chronology,CNG Price!J18,Gurugram,,27.12.13,2013-12-27,missing
+igl_chronology,CNG Price!K18,Karnal,,27.12.13,2013-12-27,missing
+igl_chronology,CNG Price!L18,Kaithal,,27.12.13,2013-12-27,missing
+igl_chronology,CNG Price!M18,Muzaffar Nagar,,27.12.13,2013-12-27,missing
+igl_chronology,CNG Price!N18,Kanpur,,27.12.13,2013-12-27,missing
+igl_chronology,CNG Price!O18,Ajmer,,27.12.13,2013-12-27,missing
+igl_chronology,CNG Price!P18,Banda,,27.12.13,2013-12-27,missing
+igl_chronology,CNG Price!C19,Delhi,35.2,08.02.14,2014-02-08,positive_numeric
+igl_chronology,CNG Price!D19,Noida,40.15,08.02.14,2014-02-08,positive_numeric
+igl_chronology,CNG Price!E19,G Noida,,08.02.14,2014-02-08,missing
+igl_chronology,CNG Price!F19,Ghaziabad,,08.02.14,2014-02-08,missing
+igl_chronology,CNG Price!G19,Ghaziabad DM-1&2,,08.02.14,2014-02-08,missing
+igl_chronology,CNG Price!H19,Hapur,,08.02.14,2014-02-08,missing
+igl_chronology,CNG Price!I19,Rewari,,08.02.14,2014-02-08,missing
+igl_chronology,CNG Price!J19,Gurugram,,08.02.14,2014-02-08,missing
+igl_chronology,CNG Price!K19,Karnal,,08.02.14,2014-02-08,missing
+igl_chronology,CNG Price!L19,Kaithal,,08.02.14,2014-02-08,missing
+igl_chronology,CNG Price!M19,Muzaffar Nagar,,08.02.14,2014-02-08,missing
+igl_chronology,CNG Price!N19,Kanpur,,08.02.14,2014-02-08,missing
+igl_chronology,CNG Price!O19,Ajmer,,08.02.14,2014-02-08,missing
+igl_chronology,CNG Price!P19,Banda,,08.02.14,2014-02-08,missing
+igl_chronology,CNG Price!C20,Delhi,38.15,03.05.14,2014-05-03,positive_numeric
+igl_chronology,CNG Price!D20,Noida,43.5,03.05.14,2014-05-03,positive_numeric
+igl_chronology,CNG Price!E20,G Noida,,03.05.14,2014-05-03,missing
+igl_chronology,CNG Price!F20,Ghaziabad,,03.05.14,2014-05-03,missing
+igl_chronology,CNG Price!G20,Ghaziabad DM-1&2,,03.05.14,2014-05-03,missing
+igl_chronology,CNG Price!H20,Hapur,,03.05.14,2014-05-03,missing
+igl_chronology,CNG Price!I20,Rewari,,03.05.14,2014-05-03,missing
+igl_chronology,CNG Price!J20,Gurugram,,03.05.14,2014-05-03,missing
+igl_chronology,CNG Price!K20,Karnal,,03.05.14,2014-05-03,missing
+igl_chronology,CNG Price!L20,Kaithal,,03.05.14,2014-05-03,missing
+igl_chronology,CNG Price!M20,Muzaffar Nagar,,03.05.14,2014-05-03,missing
+igl_chronology,CNG Price!N20,Kanpur,,03.05.14,2014-05-03,missing
+igl_chronology,CNG Price!O20,Ajmer,,03.05.14,2014-05-03,missing
+igl_chronology,CNG Price!P20,Banda,,03.05.14,2014-05-03,missing
+igl_chronology,CNG Price!C21,Delhi,37.55,02.04.15,2015-04-02,positive_numeric
+igl_chronology,CNG Price!D21,Noida,42.8,02.04.15,2015-04-02,positive_numeric
+igl_chronology,CNG Price!E21,G Noida,,02.04.15,2015-04-02,missing
+igl_chronology,CNG Price!F21,Ghaziabad,,02.04.15,2015-04-02,missing
+igl_chronology,CNG Price!G21,Ghaziabad DM-1&2,,02.04.15,2015-04-02,missing
+igl_chronology,CNG Price!H21,Hapur,,02.04.15,2015-04-02,missing
+igl_chronology,CNG Price!I21,Rewari,,02.04.15,2015-04-02,missing
+igl_chronology,CNG Price!J21,Gurugram,,02.04.15,2015-04-02,missing
+igl_chronology,CNG Price!K21,Karnal,,02.04.15,2015-04-02,missing
+igl_chronology,CNG Price!L21,Kaithal,,02.04.15,2015-04-02,missing
+igl_chronology,CNG Price!M21,Muzaffar Nagar,,02.04.15,2015-04-02,missing
+igl_chronology,CNG Price!N21,Kanpur,,02.04.15,2015-04-02,missing
+igl_chronology,CNG Price!O21,Ajmer,,02.04.15,2015-04-02,missing
+igl_chronology,CNG Price!P21,Banda,,02.04.15,2015-04-02,missing
+igl_chronology,CNG Price!C22,Delhi,38,16.05.15,2015-05-16,positive_numeric
+igl_chronology,CNG Price!D22,Noida,43.3,16.05.15,2015-05-16,positive_numeric
+igl_chronology,CNG Price!E22,G Noida,,16.05.15,2015-05-16,missing
+igl_chronology,CNG Price!F22,Ghaziabad,,16.05.15,2015-05-16,missing
+igl_chronology,CNG Price!G22,Ghaziabad DM-1&2,,16.05.15,2015-05-16,missing
+igl_chronology,CNG Price!H22,Hapur,,16.05.15,2015-05-16,missing
+igl_chronology,CNG Price!I22,Rewari,,16.05.15,2015-05-16,missing
+igl_chronology,CNG Price!J22,Gurugram,,16.05.15,2015-05-16,missing
+igl_chronology,CNG Price!K22,Karnal,,16.05.15,2015-05-16,missing
+igl_chronology,CNG Price!L22,Kaithal,,16.05.15,2015-05-16,missing
+igl_chronology,CNG Price!M22,Muzaffar Nagar,,16.05.15,2015-05-16,missing
+igl_chronology,CNG Price!N22,Kanpur,,16.05.15,2015-05-16,missing
+igl_chronology,CNG Price!O22,Ajmer,,16.05.15,2015-05-16,missing
+igl_chronology,CNG Price!P22,Banda,,16.05.15,2015-05-16,missing
+igl_chronology,CNG Price!C23,Delhi,38,05.09.15,2015-09-05,positive_numeric
+igl_chronology,CNG Price!D23,Noida,43.5,05.09.15,2015-09-05,positive_numeric
+igl_chronology,CNG Price!E23,G Noida,,05.09.15,2015-09-05,missing
+igl_chronology,CNG Price!F23,Ghaziabad,,05.09.15,2015-09-05,missing
+igl_chronology,CNG Price!G23,Ghaziabad DM-1&2,,05.09.15,2015-09-05,missing
+igl_chronology,CNG Price!H23,Hapur,,05.09.15,2015-09-05,missing
+igl_chronology,CNG Price!I23,Rewari,,05.09.15,2015-09-05,missing
+igl_chronology,CNG Price!J23,Gurugram,,05.09.15,2015-09-05,missing
+igl_chronology,CNG Price!K23,Karnal,,05.09.15,2015-09-05,missing
+igl_chronology,CNG Price!L23,Kaithal,,05.09.15,2015-09-05,missing
+igl_chronology,CNG Price!M23,Muzaffar Nagar,,05.09.15,2015-09-05,missing
+igl_chronology,CNG Price!N23,Kanpur,,05.09.15,2015-09-05,missing
+igl_chronology,CNG Price!O23,Ajmer,,05.09.15,2015-09-05,missing
+igl_chronology,CNG Price!P23,Banda,,05.09.15,2015-09-05,missing
+igl_chronology,CNG Price!C24,Delhi,37.2,02.10.15,2015-10-02,positive_numeric
+igl_chronology,CNG Price!D24,Noida,42.6,02.10.15,2015-10-02,positive_numeric
+igl_chronology,CNG Price!E24,G Noida,,02.10.15,2015-10-02,missing
+igl_chronology,CNG Price!F24,Ghaziabad,,02.10.15,2015-10-02,missing
+igl_chronology,CNG Price!G24,Ghaziabad DM-1&2,,02.10.15,2015-10-02,missing
+igl_chronology,CNG Price!H24,Hapur,,02.10.15,2015-10-02,missing
+igl_chronology,CNG Price!I24,Rewari,,02.10.15,2015-10-02,missing
+igl_chronology,CNG Price!J24,Gurugram,,02.10.15,2015-10-02,missing
+igl_chronology,CNG Price!K24,Karnal,,02.10.15,2015-10-02,missing
+igl_chronology,CNG Price!L24,Kaithal,,02.10.15,2015-10-02,missing
+igl_chronology,CNG Price!M24,Muzaffar Nagar,,02.10.15,2015-10-02,missing
+igl_chronology,CNG Price!N24,Kanpur,,02.10.15,2015-10-02,missing
+igl_chronology,CNG Price!O24,Ajmer,,02.10.15,2015-10-02,missing
+igl_chronology,CNG Price!P24,Banda,,02.10.15,2015-10-02,missing
+igl_chronology,CNG Price!C25,Delhi,36.6,02.04.16,2016-04-02,positive_numeric
+igl_chronology,CNG Price!D25,Noida,41.9,02.04.16,2016-04-02,positive_numeric
+igl_chronology,CNG Price!E25,G Noida,,02.04.16,2016-04-02,missing
+igl_chronology,CNG Price!F25,Ghaziabad,,02.04.16,2016-04-02,missing
+igl_chronology,CNG Price!G25,Ghaziabad DM-1&2,,02.04.16,2016-04-02,missing
+igl_chronology,CNG Price!H25,Hapur,,02.04.16,2016-04-02,missing
+igl_chronology,CNG Price!I25,Rewari,,02.04.16,2016-04-02,missing
+igl_chronology,CNG Price!J25,Gurugram,,02.04.16,2016-04-02,missing
+igl_chronology,CNG Price!K25,Karnal,,02.04.16,2016-04-02,missing
+igl_chronology,CNG Price!L25,Kaithal,,02.04.16,2016-04-02,missing
+igl_chronology,CNG Price!M25,Muzaffar Nagar,,02.04.16,2016-04-02,missing
+igl_chronology,CNG Price!N25,Kanpur,,02.04.16,2016-04-02,missing
+igl_chronology,CNG Price!O25,Ajmer,,02.04.16,2016-04-02,missing
+igl_chronology,CNG Price!P25,Banda,,02.04.16,2016-04-02,missing
+igl_chronology,CNG Price!C26,Delhi,36.85,02.07.16,2016-07-02,positive_numeric
+igl_chronology,CNG Price!D26,Noida,42.2,02.07.16,2016-07-02,positive_numeric
+igl_chronology,CNG Price!E26,G Noida,,02.07.16,2016-07-02,missing
+igl_chronology,CNG Price!F26,Ghaziabad,,02.07.16,2016-07-02,missing
+igl_chronology,CNG Price!G26,Ghaziabad DM-1&2,,02.07.16,2016-07-02,missing
+igl_chronology,CNG Price!H26,Hapur,,02.07.16,2016-07-02,missing
+igl_chronology,CNG Price!I26,Rewari,,02.07.16,2016-07-02,missing
+igl_chronology,CNG Price!J26,Gurugram,,02.07.16,2016-07-02,missing
+igl_chronology,CNG Price!K26,Karnal,,02.07.16,2016-07-02,missing
+igl_chronology,CNG Price!L26,Kaithal,,02.07.16,2016-07-02,missing
+igl_chronology,CNG Price!M26,Muzaffar Nagar,,02.07.16,2016-07-02,missing
+igl_chronology,CNG Price!N26,Kanpur,,02.07.16,2016-07-02,missing
+igl_chronology,CNG Price!O26,Ajmer,,02.07.16,2016-07-02,missing
+igl_chronology,CNG Price!P26,Banda,,02.07.16,2016-07-02,missing
+igl_chronology,CNG Price!C27,Delhi,35.45,02.10.16,2016-10-02,positive_numeric
+igl_chronology,CNG Price!D27,Noida,40.6,02.10.16,2016-10-02,positive_numeric
+igl_chronology,CNG Price!E27,G Noida,,02.10.16,2016-10-02,missing
+igl_chronology,CNG Price!F27,Ghaziabad,,02.10.16,2016-10-02,missing
+igl_chronology,CNG Price!G27,Ghaziabad DM-1&2,,02.10.16,2016-10-02,missing
+igl_chronology,CNG Price!H27,Hapur,,02.10.16,2016-10-02,missing
+igl_chronology,CNG Price!I27,Rewari,,02.10.16,2016-10-02,missing
+igl_chronology,CNG Price!J27,Gurugram,,02.10.16,2016-10-02,missing
+igl_chronology,CNG Price!K27,Karnal,,02.10.16,2016-10-02,missing
+igl_chronology,CNG Price!L27,Kaithal,,02.10.16,2016-10-02,missing
+igl_chronology,CNG Price!M27,Muzaffar Nagar,,02.10.16,2016-10-02,missing
+igl_chronology,CNG Price!N27,Kanpur,,02.10.16,2016-10-02,missing
+igl_chronology,CNG Price!O27,Ajmer,,02.10.16,2016-10-02,missing
+igl_chronology,CNG Price!P27,Banda,,02.10.16,2016-10-02,missing
+igl_chronology,CNG Price!C28,Delhi,37.3,03.12.16,2016-12-03,positive_numeric
+igl_chronology,CNG Price!D28,Noida,42.75,03.12.16,2016-12-03,positive_numeric
+igl_chronology,CNG Price!E28,G Noida,,03.12.16,2016-12-03,missing
+igl_chronology,CNG Price!F28,Ghaziabad,,03.12.16,2016-12-03,missing
+igl_chronology,CNG Price!G28,Ghaziabad DM-1&2,,03.12.16,2016-12-03,missing
+igl_chronology,CNG Price!H28,Hapur,,03.12.16,2016-12-03,missing
+igl_chronology,CNG Price!I28,Rewari,,03.12.16,2016-12-03,missing
+igl_chronology,CNG Price!J28,Gurugram,,03.12.16,2016-12-03,missing
+igl_chronology,CNG Price!K28,Karnal,,03.12.16,2016-12-03,missing
+igl_chronology,CNG Price!L28,Kaithal,,03.12.16,2016-12-03,missing
+igl_chronology,CNG Price!M28,Muzaffar Nagar,,03.12.16,2016-12-03,missing
+igl_chronology,CNG Price!N28,Kanpur,,03.12.16,2016-12-03,missing
+igl_chronology,CNG Price!O28,Ajmer,,03.12.16,2016-12-03,missing
+igl_chronology,CNG Price!P28,Banda,,03.12.16,2016-12-03,missing
+igl_chronology,CNG Price!C29,Delhi,37.65,17.05.17,2017-05-17,positive_numeric
+igl_chronology,CNG Price!D29,Noida,43.15,17.05.17,2017-05-17,positive_numeric
+igl_chronology,CNG Price!E29,G Noida,,17.05.17,2017-05-17,missing
+igl_chronology,CNG Price!F29,Ghaziabad,,17.05.17,2017-05-17,missing
+igl_chronology,CNG Price!G29,Ghaziabad DM-1&2,,17.05.17,2017-05-17,missing
+igl_chronology,CNG Price!H29,Hapur,,17.05.17,2017-05-17,missing
+igl_chronology,CNG Price!I29,Rewari,,17.05.17,2017-05-17,missing
+igl_chronology,CNG Price!J29,Gurugram,,17.05.17,2017-05-17,missing
+igl_chronology,CNG Price!K29,Karnal,,17.05.17,2017-05-17,missing
+igl_chronology,CNG Price!L29,Kaithal,,17.05.17,2017-05-17,missing
+igl_chronology,CNG Price!M29,Muzaffar Nagar,,17.05.17,2017-05-17,missing
+igl_chronology,CNG Price!N29,Kanpur,,17.05.17,2017-05-17,missing
+igl_chronology,CNG Price!O29,Ajmer,,17.05.17,2017-05-17,missing
+igl_chronology,CNG Price!P29,Banda,,17.05.17,2017-05-17,missing
+igl_chronology,CNG Price!C30,Delhi,38.76,26.07.17,2017-07-26,positive_numeric
+igl_chronology,CNG Price!D30,Noida,44.42,26.07.17,2017-07-26,positive_numeric
+igl_chronology,CNG Price!E30,G Noida,,26.07.17,2017-07-26,missing
+igl_chronology,CNG Price!F30,Ghaziabad,,26.07.17,2017-07-26,missing
+igl_chronology,CNG Price!G30,Ghaziabad DM-1&2,,26.07.17,2017-07-26,missing
+igl_chronology,CNG Price!H30,Hapur,,26.07.17,2017-07-26,missing
+igl_chronology,CNG Price!I30,Rewari,,26.07.17,2017-07-26,missing
+igl_chronology,CNG Price!J30,Gurugram,,26.07.17,2017-07-26,missing
+igl_chronology,CNG Price!K30,Karnal,,26.07.17,2017-07-26,missing
+igl_chronology,CNG Price!L30,Kaithal,,26.07.17,2017-07-26,missing
+igl_chronology,CNG Price!M30,Muzaffar Nagar,,26.07.17,2017-07-26,missing
+igl_chronology,CNG Price!N30,Kanpur,,26.07.17,2017-07-26,missing
+igl_chronology,CNG Price!O30,Ajmer,,26.07.17,2017-07-26,missing
+igl_chronology,CNG Price!P30,Banda,,26.07.17,2017-07-26,missing
+igl_chronology,CNG Price!C31,Delhi,38.76,03.08.17,2017-08-03,positive_numeric
+igl_chronology,CNG Price!D31,Noida,47.94,03.08.17,2017-08-03,positive_numeric
+igl_chronology,CNG Price!E31,G Noida,,03.08.17,2017-08-03,missing
+igl_chronology,CNG Price!F31,Ghaziabad,,03.08.17,2017-08-03,missing
+igl_chronology,CNG Price!G31,Ghaziabad DM-1&2,,03.08.17,2017-08-03,missing
+igl_chronology,CNG Price!H31,Hapur,,03.08.17,2017-08-03,missing
+igl_chronology,CNG Price!I31,Rewari,,03.08.17,2017-08-03,missing
+igl_chronology,CNG Price!J31,Gurugram,,03.08.17,2017-08-03,missing
+igl_chronology,CNG Price!K31,Karnal,,03.08.17,2017-08-03,missing
+igl_chronology,CNG Price!L31,Kaithal,,03.08.17,2017-08-03,missing
+igl_chronology,CNG Price!M31,Muzaffar Nagar,,03.08.17,2017-08-03,missing
+igl_chronology,CNG Price!N31,Kanpur,,03.08.17,2017-08-03,missing
+igl_chronology,CNG Price!O31,Ajmer,,03.08.17,2017-08-03,missing
+igl_chronology,CNG Price!P31,Banda,,03.08.17,2017-08-03,missing
+igl_chronology,CNG Price!C32,Delhi,39.71,03.10.17,2017-10-03,positive_numeric
+igl_chronology,CNG Price!D32,Noida,49.2,03.10.17,2017-10-03,positive_numeric
+igl_chronology,CNG Price!E32,G Noida,,03.10.17,2017-10-03,missing
+igl_chronology,CNG Price!F32,Ghaziabad,,03.10.17,2017-10-03,missing
+igl_chronology,CNG Price!G32,Ghaziabad DM-1&2,,03.10.17,2017-10-03,missing
+igl_chronology,CNG Price!H32,Hapur,,03.10.17,2017-10-03,missing
+igl_chronology,CNG Price!I32,Rewari,,03.10.17,2017-10-03,missing
+igl_chronology,CNG Price!J32,Gurugram,,03.10.17,2017-10-03,missing
+igl_chronology,CNG Price!K32,Karnal,,03.10.17,2017-10-03,missing
+igl_chronology,CNG Price!L32,Kaithal,,03.10.17,2017-10-03,missing
+igl_chronology,CNG Price!M32,Muzaffar Nagar,,03.10.17,2017-10-03,missing
+igl_chronology,CNG Price!N32,Kanpur,,03.10.17,2017-10-03,missing
+igl_chronology,CNG Price!O32,Ajmer,,03.10.17,2017-10-03,missing
+igl_chronology,CNG Price!P32,Banda,,03.10.17,2017-10-03,missing
+igl_chronology,CNG Price!C33,Delhi,39.71,23.03.18,2018-03-23,positive_numeric
+igl_chronology,CNG Price!D33,Noida,46.05,23.03.18,2018-03-23,positive_numeric
+igl_chronology,CNG Price!E33,G Noida,,23.03.18,2018-03-23,missing
+igl_chronology,CNG Price!F33,Ghaziabad,,23.03.18,2018-03-23,missing
+igl_chronology,CNG Price!G33,Ghaziabad DM-1&2,,23.03.18,2018-03-23,missing
+igl_chronology,CNG Price!H33,Hapur,,23.03.18,2018-03-23,missing
+igl_chronology,CNG Price!I33,Rewari,,23.03.18,2018-03-23,missing
+igl_chronology,CNG Price!J33,Gurugram,,23.03.18,2018-03-23,missing
+igl_chronology,CNG Price!K33,Karnal,,23.03.18,2018-03-23,missing
+igl_chronology,CNG Price!L33,Kaithal,,23.03.18,2018-03-23,missing
+igl_chronology,CNG Price!M33,Muzaffar Nagar,,23.03.18,2018-03-23,missing
+igl_chronology,CNG Price!N33,Kanpur,,23.03.18,2018-03-23,missing
+igl_chronology,CNG Price!O33,Ajmer,,23.03.18,2018-03-23,missing
+igl_chronology,CNG Price!P33,Banda,,23.03.18,2018-03-23,missing
+igl_chronology,CNG Price!C34,Delhi,40.61,02.04.18,2018-04-02,positive_numeric
+igl_chronology,CNG Price!D34,Noida,47.05,02.04.18,2018-04-02,positive_numeric
+igl_chronology,CNG Price!E34,G Noida,,02.04.18,2018-04-02,missing
+igl_chronology,CNG Price!F34,Ghaziabad,,02.04.18,2018-04-02,missing
+igl_chronology,CNG Price!G34,Ghaziabad DM-1&2,,02.04.18,2018-04-02,missing
+igl_chronology,CNG Price!H34,Hapur,,02.04.18,2018-04-02,missing
+igl_chronology,CNG Price!I34,Rewari,51.62,02.04.18,2018-04-02,positive_numeric
+igl_chronology,CNG Price!J34,Gurugram,,02.04.18,2018-04-02,missing
+igl_chronology,CNG Price!K34,Karnal,,02.04.18,2018-04-02,missing
+igl_chronology,CNG Price!L34,Kaithal,,02.04.18,2018-04-02,missing
+igl_chronology,CNG Price!M34,Muzaffar Nagar,,02.04.18,2018-04-02,missing
+igl_chronology,CNG Price!N34,Kanpur,,02.04.18,2018-04-02,missing
+igl_chronology,CNG Price!O34,Ajmer,,02.04.18,2018-04-02,missing
+igl_chronology,CNG Price!P34,Banda,,02.04.18,2018-04-02,missing
+igl_chronology,CNG Price!C35,Delhi,41.97,29.05.18,2018-05-29,positive_numeric
+igl_chronology,CNG Price!D35,Noida,48.6,29.05.18,2018-05-29,positive_numeric
+igl_chronology,CNG Price!E35,G Noida,,29.05.18,2018-05-29,missing
+igl_chronology,CNG Price!F35,Ghaziabad,,29.05.18,2018-05-29,missing
+igl_chronology,CNG Price!G35,Ghaziabad DM-1&2,,29.05.18,2018-05-29,missing
+igl_chronology,CNG Price!H35,Hapur,,29.05.18,2018-05-29,missing
+igl_chronology,CNG Price!I35,Rewari,51.62,29.05.18,2018-05-29,positive_numeric
+igl_chronology,CNG Price!J35,Gurugram,,29.05.18,2018-05-29,missing
+igl_chronology,CNG Price!K35,Karnal,,29.05.18,2018-05-29,missing
+igl_chronology,CNG Price!L35,Kaithal,,29.05.18,2018-05-29,missing
+igl_chronology,CNG Price!M35,Muzaffar Nagar,,29.05.18,2018-05-29,missing
+igl_chronology,CNG Price!N35,Kanpur,,29.05.18,2018-05-29,missing
+igl_chronology,CNG Price!O35,Ajmer,,29.05.18,2018-05-29,missing
+igl_chronology,CNG Price!P35,Banda,,29.05.18,2018-05-29,missing
+igl_chronology,CNG Price!C36,Delhi,42.6,02.09.18,2018-09-02,positive_numeric
+igl_chronology,CNG Price!D36,Noida,49.3,02.09.18,2018-09-02,positive_numeric
+igl_chronology,CNG Price!E36,G Noida,,02.09.18,2018-09-02,missing
+igl_chronology,CNG Price!F36,Ghaziabad,,02.09.18,2018-09-02,missing
+igl_chronology,CNG Price!G36,Ghaziabad DM-1&2,,02.09.18,2018-09-02,missing
+igl_chronology,CNG Price!H36,Hapur,,02.09.18,2018-09-02,missing
+igl_chronology,CNG Price!I36,Rewari,52.25,02.09.18,2018-09-02,positive_numeric
+igl_chronology,CNG Price!J36,Gurugram,,02.09.18,2018-09-02,missing
+igl_chronology,CNG Price!K36,Karnal,,02.09.18,2018-09-02,missing
+igl_chronology,CNG Price!L36,Kaithal,,02.09.18,2018-09-02,missing
+igl_chronology,CNG Price!M36,Muzaffar Nagar,,02.09.18,2018-09-02,missing
+igl_chronology,CNG Price!N36,Kanpur,,02.09.18,2018-09-02,missing
+igl_chronology,CNG Price!O36,Ajmer,,02.09.18,2018-09-02,missing
+igl_chronology,CNG Price!P36,Banda,,02.09.18,2018-09-02,missing
+igl_chronology,CNG Price!C37,Delhi,44.3,01.10.18,2018-10-01,positive_numeric
+igl_chronology,CNG Price!D37,Noida,51.25,01.10.18,2018-10-01,positive_numeric
+igl_chronology,CNG Price!E37,G Noida,,01.10.18,2018-10-01,missing
+igl_chronology,CNG Price!F37,Ghaziabad,,01.10.18,2018-10-01,missing
+igl_chronology,CNG Price!G37,Ghaziabad DM-1&2,,01.10.18,2018-10-01,missing
+igl_chronology,CNG Price!H37,Hapur,,01.10.18,2018-10-01,missing
+igl_chronology,CNG Price!I37,Rewari,54.05,01.10.18,2018-10-01,positive_numeric
+igl_chronology,CNG Price!J37,Gurugram,,01.10.18,2018-10-01,missing
+igl_chronology,CNG Price!K37,Karnal,,01.10.18,2018-10-01,missing
+igl_chronology,CNG Price!L37,Kaithal,,01.10.18,2018-10-01,missing
+igl_chronology,CNG Price!M37,Muzaffar Nagar,,01.10.18,2018-10-01,missing
+igl_chronology,CNG Price!N37,Kanpur,,01.10.18,2018-10-01,missing
+igl_chronology,CNG Price!O37,Ajmer,,01.10.18,2018-10-01,missing
+igl_chronology,CNG Price!P37,Banda,,01.10.18,2018-10-01,missing
+igl_chronology,CNG Price!C38,Delhi,44.7,18.11.18,2018-11-18,positive_numeric
+igl_chronology,CNG Price!D38,Noida,50.8,18.11.18,2018-11-18,positive_numeric
+igl_chronology,CNG Price!E38,G Noida,,18.11.18,2018-11-18,missing
+igl_chronology,CNG Price!F38,Ghaziabad,,18.11.18,2018-11-18,missing
+igl_chronology,CNG Price!G38,Ghaziabad DM-1&2,,18.11.18,2018-11-18,missing
+igl_chronology,CNG Price!H38,Hapur,,18.11.18,2018-11-18,missing
+igl_chronology,CNG Price!I38,Rewari,54.45,18.11.18,2018-11-18,positive_numeric
+igl_chronology,CNG Price!J38,Gurugram,,18.11.18,2018-11-18,missing
+igl_chronology,CNG Price!K38,Karnal,,18.11.18,2018-11-18,missing
+igl_chronology,CNG Price!L38,Kaithal,,18.11.18,2018-11-18,missing
+igl_chronology,CNG Price!M38,Muzaffar Nagar,,18.11.18,2018-11-18,missing
+igl_chronology,CNG Price!N38,Kanpur,,18.11.18,2018-11-18,missing
+igl_chronology,CNG Price!O38,Ajmer,,18.11.18,2018-11-18,missing
+igl_chronology,CNG Price!P38,Banda,,18.11.18,2018-11-18,missing
+igl_chronology,CNG Price!C39,Delhi,45.7,04.04.19,2019-04-04,positive_numeric
+igl_chronology,CNG Price!D39,Noida,51.95,04.04.19,2019-04-04,positive_numeric
+igl_chronology,CNG Price!E39,G Noida,,04.04.19,2019-04-04,missing
+igl_chronology,CNG Price!F39,Ghaziabad,,04.04.19,2019-04-04,missing
+igl_chronology,CNG Price!G39,Ghaziabad DM-1&2,,04.04.19,2019-04-04,missing
+igl_chronology,CNG Price!H39,Hapur,,04.04.19,2019-04-04,missing
+igl_chronology,CNG Price!I39,Rewari,57.5,04.04.19,2019-04-04,positive_numeric
+igl_chronology,CNG Price!J39,Gurugram,57.5,04.04.19,2019-04-04,positive_numeric
+igl_chronology,CNG Price!K39,Karnal,53,04.04.19,2019-04-04,positive_numeric
+igl_chronology,CNG Price!L39,Kaithal,,04.04.19,2019-04-04,missing
+igl_chronology,CNG Price!M39,Muzaffar Nagar,60.7,04.04.19,2019-04-04,positive_numeric
+igl_chronology,CNG Price!N39,Kanpur,,04.04.19,2019-04-04,missing
+igl_chronology,CNG Price!O39,Ajmer,,04.04.19,2019-04-04,missing
+igl_chronology,CNG Price!P39,Banda,,04.04.19,2019-04-04,missing
+igl_chronology,CNG Price!C40,Delhi,46.6,03.07.19,2019-07-03,positive_numeric
+igl_chronology,CNG Price!D40,Noida,52.95,03.07.19,2019-07-03,positive_numeric
+igl_chronology,CNG Price!E40,G Noida,,03.07.19,2019-07-03,missing
+igl_chronology,CNG Price!F40,Ghaziabad,,03.07.19,2019-07-03,missing
+igl_chronology,CNG Price!G40,Ghaziabad DM-1&2,,03.07.19,2019-07-03,missing
+igl_chronology,CNG Price!H40,Hapur,,03.07.19,2019-07-03,missing
+igl_chronology,CNG Price!I40,Rewari,58.45,03.07.19,2019-07-03,positive_numeric
+igl_chronology,CNG Price!J40,Gurugram,58.45,03.07.19,2019-07-03,positive_numeric
+igl_chronology,CNG Price!K40,Karnal,55.45,03.07.19,2019-07-03,positive_numeric
+igl_chronology,CNG Price!L40,Kaithal,,03.07.19,2019-07-03,missing
+igl_chronology,CNG Price!M40,Muzaffar Nagar,60.7,03.07.19,2019-07-03,positive_numeric
+igl_chronology,CNG Price!N40,Kanpur,,03.07.19,2019-07-03,missing
+igl_chronology,CNG Price!O40,Ajmer,,03.07.19,2019-07-03,missing
+igl_chronology,CNG Price!P40,Banda,,03.07.19,2019-07-03,missing
+igl_chronology,CNG Price!C41,Delhi,47.1,01.09.19,2019-09-01,positive_numeric
+igl_chronology,CNG Price!D41,Noida,53.95,01.09.19,2019-09-01,positive_numeric
+igl_chronology,CNG Price!E41,G Noida,,01.09.19,2019-09-01,missing
+igl_chronology,CNG Price!F41,Ghaziabad,,01.09.19,2019-09-01,missing
+igl_chronology,CNG Price!G41,Ghaziabad DM-1&2,,01.09.19,2019-09-01,missing
+igl_chronology,CNG Price!H41,Hapur,,01.09.19,2019-09-01,missing
+igl_chronology,CNG Price!I41,Rewari,58.95,01.09.19,2019-09-01,positive_numeric_string
+igl_chronology,CNG Price!J41,Gurugram,58.95,01.09.19,2019-09-01,positive_numeric
+igl_chronology,CNG Price!K41,Karnal,55.95,01.09.19,2019-09-01,positive_numeric
+igl_chronology,CNG Price!L41,Kaithal,,01.09.19,2019-09-01,missing
+igl_chronology,CNG Price!M41,Muzaffar Nagar,60.7,01.09.19,2019-09-01,positive_numeric
+igl_chronology,CNG Price!N41,Kanpur,,01.09.19,2019-09-01,missing
+igl_chronology,CNG Price!O41,Ajmer,,01.09.19,2019-09-01,missing
+igl_chronology,CNG Price!P41,Banda,,01.09.19,2019-09-01,missing
+igl_chronology,CNG Price!C42,Delhi,45.2,03.10.19,2019-10-03,positive_numeric
+igl_chronology,CNG Price!D42,Noida,51.35,03.10.19,2019-10-03,positive_numeric
+igl_chronology,CNG Price!E42,G Noida,,03.10.19,2019-10-03,missing
+igl_chronology,CNG Price!F42,Ghaziabad,,03.10.19,2019-10-03,missing
+igl_chronology,CNG Price!G42,Ghaziabad DM-1&2,,03.10.19,2019-10-03,missing
+igl_chronology,CNG Price!H42,Hapur,,03.10.19,2019-10-03,missing
+igl_chronology,CNG Price!I42,Rewari,58.95,03.10.19,2019-10-03,positive_numeric_string
+igl_chronology,CNG Price!J42,Gurugram,58.95,03.10.19,2019-10-03,positive_numeric
+igl_chronology,CNG Price!K42,Karnal,55.95,03.10.19,2019-10-03,positive_numeric
+igl_chronology,CNG Price!L42,Kaithal,,03.10.19,2019-10-03,missing
+igl_chronology,CNG Price!M42,Muzaffar Nagar,60.7,03.10.19,2019-10-03,positive_numeric
+igl_chronology,CNG Price!N42,Kanpur,,03.10.19,2019-10-03,missing
+igl_chronology,CNG Price!O42,Ajmer,,03.10.19,2019-10-03,missing
+igl_chronology,CNG Price!P42,Banda,,03.10.19,2019-10-03,missing
+igl_chronology,CNG Price!C43,Delhi,45.2,10.10.19,2019-10-10,positive_numeric
+igl_chronology,CNG Price!D43,Noida,51.35,10.10.19,2019-10-10,positive_numeric
+igl_chronology,CNG Price!E43,G Noida,,10.10.19,2019-10-10,missing
+igl_chronology,CNG Price!F43,Ghaziabad,,10.10.19,2019-10-10,missing
+igl_chronology,CNG Price!G43,Ghaziabad DM-1&2,,10.10.19,2019-10-10,missing
+igl_chronology,CNG Price!H43,Hapur,,10.10.19,2019-10-10,missing
+igl_chronology,CNG Price!I43,Rewari,58.5,10.10.19,2019-10-10,positive_numeric
+igl_chronology,CNG Price!J43,Gurugram,58.5,10.10.19,2019-10-10,positive_numeric
+igl_chronology,CNG Price!K43,Karnal,55.95,10.10.19,2019-10-10,positive_numeric
+igl_chronology,CNG Price!L43,Kaithal,,10.10.19,2019-10-10,missing
+igl_chronology,CNG Price!M43,Muzaffar Nagar,60.7,10.10.19,2019-10-10,positive_numeric
+igl_chronology,CNG Price!N43,Kanpur,,10.10.19,2019-10-10,missing
+igl_chronology,CNG Price!O43,Ajmer,,10.10.19,2019-10-10,missing
+igl_chronology,CNG Price!P43,Banda,,10.10.19,2019-10-10,missing
+igl_chronology,CNG Price!C44,Delhi,45.2,14.01.20,2020-01-14,positive_numeric
+igl_chronology,CNG Price!D44,Noida,51.35,14.01.20,2020-01-14,positive_numeric
+igl_chronology,CNG Price!E44,G Noida,,14.01.20,2020-01-14,missing
+igl_chronology,CNG Price!F44,Ghaziabad,,14.01.20,2020-01-14,missing
+igl_chronology,CNG Price!G44,Ghaziabad DM-1&2,,14.01.20,2020-01-14,missing
+igl_chronology,CNG Price!H44,Hapur,,14.01.20,2020-01-14,missing
+igl_chronology,CNG Price!I44,Rewari,57.5,14.01.20,2020-01-14,positive_numeric
+igl_chronology,CNG Price!J44,Gurugram,57.5,14.01.20,2020-01-14,positive_numeric
+igl_chronology,CNG Price!K44,Karnal,54.95,14.01.20,2020-01-14,positive_numeric
+igl_chronology,CNG Price!L44,Kaithal,,14.01.20,2020-01-14,missing
+igl_chronology,CNG Price!M44,Muzaffar Nagar,60.7,14.01.20,2020-01-14,positive_numeric
+igl_chronology,CNG Price!N44,Kanpur,,14.01.20,2020-01-14,missing
+igl_chronology,CNG Price!O44,Ajmer,,14.01.20,2020-01-14,missing
+igl_chronology,CNG Price!P44,Banda,,14.01.20,2020-01-14,missing
+igl_chronology,CNG Price!C45,Delhi,42,03.04.20,2020-04-03,positive_numeric
+igl_chronology,CNG Price!D45,Noida,47.75,03.04.20,2020-04-03,positive_numeric
+igl_chronology,CNG Price!E45,G Noida,,03.04.20,2020-04-03,missing
+igl_chronology,CNG Price!F45,Ghaziabad,,03.04.20,2020-04-03,missing
+igl_chronology,CNG Price!G45,Ghaziabad DM-1&2,,03.04.20,2020-04-03,missing
+igl_chronology,CNG Price!H45,Hapur,,03.04.20,2020-04-03,missing
+igl_chronology,CNG Price!I45,Rewari,54.15,03.04.20,2020-04-03,positive_numeric
+igl_chronology,CNG Price!J45,Gurugram,54.15,03.04.20,2020-04-03,positive_numeric
+igl_chronology,CNG Price!K45,Karnal,49.85,03.04.20,2020-04-03,positive_numeric
+igl_chronology,CNG Price!L45,Kaithal,,03.04.20,2020-04-03,missing
+igl_chronology,CNG Price!M45,Muzaffar Nagar,56.65,03.04.20,2020-04-03,positive_numeric
+igl_chronology,CNG Price!N45,Kanpur,,03.04.20,2020-04-03,missing
+igl_chronology,CNG Price!O45,Ajmer,,03.04.20,2020-04-03,missing
+igl_chronology,CNG Price!P45,Banda,,03.04.20,2020-04-03,missing
+igl_chronology,CNG Price!C46,Delhi,42,21.05.20,2020-05-21,positive_numeric
+igl_chronology,CNG Price!D46,Noida,47.75,21.05.20,2020-05-21,positive_numeric
+igl_chronology,CNG Price!E46,G Noida,,21.05.20,2020-05-21,missing
+igl_chronology,CNG Price!F46,Ghaziabad,,21.05.20,2020-05-21,missing
+igl_chronology,CNG Price!G46,Ghaziabad DM-1&2,,21.05.20,2020-05-21,missing
+igl_chronology,CNG Price!H46,Hapur,,21.05.20,2020-05-21,missing
+igl_chronology,CNG Price!I46,Rewari,54.15,21.05.20,2020-05-21,positive_numeric
+igl_chronology,CNG Price!J46,Gurugram,55,21.05.20,2020-05-21,positive_numeric
+igl_chronology,CNG Price!K46,Karnal,49.85,21.05.20,2020-05-21,positive_numeric
+igl_chronology,CNG Price!L46,Kaithal,,21.05.20,2020-05-21,missing
+igl_chronology,CNG Price!M46,Muzaffar Nagar,57.25,21.05.20,2020-05-21,positive_numeric
+igl_chronology,CNG Price!N46,Kanpur,,21.05.20,2020-05-21,missing
+igl_chronology,CNG Price!O46,Ajmer,,21.05.20,2020-05-21,missing
+igl_chronology,CNG Price!P46,Banda,,21.05.20,2020-05-21,missing
+igl_chronology,CNG Price!C47,Delhi,43,02.06.20,2020-06-02,positive_numeric
+igl_chronology,CNG Price!D47,Noida,48.75,02.06.20,2020-06-02,positive_numeric
+igl_chronology,CNG Price!E47,G Noida,,02.06.20,2020-06-02,missing
+igl_chronology,CNG Price!F47,Ghaziabad,,02.06.20,2020-06-02,missing
+igl_chronology,CNG Price!G47,Ghaziabad DM-1&2,,02.06.20,2020-06-02,missing
+igl_chronology,CNG Price!H47,Hapur,,02.06.20,2020-06-02,missing
+igl_chronology,CNG Price!I47,Rewari,55,02.06.20,2020-06-02,positive_numeric
+igl_chronology,CNG Price!J47,Gurugram,55,02.06.20,2020-06-02,positive_numeric
+igl_chronology,CNG Price!K47,Karnal,50.85,02.06.20,2020-06-02,positive_numeric
+igl_chronology,CNG Price!L47,Kaithal,50.85,02.06.20,2020-06-02,positive_numeric
+igl_chronology,CNG Price!M47,Muzaffar Nagar,57.25,02.06.20,2020-06-02,positive_numeric
+igl_chronology,CNG Price!N47,Kanpur,60.5,02.06.20,2020-06-02,positive_numeric
+igl_chronology,CNG Price!O47,Ajmer,,02.06.20,2020-06-02,missing
+igl_chronology,CNG Price!P47,Banda,,02.06.20,2020-06-02,missing
+igl_chronology,CNG Price!C48,Delhi,43.8,10.07.20,2020-07-10,positive_numeric
+igl_chronology,CNG Price!D48,Noida,49.65,10.07.20,2020-07-10,positive_numeric
+igl_chronology,CNG Price!E48,G Noida,,10.07.20,2020-07-10,missing
+igl_chronology,CNG Price!F48,Ghaziabad,,10.07.20,2020-07-10,missing
+igl_chronology,CNG Price!G48,Ghaziabad DM-1&2,,10.07.20,2020-07-10,missing
+igl_chronology,CNG Price!H48,Hapur,,10.07.20,2020-07-10,missing
+igl_chronology,CNG Price!I48,Rewari,55,10.07.20,2020-07-10,positive_numeric
+igl_chronology,CNG Price!J48,Gurugram,55,10.07.20,2020-07-10,positive_numeric
+igl_chronology,CNG Price!K48,Karnal,51.85,10.07.20,2020-07-10,positive_numeric
+igl_chronology,CNG Price!L48,Kaithal,51.85,10.07.20,2020-07-10,positive_numeric
+igl_chronology,CNG Price!M48,Muzaffar Nagar,58.25,10.07.20,2020-07-10,positive_numeric
+igl_chronology,CNG Price!N48,Kanpur,61.5,10.07.20,2020-07-10,positive_numeric
+igl_chronology,CNG Price!O48,Ajmer,,10.07.20,2020-07-10,missing
+igl_chronology,CNG Price!P48,Banda,,10.07.20,2020-07-10,missing
+igl_chronology,CNG Price!C49,Delhi,44.23,05.08.20,2020-08-05,positive_numeric
+igl_chronology,CNG Price!D49,Noida,50.08,05.08.20,2020-08-05,positive_numeric
+igl_chronology,CNG Price!E49,G Noida,,05.08.20,2020-08-05,missing
+igl_chronology,CNG Price!F49,Ghaziabad,,05.08.20,2020-08-05,missing
+igl_chronology,CNG Price!G49,Ghaziabad DM-1&2,,05.08.20,2020-08-05,missing
+igl_chronology,CNG Price!H49,Hapur,,05.08.20,2020-08-05,missing
+igl_chronology,CNG Price!I49,Rewari,55,05.08.20,2020-08-05,positive_numeric
+igl_chronology,CNG Price!J49,Gurugram,55,05.08.20,2020-08-05,positive_numeric
+igl_chronology,CNG Price!K49,Karnal,52.28,05.08.20,2020-08-05,positive_numeric
+igl_chronology,CNG Price!L49,Kaithal,52.28,05.08.20,2020-08-05,positive_numeric
+igl_chronology,CNG Price!M49,Muzaffar Nagar,58.25,05.08.20,2020-08-05,positive_numeric
+igl_chronology,CNG Price!N49,Kanpur,61.5,05.08.20,2020-08-05,positive_numeric
+igl_chronology,CNG Price!O49,Ajmer,,05.08.20,2020-08-05,missing
+igl_chronology,CNG Price!P49,Banda,,05.08.20,2020-08-05,missing
+igl_chronology,CNG Price!C50,Delhi,42.7,04.10.20,2020-10-04,positive_numeric
+igl_chronology,CNG Price!D50,Noida,48.38,04.10.20,2020-10-04,positive_numeric
+igl_chronology,CNG Price!E50,G Noida,,04.10.20,2020-10-04,missing
+igl_chronology,CNG Price!F50,Ghaziabad,,04.10.20,2020-10-04,missing
+igl_chronology,CNG Price!G50,Ghaziabad DM-1&2,,04.10.20,2020-10-04,missing
+igl_chronology,CNG Price!H50,Hapur,,04.10.20,2020-10-04,missing
+igl_chronology,CNG Price!I50,Rewari,53.4,04.10.20,2020-10-04,positive_numeric
+igl_chronology,CNG Price!J50,Gurugram,53.4,04.10.20,2020-10-04,positive_numeric
+igl_chronology,CNG Price!K50,Karnal,50.68,04.10.20,2020-10-04,positive_numeric
+igl_chronology,CNG Price!L50,Kaithal,50.68,04.10.20,2020-10-04,positive_numeric
+igl_chronology,CNG Price!M50,Muzaffar Nagar,56.55,04.10.20,2020-10-04,positive_numeric
+igl_chronology,CNG Price!N50,Kanpur,59.8,04.10.20,2020-10-04,positive_numeric
+igl_chronology,CNG Price!O50,Ajmer,,04.10.20,2020-10-04,missing
+igl_chronology,CNG Price!P50,Banda,,04.10.20,2020-10-04,missing
+igl_chronology,CNG Price!C51,Delhi,43.4,02.03.21,2021-03-02,positive_numeric
+igl_chronology,CNG Price!D51,Noida,49.08,02.03.21,2021-03-02,positive_numeric
+igl_chronology,CNG Price!E51,G Noida,,02.03.21,2021-03-02,missing
+igl_chronology,CNG Price!F51,Ghaziabad,,02.03.21,2021-03-02,missing
+igl_chronology,CNG Price!G51,Ghaziabad DM-1&2,,02.03.21,2021-03-02,missing
+igl_chronology,CNG Price!H51,Hapur,,02.03.21,2021-03-02,missing
+igl_chronology,CNG Price!I51,Rewari,54.1,02.03.21,2021-03-02,positive_numeric
+igl_chronology,CNG Price!J51,Gurugram,53.4,02.03.21,2021-03-02,positive_numeric
+igl_chronology,CNG Price!K51,Karnal,51.38,02.03.21,2021-03-02,positive_numeric
+igl_chronology,CNG Price!L51,Kaithal,51.38,02.03.21,2021-03-02,positive_numeric
+igl_chronology,CNG Price!M51,Muzaffar Nagar,57.25,02.03.21,2021-03-02,positive_numeric
+igl_chronology,CNG Price!N51,Kanpur,60.5,02.03.21,2021-03-02,positive_numeric
+igl_chronology,CNG Price!O51,Ajmer,,02.03.21,2021-03-02,missing
+igl_chronology,CNG Price!P51,Banda,,02.03.21,2021-03-02,missing
+igl_chronology,CNG Price!C52,Delhi,44.3,08.07.21,2021-07-08,positive_numeric
+igl_chronology,CNG Price!D52,Noida,49.98,08.07.21,2021-07-08,positive_numeric
+igl_chronology,CNG Price!E52,G Noida,,08.07.21,2021-07-08,missing
+igl_chronology,CNG Price!F52,Ghaziabad,,08.07.21,2021-07-08,missing
+igl_chronology,CNG Price!G52,Ghaziabad DM-1&2,,08.07.21,2021-07-08,missing
+igl_chronology,CNG Price!H52,Hapur,,08.07.21,2021-07-08,missing
+igl_chronology,CNG Price!I52,Rewari,54.1,08.07.21,2021-07-08,positive_numeric
+igl_chronology,CNG Price!J52,Gurugram,53.4,08.07.21,2021-07-08,positive_numeric
+igl_chronology,CNG Price!K52,Karnal,51.38,08.07.21,2021-07-08,positive_numeric
+igl_chronology,CNG Price!L52,Kaithal,51.38,08.07.21,2021-07-08,positive_numeric
+igl_chronology,CNG Price!M52,Muzaffar Nagar,57.25,08.07.21,2021-07-08,positive_numeric
+igl_chronology,CNG Price!N52,Kanpur,60.5,08.07.21,2021-07-08,positive_numeric
+igl_chronology,CNG Price!O52,Ajmer,58.9,08.07.21,2021-07-08,positive_numeric
+igl_chronology,CNG Price!P52,Banda,,08.07.21,2021-07-08,missing
+igl_chronology,CNG Price!C53,Delhi,45.2,29.08.2021,2021-08-29,positive_numeric
+igl_chronology,CNG Price!D53,Noida,50.9,29.08.2021,2021-08-29,positive_numeric
+igl_chronology,CNG Price!E53,G Noida,,29.08.2021,2021-08-29,missing
+igl_chronology,CNG Price!F53,Ghaziabad,,29.08.2021,2021-08-29,missing
+igl_chronology,CNG Price!G53,Ghaziabad DM-1&2,,29.08.2021,2021-08-29,missing
+igl_chronology,CNG Price!H53,Hapur,,29.08.2021,2021-08-29,missing
+igl_chronology,CNG Price!I53,Rewari,54.1,29.08.2021,2021-08-29,positive_numeric
+igl_chronology,CNG Price!J53,Gurugram,53.4,29.08.2021,2021-08-29,positive_numeric
+igl_chronology,CNG Price!K53,Karnal,52.3,29.08.2021,2021-08-29,positive_numeric
+igl_chronology,CNG Price!L53,Kaithal,52.3,29.08.2021,2021-08-29,positive_numeric
+igl_chronology,CNG Price!M53,Muzaffar Nagar,58.15,29.08.2021,2021-08-29,positive_numeric
+igl_chronology,CNG Price!N53,Kanpur,61.4,29.08.2021,2021-08-29,positive_numeric
+igl_chronology,CNG Price!O53,Ajmer,59.8,29.08.2021,2021-08-29,positive_numeric
+igl_chronology,CNG Price!P53,Banda,,29.08.2021,2021-08-29,missing
+igl_chronology,CNG Price!C54,Delhi,47.48,02.10.2021,2021-10-02,positive_numeric
+igl_chronology,CNG Price!D54,Noida,53.45,02.10.2021,2021-10-02,positive_numeric
+igl_chronology,CNG Price!E54,G Noida,,02.10.2021,2021-10-02,missing
+igl_chronology,CNG Price!F54,Ghaziabad,,02.10.2021,2021-10-02,missing
+igl_chronology,CNG Price!G54,Ghaziabad DM-1&2,,02.10.2021,2021-10-02,missing
+igl_chronology,CNG Price!H54,Hapur,,02.10.2021,2021-10-02,missing
+igl_chronology,CNG Price!I54,Rewari,56.5,02.10.2021,2021-10-02,positive_numeric
+igl_chronology,CNG Price!J54,Gurugram,55.81,02.10.2021,2021-10-02,positive_numeric
+igl_chronology,CNG Price!K54,Karnal,54.7,02.10.2021,2021-10-02,positive_numeric
+igl_chronology,CNG Price!L54,Kaithal,54.7,02.10.2021,2021-10-02,positive_numeric
+igl_chronology,CNG Price!M54,Muzaffar Nagar,60.71,02.10.2021,2021-10-02,positive_numeric
+igl_chronology,CNG Price!N54,Kanpur,63.97,02.10.2021,2021-10-02,positive_numeric
+igl_chronology,CNG Price!O54,Ajmer,62.41,02.10.2021,2021-10-02,positive_numeric
+igl_chronology,CNG Price!P54,Banda,,02.10.2021,2021-10-02,missing
+igl_chronology,CNG Price!C55,Delhi,49.76,13.10.2021,2021-10-13,positive_numeric
+igl_chronology,CNG Price!D55,Noida,56.02,13.10.2021,2021-10-13,positive_numeric
+igl_chronology,CNG Price!E55,G Noida,,13.10.2021,2021-10-13,missing
+igl_chronology,CNG Price!F55,Ghaziabad,,13.10.2021,2021-10-13,missing
+igl_chronology,CNG Price!G55,Ghaziabad DM-1&2,,13.10.2021,2021-10-13,missing
+igl_chronology,CNG Price!H55,Hapur,,13.10.2021,2021-10-13,missing
+igl_chronology,CNG Price!I55,Rewari,58.9,13.10.2021,2021-10-13,positive_numeric
+igl_chronology,CNG Price!J55,Gurugram,58.2,13.10.2021,2021-10-13,positive_numeric
+igl_chronology,CNG Price!K55,Karnal,57.1,13.10.2021,2021-10-13,positive_numeric
+igl_chronology,CNG Price!L55,Kaithal,57.1,13.10.2021,2021-10-13,positive_numeric
+igl_chronology,CNG Price!M55,Muzaffar Nagar,63.28,13.10.2021,2021-10-13,positive_numeric
+igl_chronology,CNG Price!N55,Kanpur,66.54,13.10.2021,2021-10-13,positive_numeric
+igl_chronology,CNG Price!O55,Ajmer,65.02,13.10.2021,2021-10-13,positive_numeric
+igl_chronology,CNG Price!P55,Banda,,13.10.2021,2021-10-13,missing
+igl_chronology,CNG Price!C56,Delhi,0,28.10.2021,2021-10-28,nonpositive_or_unknown_token
+igl_chronology,CNG Price!D56,Noida,0,28.10.2021,2021-10-28,nonpositive_or_unknown_token
+igl_chronology,CNG Price!E56,G Noida,,28.10.2021,2021-10-28,missing
+igl_chronology,CNG Price!F56,Ghaziabad,,28.10.2021,2021-10-28,missing
+igl_chronology,CNG Price!G56,Ghaziabad DM-1&2,,28.10.2021,2021-10-28,missing
+igl_chronology,CNG Price!H56,Hapur,,28.10.2021,2021-10-28,missing
+igl_chronology,CNG Price!I56,Rewari,60.1,28.10.2021,2021-10-28,positive_numeric
+igl_chronology,CNG Price!J56,Gurugram,59.4,28.10.2021,2021-10-28,positive_numeric
+igl_chronology,CNG Price!K56,Karnal,58.3,28.10.2021,2021-10-28,positive_numeric
+igl_chronology,CNG Price!L56,Kaithal,58.3,28.10.2021,2021-10-28,positive_numeric
+igl_chronology,CNG Price!M56,Muzaffar Nagar,0,28.10.2021,2021-10-28,nonpositive_or_unknown_token
+igl_chronology,CNG Price!N56,Kanpur,67.82,28.10.2021,2021-10-28,positive_numeric
+igl_chronology,CNG Price!O56,Ajmer,66.32,28.10.2021,2021-10-28,positive_numeric
+igl_chronology,CNG Price!P56,Banda,,28.10.2021,2021-10-28,missing
+igl_chronology,CNG Price!C57,Delhi,52.04,14.11.2021,2021-11-14,positive_numeric
+igl_chronology,CNG Price!D57,Noida,58.58,14.11.2021,2021-11-14,positive_numeric
+igl_chronology,CNG Price!E57,G Noida,,14.11.2021,2021-11-14,missing
+igl_chronology,CNG Price!F57,Ghaziabad,,14.11.2021,2021-11-14,missing
+igl_chronology,CNG Price!G57,Ghaziabad DM-1&2,,14.11.2021,2021-11-14,missing
+igl_chronology,CNG Price!H57,Hapur,,14.11.2021,2021-11-14,missing
+igl_chronology,CNG Price!I57,Rewari,0,14.11.2021,2021-11-14,nonpositive_or_unknown_token
+igl_chronology,CNG Price!J57,Gurugram,0,14.11.2021,2021-11-14,nonpositive_or_unknown_token
+igl_chronology,CNG Price!K57,Karnal,0,14.11.2021,2021-11-14,nonpositive_or_unknown_token
+igl_chronology,CNG Price!L57,Kaithal,0,14.11.2021,2021-11-14,nonpositive_or_unknown_token
+igl_chronology,CNG Price!M57,Muzaffar Nagar,0,14.11.2021,2021-11-14,nonpositive_or_unknown_token
+igl_chronology,CNG Price!N57,Kanpur,0,14.11.2021,2021-11-14,nonpositive_or_unknown_token
+igl_chronology,CNG Price!O57,Ajmer,0,14.11.2021,2021-11-14,nonpositive_or_unknown_token
+igl_chronology,CNG Price!P57,Banda,,14.11.2021,2021-11-14,missing
+igl_chronology,CNG Price!C58,Delhi,53.04,04.12.2021,2021-12-04,positive_numeric
+igl_chronology,CNG Price!D58,Noida,-,04.12.2021,2021-12-04,nonpositive_or_unknown_token
+igl_chronology,CNG Price!E58,G Noida,,04.12.2021,2021-12-04,missing
+igl_chronology,CNG Price!F58,Ghaziabad,,04.12.2021,2021-12-04,missing
+igl_chronology,CNG Price!G58,Ghaziabad DM-1&2,,04.12.2021,2021-12-04,missing
+igl_chronology,CNG Price!H58,Hapur,,04.12.2021,2021-12-04,missing
+igl_chronology,CNG Price!I58,Rewari,61.1,04.12.2021,2021-12-04,positive_numeric
+igl_chronology,CNG Price!J58,Gurugram,60.4,04.12.2021,2021-12-04,positive_numeric
+igl_chronology,CNG Price!K58,Karnal,59.3,04.12.2021,2021-12-04,positive_numeric
+igl_chronology,CNG Price!L58,Kaithal,59.3,04.12.2021,2021-12-04,positive_numeric
+igl_chronology,CNG Price!M58,Muzaffar Nagar,,04.12.2021,2021-12-04,missing
+igl_chronology,CNG Price!N58,Kanpur,-,04.12.2021,2021-12-04,nonpositive_or_unknown_token
+igl_chronology,CNG Price!O58,Ajmer,67.31,04.12.2021,2021-12-04,positive_numeric
+igl_chronology,CNG Price!P58,Banda,,04.12.2021,2021-12-04,missing
+igl_chronology,CNG Price!C59,Delhi,-,07.12.2021,2021-12-07,nonpositive_or_unknown_token
+igl_chronology,CNG Price!D59,Noida,-,07.12.2021,2021-12-07,nonpositive_or_unknown_token
+igl_chronology,CNG Price!E59,G Noida,,07.12.2021,2021-12-07,missing
+igl_chronology,CNG Price!F59,Ghaziabad,,07.12.2021,2021-12-07,missing
+igl_chronology,CNG Price!G59,Ghaziabad DM-1&2,,07.12.2021,2021-12-07,missing
+igl_chronology,CNG Price!H59,Hapur,,07.12.2021,2021-12-07,missing
+igl_chronology,CNG Price!I59,Rewari,-,07.12.2021,2021-12-07,nonpositive_or_unknown_token
+igl_chronology,CNG Price!J59,Gurugram,61.39,07.12.2021,2021-12-07,positive_numeric
+igl_chronology,CNG Price!K59,Karnal,-,07.12.2021,2021-12-07,nonpositive_or_unknown_token
+igl_chronology,CNG Price!L59,Kaithal,-,07.12.2021,2021-12-07,nonpositive_or_unknown_token
+igl_chronology,CNG Price!M59,Muzaffar Nagar,-,07.12.2021,2021-12-07,nonpositive_or_unknown_token
+igl_chronology,CNG Price!N59,Kanpur,-,07.12.2021,2021-12-07,nonpositive_or_unknown_token
+igl_chronology,CNG Price!O59,Ajmer,-,07.12.2021,2021-12-07,nonpositive_or_unknown_token
+igl_chronology,CNG Price!P59,Banda,,07.12.2021,2021-12-07,missing
+igl_chronology,CNG Price!C60,Delhi,-,09.12.2021,2021-12-09,nonpositive_or_unknown_token
+igl_chronology,CNG Price!D60,Noida,-,09.12.2021,2021-12-09,nonpositive_or_unknown_token
+igl_chronology,CNG Price!E60,G Noida,,09.12.2021,2021-12-09,missing
+igl_chronology,CNG Price!F60,Ghaziabad,,09.12.2021,2021-12-09,missing
+igl_chronology,CNG Price!G60,Ghaziabad DM-1&2,,09.12.2021,2021-12-09,missing
+igl_chronology,CNG Price!H60,Hapur,,09.12.2021,2021-12-09,missing
+igl_chronology,CNG Price!I60,Rewari,63.5,09.12.2021,2021-12-09,positive_numeric
+igl_chronology,CNG Price!J60,Gurugram,-,09.12.2021,2021-12-09,nonpositive_or_unknown_token
+igl_chronology,CNG Price!K60,Karnal,61.7,09.12.2021,2021-12-09,positive_numeric
+igl_chronology,CNG Price!L60,Kaithal,61.7,09.12.2021,2021-12-09,positive_numeric
+igl_chronology,CNG Price!M60,Muzaffar Nagar,-,09.12.2021,2021-12-09,nonpositive_or_unknown_token
+igl_chronology,CNG Price!N60,Kanpur,-,09.12.2021,2021-12-09,nonpositive_or_unknown_token
+igl_chronology,CNG Price!O60,Ajmer,-,09.12.2021,2021-12-09,nonpositive_or_unknown_token
+igl_chronology,CNG Price!P60,Banda,,09.12.2021,2021-12-09,missing
+igl_chronology,CNG Price!C61,Delhi,53.53,12.01.2022,2022-01-12,positive_numeric
+igl_chronology,CNG Price!D61,Noida,-,12.01.2022,2022-01-12,nonpositive_or_unknown_token
+igl_chronology,CNG Price!E61,G Noida,,12.01.2022,2022-01-12,missing
+igl_chronology,CNG Price!F61,Ghaziabad,,12.01.2022,2022-01-12,missing
+igl_chronology,CNG Price!G61,Ghaziabad DM-1&2,,12.01.2022,2022-01-12,missing
+igl_chronology,CNG Price!H61,Hapur,,12.01.2022,2022-01-12,missing
+igl_chronology,CNG Price!I61,Rewari,64,12.01.2022,2022-01-12,positive_numeric
+igl_chronology,CNG Price!J61,Gurugram,61.89,12.01.2022,2022-01-12,positive_numeric
+igl_chronology,CNG Price!K61,Karnal,62.2,12.01.2022,2022-01-12,positive_numeric
+igl_chronology,CNG Price!L61,Kaithal,62.2,12.01.2022,2022-01-12,positive_numeric
+igl_chronology,CNG Price!M61,Muzaffar Nagar,-,12.01.2022,2022-01-12,nonpositive_or_unknown_token
+igl_chronology,CNG Price!N61,Kanpur,-,12.01.2022,2022-01-12,nonpositive_or_unknown_token
+igl_chronology,CNG Price!O61,Ajmer,-,12.01.2022,2022-01-12,nonpositive_or_unknown_token
+igl_chronology,CNG Price!P61,Banda,,12.01.2022,2022-01-12,missing
+igl_chronology,CNG Price!C62,Delhi,54.02,15.01.2022,2022-01-15,positive_numeric
+igl_chronology,CNG Price!D62,Noida,-,15.01.2022,2022-01-15,nonpositive_or_unknown_token
+igl_chronology,CNG Price!E62,G Noida,,15.01.2022,2022-01-15,missing
+igl_chronology,CNG Price!F62,Ghaziabad,,15.01.2022,2022-01-15,missing
+igl_chronology,CNG Price!G62,Ghaziabad DM-1&2,,15.01.2022,2022-01-15,missing
+igl_chronology,CNG Price!H62,Hapur,,15.01.2022,2022-01-15,missing
+igl_chronology,CNG Price!I62,Rewari,64.5,15.01.2022,2022-01-15,positive_numeric
+igl_chronology,CNG Price!J62,Gurugram,62.39,15.01.2022,2022-01-15,positive_numeric
+igl_chronology,CNG Price!K62,Karnal,62.7,15.01.2022,2022-01-15,positive_numeric
+igl_chronology,CNG Price!L62,Kaithal,62.7,15.01.2022,2022-01-15,positive_numeric
+igl_chronology,CNG Price!M62,Muzaffar Nagar,-,15.01.2022,2022-01-15,nonpositive_or_unknown_token
+igl_chronology,CNG Price!N62,Kanpur,-,15.01.2022,2022-01-15,nonpositive_or_unknown_token
+igl_chronology,CNG Price!O62,Ajmer,-,15.01.2022,2022-01-15,nonpositive_or_unknown_token
+igl_chronology,CNG Price!P62,Banda,,15.01.2022,2022-01-15,missing
+igl_chronology,CNG Price!C63,Delhi,54.51,24.01.2022,2022-01-24,positive_numeric
+igl_chronology,CNG Price!D63,Noida,-,24.01.2022,2022-01-24,nonpositive_or_unknown_token
+igl_chronology,CNG Price!E63,G Noida,,24.01.2022,2022-01-24,missing
+igl_chronology,CNG Price!F63,Ghaziabad,,24.01.2022,2022-01-24,missing
+igl_chronology,CNG Price!G63,Ghaziabad DM-1&2,,24.01.2022,2022-01-24,missing
+igl_chronology,CNG Price!H63,Hapur,,24.01.2022,2022-01-24,missing
+igl_chronology,CNG Price!I63,Rewari,64.99,24.01.2022,2022-01-24,positive_numeric
+igl_chronology,CNG Price!J63,Gurugram,62.89,24.01.2022,2022-01-24,positive_numeric
+igl_chronology,CNG Price!K63,Karnal,63.19,24.01.2022,2022-01-24,positive_numeric
+igl_chronology,CNG Price!L63,Kaithal,63.19,24.01.2022,2022-01-24,positive_numeric
+igl_chronology,CNG Price!M63,Muzaffar Nagar,-,24.01.2022,2022-01-24,nonpositive_or_unknown_token
+igl_chronology,CNG Price!N63,Kanpur,-,24.01.2022,2022-01-24,nonpositive_or_unknown_token
+igl_chronology,CNG Price!O63,Ajmer,-,24.01.2022,2022-01-24,nonpositive_or_unknown_token
+igl_chronology,CNG Price!P63,Banda,,24.01.2022,2022-01-24,missing
+igl_chronology,CNG Price!C64,Delhi,55.01,29.01.2022,2022-01-29,positive_numeric
+igl_chronology,CNG Price!D64,Noida,-,29.01.2022,2022-01-29,nonpositive_or_unknown_token
+igl_chronology,CNG Price!E64,G Noida,,29.01.2022,2022-01-29,missing
+igl_chronology,CNG Price!F64,Ghaziabad,,29.01.2022,2022-01-29,missing
+igl_chronology,CNG Price!G64,Ghaziabad DM-1&2,,29.01.2022,2022-01-29,missing
+igl_chronology,CNG Price!H64,Hapur,,29.01.2022,2022-01-29,missing
+igl_chronology,CNG Price!I64,Rewari,65.49,29.01.2022,2022-01-29,positive_numeric
+igl_chronology,CNG Price!J64,Gurugram,63.39,29.01.2022,2022-01-29,positive_numeric
+igl_chronology,CNG Price!K64,Karnal,63.69,29.01.2022,2022-01-29,positive_numeric
+igl_chronology,CNG Price!L64,Kaithal,63.69,29.01.2022,2022-01-29,positive_numeric
+igl_chronology,CNG Price!M64,Muzaffar Nagar,-,29.01.2022,2022-01-29,nonpositive_or_unknown_token
+igl_chronology,CNG Price!N64,Kanpur,-,29.01.2022,2022-01-29,nonpositive_or_unknown_token
+igl_chronology,CNG Price!O64,Ajmer,-,29.01.2022,2022-01-29,nonpositive_or_unknown_token
+igl_chronology,CNG Price!P64,Banda,,29.01.2022,2022-01-29,missing
+igl_chronology,CNG Price!C65,Delhi,55.51,12.02.2022,2022-02-12,positive_numeric
+igl_chronology,CNG Price!D65,Noida,-,12.02.2022,2022-02-12,nonpositive_or_unknown_token
+igl_chronology,CNG Price!E65,G Noida,,12.02.2022,2022-02-12,missing
+igl_chronology,CNG Price!F65,Ghaziabad,,12.02.2022,2022-02-12,missing
+igl_chronology,CNG Price!G65,Ghaziabad DM-1&2,,12.02.2022,2022-02-12,missing
+igl_chronology,CNG Price!H65,Hapur,,12.02.2022,2022-02-12,missing
+igl_chronology,CNG Price!I65,Rewari,65.99,12.02.2022,2022-02-12,positive_numeric
+igl_chronology,CNG Price!J65,Gurugram,63.88,12.02.2022,2022-02-12,positive_numeric
+igl_chronology,CNG Price!K65,Karnal,64.19,12.02.2022,2022-02-12,positive_numeric
+igl_chronology,CNG Price!L65,Kaithal,64.19,12.02.2022,2022-02-12,positive_numeric
+igl_chronology,CNG Price!M65,Muzaffar Nagar,-,12.02.2022,2022-02-12,nonpositive_or_unknown_token
+igl_chronology,CNG Price!N65,Kanpur,-,12.02.2022,2022-02-12,nonpositive_or_unknown_token
+igl_chronology,CNG Price!O65,Ajmer,-,12.02.2022,2022-02-12,nonpositive_or_unknown_token
+igl_chronology,CNG Price!P65,Banda,,12.02.2022,2022-02-12,missing
+igl_chronology,CNG Price!C66,Delhi,56.01,16.02.2022,2022-02-16,positive_numeric
+igl_chronology,CNG Price!D66,Noida,-,16.02.2022,2022-02-16,nonpositive_or_unknown_token
+igl_chronology,CNG Price!E66,G Noida,,16.02.2022,2022-02-16,missing
+igl_chronology,CNG Price!F66,Ghaziabad,,16.02.2022,2022-02-16,missing
+igl_chronology,CNG Price!G66,Ghaziabad DM-1&2,,16.02.2022,2022-02-16,missing
+igl_chronology,CNG Price!H66,Hapur,,16.02.2022,2022-02-16,missing
+igl_chronology,CNG Price!I66,Rewari,66.49,16.02.2022,2022-02-16,positive_numeric
+igl_chronology,CNG Price!J66,Gurugram,64.38,16.02.2022,2022-02-16,positive_numeric
+igl_chronology,CNG Price!K66,Karnal,64.69,16.02.2022,2022-02-16,positive_numeric
+igl_chronology,CNG Price!L66,Kaithal,64.69,16.02.2022,2022-02-16,positive_numeric
+igl_chronology,CNG Price!M66,Muzaffar Nagar,-,16.02.2022,2022-02-16,nonpositive_or_unknown_token
+igl_chronology,CNG Price!N66,Kanpur,-,16.02.2022,2022-02-16,nonpositive_or_unknown_token
+igl_chronology,CNG Price!O66,Ajmer,-,16.02.2022,2022-02-16,nonpositive_or_unknown_token
+igl_chronology,CNG Price!P66,Banda,,16.02.2022,2022-02-16,missing
+igl_chronology,CNG Price!C67,Delhi,56.51,19.02.2022,2022-02-19,positive_numeric
+igl_chronology,CNG Price!D67,Noida,-,19.02.2022,2022-02-19,nonpositive_or_unknown_token
+igl_chronology,CNG Price!E67,G Noida,,19.02.2022,2022-02-19,missing
+igl_chronology,CNG Price!F67,Ghaziabad,,19.02.2022,2022-02-19,missing
+igl_chronology,CNG Price!G67,Ghaziabad DM-1&2,,19.02.2022,2022-02-19,missing
+igl_chronology,CNG Price!H67,Hapur,,19.02.2022,2022-02-19,missing
+igl_chronology,CNG Price!I67,Rewari,66.99,19.02.2022,2022-02-19,positive_numeric
+igl_chronology,CNG Price!J67,Gurugram,64.88,19.02.2022,2022-02-19,positive_numeric
+igl_chronology,CNG Price!K67,Karnal,65.19,19.02.2022,2022-02-19,positive_numeric
+igl_chronology,CNG Price!L67,Kaithal,65.19,19.02.2022,2022-02-19,positive_numeric
+igl_chronology,CNG Price!M67,Muzaffar Nagar,-,19.02.2022,2022-02-19,nonpositive_or_unknown_token
+igl_chronology,CNG Price!N67,Kanpur,-,19.02.2022,2022-02-19,nonpositive_or_unknown_token
+igl_chronology,CNG Price!O67,Ajmer,-,19.02.2022,2022-02-19,nonpositive_or_unknown_token
+igl_chronology,CNG Price!P67,Banda,,19.02.2022,2022-02-19,missing
+igl_chronology,CNG Price!C68,Delhi,57.01,23.02.2022,2022-02-23,positive_numeric
+igl_chronology,CNG Price!D68,Noida,-,23.02.2022,2022-02-23,nonpositive_or_unknown_token
+igl_chronology,CNG Price!E68,G Noida,,23.02.2022,2022-02-23,missing
+igl_chronology,CNG Price!F68,Ghaziabad,,23.02.2022,2022-02-23,missing
+igl_chronology,CNG Price!G68,Ghaziabad DM-1&2,,23.02.2022,2022-02-23,missing
+igl_chronology,CNG Price!H68,Hapur,,23.02.2022,2022-02-23,missing
+igl_chronology,CNG Price!I68,Rewari,67.48,23.02.2022,2022-02-23,positive_numeric
+igl_chronology,CNG Price!J68,Gurugram,65.38,23.02.2022,2022-02-23,positive_numeric
+igl_chronology,CNG Price!K68,Karnal,65.68,23.02.2022,2022-02-23,positive_numeric
+igl_chronology,CNG Price!L68,Kaithal,65.68,23.02.2022,2022-02-23,positive_numeric
+igl_chronology,CNG Price!M68,Muzaffar Nagar,-,23.02.2022,2022-02-23,nonpositive_or_unknown_token
+igl_chronology,CNG Price!N68,Kanpur,-,23.02.2022,2022-02-23,nonpositive_or_unknown_token
+igl_chronology,CNG Price!O68,Ajmer,-,23.02.2022,2022-02-23,nonpositive_or_unknown_token
+igl_chronology,CNG Price!P68,Banda,,23.02.2022,2022-02-23,missing
+igl_chronology,CNG Price!C69,Delhi,57.51,08.03.2022,2022-03-08,positive_numeric
+igl_chronology,CNG Price!D69,Noida,59.58,08.03.2022,2022-03-08,positive_numeric
+igl_chronology,CNG Price!E69,G Noida,,08.03.2022,2022-03-08,missing
+igl_chronology,CNG Price!F69,Ghaziabad,,08.03.2022,2022-03-08,missing
+igl_chronology,CNG Price!G69,Ghaziabad DM-1&2,,08.03.2022,2022-03-08,missing
+igl_chronology,CNG Price!H69,Hapur,,08.03.2022,2022-03-08,missing
+igl_chronology,CNG Price!I69,Rewari,67.98,08.03.2022,2022-03-08,positive_numeric
+igl_chronology,CNG Price!J69,Gurugram,65.88,08.03.2022,2022-03-08,positive_numeric
+igl_chronology,CNG Price!K69,Karnal,66.18,08.03.2022,2022-03-08,positive_numeric
+igl_chronology,CNG Price!L69,Kaithal,66.18,08.03.2022,2022-03-08,positive_numeric
+igl_chronology,CNG Price!M69,Muzaffar Nagar,64.28,08.03.2022,2022-03-08,positive_numeric
+igl_chronology,CNG Price!N69,Kanpur,68.82,08.03.2022,2022-03-08,positive_numeric
+igl_chronology,CNG Price!O69,Ajmer,67.81,08.03.2022,2022-03-08,positive_numeric
+igl_chronology,CNG Price!P69,Banda,,08.03.2022,2022-03-08,missing
+igl_chronology,CNG Price!C70,Delhi,58.01,12.03.2022,2022-03-12,positive_numeric
+igl_chronology,CNG Price!D70,Noida,60.58,12.03.2022,2022-03-12,positive_numeric
+igl_chronology,CNG Price!E70,G Noida,,12.03.2022,2022-03-12,missing
+igl_chronology,CNG Price!F70,Ghaziabad,,12.03.2022,2022-03-12,missing
+igl_chronology,CNG Price!G70,Ghaziabad DM-1&2,,12.03.2022,2022-03-12,missing
+igl_chronology,CNG Price!H70,Hapur,,12.03.2022,2022-03-12,missing
+igl_chronology,CNG Price!I70,Rewari,68.48,12.03.2022,2022-03-12,positive_numeric
+igl_chronology,CNG Price!J70,Gurugram,66.37,12.03.2022,2022-03-12,positive_numeric
+igl_chronology,CNG Price!K70,Karnal,66.68,12.03.2022,2022-03-12,positive_numeric
+igl_chronology,CNG Price!L70,Kaithal,66.68,12.03.2022,2022-03-12,positive_numeric
+igl_chronology,CNG Price!M70,Muzaffar Nagar,65.28,12.03.2022,2022-03-12,positive_numeric
+igl_chronology,CNG Price!N70,Kanpur,69.82,12.03.2022,2022-03-12,positive_numeric
+igl_chronology,CNG Price!O70,Ajmer,68.31,12.03.2022,2022-03-12,positive_numeric
+igl_chronology,CNG Price!P70,Banda,,12.03.2022,2022-03-12,missing
+igl_chronology,CNG Price!C71,Delhi,59.01,24.03.2022,2022-03-24,positive_numeric
+igl_chronology,CNG Price!D71,Noida,61.58,24.03.2022,2022-03-24,positive_numeric
+igl_chronology,CNG Price!E71,G Noida,,24.03.2022,2022-03-24,missing
+igl_chronology,CNG Price!F71,Ghaziabad,,24.03.2022,2022-03-24,missing
+igl_chronology,CNG Price!G71,Ghaziabad DM-1&2,,24.03.2022,2022-03-24,missing
+igl_chronology,CNG Price!H71,Hapur,,24.03.2022,2022-03-24,missing
+igl_chronology,CNG Price!I71,Rewari,69.48,24.03.2022,2022-03-24,positive_numeric
+igl_chronology,CNG Price!J71,Gurugram,67.37,24.03.2022,2022-03-24,positive_numeric
+igl_chronology,CNG Price!K71,Karnal,67.68,24.03.2022,2022-03-24,positive_numeric
+igl_chronology,CNG Price!L71,Kaithal,67.68,24.03.2022,2022-03-24,positive_numeric
+igl_chronology,CNG Price!M71,Muzaffar Nagar,66.26,24.03.2022,2022-03-24,positive_numeric
+igl_chronology,CNG Price!N71,Kanpur,70.82,24.03.2022,2022-03-24,positive_numeric
+igl_chronology,CNG Price!O71,Ajmer,69.31,24.03.2022,2022-03-24,positive_numeric
+igl_chronology,CNG Price!P71,Banda,,24.03.2022,2022-03-24,missing
+igl_chronology,CNG Price!C72,Delhi,60.01,26.03.2022,2022-03-26,positive_numeric
+igl_chronology,CNG Price!D72,Noida,62.58,26.03.2022,2022-03-26,positive_numeric
+igl_chronology,CNG Price!E72,G Noida,,26.03.2022,2022-03-26,missing
+igl_chronology,CNG Price!F72,Ghaziabad,,26.03.2022,2022-03-26,missing
+igl_chronology,CNG Price!G72,Ghaziabad DM-1&2,,26.03.2022,2022-03-26,missing
+igl_chronology,CNG Price!H72,Hapur,,26.03.2022,2022-03-26,missing
+igl_chronology,CNG Price!I72,Rewari,70.48,26.03.2022,2022-03-26,positive_numeric
+igl_chronology,CNG Price!J72,Gurugram,68.37,26.03.2022,2022-03-26,positive_numeric
+igl_chronology,CNG Price!K72,Karnal,68.68,26.03.2022,2022-03-26,positive_numeric
+igl_chronology,CNG Price!L72,Kaithal,68.68,26.03.2022,2022-03-26,positive_numeric
+igl_chronology,CNG Price!M72,Muzaffar Nagar,67.26,26.03.2022,2022-03-26,positive_numeric
+igl_chronology,CNG Price!N72,Kanpur,71.82,26.03.2022,2022-03-26,positive_numeric
+igl_chronology,CNG Price!O72,Ajmer,70.31,26.03.2022,2022-03-26,positive_numeric
+igl_chronology,CNG Price!P72,Banda,,26.03.2022,2022-03-26,missing
+igl_chronology,CNG Price!C73,Delhi,60.81,01.04.2022,2022-04-01,positive_numeric
+igl_chronology,CNG Price!D73,Noida,63.38,01.04.2022,2022-04-01,positive_numeric
+igl_chronology,CNG Price!E73,G Noida,,01.04.2022,2022-04-01,missing
+igl_chronology,CNG Price!F73,Ghaziabad,,01.04.2022,2022-04-01,missing
+igl_chronology,CNG Price!G73,Ghaziabad DM-1&2,,01.04.2022,2022-04-01,missing
+igl_chronology,CNG Price!H73,Hapur,,01.04.2022,2022-04-01,missing
+igl_chronology,CNG Price!I73,Rewari,71.28,01.04.2022,2022-04-01,positive_numeric
+igl_chronology,CNG Price!J73,Gurugram,69.17,01.04.2022,2022-04-01,positive_numeric
+igl_chronology,CNG Price!K73,Karnal,69.48,01.04.2022,2022-04-01,positive_numeric
+igl_chronology,CNG Price!L73,Kaithal,69.48,01.04.2022,2022-04-01,positive_numeric
+igl_chronology,CNG Price!M73,Muzaffar Nagar,68.06,01.04.2022,2022-04-01,positive_numeric
+igl_chronology,CNG Price!N73,Kanpur,72.62,01.04.2022,2022-04-01,positive_numeric
+igl_chronology,CNG Price!O73,Ajmer,71.1,01.04.2022,2022-04-01,positive_numeric
+igl_chronology,CNG Price!P73,Banda,,01.04.2022,2022-04-01,missing
+igl_chronology,CNG Price!C74,Delhi,61.61,02.04.2022,2022-04-02,positive_numeric
+igl_chronology,CNG Price!D74,Noida,64.18,02.04.2022,2022-04-02,positive_numeric
+igl_chronology,CNG Price!E74,G Noida,,02.04.2022,2022-04-02,missing
+igl_chronology,CNG Price!F74,Ghaziabad,,02.04.2022,2022-04-02,missing
+igl_chronology,CNG Price!G74,Ghaziabad DM-1&2,,02.04.2022,2022-04-02,missing
+igl_chronology,CNG Price!H74,Hapur,,02.04.2022,2022-04-02,missing
+igl_chronology,CNG Price!I74,Rewari,72.08,02.04.2022,2022-04-02,positive_numeric
+igl_chronology,CNG Price!J74,Gurugram,69.97,02.04.2022,2022-04-02,positive_numeric
+igl_chronology,CNG Price!K74,Karnal,70.28,02.04.2022,2022-04-02,positive_numeric
+igl_chronology,CNG Price!L74,Kaithal,70.28,02.04.2022,2022-04-02,positive_numeric
+igl_chronology,CNG Price!M74,Muzaffar Nagar,68.86,02.04.2022,2022-04-02,positive_numeric
+igl_chronology,CNG Price!N74,Kanpur,73.41,02.04.2022,2022-04-02,positive_numeric
+igl_chronology,CNG Price!O74,Ajmer,71.89,02.04.2022,2022-04-02,positive_numeric
+igl_chronology,CNG Price!P74,Banda,,02.04.2022,2022-04-02,missing
+igl_chronology,CNG Price!C75,Delhi,64.11,04.04.2022,2022-04-04,positive_numeric
+igl_chronology,CNG Price!D75,Noida,66.68,04.04.2022,2022-04-04,positive_numeric
+igl_chronology,CNG Price!E75,G Noida,,04.04.2022,2022-04-04,missing
+igl_chronology,CNG Price!F75,Ghaziabad,,04.04.2022,2022-04-04,missing
+igl_chronology,CNG Price!G75,Ghaziabad DM-1&2,,04.04.2022,2022-04-04,missing
+igl_chronology,CNG Price!H75,Hapur,,04.04.2022,2022-04-04,missing
+igl_chronology,CNG Price!I75,Rewari,74.58,04.04.2022,2022-04-04,positive_numeric
+igl_chronology,CNG Price!J75,Gurugram,72.45,04.04.2022,2022-04-04,positive_numeric
+igl_chronology,CNG Price!K75,Karnal,72.78,04.04.2022,2022-04-04,positive_numeric
+igl_chronology,CNG Price!L75,Kaithal,72.78,04.04.2022,2022-04-04,positive_numeric
+igl_chronology,CNG Price!M75,Muzaffar Nagar,71.36,04.04.2022,2022-04-04,positive_numeric
+igl_chronology,CNG Price!N75,Kanpur,75.9,04.04.2022,2022-04-04,positive_numeric
+igl_chronology,CNG Price!O75,Ajmer,74.39,04.04.2022,2022-04-04,positive_numeric
+igl_chronology,CNG Price!P75,Banda,,04.04.2022,2022-04-04,missing
+igl_chronology,CNG Price!C76,Delhi,66.61,06.04.2022,2022-04-06,positive_numeric
+igl_chronology,CNG Price!D76,Noida,69.18,06.04.2022,2022-04-06,positive_numeric
+igl_chronology,CNG Price!E76,G Noida,,06.04.2022,2022-04-06,missing
+igl_chronology,CNG Price!F76,Ghaziabad,,06.04.2022,2022-04-06,missing
+igl_chronology,CNG Price!G76,Ghaziabad DM-1&2,,06.04.2022,2022-04-06,missing
+igl_chronology,CNG Price!H76,Hapur,,06.04.2022,2022-04-06,missing
+igl_chronology,CNG Price!I76,Rewari,77.07,06.04.2022,2022-04-06,positive_numeric
+igl_chronology,CNG Price!J76,Gurugram,74.94,06.04.2022,2022-04-06,positive_numeric
+igl_chronology,CNG Price!K76,Karnal,75.27,06.04.2022,2022-04-06,positive_numeric
+igl_chronology,CNG Price!L76,Kaithal,75.27,06.04.2022,2022-04-06,positive_numeric
+igl_chronology,CNG Price!M76,Muzaffar Nagar,73.86,06.04.2022,2022-04-06,positive_numeric
+igl_chronology,CNG Price!N76,Kanpur,78.4,06.04.2022,2022-04-06,positive_numeric
+igl_chronology,CNG Price!O76,Ajmer,76.89,06.04.2022,2022-04-06,positive_numeric
+igl_chronology,CNG Price!P76,Banda,,06.04.2022,2022-04-06,missing
+igl_chronology,CNG Price!C77,Delhi,69.11,07.04.2022,2022-04-07,positive_numeric
+igl_chronology,CNG Price!D77,Noida,71.67,07.04.2022,2022-04-07,positive_numeric
+igl_chronology,CNG Price!E77,G Noida,,07.04.2022,2022-04-07,missing
+igl_chronology,CNG Price!F77,Ghaziabad,,07.04.2022,2022-04-07,missing
+igl_chronology,CNG Price!G77,Ghaziabad DM-1&2,,07.04.2022,2022-04-07,missing
+igl_chronology,CNG Price!H77,Hapur,,07.04.2022,2022-04-07,missing
+igl_chronology,CNG Price!I77,Rewari,79.57,07.04.2022,2022-04-07,positive_numeric
+igl_chronology,CNG Price!J77,Gurugram,77.44,07.04.2022,2022-04-07,positive_numeric
+igl_chronology,CNG Price!K77,Karnal,77.77,07.04.2022,2022-04-07,positive_numeric
+igl_chronology,CNG Price!L77,Kaithal,77.77,07.04.2022,2022-04-07,positive_numeric
+igl_chronology,CNG Price!M77,Muzaffar Nagar,76.34,07.04.2022,2022-04-07,positive_numeric
+igl_chronology,CNG Price!N77,Kanpur,80.9,07.04.2022,2022-04-07,positive_numeric
+igl_chronology,CNG Price!O77,Ajmer,79.38,07.04.2022,2022-04-07,positive_numeric
+igl_chronology,CNG Price!P77,Banda,,07.04.2022,2022-04-07,missing
+igl_chronology,CNG Price!C78,Delhi,71.61,14.04.2022,2022-04-14,positive_numeric
+igl_chronology,CNG Price!D78,Noida,74.17,14.04.2022,2022-04-14,positive_numeric
+igl_chronology,CNG Price!E78,G Noida,,14.04.2022,2022-04-14,missing
+igl_chronology,CNG Price!F78,Ghaziabad,,14.04.2022,2022-04-14,missing
+igl_chronology,CNG Price!G78,Ghaziabad DM-1&2,,14.04.2022,2022-04-14,missing
+igl_chronology,CNG Price!H78,Hapur,,14.04.2022,2022-04-14,missing
+igl_chronology,CNG Price!I78,Rewari,82.07,14.04.2022,2022-04-14,positive_numeric
+igl_chronology,CNG Price!J78,Gurugram,79.94,14.04.2022,2022-04-14,positive_numeric
+igl_chronology,CNG Price!K78,Karnal,80.27,14.04.2022,2022-04-14,positive_numeric
+igl_chronology,CNG Price!L78,Kaithal,80.27,14.04.2022,2022-04-14,positive_numeric
+igl_chronology,CNG Price!M78,Muzaffar Nagar,78.84,14.04.2022,2022-04-14,positive_numeric
+igl_chronology,CNG Price!N78,Kanpur,83.4,14.04.2022,2022-04-14,positive_numeric
+igl_chronology,CNG Price!O78,Ajmer,81.88,14.04.2022,2022-04-14,positive_numeric
+igl_chronology,CNG Price!P78,Banda,,14.04.2022,2022-04-14,missing
+igl_chronology,CNG Price!C79,Delhi,73.61,15.05.2022,2022-05-15,positive_numeric
+igl_chronology,CNG Price!D79,Noida,76.17,15.05.2022,2022-05-15,positive_numeric
+igl_chronology,CNG Price!E79,G Noida,,15.05.2022,2022-05-15,missing
+igl_chronology,CNG Price!F79,Ghaziabad,,15.05.2022,2022-05-15,missing
+igl_chronology,CNG Price!G79,Ghaziabad DM-1&2,,15.05.2022,2022-05-15,missing
+igl_chronology,CNG Price!H79,Hapur,,15.05.2022,2022-05-15,missing
+igl_chronology,CNG Price!I79,Rewari,84.07,15.05.2022,2022-05-15,positive_numeric
+igl_chronology,CNG Price!J79,Gurugram,81.94,15.05.2022,2022-05-15,positive_numeric
+igl_chronology,CNG Price!K79,Karnal,82.27,15.05.2022,2022-05-15,positive_numeric
+igl_chronology,CNG Price!L79,Kaithal,82.27,15.05.2022,2022-05-15,positive_numeric
+igl_chronology,CNG Price!M79,Muzaffar Nagar,80.84,15.05.2022,2022-05-15,positive_numeric
+igl_chronology,CNG Price!N79,Kanpur,85.4,15.05.2022,2022-05-15,positive_numeric
+igl_chronology,CNG Price!O79,Ajmer,83.88,15.05.2022,2022-05-15,positive_numeric
+igl_chronology,CNG Price!P79,Banda,,15.05.2022,2022-05-15,missing
+igl_chronology,CNG Price!C80,Delhi,75.61,21.05.2022,2022-05-21,positive_numeric
+igl_chronology,CNG Price!D80,Noida,78.17,21.05.2022,2022-05-21,positive_numeric
+igl_chronology,CNG Price!E80,G Noida,,21.05.2022,2022-05-21,missing
+igl_chronology,CNG Price!F80,Ghaziabad,,21.05.2022,2022-05-21,missing
+igl_chronology,CNG Price!G80,Ghaziabad DM-1&2,,21.05.2022,2022-05-21,missing
+igl_chronology,CNG Price!H80,Hapur,,21.05.2022,2022-05-21,missing
+igl_chronology,CNG Price!I80,Rewari,86.07,21.05.2022,2022-05-21,positive_numeric
+igl_chronology,CNG Price!J80,Gurugram,83.94,21.05.2022,2022-05-21,positive_numeric
+igl_chronology,CNG Price!K80,Karnal,84.27,21.05.2022,2022-05-21,positive_numeric
+igl_chronology,CNG Price!L80,Kaithal,84.27,21.05.2022,2022-05-21,positive_numeric
+igl_chronology,CNG Price!M80,Muzaffar Nagar,82.84,21.05.2022,2022-05-21,positive_numeric
+igl_chronology,CNG Price!N80,Kanpur,87.4,21.05.2022,2022-05-21,positive_numeric
+igl_chronology,CNG Price!O80,Ajmer,85.88,21.05.2022,2022-05-21,positive_numeric
+igl_chronology,CNG Price!P80,Banda,,21.05.2022,2022-05-21,missing
+igl_chronology,CNG Price!C81,Delhi,78.61,08.10.2022,2022-10-08,positive_numeric
+igl_chronology,CNG Price!D81,Noida,81.17,08.10.2022,2022-10-08,positive_numeric
+igl_chronology,CNG Price!E81,G Noida,,08.10.2022,2022-10-08,missing
+igl_chronology,CNG Price!F81,Ghaziabad,,08.10.2022,2022-10-08,missing
+igl_chronology,CNG Price!G81,Ghaziabad DM-1&2,,08.10.2022,2022-10-08,missing
+igl_chronology,CNG Price!H81,Hapur,,08.10.2022,2022-10-08,missing
+igl_chronology,CNG Price!I81,Rewari,89.07,08.10.2022,2022-10-08,positive_numeric
+igl_chronology,CNG Price!J81,Gurugram,86.94,08.10.2022,2022-10-08,positive_numeric
+igl_chronology,CNG Price!K81,Karnal,87.27,08.10.2022,2022-10-08,positive_numeric
+igl_chronology,CNG Price!L81,Kaithal,87.27,08.10.2022,2022-10-08,positive_numeric
+igl_chronology,CNG Price!M81,Muzaffar Nagar,85.84,08.10.2022,2022-10-08,positive_numeric
+igl_chronology,CNG Price!N81,Kanpur,89.81,08.10.2022,2022-10-08,positive_numeric
+igl_chronology,CNG Price!O81,Ajmer,88.88,08.10.2022,2022-10-08,positive_numeric
+igl_chronology,CNG Price!P81,Banda,,08.10.2022,2022-10-08,missing
+igl_chronology,CNG Price!C82,Delhi,79.56,17.12.2022,2022-12-17,positive_numeric
+igl_chronology,CNG Price!D82,Noida,82.12,17.12.2022,2022-12-17,positive_numeric
+igl_chronology,CNG Price!E82,G Noida,,17.12.2022,2022-12-17,missing
+igl_chronology,CNG Price!F82,Ghaziabad,,17.12.2022,2022-12-17,missing
+igl_chronology,CNG Price!G82,Ghaziabad DM-1&2,,17.12.2022,2022-12-17,missing
+igl_chronology,CNG Price!H82,Hapur,,17.12.2022,2022-12-17,missing
+igl_chronology,CNG Price!I82,Rewari,89.57,17.12.2022,2022-12-17,positive_numeric
+igl_chronology,CNG Price!J82,Gurugram,87.89,17.12.2022,2022-12-17,positive_numeric
+igl_chronology,CNG Price!K82,Karnal,88.22,17.12.2022,2022-12-17,positive_numeric
+igl_chronology,CNG Price!L82,Kaithal,88.22,17.12.2022,2022-12-17,positive_numeric
+igl_chronology,CNG Price!M82,Muzaffar Nagar,86.79,17.12.2022,2022-12-17,positive_numeric
+igl_chronology,CNG Price!N82,Kanpur,89.81,17.12.2022,2022-12-17,positive_numeric
+igl_chronology,CNG Price!O82,Ajmer,89.83,17.12.2022,2022-12-17,positive_numeric
+igl_chronology,CNG Price!P82,Banda,,17.12.2022,2022-12-17,missing
+igl_chronology,CNG Price!C83,Delhi,73.59,09.04.2023,2023-04-09,positive_numeric
+igl_chronology,CNG Price!D83,Noida,77.2,09.04.2023,2023-04-09,positive_numeric
+igl_chronology,CNG Price!E83,G Noida,77.2,09.04.2023,2023-04-09,positive_numeric
+igl_chronology,CNG Price!F83,Ghaziabad,77.2,09.04.2023,2023-04-09,positive_numeric
+igl_chronology,CNG Price!G83,Ghaziabad DM-1&2,,09.04.2023,2023-04-09,missing
+igl_chronology,CNG Price!H83,Hapur,,09.04.2023,2023-04-09,missing
+igl_chronology,CNG Price!I83,Rewari,84.2,09.04.2023,2023-04-09,positive_numeric
+igl_chronology,CNG Price!J83,Gurugram,82.62,09.04.2023,2023-04-09,positive_numeric
+igl_chronology,CNG Price!K83,Karnal,82.93,09.04.2023,2023-04-09,positive_numeric
+igl_chronology,CNG Price!L83,Kaithal,82.93,09.04.2023,2023-04-09,positive_numeric
+igl_chronology,CNG Price!M83,Muzaffar Nagar,81.58,09.04.2023,2023-04-09,positive_numeric
+igl_chronology,CNG Price!N83,Kanpur,84.42,09.04.2023,2023-04-09,positive_numeric
+igl_chronology,CNG Price!O83,Ajmer,84.44,09.04.2023,2023-04-09,positive_numeric
+igl_chronology,CNG Price!P83,Banda,,09.04.2023,2023-04-09,missing
+igl_chronology,CNG Price!C84,Delhi,73.59,08.07.2023,2023-07-08,positive_numeric
+igl_chronology,CNG Price!D84,Noida,78.2,08.07.2023,2023-07-08,positive_numeric
+igl_chronology,CNG Price!E84,G Noida,78.2,08.07.2023,2023-07-08,positive_numeric
+igl_chronology,CNG Price!F84,Ghaziabad,78.2,08.07.2023,2023-07-08,positive_numeric
+igl_chronology,CNG Price!G84,Ghaziabad DM-1&2,,08.07.2023,2023-07-08,missing
+igl_chronology,CNG Price!H84,Hapur,,08.07.2023,2023-07-08,missing
+igl_chronology,CNG Price!I84,Rewari,83.2,08.07.2023,2023-07-08,positive_numeric
+igl_chronology,CNG Price!J84,Gurugram,82.62,08.07.2023,2023-07-08,positive_numeric
+igl_chronology,CNG Price!K84,Karnal,82.93,08.07.2023,2023-07-08,positive_numeric
+igl_chronology,CNG Price!L84,Kaithal,82.93,08.07.2023,2023-07-08,positive_numeric
+igl_chronology,CNG Price!M84,Muzaffar Nagar,81.58,08.07.2023,2023-07-08,positive_numeric
+igl_chronology,CNG Price!N84,Kanpur,84.42,08.07.2023,2023-07-08,positive_numeric
+igl_chronology,CNG Price!O84,Ajmer,84.44,08.07.2023,2023-07-08,positive_numeric
+igl_chronology,CNG Price!P84,Banda,,08.07.2023,2023-07-08,missing
+igl_chronology,CNG Price!C85,Delhi,73.59,11.08.2023,2023-08-11,positive_numeric
+igl_chronology,CNG Price!D85,Noida,79.2,11.08.2023,2023-08-11,positive_numeric
+igl_chronology,CNG Price!E85,G Noida,78.2,11.08.2023,2023-08-11,positive_numeric
+igl_chronology,CNG Price!F85,Ghaziabad,78.2,11.08.2023,2023-08-11,positive_numeric
+igl_chronology,CNG Price!G85,Ghaziabad DM-1&2,,11.08.2023,2023-08-11,missing
+igl_chronology,CNG Price!H85,Hapur,,11.08.2023,2023-08-11,missing
+igl_chronology,CNG Price!I85,Rewari,83.2,11.08.2023,2023-08-11,positive_numeric
+igl_chronology,CNG Price!J85,Gurugram,82.62,11.08.2023,2023-08-11,positive_numeric
+igl_chronology,CNG Price!K85,Karnal,82.93,11.08.2023,2023-08-11,positive_numeric
+igl_chronology,CNG Price!L85,Kaithal,82.93,11.08.2023,2023-08-11,positive_numeric
+igl_chronology,CNG Price!M85,Muzaffar Nagar,81.58,11.08.2023,2023-08-11,positive_numeric
+igl_chronology,CNG Price!N85,Kanpur,84.42,11.08.2023,2023-08-11,positive_numeric
+igl_chronology,CNG Price!O85,Ajmer,84.44,11.08.2023,2023-08-11,positive_numeric
+igl_chronology,CNG Price!P85,Banda,,11.08.2023,2023-08-11,missing
+igl_chronology,CNG Price!C86,Delhi,74.59,23.08.2023,2023-08-23,positive_numeric
+igl_chronology,CNG Price!D86,Noida,80.2,23.08.2023,2023-08-23,positive_numeric
+igl_chronology,CNG Price!E86,G Noida,79.2,23.08.2023,2023-08-23,positive_numeric
+igl_chronology,CNG Price!F86,Ghaziabad,79.2,23.08.2023,2023-08-23,positive_numeric
+igl_chronology,CNG Price!G86,Ghaziabad DM-1&2,,23.08.2023,2023-08-23,missing
+igl_chronology,CNG Price!H86,Hapur,,23.08.2023,2023-08-23,missing
+igl_chronology,CNG Price!I86,Rewari,82.2,23.08.2023,2023-08-23,positive_numeric
+igl_chronology,CNG Price!J86,Gurugram,82.62,23.08.2023,2023-08-23,positive_numeric
+igl_chronology,CNG Price!K86,Karnal,82.93,23.08.2023,2023-08-23,positive_numeric
+igl_chronology,CNG Price!L86,Kaithal,82.93,23.08.2023,2023-08-23,positive_numeric
+igl_chronology,CNG Price!M86,Muzaffar Nagar,81.58,23.08.2023,2023-08-23,positive_numeric
+igl_chronology,CNG Price!N86,Kanpur,84.42,23.08.2023,2023-08-23,positive_numeric
+igl_chronology,CNG Price!O86,Ajmer,84.44,23.08.2023,2023-08-23,positive_numeric
+igl_chronology,CNG Price!P86,Banda,84.42,23.08.2023,2023-08-23,positive_numeric
+igl_chronology,CNG Price!C87,Delhi,75.59,23.11.2023,2023-11-23,positive_numeric
+igl_chronology,CNG Price!D87,Noida, 81.20,23.11.2023,2023-11-23,positive_numeric_string
+igl_chronology,CNG Price!E87,G Noida,80.2,23.11.2023,2023-11-23,positive_numeric
+igl_chronology,CNG Price!F87,Ghaziabad,80.2,23.11.2023,2023-11-23,positive_numeric
+igl_chronology,CNG Price!G87,Ghaziabad DM-1&2,,23.11.2023,2023-11-23,missing
+igl_chronology,CNG Price!H87,Hapur,,23.11.2023,2023-11-23,missing
+igl_chronology,CNG Price!I87,Rewari,81.2,23.11.2023,2023-11-23,positive_numeric
+igl_chronology,CNG Price!J87,Gurugram,82.62,23.11.2023,2023-11-23,positive_numeric
+igl_chronology,CNG Price!K87,Karnal,82.93,23.11.2023,2023-11-23,positive_numeric
+igl_chronology,CNG Price!L87,Kaithal,82.93,23.11.2023,2023-11-23,positive_numeric
+igl_chronology,CNG Price!M87,Muzaffar Nagar,81.58,23.11.2023,2023-11-23,positive_numeric
+igl_chronology,CNG Price!N87,Kanpur,84.42,23.11.2023,2023-11-23,positive_numeric
+igl_chronology,CNG Price!O87,Ajmer,84.44,23.11.2023,2023-11-23,positive_numeric
+igl_chronology,CNG Price!P87,Banda,84.42,23.11.2023,2023-11-23,positive_numeric
+igl_chronology,CNG Price!C88,Delhi,76.59,14.12.2023,2023-12-14,positive_numeric
+igl_chronology,CNG Price!D88,Noida,81.2,14.12.2023,2023-12-14,positive_numeric
+igl_chronology,CNG Price!E88,G Noida,81.2,14.12.2023,2023-12-14,positive_numeric
+igl_chronology,CNG Price!F88,Ghaziabad,81.2,14.12.2023,2023-12-14,positive_numeric
+igl_chronology,CNG Price!G88,Ghaziabad DM-1&2,,14.12.2023,2023-12-14,missing
+igl_chronology,CNG Price!H88,Hapur,,14.12.2023,2023-12-14,missing
+igl_chronology,CNG Price!I88,Rewari,81.2,14.12.2023,2023-12-14,positive_numeric
+igl_chronology,CNG Price!J88,Gurugram,82.62,14.12.2023,2023-12-14,positive_numeric
+igl_chronology,CNG Price!K88,Karnal,82.93,14.12.2023,2023-12-14,positive_numeric
+igl_chronology,CNG Price!L88,Kaithal,82.93,14.12.2023,2023-12-14,positive_numeric
+igl_chronology,CNG Price!M88,Muzaffar Nagar,81.58,14.12.2023,2023-12-14,positive_numeric
+igl_chronology,CNG Price!N88,Kanpur,84.42,14.12.2023,2023-12-14,positive_numeric
+igl_chronology,CNG Price!O88,Ajmer,84.44,14.12.2023,2023-12-14,positive_numeric
+igl_chronology,CNG Price!P88,Banda,84.42,14.12.2023,2023-12-14,positive_numeric
+igl_chronology,CNG Price!C89,Delhi,74.09,07.03.2024,2024-03-07,positive_numeric
+igl_chronology,CNG Price!D89,Noida,78.7,07.03.2024,2024-03-07,positive_numeric
+igl_chronology,CNG Price!E89,G Noida,78.7,07.03.2024,2024-03-07,positive_numeric
+igl_chronology,CNG Price!F89,Ghaziabad,78.7,07.03.2024,2024-03-07,positive_numeric
+igl_chronology,CNG Price!G89,Ghaziabad DM-1&2,78,07.03.2024,2024-03-07,positive_numeric
+igl_chronology,CNG Price!H89,Hapur,,07.03.2024,2024-03-07,missing
+igl_chronology,CNG Price!I89,Rewari,78.7,07.03.2024,2024-03-07,positive_numeric
+igl_chronology,CNG Price!J89,Gurugram,80.12,07.03.2024,2024-03-07,positive_numeric
+igl_chronology,CNG Price!K89,Karnal,80.43,07.03.2024,2024-03-07,positive_numeric
+igl_chronology,CNG Price!L89,Kaithal,80.43,07.03.2024,2024-03-07,positive_numeric
+igl_chronology,CNG Price!M89,Muzaffar Nagar,79.08,07.03.2024,2024-03-07,positive_numeric
+igl_chronology,CNG Price!N89,Kanpur,81.92,07.03.2024,2024-03-07,positive_numeric
+igl_chronology,CNG Price!O89,Ajmer,81.94,07.03.2024,2024-03-07,positive_numeric
+igl_chronology,CNG Price!P89,Banda,81.92,07.03.2024,2024-03-07,positive_numeric
+igl_chronology,CNG Price!C90,Delhi,75.09,22.06.2024,2024-06-22,positive_numeric
+igl_chronology,CNG Price!D90,Noida,79.7,22.06.2024,2024-06-22,positive_numeric
+igl_chronology,CNG Price!E90,G Noida,79.7,22.06.2024,2024-06-22,positive_numeric
+igl_chronology,CNG Price!F90,Ghaziabad,79.7,22.06.2024,2024-06-22,positive_numeric
+igl_chronology,CNG Price!G90,Ghaziabad DM-1&2,79,22.06.2024,2024-06-22,positive_numeric
+igl_chronology,CNG Price!H90,Hapur,,22.06.2024,2024-06-22,missing
+igl_chronology,CNG Price!I90,Rewari,79.7,22.06.2024,2024-06-22,positive_numeric
+igl_chronology,CNG Price!J90,Gurugram,80.12,22.06.2024,2024-06-22,positive_numeric
+igl_chronology,CNG Price!K90,Karnal,80.43,22.06.2024,2024-06-22,positive_numeric
+igl_chronology,CNG Price!L90,Kaithal,80.43,22.06.2024,2024-06-22,positive_numeric
+igl_chronology,CNG Price!M90,Muzaffar Nagar, 80.08,22.06.2024,2024-06-22,positive_numeric_string
+igl_chronology,CNG Price!N90,Kanpur,82.92,22.06.2024,2024-06-22,positive_numeric
+igl_chronology,CNG Price!O90,Ajmer,82.94,22.06.2024,2024-06-22,positive_numeric
+igl_chronology,CNG Price!P90,Banda, 81.92,22.06.2024,2024-06-22,positive_numeric_string
+igl_chronology,CNG Price!C91,Delhi,,18.07.2024,2024-07-18,missing
+igl_chronology,CNG Price!D91,Noida,,18.07.2024,2024-07-18,missing
+igl_chronology,CNG Price!E91,G Noida,,18.07.2024,2024-07-18,missing
+igl_chronology,CNG Price!F91,Ghaziabad,,18.07.2024,2024-07-18,missing
+igl_chronology,CNG Price!G91,Ghaziabad DM-1&2,,18.07.2024,2024-07-18,missing
+igl_chronology,CNG Price!H91,Hapur,,18.07.2024,2024-07-18,missing
+igl_chronology,CNG Price!I91,Rewari,,18.07.2024,2024-07-18,missing
+igl_chronology,CNG Price!J91,Gurugram,,18.07.2024,2024-07-18,missing
+igl_chronology,CNG Price!K91,Karnal,,18.07.2024,2024-07-18,missing
+igl_chronology,CNG Price!L91,Kaithal,,18.07.2024,2024-07-18,missing
+igl_chronology,CNG Price!M91,Muzaffar Nagar,,18.07.2024,2024-07-18,missing
+igl_chronology,CNG Price!N91,Kanpur,,18.07.2024,2024-07-18,missing
+igl_chronology,CNG Price!O91,Ajmer,82.44,18.07.2024,2024-07-18,positive_numeric
+igl_chronology,CNG Price!P91,Banda,,18.07.2024,2024-07-18,missing
+igl_chronology,CNG Price!C92,Delhi,,24.08.2024,2024-08-24,missing
+igl_chronology,CNG Price!D92,Noida,,24.08.2024,2024-08-24,missing
+igl_chronology,CNG Price!E92,G Noida,,24.08.2024,2024-08-24,missing
+igl_chronology,CNG Price!F92,Ghaziabad,,24.08.2024,2024-08-24,missing
+igl_chronology,CNG Price!G92,Ghaziabad DM-1&2,,24.08.2024,2024-08-24,missing
+igl_chronology,CNG Price!H92,Hapur,,24.08.2024,2024-08-24,missing
+igl_chronology,CNG Price!I92,Rewari,,24.08.2024,2024-08-24,missing
+igl_chronology,CNG Price!J92,Gurugram,,24.08.2024,2024-08-24,missing
+igl_chronology,CNG Price!K92,Karnal,,24.08.2024,2024-08-24,missing
+igl_chronology,CNG Price!L92,Kaithal,,24.08.2024,2024-08-24,missing
+igl_chronology,CNG Price!M92,Muzaffar Nagar,,24.08.2024,2024-08-24,missing
+igl_chronology,CNG Price!N92,Kanpur,83.92,24.08.2024,2024-08-24,positive_numeric
+igl_chronology,CNG Price!O92,Ajmer,,24.08.2024,2024-08-24,missing
+igl_chronology,CNG Price!P92,Banda,,24.08.2024,2024-08-24,missing
+igl_chronology,CNG Price!C93,Delhi,,31.08.2024,2024-08-31,missing
+igl_chronology,CNG Price!D93,Noida,,31.08.2024,2024-08-31,missing
+igl_chronology,CNG Price!E93,G Noida,,31.08.2024,2024-08-31,missing
+igl_chronology,CNG Price!F93,Ghaziabad,,31.08.2024,2024-08-31,missing
+igl_chronology,CNG Price!G93,Ghaziabad DM-1&2,,31.08.2024,2024-08-31,missing
+igl_chronology,CNG Price!H93,Hapur,,31.08.2024,2024-08-31,missing
+igl_chronology,CNG Price!I93,Rewari,,31.08.2024,2024-08-31,missing
+igl_chronology,CNG Price!J93,Gurugram,,31.08.2024,2024-08-31,missing
+igl_chronology,CNG Price!K93,Karnal,,31.08.2024,2024-08-31,missing
+igl_chronology,CNG Price!L93,Kaithal,,31.08.2024,2024-08-31,missing
+igl_chronology,CNG Price!M93,Muzaffar Nagar,81.08,31.08.2024,2024-08-31,positive_numeric
+igl_chronology,CNG Price!N93,Kanpur,84.92,31.08.2024,2024-08-31,positive_numeric
+igl_chronology,CNG Price!O93,Ajmer,,31.08.2024,2024-08-31,missing
+igl_chronology,CNG Price!P93,Banda,,31.08.2024,2024-08-31,missing
+igl_chronology,CNG Price!C94,Delhi,,01.09.2024,2024-09-01,missing
+igl_chronology,CNG Price!D94,Noida,,01.09.2024,2024-09-01,missing
+igl_chronology,CNG Price!E94,G Noida,,01.09.2024,2024-09-01,missing
+igl_chronology,CNG Price!F94,Ghaziabad,,01.09.2024,2024-09-01,missing
+igl_chronology,CNG Price!G94,Ghaziabad DM-1&2,79.7,01.09.2024,2024-09-01,positive_numeric
+igl_chronology,CNG Price!H94,Hapur,79.7,01.09.2024,2024-09-01,positive_numeric
+igl_chronology,CNG Price!I94,Rewari,,01.09.2024,2024-09-01,missing
+igl_chronology,CNG Price!J94,Gurugram,,01.09.2024,2024-09-01,missing
+igl_chronology,CNG Price!K94,Karnal,,01.09.2024,2024-09-01,missing
+igl_chronology,CNG Price!L94,Kaithal,,01.09.2024,2024-09-01,missing
+igl_chronology,CNG Price!M94,Muzaffar Nagar,,01.09.2024,2024-09-01,missing
+igl_chronology,CNG Price!N94,Kanpur,,01.09.2024,2024-09-01,missing
+igl_chronology,CNG Price!O94,Ajmer,,01.09.2024,2024-09-01,missing
+igl_chronology,CNG Price!P94,Banda,,01.09.2024,2024-09-01,missing
+igl_chronology,CNG Price!C95,Delhi,,14.09.2024,2024-09-14,missing
+igl_chronology,CNG Price!D95,Noida,,14.09.2024,2024-09-14,missing
+igl_chronology,CNG Price!E95,G Noida,,14.09.2024,2024-09-14,missing
+igl_chronology,CNG Price!F95,Ghaziabad,,14.09.2024,2024-09-14,missing
+igl_chronology,CNG Price!G95,Ghaziabad DM-1&2,,14.09.2024,2024-09-14,missing
+igl_chronology,CNG Price!H95,Hapur,80.7,14.09.2024,2024-09-14,positive_numeric
+igl_chronology,CNG Price!I95,Rewari,,14.09.2024,2024-09-14,missing
+igl_chronology,CNG Price!J95,Gurugram,,14.09.2024,2024-09-14,missing
+igl_chronology,CNG Price!K95,Karnal,,14.09.2024,2024-09-14,missing
+igl_chronology,CNG Price!L95,Kaithal,,14.09.2024,2024-09-14,missing
+igl_chronology,CNG Price!M95,Muzaffar Nagar,,14.09.2024,2024-09-14,missing
+igl_chronology,CNG Price!N95,Kanpur,,14.09.2024,2024-09-14,missing
+igl_chronology,CNG Price!O95,Ajmer,,14.09.2024,2024-09-14,missing
+igl_chronology,CNG Price!P95,Banda,,14.09.2024,2024-09-14,missing
+igl_chronology,CNG Price!C96,Delhi,,08.11.2024,2024-11-08,missing
+igl_chronology,CNG Price!D96,Noida,,08.11.2024,2024-11-08,missing
+igl_chronology,CNG Price!E96,G Noida,,08.11.2024,2024-11-08,missing
+igl_chronology,CNG Price!F96,Ghaziabad,,08.11.2024,2024-11-08,missing
+igl_chronology,CNG Price!G96,Ghaziabad DM-1&2,,08.11.2024,2024-11-08,missing
+igl_chronology,CNG Price!H96,Hapur,81.7,08.11.2024,2024-11-08,positive_numeric
+igl_chronology,CNG Price!I96,Rewari,,08.11.2024,2024-11-08,missing
+igl_chronology,CNG Price!J96,Gurugram,,08.11.2024,2024-11-08,missing
+igl_chronology,CNG Price!K96,Karnal,,08.11.2024,2024-11-08,missing
+igl_chronology,CNG Price!L96,Kaithal,,08.11.2024,2024-11-08,missing
+igl_chronology,CNG Price!M96,Muzaffar Nagar,,08.11.2024,2024-11-08,missing
+igl_chronology,CNG Price!N96,Kanpur,,08.11.2024,2024-11-08,missing
+igl_chronology,CNG Price!O96,Ajmer,,08.11.2024,2024-11-08,missing
+igl_chronology,CNG Price!P96,Banda,,08.11.2024,2024-11-08,missing
+igl_chronology,CNG Price!C97,Delhi,75.09,23.11.2024,2024-11-23,positive_numeric
+igl_chronology,CNG Price!D97,Noida,81.7,23.11.2024,2024-11-23,positive_numeric
+igl_chronology,CNG Price!E97,G Noida,81.7,23.11.2024,2024-11-23,positive_numeric
+igl_chronology,CNG Price!F97,Ghaziabad,81.7,23.11.2024,2024-11-23,positive_numeric
+igl_chronology,CNG Price!G97,Ghaziabad DM-1&2,81.7,23.11.2024,2024-11-23,positive_numeric
+igl_chronology,CNG Price!H97,Hapur,83.7,23.11.2024,2024-11-23,positive_numeric
+igl_chronology,CNG Price!I97,Rewari,81.7,23.11.2024,2024-11-23,positive_numeric
+igl_chronology,CNG Price!J97,Gurugram,82.12,23.11.2024,2024-11-23,positive_numeric
+igl_chronology,CNG Price!K97,Karnal,82.43,23.11.2024,2024-11-23,positive_numeric
+igl_chronology,CNG Price!L97,Kaithal,82.43,23.11.2024,2024-11-23,positive_numeric
+igl_chronology,CNG Price!M97,Muzaffar Nagar,83.08,23.11.2024,2024-11-23,positive_numeric
+igl_chronology,CNG Price!N97,Kanpur,86.92,23.11.2024,2024-11-23,positive_numeric
+igl_chronology,CNG Price!O97,Ajmer,84.44,23.11.2024,2024-11-23,positive_numeric
+igl_chronology,CNG Price!P97,Banda,83.92,23.11.2024,2024-11-23,positive_numeric
+igl_chronology,CNG Price!C98,Delhi,75.09,28.12.2024,2024-12-28,positive_numeric
+igl_chronology,CNG Price!D98,Noida,82.7,28.12.2024,2024-12-28,positive_numeric
+igl_chronology,CNG Price!E98,G Noida,82.7,28.12.2024,2024-12-28,positive_numeric
+igl_chronology,CNG Price!F98,Ghaziabad,82.7,28.12.2024,2024-12-28,positive_numeric
+igl_chronology,CNG Price!G98,Ghaziabad DM-1&2,82.7,28.12.2024,2024-12-28,positive_numeric
+igl_chronology,CNG Price!H98,Hapur,84.7,28.12.2024,2024-12-28,positive_numeric
+igl_chronology,CNG Price!I98,Rewari,82.7,28.12.2024,2024-12-28,positive_numeric
+igl_chronology,CNG Price!J98,Gurugram,82.12,28.12.2024,2024-12-28,positive_numeric
+igl_chronology,CNG Price!K98,Karnal,83.43,28.12.2024,2024-12-28,positive_numeric
+igl_chronology,CNG Price!L98,Kaithal,83.43,28.12.2024,2024-12-28,positive_numeric
+igl_chronology,CNG Price!M98,Muzaffar Nagar,84.08,28.12.2024,2024-12-28,positive_numeric
+igl_chronology,CNG Price!N98,Kanpur,87.92,28.12.2024,2024-12-28,positive_numeric
+igl_chronology,CNG Price!O98,Ajmer,85.44,28.12.2024,2024-12-28,positive_numeric
+igl_chronology,CNG Price!P98,Banda,83.92,28.12.2024,2024-12-28,positive_numeric
+igl_chronology,CNG Price!C99,Delhi,75.09,11.01.2025,2025-01-11,positive_numeric
+igl_chronology,CNG Price!D99,Noida,83.7,11.01.2025,2025-01-11,positive_numeric
+igl_chronology,CNG Price!E99,G Noida,83.7,11.01.2025,2025-01-11,positive_numeric
+igl_chronology,CNG Price!F99,Ghaziabad,83.7,11.01.2025,2025-01-11,positive_numeric
+igl_chronology,CNG Price!G99,Ghaziabad DM-1&2,83.7,11.01.2025,2025-01-11,positive_numeric
+igl_chronology,CNG Price!H99,Hapur,85.7,11.01.2025,2025-01-11,positive_numeric
+igl_chronology,CNG Price!I99,Rewari,82.7,11.01.2025,2025-01-11,positive_numeric
+igl_chronology,CNG Price!J99,Gurugram,82.12,11.01.2025,2025-01-11,positive_numeric
+igl_chronology,CNG Price!K99,Karnal,83.43,11.01.2025,2025-01-11,positive_numeric
+igl_chronology,CNG Price!L99,Kaithal,83.43,11.01.2025,2025-01-11,positive_numeric
+igl_chronology,CNG Price!M99,Muzaffar Nagar,85.08,11.01.2025,2025-01-11,positive_numeric
+igl_chronology,CNG Price!N99,Kanpur,87.92,11.01.2025,2025-01-11,positive_numeric
+igl_chronology,CNG Price!O99,Ajmer,86.44,11.01.2025,2025-01-11,positive_numeric
+igl_chronology,CNG Price!P99,Banda,83.92,11.01.2025,2025-01-11,positive_numeric
+igl_chronology,CNG Price!C100,Delhi,-,18.03.2025,2025-03-18,nonpositive_or_unknown_token
+igl_chronology,CNG Price!D100,Noida,-,18.03.2025,2025-03-18,nonpositive_or_unknown_token
+igl_chronology,CNG Price!E100,G Noida,-,18.03.2025,2025-03-18,nonpositive_or_unknown_token
+igl_chronology,CNG Price!F100,Ghaziabad,-,18.03.2025,2025-03-18,nonpositive_or_unknown_token
+igl_chronology,CNG Price!G100,Ghaziabad DM-1&2,-,18.03.2025,2025-03-18,nonpositive_or_unknown_token
+igl_chronology,CNG Price!H100,Hapur,-,18.03.2025,2025-03-18,nonpositive_or_unknown_token
+igl_chronology,CNG Price!I100,Rewari,-,18.03.2025,2025-03-18,nonpositive_or_unknown_token
+igl_chronology,CNG Price!J100,Gurugram,-,18.03.2025,2025-03-18,nonpositive_or_unknown_token
+igl_chronology,CNG Price!K100,Karnal,-,18.03.2025,2025-03-18,nonpositive_or_unknown_token
+igl_chronology,CNG Price!L100,Kaithal,-,18.03.2025,2025-03-18,nonpositive_or_unknown_token
+igl_chronology,CNG Price!M100,Muzaffar Nagar,-,18.03.2025,2025-03-18,nonpositive_or_unknown_token
+igl_chronology,CNG Price!N100,Kanpur,-,18.03.2025,2025-03-18,nonpositive_or_unknown_token
+igl_chronology,CNG Price!O100,Ajmer,85.94,18.03.2025,2025-03-18,positive_numeric
+igl_chronology,CNG Price!P100,Banda,-,18.03.2025,2025-03-18,nonpositive_or_unknown_token
+igl_chronology,CNG Price!C101,Delhi,76.09,05.04.2025,2025-04-05,positive_numeric
+igl_chronology,CNG Price!D101,Noida,84.7,05.04.2025,2025-04-05,positive_numeric
+igl_chronology,CNG Price!E101,G Noida,84.7,05.04.2025,2025-04-05,positive_numeric
+igl_chronology,CNG Price!F101,Ghaziabad,84.7,05.04.2025,2025-04-05,positive_numeric
+igl_chronology,CNG Price!G101,Ghaziabad DM-1&2,84.7,05.04.2025,2025-04-05,positive_numeric
+igl_chronology,CNG Price!H101,Hapur,86.7,05.04.2025,2025-04-05,positive_numeric
+igl_chronology,CNG Price!I101,Rewari,83.7,05.04.2025,2025-04-05,positive_numeric
+igl_chronology,CNG Price!J101,Gurugram,83.12,05.04.2025,2025-04-05,positive_numeric
+igl_chronology,CNG Price!K101,Karnal,84.43,05.04.2025,2025-04-05,positive_numeric
+igl_chronology,CNG Price!L101,Kaithal,84.43,05.04.2025,2025-04-05,positive_numeric
+igl_chronology,CNG Price!M101,Muzaffar Nagar,86.08,05.04.2025,2025-04-05,positive_numeric
+igl_chronology,CNG Price!N101,Kanpur,88.92,05.04.2025,2025-04-05,positive_numeric
+igl_chronology,CNG Price!O101,Ajmer,86.94,05.04.2025,2025-04-05,positive_numeric
+igl_chronology,CNG Price!P101,Banda,84.92,05.04.2025,2025-04-05,positive_numeric
+igl_chronology,CNG Price!C102,Delhi,77.09,03.05.2025,2025-05-03,positive_numeric
+igl_chronology,CNG Price!D102,Noida,85.7,03.05.2025,2025-05-03,positive_numeric
+igl_chronology,CNG Price!E102,G Noida,85.7,03.05.2025,2025-05-03,positive_numeric
+igl_chronology,CNG Price!F102,Ghaziabad,85.7,03.05.2025,2025-05-03,positive_numeric
+igl_chronology,CNG Price!G102,Ghaziabad DM-1&2,85.7,03.05.2025,2025-05-03,positive_numeric
+igl_chronology,CNG Price!H102,Hapur,87.7,03.05.2025,2025-05-03,positive_numeric
+igl_chronology,CNG Price!I102,Rewari,83.7,03.05.2025,2025-05-03,positive_numeric
+igl_chronology,CNG Price!J102,Gurugram,83.12,03.05.2025,2025-05-03,positive_numeric
+igl_chronology,CNG Price!K102,Karnal,84.43,03.05.2025,2025-05-03,positive_numeric
+igl_chronology,CNG Price!L102,Kaithal,84.43,03.05.2025,2025-05-03,positive_numeric
+igl_chronology,CNG Price!M102,Muzaffar Nagar,87.08,03.05.2025,2025-05-03,positive_numeric
+igl_chronology,CNG Price!N102,Kanpur,89.92,03.05.2025,2025-05-03,positive_numeric
+igl_chronology,CNG Price!O102,Ajmer,86.94,03.05.2025,2025-05-03,positive_numeric
+igl_chronology,CNG Price!P102,Banda,85.92,03.05.2025,2025-05-03,positive_numeric
+igl_chronology,CNG Price!C103,Delhi,77.09,09.06.2025,2025-06-09,positive_numeric
+igl_chronology,CNG Price!D103,Noida,85.7,09.06.2025,2025-06-09,positive_numeric
+igl_chronology,CNG Price!E103,G Noida,85.7,09.06.2025,2025-06-09,positive_numeric
+igl_chronology,CNG Price!F103,Ghaziabad,85.7,09.06.2025,2025-06-09,positive_numeric
+igl_chronology,CNG Price!G103,Ghaziabad DM-1&2,85.7,09.06.2025,2025-06-09,positive_numeric
+igl_chronology,CNG Price!H103,Hapur,87.7,09.06.2025,2025-06-09,positive_numeric
+igl_chronology,CNG Price!I103,Rewari,83.7,09.06.2025,2025-06-09,positive_numeric
+igl_chronology,CNG Price!J103,Gurugram,83.12,09.06.2025,2025-06-09,positive_numeric
+igl_chronology,CNG Price!K103,Karnal,83.43,09.06.2025,2025-06-09,positive_numeric
+igl_chronology,CNG Price!L103,Kaithal,84.43,09.06.2025,2025-06-09,positive_numeric
+igl_chronology,CNG Price!M103,Muzaffar Nagar,87.08,09.06.2025,2025-06-09,positive_numeric
+igl_chronology,CNG Price!N103,Kanpur,89.92,09.06.2025,2025-06-09,positive_numeric
+igl_chronology,CNG Price!O103,Ajmer,86.94,09.06.2025,2025-06-09,positive_numeric
+igl_chronology,CNG Price!P103,Banda,85.92,09.06.2025,2025-06-09,positive_numeric
+igl_chronology,CNG Price!C104,Delhi,77.09,17.10.2025,2025-10-17,positive_numeric
+igl_chronology,CNG Price!D104,Noida,85.7,17.10.2025,2025-10-17,positive_numeric
+igl_chronology,CNG Price!E104,G Noida,85.7,17.10.2025,2025-10-17,positive_numeric
+igl_chronology,CNG Price!F104,Ghaziabad,85.7,17.10.2025,2025-10-17,positive_numeric
+igl_chronology,CNG Price!G104,Ghaziabad DM-1&2,85.7,17.10.2025,2025-10-17,positive_numeric
+igl_chronology,CNG Price!H104,Hapur,87.7,17.10.2025,2025-10-17,positive_numeric
+igl_chronology,CNG Price!I104,Rewari,83.7,17.10.2025,2025-10-17,positive_numeric
+igl_chronology,CNG Price!J104,Gurugram,83.12,17.10.2025,2025-10-17,positive_numeric
+igl_chronology,CNG Price!K104,Karnal,83.43,17.10.2025,2025-10-17,positive_numeric
+igl_chronology,CNG Price!L104,Kaithal,84.43,17.10.2025,2025-10-17,positive_numeric
+igl_chronology,CNG Price!M104,Muzaffar Nagar,87.08,17.10.2025,2025-10-17,positive_numeric
+igl_chronology,CNG Price!N104,Kanpur,87.92,17.10.2025,2025-10-17,positive_numeric
+igl_chronology,CNG Price!O104,Ajmer,86.94,17.10.2025,2025-10-17,positive_numeric
+igl_chronology,CNG Price!P104,Banda,83.92,17.10.2025,2025-10-17,positive_numeric
+igl_chronology,CNG Price!C105,Delhi,77.09,20.10.2025,2025-10-20,positive_numeric
+igl_chronology,CNG Price!D105,Noida,84.7,20.10.2025,2025-10-20,positive_numeric
+igl_chronology,CNG Price!E105,G Noida,84.7,20.10.2025,2025-10-20,positive_numeric
+igl_chronology,CNG Price!F105,Ghaziabad,84.7,20.10.2025,2025-10-20,positive_numeric
+igl_chronology,CNG Price!G105,Ghaziabad DM-1&2,84.7,20.10.2025,2025-10-20,positive_numeric
+igl_chronology,CNG Price!H105,Hapur,86.7,20.10.2025,2025-10-20,positive_numeric
+igl_chronology,CNG Price!I105,Rewari,82.7,20.10.2025,2025-10-20,positive_numeric
+igl_chronology,CNG Price!J105,Gurugram,82.12,20.10.2025,2025-10-20,positive_numeric
+igl_chronology,CNG Price!K105,Karnal,82.43,20.10.2025,2025-10-20,positive_numeric
+igl_chronology,CNG Price!L105,Kaithal,83.43,20.10.2025,2025-10-20,positive_numeric
+igl_chronology,CNG Price!M105,Muzaffar Nagar,86.08,20.10.2025,2025-10-20,positive_numeric
+igl_chronology,CNG Price!N105,Kanpur,87.92,20.10.2025,2025-10-20,positive_numeric
+igl_chronology,CNG Price!O105,Ajmer,86.94,20.10.2025,2025-10-20,positive_numeric
+igl_chronology,CNG Price!P105,Banda,83.92,20.10.2025,2025-10-20,positive_numeric
+igl_chronology,CNG Price!C106,Delhi,77.09,16.11.2025,2025-11-16,positive_numeric
+igl_chronology,CNG Price!D106,Noida,85.7,16.11.2025,2025-11-16,positive_numeric
+igl_chronology,CNG Price!E106,G Noida,85.7,16.11.2025,2025-11-16,positive_numeric
+igl_chronology,CNG Price!F106,Ghaziabad,85.7,16.11.2025,2025-11-16,positive_numeric
+igl_chronology,CNG Price!G106,Ghaziabad DM-1&2,85.7,16.11.2025,2025-11-16,positive_numeric
+igl_chronology,CNG Price!H106,Hapur,86.7,16.11.2025,2025-11-16,positive_numeric
+igl_chronology,CNG Price!I106,Rewari,82.7,16.11.2025,2025-11-16,positive_numeric
+igl_chronology,CNG Price!J106,Gurugram,82.12,16.11.2025,2025-11-16,positive_numeric
+igl_chronology,CNG Price!K106,Karnal,82.43,16.11.2025,2025-11-16,positive_numeric
+igl_chronology,CNG Price!L106,Kaithal,83.43,16.11.2025,2025-11-16,positive_numeric
+igl_chronology,CNG Price!M106,Muzaffar Nagar,86.08,16.11.2025,2025-11-16,positive_numeric
+igl_chronology,CNG Price!N106,Kanpur,88.92,16.11.2025,2025-11-16,positive_numeric
+igl_chronology,CNG Price!O106,Ajmer,86.94,16.11.2025,2025-11-16,positive_numeric
+igl_chronology,CNG Price!P106,Banda,83.92,16.11.2025,2025-11-16,positive_numeric
+igl_chronology,CNG Price!C107,Delhi,77.09,01.01.2026,2026-01-01,positive_numeric
+igl_chronology,CNG Price!D107,Noida,85.7,01.01.2026,2026-01-01,positive_numeric
+igl_chronology,CNG Price!E107,G Noida,85.7,01.01.2026,2026-01-01,positive_numeric
+igl_chronology,CNG Price!F107,Ghaziabad,85.7,01.01.2026,2026-01-01,positive_numeric
+igl_chronology,CNG Price!G107,Ghaziabad DM-1&2,85.7,01.01.2026,2026-01-01,positive_numeric
+igl_chronology,CNG Price!H107,Hapur,86.7,01.01.2026,2026-01-01,positive_numeric
+igl_chronology,CNG Price!I107,Rewari,81.7,01.01.2026,2026-01-01,positive_numeric
+igl_chronology,CNG Price!J107,Gurugram,82.12,01.01.2026,2026-01-01,positive_numeric
+igl_chronology,CNG Price!K107,Karnal,81.43,01.01.2026,2026-01-01,positive_numeric
+igl_chronology,CNG Price!L107,Kaithal,82.43,01.01.2026,2026-01-01,positive_numeric
+igl_chronology,CNG Price!M107,Muzaffar Nagar,85.58,01.01.2026,2026-01-01,positive_numeric
+igl_chronology,CNG Price!N107,Kanpur,88.42,01.01.2026,2026-01-01,positive_numeric
+igl_chronology,CNG Price!O107,Ajmer,86.44,01.01.2026,2026-01-01,positive_numeric
+igl_chronology,CNG Price!P107,Banda,83.42,01.01.2026,2026-01-01,positive_numeric
+igl_chronology,CNG Price!C108,Delhi,79.09,15.05.2026,2026-05-15,positive_numeric
+igl_chronology,CNG Price!D108,Noida,87.7,15.05.2026,2026-05-15,positive_numeric
+igl_chronology,CNG Price!E108,G Noida,87.7,15.05.2026,2026-05-15,positive_numeric
+igl_chronology,CNG Price!F108,Ghaziabad,87.7,15.05.2026,2026-05-15,positive_numeric
+igl_chronology,CNG Price!G108,Ghaziabad DM-1&2,87.7,15.05.2026,2026-05-15,positive_numeric
+igl_chronology,CNG Price!H108,Hapur,88.7,15.05.2026,2026-05-15,positive_numeric
+igl_chronology,CNG Price!I108,Rewari,83.7,15.05.2026,2026-05-15,positive_numeric
+igl_chronology,CNG Price!J108,Gurugram,84.12,15.05.2026,2026-05-15,positive_numeric
+igl_chronology,CNG Price!K108,Karnal,83.43,15.05.2026,2026-05-15,positive_numeric
+igl_chronology,CNG Price!L108,Kaithal,84.43,15.05.2026,2026-05-15,positive_numeric
+igl_chronology,CNG Price!M108,Muzaffar Nagar,87.58,15.05.2026,2026-05-15,positive_numeric
+igl_chronology,CNG Price!N108,Kanpur,90.42,15.05.2026,2026-05-15,positive_numeric
+igl_chronology,CNG Price!O108,Ajmer,88.44,15.05.2026,2026-05-15,positive_numeric
+igl_chronology,CNG Price!P108,Banda,85.42,15.05.2026,2026-05-15,positive_numeric
+igl_chronology,CNG Price!C109,Delhi,80.09,17.05.2026,2026-05-17,positive_numeric
+igl_chronology,CNG Price!D109,Noida,88.7,17.05.2026,2026-05-17,positive_numeric
+igl_chronology,CNG Price!E109,G Noida,88.7,17.05.2026,2026-05-17,positive_numeric
+igl_chronology,CNG Price!F109,Ghaziabad,88.7,17.05.2026,2026-05-17,positive_numeric
+igl_chronology,CNG Price!G109,Ghaziabad DM-1&2,88.7,17.05.2026,2026-05-17,positive_numeric
+igl_chronology,CNG Price!H109,Hapur,89.7,17.05.2026,2026-05-17,positive_numeric
+igl_chronology,CNG Price!I109,Rewari,84.7,17.05.2026,2026-05-17,positive_numeric
+igl_chronology,CNG Price!J109,Gurugram,85.12,17.05.2026,2026-05-17,positive_numeric
+igl_chronology,CNG Price!K109,Karnal,84.43,17.05.2026,2026-05-17,positive_numeric
+igl_chronology,CNG Price!L109,Kaithal,85.43,17.05.2026,2026-05-17,positive_numeric
+igl_chronology,CNG Price!M109,Muzaffar Nagar,88.58,17.05.2026,2026-05-17,positive_numeric
+igl_chronology,CNG Price!N109,Kanpur,91.42,17.05.2026,2026-05-17,positive_numeric
+igl_chronology,CNG Price!O109,Ajmer,89.44,17.05.2026,2026-05-17,positive_numeric
+igl_chronology,CNG Price!P109,Banda,86.42,17.05.2026,2026-05-17,positive_numeric
+igl_chronology,CNG Price!C110,Delhi,81.09,23.05.2026,2026-05-23,positive_numeric
+igl_chronology,CNG Price!D110,Noida,89.7,23.05.2026,2026-05-23,positive_numeric
+igl_chronology,CNG Price!E110,G Noida,89.7,23.05.2026,2026-05-23,positive_numeric
+igl_chronology,CNG Price!F110,Ghaziabad,89.7,23.05.2026,2026-05-23,positive_numeric
+igl_chronology,CNG Price!G110,Ghaziabad DM-1&2,89.7,23.05.2026,2026-05-23,positive_numeric
+igl_chronology,CNG Price!H110,Hapur,90.7,23.05.2026,2026-05-23,positive_numeric
+igl_chronology,CNG Price!I110,Rewari,85.7,23.05.2026,2026-05-23,positive_numeric
+igl_chronology,CNG Price!J110,Gurugram,86.12,23.05.2026,2026-05-23,positive_numeric
+igl_chronology,CNG Price!K110,Karnal,85.43,23.05.2026,2026-05-23,positive_numeric
+igl_chronology,CNG Price!L110,Kaithal,86.43,23.05.2026,2026-05-23,positive_numeric
+igl_chronology,CNG Price!M110,Muzaffar Nagar,89.58,23.05.2026,2026-05-23,positive_numeric
+igl_chronology,CNG Price!N110,Kanpur,92.42,23.05.2026,2026-05-23,positive_numeric
+igl_chronology,CNG Price!O110,Ajmer,90.44,23.05.2026,2026-05-23,positive_numeric
+igl_chronology,CNG Price!P110,Banda,87.42,23.05.2026,2026-05-23,positive_numeric
+igl_chronology,CNG Price!C111,Delhi,83.09,26.05.2026,2026-05-26,positive_numeric
+igl_chronology,CNG Price!D111,Noida,91.7,26.05.2026,2026-05-26,positive_numeric
+igl_chronology,CNG Price!E111,G Noida,91.7,26.05.2026,2026-05-26,positive_numeric
+igl_chronology,CNG Price!F111,Ghaziabad,91.7,26.05.2026,2026-05-26,positive_numeric
+igl_chronology,CNG Price!G111,Ghaziabad DM-1&2,91.7,26.05.2026,2026-05-26,positive_numeric
+igl_chronology,CNG Price!H111,Hapur,92.7,26.05.2026,2026-05-26,positive_numeric
+igl_chronology,CNG Price!I111,Rewari,87.7,26.05.2026,2026-05-26,positive_numeric
+igl_chronology,CNG Price!J111,Gurugram,88.12,26.05.2026,2026-05-26,positive_numeric
+igl_chronology,CNG Price!K111,Karnal,87.43,26.05.2026,2026-05-26,positive_numeric
+igl_chronology,CNG Price!L111,Kaithal,88.43,26.05.2026,2026-05-26,positive_numeric
+igl_chronology,CNG Price!M111,Muzaffar Nagar,91.58,26.05.2026,2026-05-26,positive_numeric
+igl_chronology,CNG Price!N111,Kanpur,94.42,26.05.2026,2026-05-26,positive_numeric
+igl_chronology,CNG Price!O111,Ajmer,92.44,26.05.2026,2026-05-26,positive_numeric
+igl_chronology,CNG Price!P111,Banda,89.42,26.05.2026,2026-05-26,positive_numeric
+igl_chronology,CNG Price!C112,Delhi,86.98,29.08.2026,2026-08-29,positive_numeric
+igl_chronology,CNG Price!D112,Noida,95.59,29.08.2026,2026-08-29,positive_numeric
+igl_chronology,CNG Price!E112,G Noida,95.59,29.08.2026,2026-08-29,positive_numeric
+igl_chronology,CNG Price!F112,Ghaziabad,95.59,29.08.2026,2026-08-29,positive_numeric
+igl_chronology,CNG Price!G112,Ghaziabad DM-1&2,95.59,29.08.2026,2026-08-29,positive_numeric
+igl_chronology,CNG Price!H112,Hapur,96.59,29.08.2026,2026-08-29,positive_numeric
+igl_chronology,CNG Price!I112,Rewari,91.59,29.08.2026,2026-08-29,positive_numeric
+igl_chronology,CNG Price!J112,Gurugram,92.01,29.08.2026,2026-08-29,positive_numeric
+igl_chronology,CNG Price!K112,Karnal,91.32000000000001,29.08.2026,2026-08-29,positive_numeric
+igl_chronology,CNG Price!L112,Kaithal,92.32000000000001,29.08.2026,2026-08-29,positive_numeric
+igl_chronology,CNG Price!M112,Muzaffar Nagar,95.47,29.08.2026,2026-08-29,positive_numeric
+igl_chronology,CNG Price!N112,Kanpur,98.31,29.08.2026,2026-08-29,positive_numeric
+igl_chronology,CNG Price!O112,Ajmer,96.33,29.08.2026,2026-08-29,positive_numeric
+igl_chronology,CNG Price!P112,Banda,93.31,29.08.2026,2026-08-29,positive_numeric

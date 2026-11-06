@@ -1,0 +1,28 @@
+{
+  "url": "https://timesofindia.indiatimes.com/city/delhi/cng-price-hiked-by-30-paise-in-delhi-ncr/articleshow/7852203.cms",
+  "expected_sha256": "0587e3e4a321cb870a529705d78ea6ab4b8be2e27c15be50bbcf0b5308ffba0d",
+  "original_publication_claim": "2011-04-02T19:39:00+05:30",
+  "title_claim": "CNG price hiked by 30 paise in Delhi, NCR",
+  "origin": "github-pr1",
+  "source_id": "NEWS_HISTORY_5",
+  "http_status": 200,
+  "final_url": "https://timesofindia.indiatimes.com/city/delhi/cng-price-hiked-by-30-paise-in-delhi-ncr/articleshow/7852203.cms",
+  "source_path": "PROJECT_ROOT/Stage3_Consolidated_2026-11-06/text/raw/0587e3e4a321cb870a529705d78ea6ab4b8be2e27c15be50bbcf0b5308ffba0d.html",
+  "retrieved_sha256": "0587e3e4a321cb870a529705d78ea6ab4b8be2e27c15be50bbcf0b5308ffba0d",
+  "matches_previous_hash": true,
+  "retrieved_at": "2026-11-06T05:48:20.761736+00:00",
+  "retrieval_method": "direct_original_url",
+  "title": "CNG price hiked by 30 paise in Delhi, NCR | Delhi News - Times of India",
+  "publication_date": "2011-04-02T19:39:00+05:30",
+  "publication_date_claims": [
+    [
+      "JSON-LD datePublished",
+      "2011-04-02T19:39:00+05:30"
+    ]
+  ],
+  "date_status": "publisher_date_claim_preserved",
+  "status": "retained_public_html",
+  "historical_availability_status": "publisher_claim_not_independent_archive_verification",
+  "redistribution_license": "not_established_no_public_full_text_release",
+  "synthetic": false
+}

@@ -1,0 +1,25 @@
+{
+  "stage": 3,
+  "stage3_complete": false,
+  "researcher_accepted": false,
+  "stage4_started": false,
+  "raw_objects": 1695,
+  "raw_bytes": 3170771884,
+  "datasets": {
+    "structured/price_revisions/source_price_observations.csv": 11699,
+    "structured/price_revisions/pngrb_price_components.csv": 10538,
+    "structured/numerical_factors/native_numerical_observations.csv": 47830,
+    "structured/numerical_factors/unverified_transcription_candidates.csv": 395,
+    "structured/numerical_factors/cng_reported_native.csv": 56,
+    "structured/news/news_metadata.csv": 24,
+    "structured/corporate_disclosures/corporate_document_metadata.csv": 251
+  },
+  "corporate_metadata_claims": 375,
+  "corporate_unique_documents": 251,
+  "main_commit": "4d4959cc5659c34989a32cc1902622b28a47e429",
+  "pr1_commit": "5e57b0ed4867bca25461c1e3211f11796a1c76f4",
+  "no_synthetic_observations": true,
+  "bounded_interval_claims": 287,
+  "bounded_documentary_candidates": 275,
+  "bounded_candidates_accepted": false
+}

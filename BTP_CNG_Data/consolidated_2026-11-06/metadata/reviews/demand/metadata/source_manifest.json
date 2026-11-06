@@ -1,0 +1,106 @@
+[
+  {
+    "source_id": "pngrb_7b220a30da85",
+    "path": "PROJECT_ROOT/BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/pngrb_7b220a30da85.pdf",
+    "sha256": "a66cf93a49bfaae086dc3a4f8d6fce7e717cd534ac780c8e653095371970c58a",
+    "url": "https://pngrb.gov.in/data-bank/20260831-PNGRB-Bulletin-August.pdf",
+    "publication_date": "2026-11-04",
+    "publication_date_basis": "PNGRB Uploaded on column"
+  },
+  {
+    "source_id": "pngrb_862290a52cb3",
+    "path": "PROJECT_ROOT/BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/pngrb_862290a52cb3.pdf",
+    "sha256": "a943b26256322cc1ff527df8003455ecb73388a698caa52b6e4c739f4c444fe1",
+    "url": "https://pngrb.gov.in/data-bank/20260731-PNGRB-Bulletin-july.pdf",
+    "publication_date": "2026-10-05",
+    "publication_date_basis": "PNGRB Uploaded on column"
+  },
+  {
+    "source_id": "pngrb_3e2aa8ba515d",
+    "path": "PROJECT_ROOT/BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/pngrb_3e2aa8ba515d.pdf",
+    "sha256": "cd5a92ca512cf56409cf7bab65537830c0c9bd4b466a75000627b738a0246b96",
+    "url": "https://pngrb.gov.in/data-bank/20260630-PNGRB-Bulletin-june.pdf",
+    "publication_date": "2026-10-05",
+    "publication_date_basis": "PNGRB Uploaded on column"
+  },
+  {
+    "source_id": "pngrb_e4e17946bbdf",
+    "path": "PROJECT_ROOT/BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/pngrb_e4e17946bbdf.pdf",
+    "sha256": "bce287573640ae71b98e178f4726e68a5322a898d6a04a802429e8473029c982",
+    "url": "https://pngrb.gov.in/data-bank/20260531-PNGRB-Bulletin-may.pdf",
+    "publication_date": "2026-08-04",
+    "publication_date_basis": "PNGRB Uploaded on column"
+  },
+  {
+    "source_id": "pngrb_340f740b40d1",
+    "path": "PROJECT_ROOT/BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/pngrb_340f740b40d1.pdf",
+    "sha256": "a924fe7341f0d5a56ce2ae72bb2273760962d462350e64ad17de50b6e8b02c25",
+    "url": "https://pngrb.gov.in/data-bank/20260430-PNGRB-Bulletin-apr.pdf",
+    "publication_date": "2026-06-24",
+    "publication_date_basis": "PNGRB Uploaded on column"
+  },
+  {
+    "source_id": "pngrb_2567b40dcffc",
+    "path": "PROJECT_ROOT/BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/pngrb_2567b40dcffc.pdf",
+    "sha256": "60caab496cfea0077d8970b357fabec2806c4a98b2b5751b99c7e06701b330a5",
+    "url": "https://pngrb.gov.in/data-bank/20260331-PNGRB-Bulletin-mar.pdf",
+    "publication_date": "2026-05-27",
+    "publication_date_basis": "PNGRB Uploaded on column"
+  },
+  {
+    "source_id": "pngrb_0b3a5a6afcbb",
+    "path": "PROJECT_ROOT/BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/pngrb_0b3a5a6afcbb.pdf",
+    "sha256": "5be23b66ad3739fc5de976ad0d8d3b18ddcab2ca195de75b438c4ca073544c08",
+    "url": "https://pngrb.gov.in/data-bank/20260228-PNGRB-Bulletin-feb.pdf",
+    "publication_date": "2026-05-04",
+    "publication_date_basis": "PNGRB Uploaded on column"
+  },
+  {
+    "source_id": "pngrb_5830ea2c632f",
+    "path": "PROJECT_ROOT/BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/pngrb_5830ea2c632f.pdf",
+    "sha256": "db3413ec75e73c538f7c52b72918ad0bb2abeec3df9d36f452d112aea89fdff5",
+    "url": "https://pngrb.gov.in/data-bank/20260131-PNGRB-Bulletin-jan.pdf",
+    "publication_date": "2026-03-20",
+    "publication_date_basis": "PNGRB Uploaded on column"
+  },
+  {
+    "source_id": "pngrb_81c4cc248e00",
+    "path": "PROJECT_ROOT/BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/pngrb_81c4cc248e00.pdf",
+    "sha256": "57329e958dc8af618630526a5d59e734e7a772a9ce32459d31c96548d0039c12",
+    "url": "https://pngrb.gov.in/data-bank/20251231-PNGRB-Bulletin-dec.pdf",
+    "publication_date": "2026-02-25",
+    "publication_date_basis": "PNGRB Uploaded on column"
+  },
+  {
+    "source_id": "pngrb_088da52fb98f",
+    "path": "PROJECT_ROOT/BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/pngrb_088da52fb98f.pdf",
+    "sha256": "9e6dba4ffed37460642bd92a95c48b07f72cb5a69601654ca79cbbf25290752f",
+    "url": "https://pngrb.gov.in/data-bank/20251130-PNGRB-Bulletin-nov.pdf",
+    "publication_date": "2026-01-15",
+    "publication_date_basis": "PNGRB Uploaded on column"
+  },
+  {
+    "source_id": "pngrb_fc06824214fe",
+    "path": "PROJECT_ROOT/BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/pngrb_fc06824214fe.pdf",
+    "sha256": "da80623f9ad9374c33bcf72319b39e17eefb651ca8f954f1edb8b976c2e56d1c",
+    "url": "https://pngrb.gov.in/data-bank/20251031-PNGRB-Bulletin-oct.pdf",
+    "publication_date": "2025-12-23",
+    "publication_date_basis": "PNGRB Uploaded on column"
+  },
+  {
+    "source_id": "pngrb_b4cf84c7918e",
+    "path": "PROJECT_ROOT/BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/pngrb_b4cf84c7918e.pdf",
+    "sha256": "171fb5432c5425279c79670e1faf798e0d6a34f7e768c331983069616144058d",
+    "url": "https://pngrb.gov.in/data-bank/20250930-PNGRB-Bulletin-sep.pdf",
+    "publication_date": "2025-11-25",
+    "publication_date_basis": "PNGRB Uploaded on column"
+  },
+  {
+    "source_id": "pngrb_bfe50d5746f2",
+    "path": "PROJECT_ROOT/BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/pngrb_bfe50d5746f2.pdf",
+    "sha256": "4a067b3c5404575ed223a8369d51f111f3c4f221038c7e7b75fbc65449ad40e4",
+    "url": "https://pngrb.gov.in/data-bank/20250930-PNGRB-Bulletin.pdf",
+    "publication_date": "2025-11-18",
+    "publication_date_basis": "PNGRB Uploaded on column"
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "url": "https://www.business-standard.com/article/companies/mahanagar-gas-drops-price-for-customers-115040101174_1.html",
+  "expected_sha256": "9df777a2232388df90c56e4c43574b8a0cde4adba29a03de02ff6b71e823394a",
+  "original_publication_claim": "2015-04-01T19:40:00+05:30",
+  "title_claim": "Mahanagar Gas drops price for customers",
+  "origin": "github-pr1",
+  "source_id": "NEWS_HISTORY_7",
+  "http_status": 200,
+  "final_url": "https://www.business-standard.com/article/companies/mahanagar-gas-drops-price-for-customers-115040101174_1.html",
+  "source_path": "PROJECT_ROOT/Stage3_Consolidated_2026-11-06/text/raw/bf980f3ac6f04344631e6eaef1a97c1afa6ab185d1d4971fd59dbcf5bedb2016.html",
+  "retrieved_sha256": "bf980f3ac6f04344631e6eaef1a97c1afa6ab185d1d4971fd59dbcf5bedb2016",
+  "matches_previous_hash": false,
+  "retrieved_at": "2026-11-06T05:48:20.701677+00:00",
+  "retrieval_method": "direct_original_url",
+  "title": "Mahanagar Gas drops price for customers | Company News - Business Standard",
+  "publication_date": "2015-04-01T19:40:00+05:30",
+  "publication_date_claims": [
+    [
+      "JSON-LD datePublished",
+      "2015-04-01T19:40:00+05:30"
+    ],
+    [
+      "article:published_time",
+      "2015-04-01T19:40:00+05:30"
+    ]
+  ],
+  "date_status": "publisher_date_claim_preserved",
+  "status": "retained_public_html",
+  "historical_availability_status": "publisher_claim_not_independent_archive_verification",
+  "redistribution_license": "not_established_no_public_full_text_release",
+  "synthetic": false
+}

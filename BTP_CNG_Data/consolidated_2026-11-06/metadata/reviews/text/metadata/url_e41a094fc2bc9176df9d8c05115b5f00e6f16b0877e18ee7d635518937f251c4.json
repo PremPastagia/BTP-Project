@@ -1,0 +1,32 @@
+{
+  "url": "https://www.business-standard.com/markets/news/cng-price-hiked-by-rs-2-in-mumbai-and-others-delhi-spared-ahead-of-polls-124112500431_1.html",
+  "expected_sha256": "a8c2fc3bb048963c17b9b48562e09a0f62e382c50b30829ddb5f8b53b6450c08",
+  "original_publication_claim": "2024-11-25T13:15:46+05:30",
+  "title_claim": "CNG price hiked by Rs 2 in Mumbai and others, Delhi spared ahead of polls",
+  "origin": "github-pr1",
+  "source_id": "NEWS_BS_NOV2024",
+  "http_status": 200,
+  "final_url": "https://www.business-standard.com/markets/news/cng-price-hiked-by-rs-2-in-mumbai-and-others-delhi-spared-ahead-of-polls-124112500431_1.html",
+  "source_path": "PROJECT_ROOT/Stage3_Consolidated_2026-11-06/text/raw/64f661a6bcc510c48f6a31d9867da05ff92ca1d16f97ca763253bb1985ff098d.html",
+  "retrieved_sha256": "64f661a6bcc510c48f6a31d9867da05ff92ca1d16f97ca763253bb1985ff098d",
+  "matches_previous_hash": false,
+  "retrieved_at": "2026-11-06T05:48:20.093151+00:00",
+  "retrieval_method": "direct_original_url",
+  "title": "CNG price hiked by Rs 2 in Mumbai and others, Delhi spared ahead of polls | News on Markets - Business Standard",
+  "publication_date": "2024-11-25T13:15:46+05:30",
+  "publication_date_claims": [
+    [
+      "JSON-LD datePublished",
+      "2024-11-25T13:15:46+05:30"
+    ],
+    [
+      "article:published_time",
+      "2024-11-25T13:15:46+05:30"
+    ]
+  ],
+  "date_status": "publisher_date_claim_preserved",
+  "status": "retained_public_html",
+  "historical_availability_status": "publisher_claim_not_independent_archive_verification",
+  "redistribution_license": "not_established_no_public_full_text_release",
+  "synthetic": false
+}

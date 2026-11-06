@@ -1,0 +1,33 @@
+{
+  "engineering_checks_passed": true,
+  "checks": [
+    {
+      "check": "one_raw_object_per_verified_hash",
+      "count": 1695
+    },
+    {
+      "check": "table_keys_counts_and_raw_lineage",
+      "tables": {
+        "structured/price_revisions/source_price_observations.csv": 11699,
+        "structured/price_revisions/pngrb_price_components.csv": 10538,
+        "structured/numerical_factors/native_numerical_observations.csv": 47830,
+        "structured/numerical_factors/unverified_transcription_candidates.csv": 395,
+        "structured/numerical_factors/cng_reported_native.csv": 56,
+        "structured/news/news_metadata.csv": 24,
+        "structured/corporate_disclosures/corporate_document_metadata.csv": 251
+      }
+    },
+    {
+      "check": "component_foreign_keys",
+      "count": 10538
+    },
+    {
+      "check": "no_false_stage_acceptance",
+      "passed": true
+    }
+  ],
+  "stage3_complete": false,
+  "researcher_accepted": false,
+  "stage4_started": false,
+  "scientific_gate": "blocked_pending_validity_resolution_and_researcher_review"
+}

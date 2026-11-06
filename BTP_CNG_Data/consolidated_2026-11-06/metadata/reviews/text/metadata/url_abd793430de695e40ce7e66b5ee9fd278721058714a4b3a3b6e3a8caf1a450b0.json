@@ -1,0 +1,26 @@
+{
+  "url": "https://timesofindia.indiatimes.com/city/delhi/cng-to-cost-rs-2-5-kg-less-in-delhi-in-first-cut-this-year/amp_articleshow/108276188.cms",
+  "expected_sha256": "84218c234f330459cace063210238554648cd4026b6fb3264b685da73de8cdf6",
+  "original_publication_claim": "2024-03-06T23:16:00+05:30",
+  "title_claim": "CNG to cost Rs 2.5 kg less in Delhi in first cut this year",
+  "origin": "fresh",
+  "source_id": "TXT_abd793430de695e4",
+  "source_path": "PROJECT_ROOT/BTP/BTP_CNG_Fresh_2026-11-06/text/raw/TXT_abd793430de695e4.html",
+  "retrieved_sha256": "84218c234f330459cace063210238554648cd4026b6fb3264b685da73de8cdf6",
+  "matches_previous_hash": true,
+  "retrieved_at": "",
+  "retrieval_method": "reused_existing_exact_hash",
+  "title": "CNG to cost Rs 2.5 kg less in Delhi in first cut this year | Delhi News - Times of India",
+  "publication_date": "2024-03-06T23:16:00+05:30",
+  "publication_date_claims": [
+    [
+      "JSON-LD datePublished",
+      "2024-03-06T23:16:00+05:30"
+    ]
+  ],
+  "date_status": "publisher_date_claim_preserved",
+  "status": "retained_public_html",
+  "historical_availability_status": "publisher_claim_not_independent_archive_verification",
+  "redistribution_license": "not_established_no_public_full_text_release",
+  "synthetic": false
+}

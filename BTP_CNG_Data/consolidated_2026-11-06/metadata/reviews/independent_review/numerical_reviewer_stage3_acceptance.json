@@ -1,0 +1,77 @@
+{
+  "reviewed_at_utc": "2026-11-06T05:56:57.890724+00:00",
+  "review_scope": "Independent scientific acceptance review of prices and collection-level readiness; not independent review of my numerical producer code.",
+  "producer_implementation_imported": false,
+  "independent_checks": {
+    "price_observation_ids_unique": true,
+    "all_prices_positive": true,
+    "parsed_exact_effective_dates_calendar_valid": true,
+    "component_foreign_keys_present": true,
+    "sample_raw_hash_rechecked": true,
+    "independent_Dewas_layout_sample": true
+  },
+  "measured_counts": {
+    "canonical_price_claims": 11699,
+    "component_rows": 10538,
+    "price_claims_missing_publication_date": 11576,
+    "price_claims_missing_exact_effective_date": 5442,
+    "price_date_status": {
+      "unambiguous_numeric_source_date": 5301,
+      "ambiguous_or_invalid_numeric_date": 5228,
+      "unparsed_source_date": 12,
+      "exact_source_date": 937,
+      "explicit_source_footnote_overrides_row": 1,
+      "overnight_window_not_exact_day": 155,
+      "source_month_only": 45,
+      "midnight_day_unspecified": 18,
+      "source_mid_month_only": 2
+    },
+    "source_market_coverage_rows": 415,
+    "coverage_rows_certifying_complete_price_path": 0,
+    "crosscheck_rows": 7,
+    "distinct_corroborating_source_events": 2,
+    "crosscheck_results": {
+      "price_and_effective_date_agreement": 5,
+      "price_level_agreement_effective_timing_unverified": 1,
+      "price_level_conflict_and_effective_timing_unverified": 1
+    },
+    "news_records": 24,
+    "news_missing_publication_date": 1,
+    "news_publication_verification_status": {
+      "publisher_claim_not_independent_archive_verification": 24
+    },
+    "demand_records": 56,
+    "demand_series": {
+      "cng_station_reported_indicator": 28,
+      "cng_sales_volume": 28
+    },
+    "demand_definition_status": {
+      "flow_vs_stock_not_explicit_do_not_treat_as_operating_stock": 28,
+      "CNG_only_not_PNG": 28
+    }
+  },
+  "stage3_collection_repairs_useful": true,
+  "stage3_unconditional_scientific_acceptance_recommended": false,
+  "stage4_can_start_under_current_protocol": false,
+  "snapshot_acceptance_observed": false,
+  "critical_researcher_decisions": [
+    "Select explicit market/operator identities and bounded historical price intervals, with a stated evidence standard for interval completeness and independent corroboration.",
+    "Resolve or transparently exclude Pune2023price disagreement and MNGL overnight/midnight/calendar ambiguities; do not silently assign a day.",
+    "Define historical feature-availability eligibility. Unknown release vintages must not be replaced by assumed one-month lags or a retrieval date.",
+    "Choose the H2 study window and permissible sources, or acknowledge H2 is infeasible/inconclusive for the present corpus; corporate exact bytes do not establish historical public availability.",
+    "Approve factor-specific exclusions and practical stopping decisions for still-uncollected VAHAN, company procurement/sourcing, legal tax/tariff histories and other candidate factors. Failed attempts alone are not proof of irrecoverability.",
+    "Review a cumulative Stage3completion report and checksum-frozen candidate snapshot before explicitly accepting it."
+  ],
+  "important_distinctions": [
+    "Monthly target arithmetic belongs in Stage4, but Stage3must first establish the eligible underlying price paths and source-date uncertainty.",
+    "Unknown publication dates do not automatically invalidate retrospective outcome labels; they do invalidate unqualified use of historical predictor information unless availability is established.",
+    "Five city quotes in one news event are not five independent market-regime validations.",
+    "National CNG sales are not city-level demand; station reported indicators with unknown flow/stock definition cannot be used as operating-station stock.",
+    "A limited, explicitly qualified accepted subset may be defensible after researcher review; row counts and passing extraction checks do not create acceptance automatically."
+  ],
+  "limitations": [
+    "I independently checked the six listed structural/raw-source conditions and recomputed the listed counts.",
+    "I did not personally verify every source page, every historical price change, all PDF facts or every publication timestamp.",
+    "I did not rerun target aggregation or modeling, and no Stage4work was performed."
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "raw_hash_verified": true,
+  "rows": 901,
+  "classes": {
+    "positive_source_quote": 443,
+    "missing_or_unknown_token": 441,
+    "nonpositive_not_absolute_price": 17
+  },
+  "formula_cells": 27,
+  "scope": "Separate archived IGL workbook; no automatic splicing into current chronology; cached formula results do not certify source arithmetic inputs",
+  "source_publication_status": "unknown; HTTP Last-Modified is not proof of original publication",
+  "negative_cached_values": [
+    {
+      "source_locator": "CNG Price!M55",
+      "raw_value": "=M54-2.5",
+      "cached_value": -2.5,
+      "date_token": "06.03.2024"
+    },
+    {
+      "source_locator": "CNG Price!N55",
+      "raw_value": "=N54-2.5",
+      "cached_value": -2.5,
+      "date_token": "06.03.2024"
+    },
+    {
+      "source_locator": "CNG Price!O55",
+      "raw_value": "=O54-2.5",
+      "cached_value": -2.5,
+      "date_token": "06.03.2024"
+    },
+    {
+      "source_locator": "CNG Price!P55",
+      "raw_value": "=P54-2.5",
+      "cached_value": -2.5,
+      "date_token": "06.03.2024"
+    },
+    {
+      "source_locator": "CNG Price!Q55",
+      "raw_value": "=Q54-2.5",
+      "cached_value": -2.5,
+      "date_token": "06.03.2024"
+    },
+    {
+      "source_locator": "CNG Price!R55",
+      "raw_value": "=R54-2.5",
+      "cached_value": -2.5,
+      "date_token": "06.03.2024"
+    }
+  ]
+}

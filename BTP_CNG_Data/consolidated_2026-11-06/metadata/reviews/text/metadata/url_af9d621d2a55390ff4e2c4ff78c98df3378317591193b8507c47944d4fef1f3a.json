@@ -1,0 +1,32 @@
+{
+  "url": "https://indianexpress.com/article/business/business-others/cng-rates-in-delhi-to-be-revised-upward-to-rs-29-kg-from-today/",
+  "expected_sha256": "8a5807166a7dd67e58dbc8832f7712c24b738860156697cf331e42ef561470bd",
+  "original_publication_claim": "2011-01-02T01:42:37+05:30",
+  "title_claim": "CNG rates in Delhi to be revised upward to Rs 29/kg from today",
+  "origin": "github-pr1",
+  "source_id": "NEWS_HISTORY_6",
+  "http_status": 200,
+  "final_url": "https://indianexpress.com/article/business/business-others/cng-rates-in-delhi-to-be-revised-upward-to-rs-29-kg-from-today/",
+  "source_path": "PROJECT_ROOT/Stage3_Consolidated_2026-11-06/text/raw/52fdb706ef3f8976cbd402b0ad8af098853d8cfeb3f0bd393e3221c645fd5128.html",
+  "retrieved_sha256": "52fdb706ef3f8976cbd402b0ad8af098853d8cfeb3f0bd393e3221c645fd5128",
+  "matches_previous_hash": false,
+  "retrieved_at": "2026-11-06T05:48:20.651983+00:00",
+  "retrieval_method": "direct_original_url",
+  "title": "CNG rates in Delhi to be revised upward to Rs 29/kg from today | Business News - The Indian Express",
+  "publication_date": "2011-01-02T01:42:37+05:30",
+  "publication_date_claims": [
+    [
+      "JSON-LD datePublished",
+      "2011-01-02T01:42:37+05:30"
+    ],
+    [
+      "article:published_time",
+      "2011-01-02T01:42:37+05:30"
+    ]
+  ],
+  "date_status": "publisher_date_claim_preserved",
+  "status": "retained_public_html",
+  "historical_availability_status": "publisher_claim_not_independent_archive_verification",
+  "redistribution_license": "not_established_no_public_full_text_release",
+  "synthetic": false
+}

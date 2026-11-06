@@ -1,0 +1,106 @@
+{
+  "verified_at": "2026-11-06T05:58:46.606900+00:00",
+  "checks": [
+    {
+      "check": "all_raw_source_hashes",
+      "passed": true,
+      "detail": 241
+    },
+    {
+      "check": "observation_identifiers_unique",
+      "passed": true,
+      "detail": 47830
+    },
+    {
+      "check": "source_version_keys_unique",
+      "passed": true,
+      "detail": 47830
+    },
+    {
+      "check": "finite_reported_values",
+      "passed": true,
+      "detail": 47830
+    },
+    {
+      "check": "no_transcription_candidate_in_native_ledger",
+      "passed": true,
+      "detail": 395
+    },
+    {
+      "check": "native_frequency_retained",
+      "passed": true,
+      "detail": "No numerical annual/quarterly series expanded into months"
+    },
+    {
+      "check": "IMF_CPI_independent_JSON_decode",
+      "passed": true,
+      "detail": {
+        "rows": 823,
+        "source_reference_period": [
+          [
+            "REFERENCE_PERIOD",
+            "2012A"
+          ]
+        ]
+      }
+    },
+    {
+      "check": "constant_GDP_independent_JSON_decode",
+      "passed": true,
+      "detail": 66
+    },
+    {
+      "check": "MoSPI_dimensions_values_and_conflicts_independent",
+      "passed": true,
+      "detail": {
+        "retained": 175,
+        "ambiguous_periods": [
+          "2013-05",
+          "2013-04",
+          "2013-03",
+          "2013-02",
+          "2013-01"
+        ]
+      }
+    },
+    {
+      "check": "fresh_energy_every_original_Excel_cell",
+      "passed": true,
+      "detail": {
+        "checked": 6940,
+        "mismatches": 0
+      }
+    },
+    {
+      "check": "Yahoo_month_native_exchange_timezone",
+      "passed": true,
+      "detail": {
+        "rows": 179,
+        "exchange_timezone": "Europe/London",
+        "excluded_incomplete_November": true
+      }
+    },
+    {
+      "check": "conflicting_source_keys_excluded",
+      "passed": true,
+      "detail": {
+        "excluded_rows": 44,
+        "families": {
+          "infrastructure_snapshots": 34,
+          "official_cpi_monthly": 10
+        }
+      }
+    },
+    {
+      "check": "unknown_publication_dates_not_backfilled",
+      "passed": true,
+      "detail": "These inputs do not carry independently verified historical publication dates"
+    }
+  ],
+  "all_checks_passed": true,
+  "failures": [],
+  "stage3_complete": false,
+  "stage4_started": false,
+  "historical_point_in_time_validity_certified": false,
+  "limitation": "Independent raw decoding verifies specified extraction calculations, not every source claim or full research readiness."
+}

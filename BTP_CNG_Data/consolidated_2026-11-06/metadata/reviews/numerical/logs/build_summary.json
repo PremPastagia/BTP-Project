@@ -1,0 +1,37 @@
+{
+  "built_at": "2026-11-06T05:58:45.758492+00:00",
+  "active_native_rows": 47830,
+  "unverified_candidate_rows": 395,
+  "source_hashes_verified": 241,
+  "duplicates_suppressed": 8096,
+  "conflicting_rows_excluded": 44,
+  "missing_raw_rows_excluded": 0,
+  "invalid_or_incomplete_rows_excluded": 2,
+  "family_counts": {
+    "energy_benchmarks": 11932,
+    "geopolitical_risk": 8096,
+    "macro_annual": 264,
+    "fx_daily": 13492,
+    "gas_supply": 222,
+    "gas_sectoral_consumption": 239,
+    "infrastructure_snapshots": 299,
+    "gas_price_candidate": 245,
+    "weather_aggregates": 12045,
+    "national_accounts_quarterly": 64,
+    "macro_monthly": 823,
+    "fx_monthly_proxy": 179,
+    "official_cpi_monthly": 175,
+    "gas_supply_candidate": 150
+  },
+  "stage3_complete": false,
+  "stage4_started": false,
+  "accepted_data": false,
+  "limitations": [
+    "Historical publication/revision vintages remain largely unknown.",
+    "IMF/DBnomics CPI is not official MoSPI real-time CPI vintage evidence.",
+    "No company procurement-cost or sourcing-share panel, VAHAN observed registrations or verified historical city-CNG consumption acquired.",
+    "PPAC OCR/text role transcriptions remain candidates until substantive source review.",
+    "Version-specific overlaps are retained deliberately; counts across vintages are not unique economic observations.",
+    "No model matrices, monthly joins, lags, statistical EDA or forecasts generated."
+  ]
+}

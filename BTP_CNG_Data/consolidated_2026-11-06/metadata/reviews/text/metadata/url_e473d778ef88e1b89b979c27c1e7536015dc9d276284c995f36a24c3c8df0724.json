@@ -1,0 +1,30 @@
+{
+  "url": "https://www.business-standard.com/markets/news/city-gas-distribution-shares-trade-weak-mgl-igl-fall-up-to-6-123040300282_1.html",
+  "expected_sha256": "72136819bd1f180072fbad2639f3c7919428d510a637395066547a0e421f7835",
+  "original_publication_claim": "2023-04-03T11:26:00+05:30",
+  "title_claim": "City gas distribution shares trade weak: MGL, IGL fall up to 6%",
+  "origin": "fresh",
+  "source_id": "TXT_e473d778ef88e1b8",
+  "source_path": "PROJECT_ROOT/BTP/BTP_CNG_Fresh_2026-11-06/text/raw/TXT_e473d778ef88e1b8.html",
+  "retrieved_sha256": "72136819bd1f180072fbad2639f3c7919428d510a637395066547a0e421f7835",
+  "matches_previous_hash": true,
+  "retrieved_at": "",
+  "retrieval_method": "reused_existing_exact_hash",
+  "title": "City gas distribution shares trade weak: MGL, IGL fall up to 6% | News on Markets - Business Standard",
+  "publication_date": "2023-04-03T11:26:00+05:30",
+  "publication_date_claims": [
+    [
+      "JSON-LD datePublished",
+      "2023-04-03T11:26:00+05:30"
+    ],
+    [
+      "article:published_time",
+      "2023-04-03T11:26:00+05:30"
+    ]
+  ],
+  "date_status": "publisher_date_claim_preserved",
+  "status": "retained_public_html",
+  "historical_availability_status": "publisher_claim_not_independent_archive_verification",
+  "redistribution_license": "not_established_no_public_full_text_release",
+  "synthetic": false
+}

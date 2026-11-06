@@ -1,0 +1,15 @@
+{
+  "generated_at": "2026-11-06T05:46:47.562539+00:00",
+  "metadata_rows": 188,
+  "expected_distinct_hashes": 185,
+  "initial_missing_distinct_hashes": 65,
+  "attempt_status_counts": {
+    "recovered_exact_hash": 65
+  },
+  "exact_bytes_available_rows": 188,
+  "exact_bytes_available_unique_hashes": 185,
+  "remaining_unique_hashes": 0,
+  "originals_preserved": true,
+  "all_publication_dates_remain_unknown": true,
+  "stage3_complete": false
+}

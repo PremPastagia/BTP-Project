@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-11-06T05:55:11.035861+00:00",
+  "pinned_pr1_commit": "5e57b0ed4867bca25461c1e3211f11796a1c76f4",
+  "source_registry_rows": 831,
+  "expected_distinct_source_hashes": 775,
+  "exact_source_hashes_available": 737,
+  "unrecovered_original_source_hashes": 38,
+  "expected_distinct_pdf_hashes": 710,
+  "exact_pdf_hashes_available": 710,
+  "structurally_unreadable_pdf_hashes": 0,
+  "pdf_parser_disagreement_hashes": 3,
+  "independently_readable_exact_pdf_hashes": 710,
+  "corporate_metadata_rows": 188,
+  "corporate_distinct_hashes": 185,
+  "corporate_all_exact_bytes_available": true,
+  "corporate_all_poppler_checks_passed": true,
+  "new_content_addressed_objects": 1188,
+  "object_filename_hash_failures": 0,
+  "expected_evidence_bundle_unique_hashes": 1453,
+  "bundle_member_hashes_available": 1214,
+  "bundle_member_hashes_unavailable": 239,
+  "publication_dates_inferred": 0,
+  "stage3_complete": false,
+  "claim_limits": [
+    "Exact source recovery and file readability do not certify every factual statement.",
+    "Three MoPNG originals have malformed startref trailers: Poppler reads them, PyPDF does not. Use only after explicit page review or retain excluded.",
+    "Changed HTML versions are retained separately and never replace expected original bytes.",
+    "Library bundle extracted-text bytes have not all been restored.",
+    "No licensed/private files were published; originals were preserved."
+  ]
+}

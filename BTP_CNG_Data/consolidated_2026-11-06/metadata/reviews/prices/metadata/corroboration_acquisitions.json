@@ -1,0 +1,30 @@
+[
+  {
+    "source_id": "NDTV_20230409",
+    "url": "https://www.ndtv.com/india-news/cng-prices-in-delhi-reduced-from-today-3932389",
+    "status": "failed",
+    "error": "403 Client Error: Forbidden for url: https://www.ndtv.com/india-news/cng-prices-in-delhi-reduced-from-today-3932389"
+  },
+  {
+    "source_id": "NIE_20240622",
+    "url": "https://www.newindianexpress.com/states/delhi/2024/Jun/22/cng-price-in-delhi-adjoining-cities-hiked-by-rs-1-per-kg",
+    "final_url": "https://www.newindianexpress.com/states/delhi/2024/Jun/22/cng-price-in-delhi-adjoining-cities-hiked-by-rs-1-per-kg",
+    "local_path": "PROJECT_ROOT/Stage3_Consolidated_2026-11-06/prices/raw/NIE_20240622.html",
+    "sha256": "cf6a95aa8abf99f1e221a7b493959f8c123883bd5d6fe6cf70f56c07027173f5",
+    "retrieved_at": "2026-11-06T05:48:27.020804+00:00",
+    "status": "downloaded",
+    "bytes": 1430650,
+    "interpretation": "Targeted independent publisher evidence; price/effective/publication facts require content review."
+  },
+  {
+    "source_id": "AUTOCAR_202304",
+    "url": "https://www.autocarindia.com/industry-amp/cng-prices-slashed-by-up-to-rs-8-per-kg-second-price-cut-in-2023-427833",
+    "final_url": "https://www.autocarindia.com/industry-amp/cng-prices-slashed-by-up-to-rs-8-per-kg-second-price-cut-in-2023-427833",
+    "local_path": "PROJECT_ROOT/Stage3_Consolidated_2026-11-06/prices/raw/AUTOCAR_202304.html",
+    "sha256": "3bdbec1d6c5a80e35855cf99c787722d58c9c653e09ac0008364491a9552d6d3",
+    "retrieved_at": "2026-11-06T05:48:26.530662+00:00",
+    "status": "downloaded",
+    "bytes": 73675,
+    "interpretation": "Targeted independent publisher evidence; price/effective/publication facts require content review."
+  }
+]

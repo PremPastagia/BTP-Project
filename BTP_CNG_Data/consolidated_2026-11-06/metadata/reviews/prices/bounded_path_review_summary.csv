@@ -1,0 +1,6 @@
+source_id,market,source_intervals,known_boundary_conflict_intervals,uncontested_documentary_candidate_intervals,earliest_source_start,last_source_end_exclusive,scope,operator,researcher_accepted
+ggl_chronology,Agra,39,4,35,2019-04-01,2026-11-01,Endpoints do not certify continuous coverage; see interval/gap ledgers,Green Gas Limited,False
+ggl_chronology,Lucknow,39,4,35,2019-04-01,2026-11-01,Endpoints do not certify continuous coverage; see interval/gap ledgers,Green Gas Limited,False
+ggl_chronology,Unnao,32,4,28,2020-10-06,2026-11-01,Endpoints do not certify continuous coverage; see interval/gap ledgers,Green Gas Limited,False
+igl_chronology,Delhi,93,0,93,2010-06-17,2026-08-29,Endpoints do not certify continuous coverage; see interval/gap ledgers,Indraprastha Gas Limited,False
+igl_chronology,Noida,84,0,84,2010-06-17,2026-08-29,Endpoints do not certify continuous coverage; see interval/gap ledgers,Indraprastha Gas Limited,False

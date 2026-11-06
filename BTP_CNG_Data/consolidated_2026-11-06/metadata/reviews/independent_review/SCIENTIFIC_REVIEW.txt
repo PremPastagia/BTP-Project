@@ -1,0 +1,86 @@
+INDEPENDENT SCIENTIFIC REVIEW — DEMAND, NUMERICAL AND NEWS OUTPUTS
+6 November 2026
+
+This review does not import the producers' extraction or validation helpers.
+It examines source bytes, raw metadata, output scope and producer code. Producer
+folders were not modified. Reviewed-file checksums are in independent_audit.json.
+
+DEMAND FINDINGS
+The original March2026 bulletin's physical PDF page13 (printed Page12) was
+visually inspected. Eight selected cells and their period meanings agree:
+                          Mar2025   Mar2026    FY2024-25   FY2025-26
+CNG gas sales, MMSCM          813       946        9,189       10,721
+CNG station indicator        347       224        1,206          849
+
+These are entity-submitted national aggregates. The monthly gas-sales values are
+not daily measurements or city/operator-specific volumes. The financial-year
+columns span April–March on this page. In earlier-month reports they are FY-to-date,
+not full-financial-year totals. The extraction keeps these period grains separate.
+The station row appears alongside monthly and yearly network progress; it must
+not be interpreted as total operating station stock. The producer explicitly
+flags its stock/flow definition as unresolved, which is appropriately conservative.
+
+All13 underlying bulletin hashes were independently recomputed. There are56 source
+observations, with no duplicate source-page/table/row/column cells. Six other
+bulletins did not yield the supported table and remain review items. No national
+values are allocated to cities, and FY totals are not added to monthly values.
+
+NUMERICAL FINDINGS
+47,830 source-native records and395 unverified transcription candidates were
+examined.241 distinct original-source hashes were independently recomputed.
+All175 active official MoSPI CPI values were compared directly with their saved
+JSON array entries and All India/Combined/General/General-Overall/base dimensions.
+The IMF CPI2012 reference-period label is supported by the original JSON metadata
+REFERENCE_PERIOD=2012A; it is not silently equated with the MoSPI source.
+
+Native record keys are unique and include source hash/vintage. Unknown release
+dates remain flagged as unknown. Annual GDP remains annual. Candidate OCR/gas
+transcriptions remain separate from the native numerical ledger.44 conflicting
+rows are excluded conservatively instead of selecting favorable values:34
+infrastructure entries with ambiguous/repeated geographic labels and10 MoSPI CPI
+records with differing values under otherwise identical period/dimension keys.
+
+One latent design issue remains: same-key value equivalence uses12-significant-
+digit float formatting. This could suppress very small genuine differences.
+Use exact Decimal normalization or an explicit source-precision rule before
+extending this deduplication logic. No material current value loss was demonstrated.
+Source hashes confirm identity, not economic truth or historical availability.
+
+NEWS FINDINGS AND RESOLVED AUDIT WARNINGS
+24 source HTML hashes and publication fields were independently checked. No
+current same-URL alternate-content-version loss was found.
+
+An earlier structured timestamp contained an HTML-escaped timezone plus sign.
+After the reviewer flagged it, the root producer normalized HTML entities while
+preserving the original claim and date/time precision. Current output timestamps
+parse successfully. Date-only claims remain explicitly time-unknown.
+
+The root also changed article identity from URL-only to canonical URL plus raw
+content hash. This retains future source versions instead of silently discarding
+different bytes at one URL. Conflicting publisher date claims are now placed in
+a review register rather than automatically treated as verified dates.
+
+Remaining limitations include unverified historical publication instants, source
+syndication, semantic duplicates, incomplete historical sampling and rights to
+republish full texts. No sentiment, article-volume or collocation features were
+generated. File integrity does not establish article representativeness.
+
+ARCHIVED IGL WORKBOOK REVIEW
+The separately recovered archival workbook has901 market/date cells:443 positive
+cached quotes,441 missing/unknown cells and17 nonpositive cells.27 cells contain
+Excel formulas. Six cached values of-2.5 at M55:R55 are formulas subtracting2.5
+from blank predecessor cells. They do not establish negative retail market prices.
+Formula strings and cached results are preserved in older_IGL_cell_review.csv.
+The archived workbook and current695-quote workbook must remain separate source
+vintages, with UPSRTC contract-fleet scope separated from general retail prices.
+
+GATES
+PASS:470 executed structural/hash/source-value checks in independent_check_log.json.
+PASS: independent visual reconciliation of the eight March2026 source cells.
+PASS: current article date normalization and URL-plus-content version handling.
+REVIEW: numerical value-equivalence precision before future deduplication.
+OPEN: scientific source truth, release vintages, effective price paths and all
+other Stage3 scope limitations described by the producing teams.
+NOT APPROVED: scientific Stage3 acceptance or advancement to Stage4.
+
+No modeling, imputation, EDA or final target reconstruction was performed.

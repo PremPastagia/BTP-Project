@@ -1,0 +1,27 @@
+INDEPENDENT PACKAGE AND ARCHIVE AUDIT
+2026-11-06T06:08:32.918352+00:00
+
+Archive/package integrity: FAIL
+Archives checked: 13
+Objects stream-decompressed and SHA256 checked: 1692
+Uncompressed bytes checked: 3170002159
+Corporate canonical identities: 251
+Corporate metadata aliases: 375
+No package raw evidence tracked in Git: True
+Stage3 accepted/completed/Stage4 started flags are false: True
+
+Restore fixture results:
+valid: PASS (exit 0)
+idempotent: PASS (exit 0)
+existing_conflict: PASS (exit 1)
+traversal: PASS (exit 1)
+archive_hash_tamper: PASS (exit 1)
+member_hash_tamper: PASS (exit 1)
+duplicate_member: PASS (exit 1)
+optimized_member_hash_tamper: PASS (exit 1)
+
+Package problems: ["Corporate identity/alias failure"]
+Restore safety failure cases: []
+
+All restore tests used independent temporary fixtures. No original data was modified.
+This audit does not grant Stage3 scientific acceptance or certify remote release uploads.

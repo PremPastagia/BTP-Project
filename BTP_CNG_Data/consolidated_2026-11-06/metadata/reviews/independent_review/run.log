@@ -1,0 +1,42 @@
+{
+  "audit_checks": 470,
+  "all_executed_checks_passed": true,
+  "audited_file_hashes": {
+    "demand/extract_bulletins.py": "eada77bf031dc0f70bf7dcad489e759197e9bd146047c17e11eb3b9272a84b01",
+    "demand/structured/cng_reported_native.csv": "9cb8adc1abd2e20e9e5b8f41e35197ad2c3e75e7dd4d0b67eff3494b474aea79",
+    "text/collect_news.py": "55865a2916097ae181eaa48cd39c4af9c83c1e27059d182abfb4c2c45e043d71",
+    "text/structured/news_metadata.csv": "73538b287979bedd731a692ea7d0faceb6f5c041f14b88858c35337467f2196c",
+    "numerical/scripts/build_numerical.py": "99bedef4960ade21368d25e46c3d0cb0483b839ed1075dd6b9b95c0de17acb02",
+    "numerical/structured/native_numerical_observations.csv": "2d215ee55816901a81b540a3f5f9e9d391e08f3f09e22dacf368f15adcbfb83e"
+  },
+  "demand_rows": 56,
+  "demand_source_files": 13,
+  "march_visual_independent_cells": 8,
+  "numerical_native_rows": 47830,
+  "numerical_candidate_rows": 395,
+  "numerical_raw_hashes_checked": 241,
+  "official_CPI_raw_rows_checked": 175,
+  "article_rows": 24,
+  "bad_article_date_claims": [],
+  "multiple_article_date_claims": [],
+  "actual_news_version_loss": [],
+  "resolved_findings": [
+    "Producer now keys article versions by canonical URL and content hash; corrected after audit warning. No current same-URL alternate-version loss.",
+    "Structured publication fields now normalize HTML entities and preserve raw claims/precision; previously escaped AutocarPro timezone offset is valid ISO."
+  ],
+  "issues": [
+    {
+      "severity": "latent_design_issue",
+      "finding": "Numerical duplicate equivalence uses format(float(value),.12g). Prefer exact Decimal equality or source-defined precision, since blanket12-significant-digit rounding can hide tiny same-key transcription differences. No material current value loss independently demonstrated."
+    }
+  ],
+  "scientific_stage3_acceptance": false,
+  "stage4_permission": false,
+  "limits": [
+    "Numerical source hashes/transcription checks do not verify source economic truth or historical publication vintages.",
+    "National CNG sales do not establish company/city-specific demand.",
+    "FY-to-date and monthly totals must not be summed together.",
+    "Station indicator is not independently established operating stock.",
+    "All later research approvals remain with researcher."
+  ]
+}

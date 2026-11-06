@@ -1,0 +1,48 @@
+[
+  {
+    "url": "https://api.mospi.gov.in/api/cpi/getCpiData?level=Group&base_year=2012&state_code=99&sector_code=3&group_code=0&subgroup_code=0.99&year=2025&limit=100",
+    "retrieved_at": "2026-11-06T05:47:51.986766+00:00",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='api.mospi.gov.in', port=443): Max retries exceeded with url: /api/cpi/getCpiData?level=Group&base_year=2012&state_code=99&sector_code=3&group_code=0&subgroup_code=0.99&year=2025&limit=100 (Caused by SSLError(SSLError(1, '[SSL: UNSAFE_LEGACY_RENEGOTIATION_DISABLED] unsafe legacy renegotiation disabled (_ssl.c:1032)')))"
+  },
+  {
+    "url": "https://api.mospi.gov.in/api/cpi/getCpiData?level=Group&base_year=2012&state_code=99&sector_code=3&group_code=0&subgroup_code=0.99&year=2012&limit=100",
+    "retrieved_at": "2026-11-06T05:47:51.986989+00:00",
+    "status": "failed",
+    "error": "HTTPSConnectionPool(host='api.mospi.gov.in', port=443): Max retries exceeded with url: /api/cpi/getCpiData?level=Group&base_year=2012&state_code=99&sector_code=3&group_code=0&subgroup_code=0.99&year=2012&limit=100 (Caused by SSLError(SSLError(1, '[SSL: UNSAFE_LEGACY_RENEGOTIATION_DISABLED] unsafe legacy renegotiation disabled (_ssl.c:1032)')))"
+  },
+  {
+    "url": "https://api.mospi.gov.in/api/cpi/getCpiData?level=Group&base_year=2012&state_code=99&sector_code=3&group_code=0&subgroup_code=0.99&year=2025&limit=100",
+    "retrieved_at": "2026-11-06T05:48:08.472818+00:00",
+    "method": "legacy_server_connect_TLS_certificate_validation_retained",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 2348,
+    "sha256": "41ade89acdd8f981972d3fdb5acc339747ac00ec1ebf170e9040ce7b3cff5801",
+    "path": "raw/mospi_cpi_41ade89acdd8f981972d3fdb5acc339747ac00ec1ebf170e9040ce7b3cff5801.response",
+    "data_records": 12,
+    "keys": [
+      "data",
+      "meta_data",
+      "msg",
+      "statusCode"
+    ]
+  },
+  {
+    "url": "https://api.mospi.gov.in/api/cpi/getCpiData?level=Group&base_year=2012&state_code=99&sector_code=3&group_code=0&subgroup_code=0.99&year=2012&limit=100",
+    "retrieved_at": "2026-11-06T05:48:08.835389+00:00",
+    "method": "legacy_server_connect_TLS_certificate_validation_retained",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 2346,
+    "sha256": "b7cca48d74dd6c0c15ad8a3469c4b639c700d7c3f05c41bf26a98a584efae214",
+    "path": "raw/mospi_cpi_b7cca48d74dd6c0c15ad8a3469c4b639c700d7c3f05c41bf26a98a584efae214.response",
+    "data_records": 12,
+    "keys": [
+      "data",
+      "meta_data",
+      "msg",
+      "statusCode"
+    ]
+  }
+]

@@ -1,0 +1,143 @@
+{
+  "built_at": "2026-11-06T05:58:45.758492+00:00",
+  "active_native_rows": 47830,
+  "unverified_candidate_rows": 395,
+  "source_hashes_verified": 241,
+  "duplicates_suppressed": 8096,
+  "conflicting_rows_excluded": 44,
+  "missing_raw_rows_excluded": 0,
+  "invalid_or_incomplete_rows_excluded": 2,
+  "family_counts": {
+    "energy_benchmarks": 11932,
+    "geopolitical_risk": 8096,
+    "macro_annual": 264,
+    "fx_daily": 13492,
+    "gas_supply": 222,
+    "gas_sectoral_consumption": 239,
+    "infrastructure_snapshots": 299,
+    "gas_price_candidate": 245,
+    "weather_aggregates": 12045,
+    "national_accounts_quarterly": 64,
+    "macro_monthly": 823,
+    "fx_monthly_proxy": 179,
+    "official_cpi_monthly": 175,
+    "gas_supply_candidate": 150
+  },
+  "stage3_complete": false,
+  "stage4_started": false,
+  "accepted_data": false,
+  "limitations": [
+    "Historical publication/revision vintages remain largely unknown.",
+    "IMF/DBnomics CPI is not official MoSPI real-time CPI vintage evidence.",
+    "No company procurement-cost or sourcing-share panel, VAHAN observed registrations or verified historical city-CNG consumption acquired.",
+    "PPAC OCR/text role transcriptions remain candidates until substantive source review.",
+    "Version-specific overlaps are retained deliberately; counts across vintages are not unique economic observations.",
+    "No model matrices, monthly joins, lags, statistical EDA or forecasts generated."
+  ]
+}
+{
+  "verified_at": "2026-11-06T05:58:46.606900+00:00",
+  "checks": [
+    {
+      "check": "all_raw_source_hashes",
+      "passed": true,
+      "detail": 241
+    },
+    {
+      "check": "observation_identifiers_unique",
+      "passed": true,
+      "detail": 47830
+    },
+    {
+      "check": "source_version_keys_unique",
+      "passed": true,
+      "detail": 47830
+    },
+    {
+      "check": "finite_reported_values",
+      "passed": true,
+      "detail": 47830
+    },
+    {
+      "check": "no_transcription_candidate_in_native_ledger",
+      "passed": true,
+      "detail": 395
+    },
+    {
+      "check": "native_frequency_retained",
+      "passed": true,
+      "detail": "No numerical annual/quarterly series expanded into months"
+    },
+    {
+      "check": "IMF_CPI_independent_JSON_decode",
+      "passed": true,
+      "detail": {
+        "rows": 823,
+        "source_reference_period": [
+          [
+            "REFERENCE_PERIOD",
+            "2012A"
+          ]
+        ]
+      }
+    },
+    {
+      "check": "constant_GDP_independent_JSON_decode",
+      "passed": true,
+      "detail": 66
+    },
+    {
+      "check": "MoSPI_dimensions_values_and_conflicts_independent",
+      "passed": true,
+      "detail": {
+        "retained": 175,
+        "ambiguous_periods": [
+          "2013-05",
+          "2013-04",
+          "2013-03",
+          "2013-02",
+          "2013-01"
+        ]
+      }
+    },
+    {
+      "check": "fresh_energy_every_original_Excel_cell",
+      "passed": true,
+      "detail": {
+        "checked": 6940,
+        "mismatches": 0
+      }
+    },
+    {
+      "check": "Yahoo_month_native_exchange_timezone",
+      "passed": true,
+      "detail": {
+        "rows": 179,
+        "exchange_timezone": "Europe/London",
+        "excluded_incomplete_November": true
+      }
+    },
+    {
+      "check": "conflicting_source_keys_excluded",
+      "passed": true,
+      "detail": {
+        "excluded_rows": 44,
+        "families": {
+          "infrastructure_snapshots": 34,
+          "official_cpi_monthly": 10
+        }
+      }
+    },
+    {
+      "check": "unknown_publication_dates_not_backfilled",
+      "passed": true,
+      "detail": "These inputs do not carry independently verified historical publication dates"
+    }
+  ],
+  "all_checks_passed": true,
+  "failures": [],
+  "stage3_complete": false,
+  "stage4_started": false,
+  "historical_point_in_time_validity_certified": false,
+  "limitation": "Independent raw decoding verifies specified extraction calculations, not every source claim or full research readiness."
+}

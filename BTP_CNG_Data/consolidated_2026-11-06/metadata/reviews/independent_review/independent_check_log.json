@@ -1,0 +1,2930 @@
+[
+  {
+    "check": "demand_source_hash",
+    "passed": true,
+    "evidence": "pngrb_7b220a30da85"
+  },
+  {
+    "check": "demand_source_hash",
+    "passed": true,
+    "evidence": "pngrb_862290a52cb3"
+  },
+  {
+    "check": "demand_source_hash",
+    "passed": true,
+    "evidence": "pngrb_3e2aa8ba515d"
+  },
+  {
+    "check": "demand_source_hash",
+    "passed": true,
+    "evidence": "pngrb_e4e17946bbdf"
+  },
+  {
+    "check": "demand_source_hash",
+    "passed": true,
+    "evidence": "pngrb_340f740b40d1"
+  },
+  {
+    "check": "demand_source_hash",
+    "passed": true,
+    "evidence": "pngrb_2567b40dcffc"
+  },
+  {
+    "check": "demand_source_hash",
+    "passed": true,
+    "evidence": "pngrb_0b3a5a6afcbb"
+  },
+  {
+    "check": "demand_source_hash",
+    "passed": true,
+    "evidence": "pngrb_5830ea2c632f"
+  },
+  {
+    "check": "demand_source_hash",
+    "passed": true,
+    "evidence": "pngrb_81c4cc248e00"
+  },
+  {
+    "check": "demand_source_hash",
+    "passed": true,
+    "evidence": "pngrb_088da52fb98f"
+  },
+  {
+    "check": "demand_source_hash",
+    "passed": true,
+    "evidence": "pngrb_fc06824214fe"
+  },
+  {
+    "check": "demand_source_hash",
+    "passed": true,
+    "evidence": "pngrb_b4cf84c7918e"
+  },
+  {
+    "check": "demand_source_hash",
+    "passed": true,
+    "evidence": "pngrb_bfe50d5746f2"
+  },
+  {
+    "check": "March2026_visual_value_period_scope",
+    "passed": true,
+    "evidence": [
+      "cng_sales_volume",
+      "2025-03-01",
+      "2025-03-31",
+      "monthly_source_total",
+      "813"
+    ]
+  },
+  {
+    "check": "March2026_visual_value_period_scope",
+    "passed": true,
+    "evidence": [
+      "cng_sales_volume",
+      "2026-03-01",
+      "2026-03-31",
+      "monthly_source_total",
+      "946"
+    ]
+  },
+  {
+    "check": "March2026_visual_value_period_scope",
+    "passed": true,
+    "evidence": [
+      "cng_sales_volume",
+      "2024-04-01",
+      "2025-03-31",
+      "financial_year_to_date_source_total",
+      "9189"
+    ]
+  },
+  {
+    "check": "March2026_visual_value_period_scope",
+    "passed": true,
+    "evidence": [
+      "cng_sales_volume",
+      "2025-04-01",
+      "2026-03-31",
+      "financial_year_to_date_source_total",
+      "10721"
+    ]
+  },
+  {
+    "check": "March2026_visual_value_period_scope",
+    "passed": true,
+    "evidence": [
+      "cng_station_reported_indicator",
+      "2025-03-01",
+      "2025-03-31",
+      "monthly_source_total",
+      "347"
+    ]
+  },
+  {
+    "check": "March2026_visual_value_period_scope",
+    "passed": true,
+    "evidence": [
+      "cng_station_reported_indicator",
+      "2026-03-01",
+      "2026-03-31",
+      "monthly_source_total",
+      "224"
+    ]
+  },
+  {
+    "check": "March2026_visual_value_period_scope",
+    "passed": true,
+    "evidence": [
+      "cng_station_reported_indicator",
+      "2024-04-01",
+      "2025-03-31",
+      "financial_year_to_date_source_total",
+      "1206"
+    ]
+  },
+  {
+    "check": "March2026_visual_value_period_scope",
+    "passed": true,
+    "evidence": [
+      "cng_station_reported_indicator",
+      "2025-04-01",
+      "2026-03-31",
+      "financial_year_to_date_source_total",
+      "849"
+    ]
+  },
+  {
+    "check": "demand_no_duplicate_source_cells",
+    "passed": true,
+    "evidence": 56
+  },
+  {
+    "check": "demand_financial_year_not_monthly",
+    "passed": true,
+    "evidence": 56
+  },
+  {
+    "check": "demand_station_scope_not_operating_stock",
+    "passed": true,
+    "evidence": 56
+  },
+  {
+    "check": "numerical_unique_record_keys",
+    "passed": true,
+    "evidence": 47830
+  },
+  {
+    "check": "candidate_families_excluded_from_native",
+    "passed": true,
+    "evidence": 395
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/wb_pink_monthly.xlsx"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Data/raw/macro_weather/data_gpr_export.xls"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/wb_india_ny_gdp_mktp_cn.json"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/wb_india_ne_con_prvt_cn.json"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/wb_india_fp_cpi_totl.json"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/fed_h10_89.html"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/fed_h10_00.html"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/fed_h10_96.html"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_production_current.xlsx"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_consumption_current.xls"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_sectoral_file_4f7519b953.xlsx"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_cgd_file_04d4d05826.xlsx"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/supplemental/raw/imd_rain.html"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/supplemental/raw/imd_temp.html"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/supplemental/raw/gdp_june2026.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Data/raw/macro_weather/cpi_imf_raw.json"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Data/raw/macro_weather/gdp_india_wb.json"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Data/raw/macro_weather/usdinr_monthly_raw.json"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/numerical/raw/mospi_cpi_6b1754863e35ad2b1b4c2349f016301c131b5c20b4c749cf37260122395592c5.response"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/numerical/raw/mospi_cpi_b7cca48d74dd6c0c15ad8a3469c4b639c700d7c3f05c41bf26a98a584efae214.response"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/numerical/raw/mospi_cpi_c96d9caa974ad345ae27bf0091418a5dcfc2a8596e068b7fbc2e79e7d3736a2e.response"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/numerical/raw/mospi_cpi_c72b1575e34899f7559e85b234c60f9ac632cfba71f7b174597858ab41a77df0.response"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/numerical/raw/mospi_cpi_1a5631d11fb1d3be672c384b49d176852566774572c1b94d1d53cd612df8080b.response"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/numerical/raw/mospi_cpi_1795dccd2270cf8f2229a08f868990fd513434f9ccb3de19bfff84a73ceacceb.response"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/numerical/raw/mospi_cpi_2278dcb6f5db2d4fa35e1eb30224b1ad1cb3ae3a25117d6aa48f57c076291039.response"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/numerical/raw/mospi_cpi_49fbe247a433da60cd49a7299f030299b2825a1907fc506707478379a1526fed.response"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/numerical/raw/mospi_cpi_a2cbe53f6053ca252474d51984d7691c609f3a65afe538681fb7c1b239d9672d.response"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/numerical/raw/mospi_cpi_8673535877e3bcf599b8715bac8c098d0aaa84afc3b71b0821679ead676151f6.response"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/numerical/raw/mospi_cpi_3d0f85d8390160f6b64bc6a9f515d0fd309efd333a110532267175e46a010d4f.response"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/numerical/raw/mospi_cpi_c50dd656673ce737fb372a0ebc2061d6d22900b8d3dad5cb7474321cbf57fe8a.response"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/numerical/raw/mospi_cpi_4ae5972c45b67a8acf5ad2c16f1971c172f2bb523df3860d729c2278dd8c3fff.response"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/numerical/raw/mospi_cpi_f67b566f77f29ce0192ab50dfa1ba6e345ed3bd97786074245ea126aa216865d.response"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/numerical/raw/mospi_cpi_41ade89acdd8f981972d3fdb5acc339747ac00ec1ebf170e9040ce7b3cff5801.response"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Data/raw/energy_markets/WorldBank_CMO_Historical_Monthly.xlsx"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_e500228c5c01.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_3aa8443db2cc.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_daa3a8a9e61f.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_2667888089c9.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_0406bd8a81de.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_d2a7c9957422.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_86173862b887.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_3f88e9777201.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_756233f9f7b1.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_72bf3683b37c.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_cce4911b7b6c.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_8bce9b2b841e.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_50f07917f2f0.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_de452f70e96a.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_bbd310a717f4.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_524bb1cd1712.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_933e3c7ab080.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_06cd73196735.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_aeb3e0052fcf.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_44290efa2777.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_8400bd50399b.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_47f32f28515a.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_adf34350ad56.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_c4e0f5ce089d.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_0432fcffca26.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_13d163d513dc.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_161d082bcb14.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_a34a8d56595b.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_abd6e2de1946.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_5f67153137fc.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_90676a01580c.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_68ad5e3ff071.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_14afb1a6f8a3.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_9d3af5e0238c.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_3078c094b8fb.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_eb3db497dd93.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_e98c50905f9a.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_88591044f4df.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_e72f6d5895a6.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_6cb0ed0c23ac.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_ba025766c223.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_09f5f5796436.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_8c1ececd781f.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_cef38a60f281.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_fcad469862b8.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_679298599660.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_b55e5b12ce45.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_f670ba188abf.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_881fc1c2a247.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_c42894e3124e.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_16cea120e05a.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_89f5d8becb43.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_4afa917bd8dc.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_sectoral_file_73c6db73e6.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_40b626b52229.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Data/documents/government_notices/PPAC_Domestic_Gas_Price_Oct_2026.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_200491ac2c94.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_249a48710d86.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_2819b51d1bd1.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_7ae2eb91ee37.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_ec97d7f520da.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_2e1d7d9464bb.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_d38165c11ef8.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_1383944c3a34.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_570166259653.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_c25f72e01bb1.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_d1aba055f5c5.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_0732d912e38e.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_0ba641489daf.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_70894af3e909.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_cef8e2484071.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_d9ba48174652.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_a7b7a8c0f835.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_c5168319aaab.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_b68809b4e98c.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_1134086d3897.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_e35125d47a77.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_3e2d52a055e5.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_a166644d52d1.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_64caca750120.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_d09e76382fd9.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_1d813bf9a694.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_5dbd42779117.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "BTP/BTP_CNG_Fresh_2026-11-06/numerical/raw/ppac_notice_47596279ce4c.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/178dadc39c3238a0ddba6a7ac50ac39c12c670fa50a32e02c8a43694bdcf0a8e.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/20269a443efa85480529c9375c7f3e06fc9c1585cd4fe0afbff749b4ac9a5e8c.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/cf18aaff462502d131a0e1f5f3f9a8746ce7a83bb4a22a74db0d082f61a54630.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/25dc6cd36c4196208703ebc6dd325bde2603eec70dab8d03b33199bf63a4b96e.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/e4e4434fbf0ac872ee110875d6fd857d0793219b202791881c9e54571a544ab3.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/11f3b632a2f46be4b1f2864307a4318bf4a0296bcb7797a72f5986465d0ae93b.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/f562522c2fcbad17a9f05a23948eb164d412c0f97a878cbdfdc5c900e7b46dc0.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/93d3b8386ef425e24599090b50a3ac3526a0d29b526a2067a63c386125614a38.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/45d931ae27b08021471268df1883e08985a0332753e06a86184354062d0e05ca.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/883849f62c8aeef50b7cca4c9fd6d1cbaf7101abacae3b88635b5499748f24e0.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/427dee734d810eac49d5fb306ee677427c479d21d9586e8cd66863382a342218.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/e4854f51b16966d0f8a0a16558f9f35f323603c827eff19b0ab161cce064d0ec.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/625ae42a00ced1968c1f6405bf235da6bb2e0b9e39995bad0a19256e27708a28.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/46c924ef0dee9999b80190d276c203b2d9739bb4f6b2608dc52550b071673a1e.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/60259751835bb375564ca63366bb4189bbcd5aeb0996cb8a6ca81a513b155856.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/7aa84ddb1dc1e588f02c46b58326fb3be202df186f6b7af31f4d0f44f2b425ce.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/9e06434e48bb716d21274421154e6e7de17f55cd656a645492cf715080ad60b3.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/1ed8c5ae1b2631f7c7daafe48ba0a2e2b5fb68240527042004f0285ded6a9836.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/e0e1c560e9d80cf25243eb37b805e7b0028e9b26595002558256a7a8c2f4838c.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/66b10662dc7231e63df5e69ebac0ac02e8f4934084623828c4d9e6f62a22281a.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/200ff301b979dd57213a56a820cd733dff484ea47d13c76505cd2f21e84c511c.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/71d15d5db8188d9182c382f2538d58e4253a0585b26f0ea3f4f4a841044b2ca3.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/ff8d395b6e146e2a878b84d7c99745f2229c6a7940c5cad3c04ae18190b7af0f.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/8e7fe38e43c90e739c882b4d26446a5709baba67425d61d4784b01c4036a1c0c.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/82963a19e027022404a2496d42161e742fa5a6632a99eba6db0c3814f7f22813.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/1ac2512021828823aaba6bdfa20a5a28e0adb2b721b2ec61d07dbe24e29f8bf3.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/bc9334fbfe020427e41911ad04ed83cfe9b6079ff9b5da59dfcdd164fad4b9e2.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/d65ba717fba91ae00674e0c3587c61ff76adc80a0889263dd3ca2f7b16b0db07.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/2ed409486991f6e61c8f67cac0db834584b22a50047db30fc6125c475210bcfd.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/fe7a4586b91b44915ffe6d678fbe9818259f308dd6fe7bcf9337c32bbea3c4c4.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/1c7c5e67bf6ffc1ba87f34691d4a89a28d0734d8eca76d133deaa67243467cb8.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/fe3c34afc98e7254138d65077a49885c77a2c069afe022e4f3057756488dce7a.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/a9b9a80c73e69fb45054ef4c6c9ea2a6be005b485954c4e8cbc12e61cdb447a2.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/2b4c2731cf176bfa504521c766ae82cdca397ae13615923ea8ba8fbb24e1af6a.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/a6b3a3ffeba5851669abad38084a407f9be414f8eb067c88da68995396c1334a.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/2b49029664f3f8b537bb79a022e08c9b1bdc49a2dbc5547b3f645f4283f9d774.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/a135cefec8f6feaedc074b38c495cb94057145e51a91624b89c193fce16bb845.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/f4a5d211811dbeb94053c86ffb621401d2210b50fc4a0102bb341dc0ba22cdb3.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/bea5706f9f43fb443d834b439ccfb8f9d7d2ae1164a9fb1afbe1a66a92ba8d80.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/220749eab0170c9f24ef5e2d4fcec6ecd764cc43d4310be6024a7cb5614073f6.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/509df3f2d8c504153144a5533916564fa3ab2aaf02a143996f66f61d7dde0230.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/1797daaf85bae789ef1d8a8cac51b4e9c2f6cdb711e650b7526a9f65d95be3f1.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/4ad7eb979d060b298fc0988e090a01b5f5a474b8bb94e4d98b393f504ac3b8c6.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/6fa935488649f2568aea22e096b28aa41ae84cf8cc08e19b2a7183e29ff94e1b.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/9063ac58fdd0aa441e6ddf4e65987cdb2f5a884938ce97fc66959eeac4e896e0.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/dcb224f1c14b0d42402add3665d074a98fab188ab85a543aa1cc9d8ccb47d597.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/a2d9dc9591c86d4178cdef8e1f9f49644622792cf9bcd86373319d49572330b9.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/bd46dd75a81a106d8ebef8f42e12dbe39848da140251538cc2a61015c0faf9e6.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/a5651789f8bebc8b1858dd8e9d7de949bc3b5509c0a83844924bbd2c5150ddc6.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/1203edfb78d671a284377cb58dd1d2b0dd743d95c686f0d79c742c43771006f5.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/6e1456a2621b0051c899555a02696e5f979f59010de4cb545ad9f5b626b6a25b.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/971a30740ce80a3794e55d55c3884f684fe18ab559d69f502c5660c91d2fa164.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/9cecd263a544c6bd76852f09571b558bcbca12a6c3266d6639bd50a401906ca3.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/54dbdfb104a3631c5048f79d88e7732ff40abd1749c99ae62e4d8d557549ba06.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/9925b133d06c86233b227203587a7b3493f6d094b8dbff5e3a8253eca5ffcd7c.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/d90a7ba69551de3c81ff57d3c68def5e4ed92e92b89ec54263dcdc7ecd89735d.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/08f639e979865cd6da3ce8ac405af4638f558720981ed96d98efc808a1f08886.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/00e15b914a8869006662ec90ae09f511370818f32e7dfd22fd85d6c3cf044219.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/008797d82f0cb7f2266396c8da03ea1b8dd1b99a172efc03f358575b617cb553.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/b79ee9271818fb8dc952dfe2eb0f7850a9129ef86cd4f40f9d3b7f45f5710d7c.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/e982cadf5292d7d7b1eb7c20cfbd052db46652d9b487cd6c51a0858ee98020f5.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/e5000aa3eec7beabdb8460ce29237122f6d701153e76fde1eb1f7524faf77b19.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/d850175359795d139a4f66de95febf0754eed9d5394762ff652e9bdfc688ace6.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/a5bc4f9312a7cc1fa837b49e60283a8115170ad70779de8ca01fecc9e368ec91.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/b4da1663e39bf0ab546e419fc1ca612d2d68c87650d11c8780865b09373d8766.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/07c35fd396f1aaefda6ec798563dee0e2489306daf85403a37b67b0ee23fb1b1.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/255fd241cba230b3ea0c35f63c2c323c6104c2c1603ab5d64619b89904d27b72.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/d8330f772e3eebcc2bcea36c74ee9e90f31f16e607d4c38f695e3c0d5c96ff70.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/62ac094caca1661ff6224689c17b6acb5fbbec7631133a87e178a39f7663368b.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/3c09105717980f4748a15745b446ace9e48532b0f18c2b9525dc749daad6eca0.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/ee79689b08806d60e38143ef94f7cb60bdc43ba5fed128a04437c497286a6c89.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/01c931eb71a5cb4f8a9cc242d953ea8712ab2d0fadf5b6e69f3e127e8d218711.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/21c9f6b60cff02f4037479f2af01447807b3e885f6d3edcf4c9777580fa74804.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/8306dc6c74b6c5d7b788f5e0bcc90ed682c4112bf7c873f10e6b303761b5abd6.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/0eac5c7a3022a9da2b3c7fee02f8ee2d233a4795a935dc1d299c0d532f003ec7.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/b7c1c9c9ef1b718ec3c82288e76020c18ec4f8cd3ff0e45286f150241ba266d4.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/78ca6293bc24f7695e377d6e677c4500b1e12e3e481ffd50d936d9a92de7695a.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/93fa1e00cde7da2d4e7d745417b1a00eb247a66dbe03a45d7952a149d355bc76.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/9b14472ca90dc7bb67117e8e6357bef9d32e76cb37f747b438ef0a98111528b2.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/c83af2639bf852bebde44b65ecc5d856ca231b081dbde79f0eb8df5a088a99f9.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/2bf578b4984e077a149f01de20c39a070c535381ab80c1364d10e10a905b1dab.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/0030611f1d9ba54d1592cd207a3cace90ecab994395ac6d35ca7882d73013179.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/8fc406731e7096405024a257af1f705a51f80f8da0a7cd79f2d338854b1c2146.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/a84cb103a96e3e2b36539fe64dcf781ce94cb07dc98da243b881a467aad48e2d.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/af57f2e32a6beb3ed38048daeec5b10ae530bad521f1aefe4be123a4d5058181.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/5f382959b00863cbb0013a68c7022a0d0d7dff88bd084bdb88fc750c1cfa189e.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/ff432625dc02e3b2915613dfd2f11cad0d9749bd8be7a5798b8d40fb4de357cf.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/37fc8c71dcd46065467f275dd1f575c1f8e8a30291f751c3689b1809c1906f4e.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/08dd930cf375751d696350411d29b251aa66e0c2acd271db852a8bfeca6a4312.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/67c44edf5e27e1cabc7b7d9b933b70ffd77bbfe7eda4e3db8cf4cb5de1334829.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/5a3d944c55f8149dd84208562dab8535632a3a545c213debfe050c7e45207ec8.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/ddb0d041ef3308b3b7022e49c42f81470e59b2ce6152d8591d7342ee634cf430.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/01befd44f57d7ec1dac04d437bb3585c63e191280439a960ab042069d2a3f24a.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/820164df363274e8871f417b44f71277b8b9947f27de1ef3babf92a89ec279e6.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/043aacacc6cf7ed19616fe2860fb7d2233ea6ed38d79c174a4350b1e81265c18.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/0a0f2853b2561e7ec970c8bb698e8302a25ea46e62c80ab0763c83b0fa94429a.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/9f6f11eafc100153674fd83e3a1c7b4a237028619c0a7d683ee0a143953acc79.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/333700de9014b2098840e6d7275e6bc955709a9d9c44b1a8d9d8dbcada3f6d1e.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/e95d2ce7adb69d546b9bcb5a5e6e15c49b93f64f1fed7266cc5444f2f4b74714.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/6e9f701e0db12d4b4fe027a6fba97d0246d47b5bf415a634010ace2e9ddadfbe.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/3e00d0250d8c95de46473903aaef678600d872e4a404257de9b8ce1b13c4b6c3.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/43a50779f6663dc9b635e9d04143c644081a99f521883d007f621b8bd157e23b.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/6d106dbc63d2b10dda2a345e320e93e5a08eb9fae77dbc47ad623d93289b89df.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/5e59e6bb0f1032efa261f855dc7c6a0cbf337cfea4a39e4852be03c6f31103eb.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/5890f3507d097d19ca93556b27f8fe36221cfb783de1affbd5d9c9405f126b70.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/2bbf9906b8db201a4fc3dc9a49cde4641d4556148ffbba3514e7effa9452c81f.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/b55d6328b37aa8c5e8840f4065a81189e3b018f13f9e7c57650628954a962656.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/33bf12fbd21874d6b023e88f299b512cce6a45c91f442baf96da40744c8c77e4.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/b3047684b8e19cdbefc869ad933287f003e5470a73a4784f99c0190540fb22e5.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/b51899f2e8421484de554c192f05bf1d1017019f583983850de27dc7f7a5fe93.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/8c047ce78569cb1f680197658c093f361c624255a8d9e684c15acfb1dc4487c6.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/9e696431287cf0848d23a4b36cb4e8a707c5a6ea050386ba0d57349cb447ae25.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/6b35be2563a79e7c320775d0dcdceb12de61523381730f694dad1583266a8b5b.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/dd5e1920b4a1d661bff41f9ef9449fc250b84f82ed77aa43f87dd2a6c3c8a575.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/71acd9bf74008b1790b2e637eb492fbceaebb7678c24bdad5f966d3eb202b299.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/5fe6912c51a0499fcc9651b432fbe4baf71fd0afd07541d3cfc3fc73a2e6e955.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/967908bd2050e72cfef015b0a29db6a3b9ae696688a5ecfadbab4ec885240326.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/cd497fcd64be2f5c712bde6c33a256126af35f60cfe65771aaae1b3cf6559242.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/282fba14f22dd16f585ad3e2d9e13fb0f21c78315a95680d296a8d0abdb43c53.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/9f7b75716ea7af89c9a975393b70a92a50708f0385738a431c2cdc454b732a07.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/b53b1f4916b89cc08228709a59cc6db409e28553cf72ae3809e32742292e00b4.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/946b0560146afde2396c1bebf39c575c60e0f76962cb269e17941e2ea9ee05f5.pdf"
+  },
+  {
+    "check": "numerical_source_hash",
+    "passed": true,
+    "evidence": "Stage3_Consolidated_2026-11-06/evidence/objects/8186f827c202e6bbf3610c23569521b3ef97872f68542af271e5e98e1f8d8030.pdf"
+  },
+  {
+    "check": "numerical_all_rows_source_linked",
+    "passed": true,
+    "evidence": 48225
+  },
+  {
+    "check": "numerical_no_monthly_annual_expansion",
+    "passed": true,
+    "evidence": 264
+  },
+  {
+    "check": "numerical_unknown_release_flagged",
+    "passed": true,
+    "evidence": 47830
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2011-12",
+      "94.7"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2011-11",
+      "95.2"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2011-10",
+      "94.8"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2011-09",
+      "93.8"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2011-08",
+      "92.7"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2011-07",
+      "91.8"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2011-06",
+      "90.6"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2011-05",
+      "89.8"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2011-04",
+      "89.1"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2011-03",
+      "88.4"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2011-02",
+      "88.4"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2011-01",
+      "89.5"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2012-12",
+      "104.6"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2012-11",
+      "104.3"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2012-10",
+      "103.6"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2012-09",
+      "102.9"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2012-08",
+      "102.2"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2012-07",
+      "101.1"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2012-06",
+      "99.8"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2012-05",
+      "98.6"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2012-04",
+      "97.8"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2012-03",
+      "96.4"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2012-02",
+      "95.5"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2012-01",
+      "95.1"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2013-12",
+      "114.5"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2013-11",
+      "116.3"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2013-10",
+      "114.8"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2013-09",
+      "113.7"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2013-08",
+      "112.4"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2013-07",
+      "111.0"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2013-06",
+      "109.3"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2014-12",
+      "119.4"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2014-11",
+      "120.1"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2014-10",
+      "120.1"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2014-09",
+      "120.1"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2014-08",
+      "120.3"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2014-07",
+      "119.2"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2014-06",
+      "116.7"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2014-05",
+      "115.8"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2014-04",
+      "115.1"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2014-03",
+      "114.2"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2014-02",
+      "113.6"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2014-01",
+      "113.6"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2015-12",
+      "126.1"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2015-11",
+      "126.6"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2015-10",
+      "126.1"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2015-09",
+      "125.4"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2015-08",
+      "124.8"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2015-07",
+      "123.6"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2015-06",
+      "123.0"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2015-05",
+      "121.6"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2015-04",
+      "120.7"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2015-03",
+      "120.2"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2015-02",
+      "119.7"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2015-01",
+      "119.5"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2016-12",
+      "130.4"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2016-11",
+      "131.2"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2016-10",
+      "131.4"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2016-09",
+      "130.9"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2016-08",
+      "131.1"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2016-07",
+      "131.1"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2016-06",
+      "130.1"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2016-05",
+      "128.6"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2016-04",
+      "127.3"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2016-03",
+      "126.0"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2016-02",
+      "126.0"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2016-01",
+      "126.3"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2017-12",
+      "137.2"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2017-11",
+      "137.6"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2017-10",
+      "136.1"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2017-09",
+      "135.2"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2017-08",
+      "135.4"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2017-07",
+      "134.2"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2017-06",
+      "132.0"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2017-05",
+      "131.4"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2017-04",
+      "131.1"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2017-03",
+      "130.9"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2017-02",
+      "130.6"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2017-01",
+      "130.3"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2018-12",
+      "140.1"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2018-11",
+      "140.8"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2018-10",
+      "140.7"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2018-09",
+      "140.2"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2018-08",
+      "140.4"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2018-07",
+      "139.8"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2018-06",
+      "138.5"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2018-05",
+      "137.8"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2018-04",
+      "137.1"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2018-03",
+      "136.5"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2018-02",
+      "136.4"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2018-01",
+      "136.9"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2019-12",
+      "150.4"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2019-11",
+      "148.6"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2019-10",
+      "147.2"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2019-09",
+      "145.8"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2019-08",
+      "145.0"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2019-07",
+      "144.2"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2019-06",
+      "142.9"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2019-05",
+      "142.0"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2019-04",
+      "141.2"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2019-03",
+      "140.4"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2019-02",
+      "139.9"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2019-01",
+      "139.6"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2020-12",
+      "157.3"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2020-11",
+      "158.9"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2020-10",
+      "158.4"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2020-09",
+      "156.4"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2020-08",
+      "154.7"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2020-07",
+      "153.9"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2020-06",
+      "151.8"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2020-05",
+      "150.9"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2020-04",
+      "151.4"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2020-03",
+      "148.6"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2020-02",
+      "149.1"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2020-01",
+      "150.2"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2021-12",
+      "166.2"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2021-11",
+      "166.7"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2021-10",
+      "165.5"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2021-09",
+      "163.2"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2021-08",
+      "162.9"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2021-07",
+      "162.5"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2021-06",
+      "161.3"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2021-05",
+      "160.4"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2021-04",
+      "157.8"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2021-03",
+      "156.8"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2021-02",
+      "156.6"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2021-01",
+      "156.3"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2022-12",
+      "175.7"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2022-11",
+      "176.5"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2022-10",
+      "176.7"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2022-09",
+      "175.3"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2022-08",
+      "174.3"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2022-07",
+      "173.4"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2022-06",
+      "172.6"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2022-05",
+      "171.7"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2022-04",
+      "170.1"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2022-03",
+      "167.7"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2022-02",
+      "166.1"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2022-01",
+      "165.7"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2023-12",
+      "185.7"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2023-11",
+      "186.3"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2023-10",
+      "185.3"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2023-09",
+      "184.1"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2023-08",
+      "186.2"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2023-07",
+      "186.3"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2023-06",
+      "181.0"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2023-05",
+      "179.1"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2023-04",
+      "178.1"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2023-03",
+      "177.2"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2023-02",
+      "176.8"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2023-01",
+      "176.5"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2024-12",
+      "195.4"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2024-11",
+      "196.5"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2024-10",
+      "196.8"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2024-09",
+      "194.2"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2024-08",
+      "193.0"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2024-07",
+      "193.0"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2024-06",
+      "190.2"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2024-05",
+      "187.7"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2024-04",
+      "186.7"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2024-03",
+      "185.8"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2024-02",
+      "185.8"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2024-01",
+      "185.5"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2025-12",
+      "198.0"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2025-11",
+      "197.9"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2025-10",
+      "197.3"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2025-09",
+      "197.0"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2025-08",
+      "197.0"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2025-07",
+      "196.1"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2025-06",
+      "194.2"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2025-05",
+      "193.0"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2025-04",
+      "192.6"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2025-03",
+      "192.0"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2025-02",
+      "192.5"
+    ]
+  },
+  {
+    "check": "official_CPI_value_raw_dimension_reconciliation",
+    "passed": true,
+    "evidence": [
+      "2025-01",
+      "193.4"
+    ]
+  },
+  {
+    "check": "IMF_CPI2012_reference_metadata",
+    "passed": true,
+    "evidence": [
+      [
+        "REFERENCE_PERIOD",
+        "2012A"
+      ]
+    ]
+  },
+  {
+    "check": "article_source_hash",
+    "passed": true,
+    "evidence": "5def83ff0121e355ffefb166"
+  },
+  {
+    "check": "article_source_hash",
+    "passed": true,
+    "evidence": "8a7d23bd8b01cb3b5612a718"
+  },
+  {
+    "check": "article_source_hash",
+    "passed": true,
+    "evidence": "41519e2167f7815ba1f33719"
+  },
+  {
+    "check": "article_source_hash",
+    "passed": true,
+    "evidence": "44ac0ea9ccb039d5b4afe268"
+  },
+  {
+    "check": "article_source_hash",
+    "passed": true,
+    "evidence": "ffd7d5fd17c0f1e3dee750dc"
+  },
+  {
+    "check": "article_source_hash",
+    "passed": true,
+    "evidence": "c5a51e4402ffdb3230e5d797"
+  },
+  {
+    "check": "article_source_hash",
+    "passed": true,
+    "evidence": "1b0f2fc2dd24eeb61e9b517d"
+  },
+  {
+    "check": "article_source_hash",
+    "passed": true,
+    "evidence": "9cc21d9e9042097c5e844c93"
+  },
+  {
+    "check": "article_source_hash",
+    "passed": true,
+    "evidence": "e460cac3403cab4c8aad9741"
+  },
+  {
+    "check": "article_source_hash",
+    "passed": true,
+    "evidence": "d8d737d3701b6078c298ddda"
+  },
+  {
+    "check": "article_source_hash",
+    "passed": true,
+    "evidence": "1a540e442c23fdc17d8b8ea3"
+  },
+  {
+    "check": "article_source_hash",
+    "passed": true,
+    "evidence": "3e09814e54aa975342f8de4f"
+  },
+  {
+    "check": "article_source_hash",
+    "passed": true,
+    "evidence": "0ab35d5055775d11752576ce"
+  },
+  {
+    "check": "article_source_hash",
+    "passed": true,
+    "evidence": "acb153a29e5f23c9bb2c9e40"
+  },
+  {
+    "check": "article_source_hash",
+    "passed": true,
+    "evidence": "e8c50bf1ad790ab98cebd398"
+  },
+  {
+    "check": "article_source_hash",
+    "passed": true,
+    "evidence": "4249062b99bdeacd7095f1cf"
+  },
+  {
+    "check": "article_source_hash",
+    "passed": true,
+    "evidence": "328163916f049602c0e4cd05"
+  },
+  {
+    "check": "article_source_hash",
+    "passed": true,
+    "evidence": "a267f813445c9b6da08fe273"
+  },
+  {
+    "check": "article_source_hash",
+    "passed": true,
+    "evidence": "ecfcdba94bc675a9a81cf1b2"
+  },
+  {
+    "check": "article_source_hash",
+    "passed": true,
+    "evidence": "13b061d19dfc328cc0831a1a"
+  },
+  {
+    "check": "article_source_hash",
+    "passed": true,
+    "evidence": "9832af87d7bd4906c2f7b539"
+  },
+  {
+    "check": "article_source_hash",
+    "passed": true,
+    "evidence": "5ec55fd4078edecbdc475bc2"
+  },
+  {
+    "check": "article_source_hash",
+    "passed": true,
+    "evidence": "3ccfcb489eb0ec83bcb4432b"
+  },
+  {
+    "check": "article_source_hash",
+    "passed": true,
+    "evidence": "dc9fae2f0a00189abfe5ae8f"
+  }
+]

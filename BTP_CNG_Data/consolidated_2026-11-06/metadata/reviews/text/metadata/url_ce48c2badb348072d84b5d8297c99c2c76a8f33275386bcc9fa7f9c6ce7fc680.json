@@ -1,0 +1,23 @@
+{
+  "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/cng-prices-hiked-by-rs-5-60-per-kg-to-rs-27-50-in-delhi/articleshow/6055210.cms?from=mdr",
+  "expected_sha256": "2ed59c37fa0fa8b526a1c2872daa8600f6e1042d0ed8f7d00d440e8bfa81274b",
+  "original_publication_claim": "",
+  "title_claim": "CNG prices hiked by Rs 5.60 per kg to Rs 27.50 in Delhi",
+  "origin": "github-pr1",
+  "source_id": "NEWS_HISTORY_4",
+  "http_status": 200,
+  "final_url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/cng-prices-hiked-by-rs-5-60-per-kg-to-rs-27-50-in-delhi/articleshow/6055210.cms?from=mdr",
+  "source_path": "PROJECT_ROOT/Stage3_Consolidated_2026-11-06/text/raw/2ed59c37fa0fa8b526a1c2872daa8600f6e1042d0ed8f7d00d440e8bfa81274b.html",
+  "retrieved_sha256": "2ed59c37fa0fa8b526a1c2872daa8600f6e1042d0ed8f7d00d440e8bfa81274b",
+  "matches_previous_hash": true,
+  "retrieved_at": "2026-11-06T05:48:20.531555+00:00",
+  "retrieval_method": "direct_original_url",
+  "title": "CNG prices hiked by Rs 5.60 per kg to Rs 27.50 in Delhi - The Economic Times",
+  "publication_date": "",
+  "publication_date_claims": [],
+  "date_status": "unknown",
+  "status": "retained_public_html",
+  "historical_availability_status": "publisher_claim_not_independent_archive_verification",
+  "redistribution_license": "not_established_no_public_full_text_release",
+  "synthetic": false
+}

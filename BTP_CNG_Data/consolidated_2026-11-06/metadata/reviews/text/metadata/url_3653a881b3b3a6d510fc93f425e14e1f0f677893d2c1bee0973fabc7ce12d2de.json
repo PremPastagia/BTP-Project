@@ -1,0 +1,27 @@
+{
+  "url": "https://www.autocarpro.in/news-national/after-8-hikes-in-cy2022-cng-price-reduced-by-rs-250-to-rs-87-per-kg-113992",
+  "expected_sha256": "57749a4d79a7c840290c845d86b337ed8b8760080d6b1c48f6d8f582910777ac",
+  "original_publication_claim": "2023-02-01T08:37:42+05:30",
+  "title_claim": "After 8 hikes in CY2022, CNG price reduced by Rs 2.50 to Rs 87 per kg",
+  "origin": "fresh",
+  "source_id": "TXT_3653a881b3b3a6d5",
+  "source_path": "PROJECT_ROOT/BTP/BTP_CNG_Fresh_2026-11-06/text/raw/TXT_3653a881b3b3a6d5.html",
+  "retrieved_sha256": "57749a4d79a7c840290c845d86b337ed8b8760080d6b1c48f6d8f582910777ac",
+  "matches_previous_hash": true,
+  "retrieved_at": "",
+  "retrieval_method": "reused_existing_exact_hash",
+  "title": "CNG price reduced by Rs 2.50 to Rs 87 per kg | Autocar Professional",
+  "publication_date": "2023-02-01T08:37:42&#x2B;05:30",
+  "publication_date_claims": [
+    [
+      "JSON-LD datePublished",
+      "2023-02-01T08:37:42&#x2B;05:30"
+    ]
+  ],
+  "date_status": "publisher_date_claim_preserved",
+  "status": "retained_public_html",
+  "historical_availability_status": "publisher_claim_not_independent_archive_verification",
+  "redistribution_license": "not_established_no_public_full_text_release",
+  "synthetic": false,
+  "date_disagreement": "current_metadata_differs_from_prior_claim_requires_review"
+}

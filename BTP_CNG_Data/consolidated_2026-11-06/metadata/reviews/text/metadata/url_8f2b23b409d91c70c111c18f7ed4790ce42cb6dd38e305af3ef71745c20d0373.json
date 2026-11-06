@@ -1,0 +1,32 @@
+{
+  "url": "https://indianexpress.com/article/news-archive/web/cng-price-set-to-spike-in-delhi/",
+  "expected_sha256": "6111f6b94fd7065b3d4f0ee9950cd65f01898648de139aa8421373743707b209",
+  "original_publication_claim": "2010-05-25T17:28:28+05:30",
+  "title_claim": "CNG price set to spike in Delhi",
+  "origin": "github-pr1",
+  "source_id": "NEWS_HISTORY_3",
+  "http_status": 200,
+  "final_url": "https://indianexpress.com/article/news-archive/web/cng-price-set-to-spike-in-delhi/",
+  "source_path": "PROJECT_ROOT/Stage3_Consolidated_2026-11-06/text/raw/a5d8e1bd32f25c0ab2382b1c6d578c88aa6033dd47db075e87f404ac1dd932f9.html",
+  "retrieved_sha256": "a5d8e1bd32f25c0ab2382b1c6d578c88aa6033dd47db075e87f404ac1dd932f9",
+  "matches_previous_hash": false,
+  "retrieved_at": "2026-11-06T05:48:20.404669+00:00",
+  "retrieval_method": "direct_original_url",
+  "title": "CNG price set to spike in Delhi  News Archive News - The Indian Express",
+  "publication_date": "2010-05-25T17:28:28+05:30",
+  "publication_date_claims": [
+    [
+      "JSON-LD datePublished",
+      "2010-05-25T17:28:28+05:30"
+    ],
+    [
+      "article:published_time",
+      "2010-05-25T17:28:28+05:30"
+    ]
+  ],
+  "date_status": "publisher_date_claim_preserved",
+  "status": "retained_public_html",
+  "historical_availability_status": "publisher_claim_not_independent_archive_verification",
+  "redistribution_license": "not_established_no_public_full_text_release",
+  "synthetic": false
+}

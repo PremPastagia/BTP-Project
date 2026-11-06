@@ -1,0 +1,11 @@
+{
+  "generated_at": "2026-11-06T05:53:35.954301+00:00",
+  "targeted_unique_hashes": 79,
+  "status_counts": {
+    "recovered_exact_hash": 56,
+    "retrieved_different_version": 22,
+    "failed": 1
+  },
+  "supplemental_receipts_included": true,
+  "claim_limit": "No HTTP/last-modified/document dates were converted into publication dates."
+}

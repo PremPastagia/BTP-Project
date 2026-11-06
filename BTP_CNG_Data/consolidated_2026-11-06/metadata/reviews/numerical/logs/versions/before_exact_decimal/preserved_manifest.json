@@ -1,0 +1,30 @@
+[
+  {
+    "path": "structured/native_numerical_observations.csv",
+    "sha256": "2d215ee55816901a81b540a3f5f9e9d391e08f3f09e22dacf368f15adcbfb83e"
+  },
+  {
+    "path": "structured/unverified_transcription_candidates.csv",
+    "sha256": "4fe72717dea1606173f70dea79cf45473f3f34fbf3bfa9753f15ee30077d6d9a"
+  },
+  {
+    "path": "metadata/duplicate_aliases.csv",
+    "sha256": "5c2680b7bd62606505c31d7f0409c83d383c96b2a0a39e3e143918e34858b8fc"
+  },
+  {
+    "path": "metadata/conflicts.csv",
+    "sha256": "8ccfc20d6472ff41741f9fb354edb9e0599f2b176ec80a422e74e0da30c7d59d"
+  },
+  {
+    "path": "logs/build_summary.json",
+    "sha256": "2466b9bea71458eaee07eac7686ca5612507ad765c9167ddc420e210a09b90e8"
+  },
+  {
+    "path": "logs/independent_validation.json",
+    "sha256": "aedcb9e32c375a9362407c86f6f0b2a917a04ee39c917d2661a4baebc1b6fd1c"
+  },
+  {
+    "path": "output_checksums.json",
+    "sha256": "2b66414512db618189015db02897f54568225e27e831c0bd0f8aef694e2307a3"
+  }
+]

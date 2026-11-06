@@ -1,0 +1,105 @@
+INDEPENDENT SCIENTIFIC STAGE 3 ACCEPTANCE REVIEW
+Reviewer scope: price-source module and collection-level readiness. This is not
+an independent review of my own numerical reconciliation implementation.
+
+DECISION
+Do not certify unconditional Stage 3 scientific acceptance yet. Repair and
+collection work has materially improved the evidence, but the saved protocol's
+price-path, availability, geographic-scope and researcher-approval gate is unmet.
+Stage 4 cannot legitimately begin merely because engineering checks pass.
+
+WHAT I VERIFIED INDEPENDENTLY
+I read the actual structured price rows, components, coverage records,
+corroboration records and source manifest. I did not import producer functions.
+I recomputed canonical identifier uniqueness, positive price bounds, calendar
+validity of parsed exact dates, and component-to-price foreign-key existence.
+I separately parsed the original January 2026 PNGRB HTML with BeautifulSoup and
+rechecked its SHA-256. The raw Dewas row starts with GAIL Gas Limited, has no GA-ID
+body cell, and reports retail price96. The repaired record correctly identifies
+GAIL, Dewas, Madhya Pradesh, blank GA-ID and INR96/kg. This independently supports
+the documented layout correction for that sample; it is not source truth proof
+for every observation. Detailed counts/checks are in the accompanying JSON.
+
+PRICE-PATH GATE
+The module contains 11,699 canonical price claims and 10,538 component rows.
+All415 source-market coverage entries explicitly say complete_price_path_verified
+is false. No final bounded market/operator price-path eligibility list has been
+accepted. A sequence of snapshots or positive cells is not proof that all
+intervening price changes were observed. Last source dates do not justify
+extending prices indefinitely.
+
+The source-date statuses retain 5,228 ambiguous/invalid numeric-date claims,
+155 overnight windows,18 unspecified midnight labels,45 month-only claims,
+12 unparsed labels and2 mid-month-only labels. These records may be useful
+evidence, but exact daily intervals cannot be invented from them.
+The producer also retains15 component arithmetic conflicts and12 unambiguous
+revision-after-snapshot contradictions. They are not repaired facts.
+
+Seven targeted crosscheck rows come from only two corroborating publications:
+five market/effective-date agreements in one June2024 event, one Delhi price-level
+agreement with unverified effective timing, and one Pune INR87versus86 conflict
+with unverified timing. Five markets in one announcement do not provide five
+independent event/regime validations, and these checks do not certify full
+multi-operator histories. The parliamentary evidence is explicitly provisional
+in its geographic extraction and must not be silently promoted to ground truth.
+
+TIMING AND INFORMATION SET
+11,576 of11,699 price claims have no recorded publication date. This is not by
+itself a reason to discard retrospective outcome labels: later evidence can
+verify historical outcomes. It is a reason not to assume the same retrospective
+document was available as a predictor at an earlier forecast origin.
+Every proposed predictor needs a defensible availability rule. An assumed
+one-month lag, fiscal-year label, letter date or current download time cannot
+replace a missing actual release history.
+
+The current news table contains24 records; one has no publication date, and
+all24 date claims are labelled publisher_claim_not_independent_archive_verification.
+Corporate source recovery establishes exact document bytes, not historical
+exchange/publication timestamps. A corpus with many PDFs does not automatically
+support a matched historical H2 forecasting experiment.
+
+DEMAND AND GEOGRAPHY
+The56 new demand records include28 national CNG-only sales values and28 reported
+station indicators. The station indicators are explicitly flagged as having an
+unresolved flow-versus-stock definition. They cannot be treated as operating
+station stock. National source totals cannot be allocated to cities without
+evidence. Shared-operator cities and overlapping service-market labels require
+an explicit dated mapping and a justified selection decision.
+
+SYNTHETIC/UNSUPPORTED EVIDENCE
+The collection preserves explicit source claims and exclusions rather than
+restoring synthetic VAHAN estimates or unsafe legacy joins. Retaining legacy
+quarantine copies is appropriate. I did not inspect every produced record for
+authenticity and do not issue an all-data authenticity certificate. Remaining
+source and semantic gaps must remain visible; source hashes alone cannot close
+them.
+
+REQUIRED RESEARCHER DECISIONS BEFORE ACCEPTANCE
+1. Select explicit market/operator identities and bounded historical price
+   intervals. State what source evidence establishes completeness and how
+   independent corroboration will cover important changes and regimes.
+2. Resolve or explicitly exclude the Pune discrepancy and ambiguous effective
+   intervals. If uncertainty bounds are retained, accept those source bounds
+   first; alternative target calculations belong in Stage4.
+3. Define the historical information set. Exclude predictor observations with
+   unsupported availability, recover real releases, or transparently restrict
+   the study. Do not disguise ex-post inputs as real-time predictors.
+4. Decide the feasible H2 window and source coverage, or document that H2 is
+   presently inconclusive/infeasible. This decision must not assume improvement.
+5. Approve factor-specific exclusions and stopping decisions for VAHAN,
+   company procurement/sourcing, tax/tariff histories and other unresolved
+   candidate factors. Failed requests alone do not prove irrecoverability.
+6. Review the cumulative completion report and a versioned checksum-frozen
+   candidate snapshot, then explicitly accept/revise/reject that snapshot.
+
+POSSIBLE QUALIFIED WAY FORWARD
+A deliberately restricted, well-documented subset could be accepted without
+collecting every hypothetical factor. That requires explicit bounded scope,
+source eligibility and honest exclusions. It does not justify declaring all
+of Stage3scientifically complete on file volume alone. The final research
+design still preserves both targets and all horizons, subject to later sample
+feasibility checks. A restricted scope must be recorded as a researcher decision.
+
+No Stage4target aggregation, EDA or modeling was performed for this review.
+The review independently tests specified conditions and challenges acceptance;
+it does not claim every historical source assertion was independently verified.

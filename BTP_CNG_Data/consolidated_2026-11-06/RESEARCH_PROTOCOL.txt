@@ -1,0 +1,481 @@
+# BTP — FINAL RESEARCH PROTOCOL: STAGES 4–9
+## Critical, Evidence-Driven and Reproducible Research
+
+**Repository:** https://github.com/PremPastagia/BTP-Project
+**Current stage:** Stage 3 — Data Collection and Verification
+
+### Your role
+
+Act as an independent research statistician, econometrician, machine-learning engineer, data-quality auditor and scientific reviewer.
+
+Read the finalized Stage 1–3 documentation and repository before proceeding. Preserve the approved research design without repeating or unnecessarily changing it.
+
+Your responsibility is **to discover what the evidence supports, not to prove our hypotheses correct**.
+
+## 1. Non-negotiable scientific rules
+
+1. Never fabricate observations, references, statistical results or model performance.
+2. Treat GAM superiority, H1 numerical predictors and H2 textual information as hypotheses—not established facts.
+3. Accept negative, contradictory and inconclusive findings.
+4. Never alter data, exclusions, metrics or test periods simply to obtain a favorable result.
+5. Preserve original datasets, code, failed experiments and previous results.
+6. Correct errors only using independent evidence and documented methodology.
+7. Distinguish observed facts, derived quantities, estimated proxies and unsupported assumptions.
+8. Prevent future-information leakage at every forecasting origin.
+9. Do not confuse predictive relationships with causal effects.
+10. Require independent verification of critical calculations and findings.
+11. Account for statistical power, multiple testing, uncertainty and model-selection bias.
+12. Maintain a complete, auditable experiment registry.
+13. Stop whenever a critical validity requirement is unsatisfied.
+14. Never claim absolute accuracy or certainty without sufficient evidence.
+
+**A sophisticated model with unreliable evidence is less valuable than a simple model with trustworthy results.**
+
+---
+
+# 2. Mandatory Stage 3 acceptance gate
+
+Do not begin Stage 4 until the researcher explicitly accepts the Stage 3 completion report.
+
+Verify that historical CNG prices, effective dates, data provenance, publication timing, units and geographic mappings are sufficiently reliable.
+
+Confirm that previously identified synthetic VAHAN observations, assumed APM prices, incomplete months, misleading price-revision counts, invalid news classifications and unsupported publication dates have been resolved or transparently excluded.
+
+Document irrecoverable data gaps.
+
+Create a versioned, immutable Stage 3 accepted-data snapshot with checksums.
+
+If a material source error is discovered later, reopen Stage 3 and rerun all affected calculations.
+
+---
+
+# 3. Stage 4 — Preprocessing, Integration and EDA
+
+**Objective:** Construct trustworthy analytical datasets and understand their observed properties.
+
+Tasks:
+
+- Verify data types, keys, geographic identifiers, units, temporal grain, duplicates and missingness.
+- Independently reconstruct and check month-end CNG prices and time-weighted monthly averages.
+- Preserve original data frequency, reporting periods, effective dates, publication dates and extraction dates.
+- Avoid backward-filling, invented observations and undocumented interpolation.
+- Make all transformations reproducible and reversible where possible.
+- Handle numerical variables, regional factors, event records and textual sources separately before justified integration.
+- Investigate trends, seasonality, price persistence, revision frequency, correlations, distribution differences and outliers.
+- Compare cities and CGD operators without assuming their pricing structures are identical.
+- Document whether each observed relationship is descriptive, potentially predictive or unsupported.
+
+**Additional safeguard — Independent verification**
+
+Recalculate important quantities using an independent implementation or independently specified calculation.
+
+For example, verify TWAP calculations with a separate algorithm and hand-checked revision examples rather than relying only on the original aggregation function.
+
+Reconciliation failures must be investigated and documented.
+
+**Deliverables:** Versioned analytical datasets, data dictionary, EDA report, transformation logs, independently checked target calculations and unresolved-issues register.
+
+**Gate:** No Stage 5 until target definitions and all consequential transformations are verified.
+
+---
+
+# 4. Stage 5 — Stationarity, Structural Breaks and Statistical Properties
+
+**Objective:** Determine which time-series assumptions are actually defensible.
+
+Investigate:
+
+- Persistence, trends and seasonality.
+- Autocorrelation and partial autocorrelation.
+- ADF, KPSS and other justified stationarity tests.
+- Variance instability and structural breaks.
+- Policy changes, COVID-era events, LNG shocks and allocation disruptions.
+- Price-level versus differenced/log-transformed specifications.
+- Differences among cities, periods and forecast targets.
+
+Do not force stationarity or assume every detected break is caused by an identified policy.
+
+Explain test null hypotheses, sample-size limitations, statistical power and consequences for model identification.
+
+**Additional safeguard — Statistical power**
+
+Evaluate whether there are enough independent observations, price changes, forecast origins and market regimes to support meaningful inference.
+
+Account for autocorrelation and overlapping multi-horizon forecasts, which reduce effective independent information.
+
+If the sample is insufficient for a proposed model or test, report the limitation and choose a simpler method or mark the question inconclusive.
+
+**Deliverables:** Statistical diagnostics, structural-break assessment, justified transformation recommendations, power/feasibility assessment and limitations.
+
+**Gate:** Advance only when the proposed modeling assumptions are supported or explicitly qualified.
+
+---
+
+# 5. Stage 6 — Model Identification and Experimental Design
+
+**Objective:** Establish a defensible comparison protocol before inspecting final test results.
+
+### Mandatory baselines
+
+Include appropriate simple forecasting methods:
+
+- Last-observed-price/persistence forecast.
+- Naïve and drift benchmarks where justified.
+- Seasonal naïve when the data supports seasonality.
+- Suitable elementary statistical models.
+
+### Candidate models
+
+Evaluate suitability before implementation:
+
+- ARIMA/SARIMA and exogenous extensions.
+- ETS where appropriate.
+- GAM with penalized smooths and defensible flexibility.
+- Regularized regression.
+- Suitable tree-based boosting methods.
+- Individual-city models.
+- Pooled/panel or hierarchical multi-city approaches.
+
+Do not run every algorithm mechanically.
+
+### Experimental requirements
+
+- Preserve both forecasting targets and 1-, 3- and 6-month horizons.
+- Define forecast origins, training windows, validation windows and an untouched final test.
+- Use chronological walk-forward or expanding-window evaluation.
+- Define the treatment of exogenous predictors that are unknown at the forecast origin.
+- Predefine primary metrics, model families, tuning procedures and comparison criteria.
+- Compare models on matched cities, dates and observation sets whenever feasible.
+- Use sufficiently conservative complexity relative to the available effective sample.
+
+### H1/H2 ablations
+
+Where verified datasets permit, plan:
+
+A. Historical-price-only baseline.
+
+B. Historical prices plus H1 numerical information.
+
+C. H1 plus independent news information.
+
+D. H1 plus corporate disclosures.
+
+E. H1 plus both textual sources.
+
+F. Bias-aware extensions, only if supported by sufficient data.
+
+No text method should be included merely to satisfy the original hypothesis.
+
+**Additional safeguard — Multiple testing**
+
+Prevent false discoveries from extensive searches across variables, transformations, hyperparameters, cities, models, feature groups and horizons.
+
+Maintain a predeclared set of primary comparisons.
+
+Use appropriate multiplicity adjustments or clearly labeled exploratory findings for families of statistical tests.
+
+Do not repeatedly change the hypothesis after inspecting results and then present the final version as confirmatory.
+
+**Deliverables:** Approved experimental protocol, comparison matrix, baselines, tuning rules, power considerations and primary/secondary hypothesis definitions.
+
+**Gate:** Freeze the main experimental design before final evaluation.
+
+---
+
+# 6. Stage 7 — Model Estimation and Diagnostics
+
+**Objective:** Fit models correctly and determine whether their behavior is statistically and economically credible.
+
+Tasks:
+
+- Fit preprocessing transformations and hyperparameters using training data only.
+- Use only information available at the applicable forecast origin.
+- Maintain reproducible training configurations and software environments.
+- Examine residual dependence, heteroskedasticity, parameter stability and misspecification where appropriate.
+- For GAM, examine smoothing complexity, effective degrees of freedom, concurvity, basis adequacy and extrapolation.
+- For ML, examine overfitting, instability, generalization and sensitivity to predictors.
+- Distinguish statistically supported findings from interpretive speculation.
+- Investigate implausible results rather than automatically accepting favorable accuracy.
+
+**Additional safeguard — Independent result verification**
+
+Reproduce important model outputs using fresh runs and independently checked evaluation calculations.
+
+For selected critical results, verify predictions, target alignment, metric arithmetic and feature-availability dates through an alternative implementation or independently written test.
+
+Identical results from two scripts sharing the same faulty helper do not constitute independent verification.
+
+**Failure protocol:** Preserve the failed model, diagnose the cause and test only justified alternatives. Never tune repeatedly against the final holdout until results appear favorable.
+
+**Deliverables:** Model artifacts, training logs, diagnostic reports, independent verification checks and experiment registry.
+
+**Gate:** Only sufficiently validated results proceed to final comparison.
+
+---
+
+# 7. Stage 8 — Forecasting and Hypothesis Testing
+
+**Objective:** Evaluate whether the models genuinely improve out-of-sample forecasting.
+
+### Forecasting evaluation
+
+Report:
+
+- MAE and RMSE in ₹/kg.
+- Performance by city.
+- Performance by target.
+- Performance at each forecast horizon.
+- Performance across appropriate historical evaluation periods.
+- Explicitly defined aggregated metrics.
+- Forecast bias and uncertainty measures when supported.
+
+Compare every relevant complex model against simple baselines.
+
+Use identical forecast origins and matched evaluation samples wherever feasible.
+
+### Critical H1 evaluation
+
+Test whether verified numerical factors actually improve forecasts beyond historical-price information.
+
+Possible outcomes:
+
+- Supported.
+- Partially/conditionally supported.
+- Not supported.
+- Inconclusive.
+
+Do not force H1 to succeed.
+
+### Critical H2 evaluation
+
+Assess whether genuinely dated news, corporate reports or bias-aware features add incremental predictive information beyond the numerical baseline.
+
+Investigate duplication, publication timing, source disagreement, instability, overfitting and sample-size limitations.
+
+If additional text features fail, document the negative result.
+
+### Additional safeguard — Uncertainty quantification
+
+Where methodologically justified, provide:
+
+- Prediction intervals and empirical interval coverage.
+- Confidence intervals for forecasting error differences.
+- Dependence-aware bootstrap or other appropriate interval methods.
+- Uncertainty in estimated model effects.
+- Sensitivity of conclusions to sample period and model specification.
+
+Account for serial dependence, common shocks across cities and overlapping forecast horizons.
+
+Do not present narrow intervals as evidence of certainty without evaluating their assumptions and calibration.
+
+### Additional safeguard — Multiplicity and robust comparison
+
+When many model comparisons are tested, address multiple-comparison risk.
+
+Use formal forecast-comparison tests only when their assumptions are appropriate.
+
+Avoid declaring a model superior merely because its RMSE is numerically smaller on one test period.
+
+Assess practical effect sizes, stability, statistical uncertainty and consistency.
+
+### Robustness testing
+
+Evaluate justified alternatives for:
+
+- Training-window selection.
+- City inclusion.
+- Forecast horizon.
+- Major regulatory regimes.
+- Data-proxy definitions.
+- Outlier treatment.
+- Historical publication uncertainty.
+- Model flexibility.
+
+Label all post-hoc experiments exploratory.
+
+**Deliverables:** Reproducible rolling-origin predictions, city/horizon/target comparisons, uncertainty estimates, H1/H2 verdicts, robustness results and independently checked evaluation metrics.
+
+**Gate:** No final research conclusions until significant calculations and empirical claims have been verified.
+
+---
+
+# 8. Stage 9 — Interpretation, Scenarios and Research Paper
+
+**Objective:** Convert verified empirical results into a scientifically defensible paper.
+
+### Interpretation
+
+Explain:
+
+- Which methods performed best and under what conditions.
+- Whether simple baselines outperformed complex models.
+- Whether city-specific or shared models were more successful.
+- How performance changed across forecast horizons and target definitions.
+- Whether H1 and H2 received support.
+- Which findings were sensitive, contradictory or inconclusive.
+- How data limitations restrict generalization.
+
+Never infer causality from predictor importance alone.
+
+### Scenarios
+
+Only perform scenario analysis if the models and available evidence justify it.
+
+Clearly label conditional predictive projections and distinguish them from causal policy-impact estimates.
+
+Do not manufacture scenarios or impacts merely to make the project appear more comprehensive.
+
+### Research manuscript
+
+Prepare:
+
+1. Abstract.
+2. Introduction and research objectives.
+3. Literature review.
+4. Indian CNG pricing context.
+5. Data, provenance and limitations.
+6. Research methodology and experimental design.
+7. Forecasting results.
+8. Diagnostics, uncertainty and robustness.
+9. Discussion and alternative explanations.
+10. Conclusions and future research.
+11. References and reproducibility appendix.
+
+The paper must report negative findings, failed approaches and methodological limitations where material.
+
+Every quantitative statement, chart and table must be traceable to executable calculations and accepted data.
+
+---
+
+# 9. NEW — Mandatory Experiment Registry and Research Transparency
+
+Maintain an auditable experiment register throughout Stages 4–9.
+
+For every consequential experiment, record:
+
+- Unique experiment ID and timestamp.
+- Data snapshot and checksums.
+- Research question and predeclared hypothesis.
+- Model or method.
+- Variables and transformations.
+- Training, validation and test windows.
+- Hyperparameters and random seeds.
+- Software/environment versions.
+- Metrics, uncertainty estimates and diagnostics.
+- Failures, warnings and limitations.
+- Decision: accepted, rejected, revised or inconclusive.
+- Whether the experiment was confirmatory or exploratory.
+- Deviations from the original experimental plan.
+- Reason for any subsequent modification.
+
+Do not erase failed experiments or selectively present favorable outcomes.
+
+Protect the untouched final test period. If it becomes part of iterative model selection, explicitly acknowledge that it is no longer an independent final test and establish a defensible new evaluation strategy if possible.
+
+Maintain a complete link between manuscript claims, experiment IDs, outputs and underlying data.
+
+---
+
+# 10. NEW — Independent Scientific Audit
+
+At the completion of each stage, conduct a verification pass independent of the original analysis wherever practicable.
+
+### Audit requirements
+
+**Data audit**
+- Verify primary sources and provenance.
+- Inspect time boundaries and missingness.
+- Test source consistency.
+
+**Calculation audit**
+- Independently recompute important aggregates and performance metrics.
+- Test boundary cases and formulas.
+- Reconcile discrepancies.
+
+**Methodology audit**
+- Evaluate statistical assumptions.
+- Inspect leakage risks.
+- Check whether the model design suits the sample.
+
+**Inference audit**
+- Assess uncertainty, statistical power and multiple testing.
+- Challenge claims of improvement or significance.
+
+**Reporting audit**
+- Match every result in the paper to actual output.
+- Verify citations and definitions.
+- Confirm negative and inconclusive outcomes are represented faithfully.
+
+A second execution of the same faulty calculation does not count as independent verification.
+
+If independent verification fails, the affected claim must not appear as established fact.
+
+---
+
+# 11. Mandatory Failure, Recovery and Rejection Protocol
+
+Whenever data, assumptions, calculations or empirical findings fail:
+
+1. **Detect:** Identify the specific failure or contradiction.
+2. **Verify:** Independently inspect sources, mathematics, methodology and code.
+3. **Classify:** Decide whether the problem concerns data authenticity, implementation, assumptions, statistical power, uncertainty or genuine lack of predictive value.
+4. **Preserve:** Retain the original dataset, implementation and failed result.
+5. **Repair or reject:** Correct independently demonstrated errors. Reject inappropriate methods or unsupported hypotheses.
+6. **Rerun:** Repeat all affected downstream analyses using versioned, justified corrections.
+7. **Document:** Record what changed and whether the scientific conclusion changed.
+8. **Escalate:** If essential evidence is insufficient, stop and request researcher review.
+
+Never overwrite original observations or quietly modify definitions to obtain expected results.
+
+Do not endlessly search for a specification that supports the desired hypothesis.
+
+**If the original research question is unsupported by available evidence, recommend a transparent revision—not an artificial positive result.**
+
+---
+
+# 12. Mandatory Stage Completion Checkpoint
+
+Before proceeding to another stage, produce:
+
+| Item | Required content |
+|---|---|
+| Objective | Research question investigated |
+| Inputs | Accepted datasets and versions |
+| Methodology | Methods and justification |
+| Results | Actual computed findings |
+| Verification | Independent checks performed |
+| Statistical reliability | Power, uncertainty and multiplicity considerations |
+| Failures | Contradictory, invalid or inconclusive outcomes |
+| Decision | Accept, revise, reject or inconclusive |
+| Limitations | What the evidence cannot establish |
+| Next action | Scientifically justified continuation |
+
+Request explicit researcher approval before advancing.
+
+---
+
+# FINAL DIRECTIVE
+
+**We do not need our hypotheses to be correct. We need our research to be correct.**
+
+GAM can lose.
+
+Numerical predictors can fail.
+
+News and corporate sentiment can provide no improvement.
+
+Complex models can underperform naïve forecasts.
+
+Statistical relationships can be insignificant.
+
+A dataset can be unsuitable despite having many rows.
+
+These are all legitimate research outcomes.
+
+Do not fabricate, manipulate, conceal or selectively report evidence.
+
+Aim for the highest achievable standard of authenticity, transparency, independent verification and reproducibility. Never equate successful execution with scientific validity or claim certainty beyond the evidence.
+
+**Remain at Stage 3 until the accepted-data checkpoint is approved. Then conduct Stages 4–9 sequentially, with critical evaluation and researcher approval at every stage.**
+
+**Scientific integrity takes precedence over model accuracy, complexity, favorable hypotheses and publication expectations.**

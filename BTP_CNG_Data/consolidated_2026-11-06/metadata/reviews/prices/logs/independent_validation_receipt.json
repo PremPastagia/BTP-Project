@@ -1,0 +1,28 @@
+{
+  "raw_hashes_passed": 14,
+  "canonical_rows": 11699,
+  "pngrb_source_rows_independently_reconciled": 10538,
+  "component_rows_independently_reconciled": 10538,
+  "corrected_mapping_rows": 1208,
+  "invalid_date_states_after_repair": 0,
+  "igl_positive_cells_independently_reconciled": 695,
+  "new_numeric_string_quotes_retained": [
+    "CNG Price!I41",
+    "CNG Price!I42",
+    "CNG Price!D87",
+    "CNG Price!M90",
+    "CNG Price!P90"
+  ],
+  "deliberately_corrupted_price_rejected": true,
+  "source_revision_after_snapshot_count": 12,
+  "structural_and_transcription_checks_passed": true,
+  "critical_limitations": [
+    "Source-level truth and complete price paths remain uncertified",
+    "Publication dates for operator chronologies unknown",
+    "Parliamentary geographic extraction retained as provisional prior evidence",
+    "MNGL overnight windows and invalid source calendar dates remain unresolved",
+    "Snapshot arithmetic conflicts remain source claims, not corrected observations"
+  ],
+  "stage3_price_path_accepted": false,
+  "stage4_started": false
+}

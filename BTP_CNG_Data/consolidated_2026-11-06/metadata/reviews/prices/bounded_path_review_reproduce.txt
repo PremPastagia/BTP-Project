@@ -1,0 +1,88 @@
+"""Run with Python. Stage 3 date-resolution source intervals only; no targets.
+Producer files remain unchanged. This file is .txt to keep review artifacts separate.
+"""
+from pathlib import Path
+from decimal import Decimal,InvalidOperation
+from datetime import datetime
+import csv,json,hashlib,re
+import openpyxl
+from pypdf import PdfReader
+
+B=Path(__file__).resolve().parent
+ROOT=B.parents[1]
+FRESH=ROOT/'BTP/BTP_CNG_Fresh_2026-11-06/prices'
+def H(p):return hashlib.sha256(p.read_bytes()).hexdigest()
+def write(name,rows,fields=None):
+    fields=fields or list(rows[0])
+    with (B/name).open('w',newline='',encoding='utf-8') as f:w=csv.DictWriter(f,fieldnames=fields);w.writeheader();w.writerows(rows)
+def positive(v):
+    try:d=Decimal(str(v).replace('\xa0','').strip())
+    except InvalidOperation:return None
+    return str(d) if d>0 else None
+def d(s):
+    for fmt in ['%d.%m.%Y','%d.%m.%y']:
+        try:return datetime.strptime(str(s),fmt).date().isoformat()
+        except ValueError:pass
+    return ''
+sources={r['source_id']:r for r in json.loads((FRESH/'manifest.json').read_text())}
+intervals=[];gaps=[]
+def interval(sid,geo,operator,start,end,p,loc1,loc2,note):
+    assert start<end
+    source=sources[sid]
+    known_conflict=sid=='ggl_chronology' and bool({start,end}&{'2023-04-08','2024-03-07'})
+    record=dict(source_id=sid,source_sha256=source['sha256'],source_url=source['url'],operator=operator,source_market_label=geo,interval_start_date_inclusive=start,interval_end_date_exclusive=end,quoted_price_inr_kg=p,start_source_locator=loc1,end_source_locator=loc2,source_persistence_basis=note,temporal_precision='calendar_date_only_no_midnight_assumed',source_publication_date='',historical_availability_status='unknown_retrospective_chronology',known_date_conflict=known_conflict,use_class='exclude_unresolved_effective_date_conflict' if known_conflict else 'candidate_source_supported_date_path_not_researcher_accepted',independent_path_verification='selected_events_only_not_every_event_or_full_history',intraday_time_weighted_average_status='not_identified_from_date_only_boundaries',accepted_data=False)
+    record['interval_id']=hashlib.sha256(json.dumps(record,sort_keys=True).encode()).hexdigest()[:24]
+    intervals.append(record)
+
+path=FRESH/sources['igl_chronology']['local_path'];assert H(path)==sources['igl_chronology']['sha256']
+s=openpyxl.load_workbook(path,read_only=True,data_only=False)['CNG Price'];rows=list(s.iter_rows(values_only=True))
+assert rows[2][1]=='Date of Revision'
+for ci,geo in [(2,'Delhi'),(3,'Noida')]:
+    assert rows[3][ci]==geo
+    for i in range(4,len(rows)-1):
+        a,z=rows[i],rows[i+1];start,end=d(a[1]),d(z[1]);p,q=positive(a[ci]),positive(z[ci]);loc1=f'CNG Price!{openpyxl.utils.get_column_letter(ci+1)}{i+1}';loc2=f'CNG Price!{openpyxl.utils.get_column_letter(ci+1)}{i+2}'
+        if start and end and start<end and p and q:
+            interval('igl_chronology',geo,'Indraprastha Gas Limited',start,end,p,loc1,loc2,'Official worksheet explicitly labels Date of Revision and quotes market prices. Interpretation as tariff valid until next listed revision is source-supported but not exhaustive independent event proof; consecutive worksheet rows only.')
+        else:gaps.append(dict(source_id='igl_chronology',market=geo,start_source_locator=loc1,end_source_locator=loc2,start_date=start,end_date=end,reason='Missing/nonpositive quote or invalid/nonincreasing boundary; no interval bridge'))
+
+path=FRESH/sources['ggl_chronology']['local_path'];assert H(path)==sources['ggl_chronology']['sha256']
+tx='\n'.join(p.extract_text() or '' for p in PdfReader(path).pages)
+assert 'Historical CNG prices from 01.04.2019 onwards' in tx and 'Effective From' in tx
+events=[]
+for ln,line in enumerate(tx.splitlines(),1):
+    m=re.match(r'^(\d{2}\.\d{2}\.\d{4})\s+(.*)$',line.strip())
+    if not m:continue
+    tokens=re.findall(r'\d+\.\d+\*?|Sale not commenced',m[2]);assert len(tokens)==4
+    events.append((ln,m[1],tokens))
+for ci,geo in [(0,'Lucknow'),(1,'Agra'),(3,'Unnao')]:
+    for a,z in zip(events,events[1:]):
+        x,y=a[2][ci],z[2][ci];start,end=d(a[1]),d(z[1]);p=positive(x.replace('*',''));q=positive(y.replace('*',''))
+        if geo=='Lucknow':
+            if '*' in x:start='2026-07-24'
+            if '*' in y:end='2026-07-24'
+        if p and q and start<end:
+            interval('ggl_chronology',geo,'Green Gas Limited',start,end,p,f'PDFpage1:line{a[0]}:{geo}',f'PDFpage1:line{z[0]}:{geo}','Official document declares Historical CNG prices from01.04.2019 onwards with Effective From column. Tariff persistence to next listed change is a source interpretation, not inferred from sparse snapshots; no extension after last quote.')
+        else:gaps.append(dict(source_id='ggl_chronology',market=geo,start_source_locator=f'line{a[0]}:{geo}',end_source_locator=f'line{z[0]}:{geo}',start_date=start,end_date=end,reason='Sale not commenced/absent price; no invented precommencement quote'))
+
+by_market={}
+for r in intervals:by_market.setdefault((r['source_id'],r['source_market_label']),[]).append(r)
+summary=[]
+for (sid,geo),rs in sorted(by_market.items()):
+    rs=sorted(rs,key=lambda r:r['interval_start_date_inclusive'])
+    assert all(a['interval_end_date_exclusive']<=z['interval_start_date_inclusive'] for a,z in zip(rs,rs[1:]))
+    eligible=[r for r in rs if not r['known_date_conflict']]
+    summary.append(dict(source_id=sid,market=geo,source_intervals=len(rs),known_boundary_conflict_intervals=sum(r['known_date_conflict'] for r in rs),uncontested_documentary_candidate_intervals=len(eligible),earliest_source_start=rs[0]['interval_start_date_inclusive'],last_source_end_exclusive=rs[-1]['interval_end_date_exclusive'],scope='Endpoints do not certify continuous coverage; see interval/gap ledgers',operator=rs[0]['operator'],researcher_accepted=False))
+
+reviews=[]
+facts=[('GGL_JAGRAN_20230409','2023-04-08','2023-04-09','93.96','price_agrees_effective_day_conflicts','Sunday effective date inferred from explicitly dated9April2023 article and statement Sunday; source chronology gives8April.'),('GGL_HINDUSTAN_20240305','2024-03-07','2024-03-06T06:00:00+05:30','92.25','price_agrees_effective_day_conflicts','Article datedTuesday5March2024 states Wednesday06:00; calendar interpretation yields6March, source chronology gives7March.'),('GGL_NBT_20240616','2024-06-16','2024-06-16T06:00:00+05:30','94.00','price_and_calendar_day_agree_intraday_time_now_evidenced','Article datedSunday16June2024 states Sunday06:00; confirms calendar day while refuting automatic midnight assumption.')]
+acq={r['source_id']:r for r in csv.DictReader((B/'bounded_path_review_acquisitions.csv').open())}
+for source,primary_day,reported_day,value,result,note in facts:
+    for geo in ['Lucknow','Agra','Unnao']:
+        hit=[r for r in intervals if r['source_id']=='ggl_chronology' and r['source_market_label']==geo and r['interval_start_date_inclusive']==primary_day];assert len(hit)==1 and Decimal(hit[0]['quoted_price_inr_kg'])==Decimal(value)
+        a=acq[source];assert H(Path(a['original_path']))==a['sha256']
+        reviews.append(dict(source_id=source,source_url=a['source_url'],source_sha256=a['sha256'],primary_interval_id=hit[0]['interval_id'],market=geo,primary_effective_date=primary_day,independent_reported_effective_time=reported_day,price_inr_kg=value,result=result,interpretation=note,approved_correction=False))
+write('bounded_path_review_intervals.csv',intervals)
+write('bounded_path_review_gaps.csv',gaps)
+write('bounded_path_review_summary.csv',summary)
+write('bounded_path_review_date_conflicts.csv',reviews)
+print(json.dumps(dict(intervals=len(intervals),market_summary=summary,known_conflict_intervals=sum(r['known_date_conflict'] for r in intervals),gaps=len(gaps),monthly_targets_created=False,researcher_approval=False),indent=2))

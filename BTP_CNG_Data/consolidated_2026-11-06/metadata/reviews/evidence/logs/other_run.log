@@ -1,0 +1,66 @@
+Missing non-PDF hashes 55
+recovered_exact_hash https://www.pngrb.gov.in/eng-web/data-bank.html
+retrieved_different_version https://ppac.gov.in/reports/ready-reckoner
+recovered_exact_hash https://www.iglonline.net/
+retrieved_different_version https://ppac.gov.in/natural-gas/production
+retrieved_different_version https://ppac.gov.in/natural-gas/gas-price
+retrieved_different_version https://www.adanigas.com/
+recovered_exact_hash https://gailgas.com/
+failed https://mngl.in/
+retrieved_different_version https://www.onos.gov.in/publishers
+recovered_exact_hash https://data.rbi.org.in/
+recovered_exact_hash https://www.gujaratgas.com/investors/annual-reports/
+retrieved_different_version https://esankhyiki.mospi.gov.in/
+retrieved_different_version https://mausam.imd.gov.in/
+retrieved_different_version https://ppac.gov.in/natural-gas/gas-price?page=2
+retrieved_different_version https://ppac.gov.in/natural-gas/gas-price?page=3
+retrieved_different_version https://www.pib.gov.in/PressReleasePage.aspx?PRID=1914450
+retrieved_different_version https://ppac.gov.in/natural-gas/gas-price?page=4
+retrieved_different_version https://ppac.gov.in/natural-gas/gas-price?page=5
+retrieved_different_version https://ppac.gov.in/natural-gas/gas-price?page=7
+retrieved_different_version https://ppac.gov.in/natural-gas/gas-price?page=8
+retrieved_different_version https://ppac.gov.in/natural-gas/gas-price?page=9
+retrieved_different_version https://ppac.gov.in/natural-gas/gas-price?page=10
+retrieved_different_version https://ppac.gov.in/natural-gas/gas-price?page=6
+retrieved_different_version https://ppac.gov.in/reports-and-analysis
+retrieved_different_version https://ppac.gov.in/natural-gas/gas-price?page=11
+recovered_exact_hash https://library.iitkgp.ac.in/pages/eSearch3.0/finDB.html
+retrieved_different_version https://ppac.gov.in/retail-selling-price-rsp-of-petrol-diesel-and-domestic-lpg/rsp-of-petrol-and-diesel-in-metro-cities-since-16-6-2017
+recovered_exact_hash https://www.iglonline.net//cng-png-prices
+failed https://mngl.in/cng/rate-card
+failed https://mngl.in/investors/annual-reports
+failed https://mngl.in/customer-awareness/Hist_Prices
+retrieved_different_version https://ppac.gov.in/
+recovered_exact_hash https://www.pngrb.gov.in/eng-web/data-bank/json-data-bank.js
+recovered_exact_hash https://www.pngrb.gov.in/eng-web/data-bank/json-data-bank-archive.js
+recovered_exact_hash https://economictimes.indiatimes.com/industry/energy/oil-gas/indraprastha-gas-raises-cng-prices-in-delhi-ncr/articleshow/96292690.cms
+recovered_exact_hash https://www.pngrb.gov.in/eng-web/NG-trans-tariff.html
+retrieved_different_version https://www.business-standard.com/markets/news/cng-price-hiked-by-rs-2-in-mumbai-and-others-delhi-spared-ahead-of-polls-124112500431_1.html
+retrieved_different_version https://www.business-standard.com/industry/auto/cng-price-in-national-capital-adjoining-cities-hiked-by-re-1-per-kg-124062200544_1.html
+retrieved_different_version https://ppac.gov.in/archives/reports?page=24
+recovered_exact_hash https://mopng.gov.in/en/natural-gas/policies-guidelines
+recovered_exact_hash https://api.imd.gov.in/public/api_reference.html
+recovered_exact_hash https://www.iglonline.net/annual-reports
+retrieved_different_version https://www.adanigas.com/investors/investor-downloads
+recovered_exact_hash https://timesofindia.indiatimes.com/city/delhi/cng-price-hiked-petrol-and-diesel-may-be-next/articleshow/6056800.cms
+retrieved_different_version https://indianexpress.com/article/cities/delhi/cng-png-cheapest-delhi-price-dip-8546566/
+recovered_exact_hash https://economictimes.indiatimes.com/industry/energy/oil-gas/cng-prices-hiked-by-rs-5-60-per-kg-to-rs-27-50-in-delhi/articleshow/6055210.cms?from=mdr
+retrieved_different_version https://indianexpress.com/article/business/business-others/cng-rates-in-delhi-to-be-revised-upward-to-rs-29-kg-from-today/
+recovered_exact_hash https://timesofindia.indiatimes.com/city/delhi/cng-price-hiked-by-30-paise-in-delhi-ncr/articleshow/7852203.cms
+retrieved_different_version https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2122694
+retrieved_different_version https://indianexpress.com/article/business/business-others/cng-prices-in-delhi-go-up-by-25-paise-per-kg-2891208/
+retrieved_different_version https://www.business-standard.com/article/companies/mahanagar-gas-drops-price-for-customers-115040101174_1.html
+retrieved_different_version https://indianexpress.com/article/cities/pune/cng-price-up-by-rs-2-kg-in-pune-pimpri-chinchwad-from-september-1-10858179/
+retrieved_different_version https://indianexpress.com/article/news-archive/web/cng-price-set-to-spike-in-delhi/
+retrieved_different_version https://indianexpress.com/article/news-archive/web/cng-prices-skyrocket-in-delhi-mumbai/
+retrieved_different_version https://energy.economictimes.indiatimes.com/news/oil-and-gas/igl-increases-cng-price-by-45-paise/kg-in-delhi-piped-cooking-gas-rates-also-increased/47319489
+{
+  "generated_at": "2026-11-06T05:48:12.304928+00:00",
+  "targeted_unique_hashes": 55,
+  "status_counts": {
+    "recovered_exact_hash": 17,
+    "retrieved_different_version": 34,
+    "failed": 4
+  },
+  "claim_limit": "Different byte versions are not restored historical evidence. HTML access evidence is not a numerical dataset."
+}

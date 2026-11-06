@@ -1,0 +1,416 @@
+source_id,operator,geography_name,observations,earliest_exact_effective_date,latest_exact_effective_date,first_snapshot_month,last_snapshot_month,complete_price_path_verified,publication_dates_known,limitation
+ggl_chronology,Green Gas Limited,Agra,40,2019-04-01,2026-11-01,,,False,0,Counts and endpoints do not establish continuity or independent truth.
+ggl_chronology,Green Gas Limited,Ayodhya & Sultanpur,32,2020-12-16,2026-11-01,,,False,0,Counts and endpoints do not establish continuity or independent truth.
+ggl_chronology,Green Gas Limited,Lucknow,40,2019-04-01,2026-11-01,,,False,0,Counts and endpoints do not establish continuity or independent truth.
+ggl_chronology,Green Gas Limited,Unnao,33,2020-10-06,2026-11-01,,,False,0,Counts and endpoints do not establish continuity or independent truth.
+igl_chronology,Indraprastha Gas Limited,Ajmer,45,2021-07-08,2026-08-29,,,False,0,Counts and endpoints do not establish continuity or independent truth.
+igl_chronology,Indraprastha Gas Limited,Banda,20,2023-08-23,2026-08-29,,,False,0,Counts and endpoints do not establish continuity or independent truth.
+igl_chronology,Indraprastha Gas Limited,Delhi,98,2010-06-17,2026-08-29,,,False,0,Counts and endpoints do not establish continuity or independent truth.
+igl_chronology,Indraprastha Gas Limited,G Noida,23,2023-04-09,2026-08-29,,,False,0,Counts and endpoints do not establish continuity or independent truth.
+igl_chronology,Indraprastha Gas Limited,Ghaziabad,23,2023-04-09,2026-08-29,,,False,0,Counts and endpoints do not establish continuity or independent truth.
+igl_chronology,Indraprastha Gas Limited,Ghaziabad DM-1&2,18,2024-03-07,2026-08-29,,,False,0,Counts and endpoints do not establish continuity or independent truth.
+igl_chronology,Indraprastha Gas Limited,Gurugram,65,2019-04-04,2026-08-29,,,False,0,Counts and endpoints do not establish continuity or independent truth.
+igl_chronology,Indraprastha Gas Limited,Hapur,18,2024-09-01,2026-08-29,,,False,0,Counts and endpoints do not establish continuity or independent truth.
+igl_chronology,Indraprastha Gas Limited,Kaithal,57,2020-06-02,2026-08-29,,,False,0,Counts and endpoints do not establish continuity or independent truth.
+igl_chronology,Indraprastha Gas Limited,Kanpur,49,2020-06-02,2026-08-29,,,False,0,Counts and endpoints do not establish continuity or independent truth.
+igl_chronology,Indraprastha Gas Limited,Karnal,65,2019-04-04,2026-08-29,,,False,0,Counts and endpoints do not establish continuity or independent truth.
+igl_chronology,Indraprastha Gas Limited,Muzaffar Nagar,55,2019-04-04,2026-08-29,,,False,0,Counts and endpoints do not establish continuity or independent truth.
+igl_chronology,Indraprastha Gas Limited,Noida,89,2010-06-17,2026-08-29,,,False,0,Counts and endpoints do not establish continuity or independent truth.
+igl_chronology,Indraprastha Gas Limited,Rewari,70,2018-04-02,2026-08-29,,,False,0,Counts and endpoints do not establish continuity or independent truth.
+mngl_history_0,Maharashtra Natural Gas Limited,Nanded GA,11,2023-01-12,2023-01-12,,,False,0,Counts and endpoints do not establish continuity or independent truth.
+mngl_history_1,Maharashtra Natural Gas Limited,Nashik-Dhule District,30,,,,,False,0,Counts and endpoints do not establish continuity or independent truth.
+mngl_history_2,Maharashtra Natural Gas Limited,Nizamabad GA,10,2023-03-29,2023-03-29,,,False,0,Counts and endpoints do not establish continuity or independent truth.
+mngl_history_3,Maharashtra Natural Gas Limited,Pimpri-Chinchwad Municipal Corporation,17,2011-01-02,2016-12-04,,,False,0,Counts and endpoints do not establish continuity or independent truth.
+mngl_history_3,Maharashtra Natural Gas Limited,Pune Municipal Corporation,61,2011-01-02,2017-07-31,,,False,0,Counts and endpoints do not establish continuity or independent truth.
+mngl_history_4,Maharashtra Natural Gas Limited,Ramanagara GA,30,2020-11-23,2020-11-23,,,False,0,Counts and endpoints do not establish continuity or independent truth.
+mngl_history_5,Maharashtra Natural Gas Limited,Sindhudurg GA,30,2020-10-17,2020-10-17,,,False,0,Counts and endpoints do not establish continuity or independent truth.
+mngl_history_6,Maharashtra Natural Gas Limited,Valsad (Kaprada Tehsil),9,,,,,False,0,Counts and endpoints do not establish continuity or independent truth.
+parliament_2010_floor,Indraprastha Gas Limited,Delhi,7,2006-06-06,2010-06-17,,,False,7,Counts and endpoints do not establish continuity or independent truth.
+parliament_2010_floor,Mahanagar Gas Limited,Mumbai,4,,,,,False,4,Counts and endpoints do not establish continuity or independent truth.
+parliament_2012_floor,Bhagyanagar Gas Limited,Hyderabad,4,2009-01-01,2011-12-01,,,False,4,Counts and endpoints do not establish continuity or independent truth.
+parliament_2012_floor,Bhagyanagar Gas Limited,Kakinada,1,2010-06-08,2010-06-08,,,False,1,Counts and endpoints do not establish continuity or independent truth.
+parliament_2012_floor,Bhagyanagar Gas Limited,Vijaywada,3,2010-01-15,2011-12-01,,,False,3,Counts and endpoints do not establish continuity or independent truth.
+parliament_2012_floor,Central UP Gas Limited,Kanpur and Bareilly,5,2009-04-01,2011-12-01,,,False,5,Counts and endpoints do not establish continuity or independent truth.
+parliament_2012_floor,GAIL Gas Limited,Dewas,9,,,,,False,9,Counts and endpoints do not establish continuity or independent truth.
+parliament_2012_floor,GAIL Gas Limited,Kota,3,,,,,False,3,Counts and endpoints do not establish continuity or independent truth.
+parliament_2012_floor,GAIL Gas Limited,Meerut,5,,,,,False,5,Counts and endpoints do not establish continuity or independent truth.
+parliament_2012_floor,GAIL Gas Limited,Sonipat,11,,,,,False,11,Counts and endpoints do not establish continuity or independent truth.
+parliament_2012_floor,GAIL Gas Limited,Vadodara,4,,,,,False,4,Counts and endpoints do not establish continuity or independent truth.
+parliament_2012_floor,Great Eastern Energy Corporation Limited,Asansol and Durgapur,9,2009-04-01,2011-09-17,,,False,9,Counts and endpoints do not establish continuity or independent truth.
+parliament_2012_floor,Green Gas Limited,Agra,3,2010-04-01,2011-12-08,,,False,3,Counts and endpoints do not establish continuity or independent truth.
+parliament_2012_floor,Green Gas Limited,Lucknow,2,2010-06-17,2012-04-01,,,False,2,Counts and endpoints do not establish continuity or independent truth.
+parliament_2012_floor,Gujarat Gas Company Limited,Ankleshwar and Bharuch,8,,,,,False,8,Counts and endpoints do not establish continuity or independent truth.
+parliament_2012_floor,Indraprastha Gas Limited,Delhi,11,2010-03-20,2012-03-06,,,False,11,Counts and endpoints do not establish continuity or independent truth.
+parliament_2012_floor,Indraprastha Gas Limited,Ghaziabad,11,2010-03-20,2012-03-06,,,False,11,Counts and endpoints do not establish continuity or independent truth.
+parliament_2012_floor,Indraprastha Gas Limited,Noida/Greater Noida,11,2010-01-02,2012-03-06,,,False,11,Counts and endpoints do not establish continuity or independent truth.
+parliament_2012_floor,Mahanagar Gas Limited,Mumbai,1,2012-02-18,2012-02-18,,,False,1,Counts and endpoints do not establish continuity or independent truth.
+parliament_2012_floor,Sabarmati Gas Limited,"Gandhi Nagar, Mehsana and Sabarkntha",11,2008-06-01,2012-05-08,,,False,11,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,AGP CGD India Private Limited,"Barmer, Jaisalmer & Jodhpur Districts",39,2026-01-01,2026-01-01,2025-03,2026-06,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,AGP CGD India Private Limited,Kanchipuram District,13,2026-01-01,2026-01-01,2025-03,2026-06,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,AGP CGD India Private Limited,Ramanathapuram District,13,2026-01-01,2026-01-01,2025-03,2026-06,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,AGP City Gas Private Limited,"Alappuzha, Kollam and Thiruvananthapuram Districts",54,2026-01-01,2026-05-24,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,AGP City Gas Private Limited,Anantapur and YSR (Kadapa) Districts,36,2026-01-01,2026-08-22,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,AGP City Gas Private Limited,"Bagalkot, Koppal and Raichur Districts",54,2026-01-01,2026-08-22,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,AGP City Gas Private Limited,"Barmer, Jaisalmer & Jodhpur Districts",6,,,2025-10,2025-11,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,AGP City Gas Private Limited,"Chikkamagaluru, Hassan and Kodagu Districts",54,2026-01-01,2026-08-22,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,AGP City Gas Private Limited,"Chittoor, Kolar and Vellore Districts",54,2026-01-01,2026-08-22,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,AGP City Gas Private Limited,Kalaburagi and Vijayapura Districts,36,2026-01-01,2026-08-22,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,AGP City Gas Private Limited,Kanchipuram District,2,,,2025-10,2025-11,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,AGP City Gas Private Limited,"Mysuru, Mandya and Chamarajanagar Districts",54,2026-01-01,2026-08-22,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,AGP City Gas Private Limited,Ramanathapuram District,2,,,2025-10,2025-11,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,AGP City Gas Private Limited,Sri Potti Sriramulu Nellore District,18,2026-01-01,2026-08-22,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,AGP City Gas Private Limited,"Uttara Kannada, Haveri and Shivamogga Districts",54,2026-01-01,2026-08-22,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Aavantika Gas Limited,Gwalior,17,2025-01-21,2026-05-16,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Aavantika Gas Limited,Indore (including Ujjain City),36,2025-01-21,2026-05-16,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Adani Total Gas Limited,Ahmedabad City and Daskroi Area,18,2026-01-22,2026-07-19,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Adani Total Gas Limited,"Akola, Hingoli and Washim districts",54,2025-09-26,2026-05-27,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Adani Total Gas Limited,"Alirajpur, Nandurbar and Barwani districts",54,2025-09-23,2026-07-19,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Adani Total Gas Limited,Amravati and Yavatmal districts,36,2025-09-26,2026-05-27,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Adani Total Gas Limited,"Anuppur, Bilaspur and Korba Districts",36,2025-07-27,2026-07-19,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Adani Total Gas Limited,"Baksa, Barpeta, Bongaigaon, Chirang, Nalbari and Bajali districts",47,,,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Adani Total Gas Limited,"Balasore, Bhadrak & Mayurbhanj Districts",54,2026-01-22,2026-07-19,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Adani Total Gas Limited,Barwala & Ranpur Talukas,18,2026-01-22,2026-07-19,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Adani Total Gas Limited,"Bhandara, Gondiya and Garchiroli districts",42,2026-01-22,2026-07-19,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Adani Total Gas Limited,Bhilwara & Bundi Districts,36,2025-03-17,2026-07-19,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Adani Total Gas Limited,"Bhiwani, Charkhi Dadri & Mahendragarh Districts",54,2025-04-19,2026-07-19,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Adani Total Gas Limited,"Burhanpur, Khandwa, Khargone and Harda districts",72,2026-01-22,2026-05-16,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Adani Total Gas Limited,Chittorgarh (Other than Rawatbhata Taluka) & Udaipur Districts,36,2025-03-17,2026-07-19,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Adani Total Gas Limited,"Cuddalore, Nagapattinam & Tiruvarur Districts",54,2025-10-16,2026-07-19,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Adani Total Gas Limited,Faridabad 2,18,2025-09-23,2026-07-19,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Adani Total Gas Limited,"Gumla, Latehar, Lohardaga, Simdega, Garhwa and Khunti districts",108,2025-09-23,2026-05-27,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Adani Total Gas Limited,Jalandhar,18,2025-06-25,2026-07-19,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Adani Total Gas Limited,"Jashpur, Raigarh, Janjgir-Champa and Mahasamund districts",18,2025-07-27,2026-07-19,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Adani Total Gas Limited,"Jhansi (EAAA) District, Bhind, Jalaun, Lalitpur and Datia Districts",90,2025-09-23,2026-05-27,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Adani Total Gas Limited,"Kabirdham, Raj Nandgaon and Kanker districts",30,2025-07-27,2026-07-19,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Adani Total Gas Limited,Kheda District (EAAA) & Mahisagar District,36,2026-01-01,2026-07-19,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Adani Total Gas Limited,Khurja,18,2025-09-23,2026-07-19,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Adani Total Gas Limited,"Kokrajhar, Dhubri, South Salmara-Mankachar and Goalpara districts",23,,,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Adani Total Gas Limited,"Koraput, Malkangiri, and Nabarangpur districts",36,2026-05-16,2026-05-16,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Adani Total Gas Limited,"Mungeli, Bemetara, Durg, Balod and Dhamtari districts",39,2025-07-27,2026-07-19,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Adani Total Gas Limited,"Nagaon, Morigaon, Hojai, Karbi Anglong, West Karbi Anglong and Dima Hasao districts",23,,,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Adani Total Gas Limited,"Navsari District (EAAA), Surat District (EAAA), Tapi District (EAAA) & the Dangs District",72,2026-01-01,2026-07-19,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Adani Total Gas Limited,Nuh & Palwal Districts,36,2025-09-23,2026-07-19,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Adani Total Gas Limited,Porbandar District,18,2026-01-01,2026-07-19,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Adani Total Gas Limited,Surendranagar District (EAAA) & Morbi District (EAAA),36,2026-01-22,2026-07-19,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Adani Total Gas Limited,"Tikamgarh, Niwari, Chattarpur and Panna districts",54,2025-09-26,2026-07-19,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Adani Total Gas Limited,Tiruppur District,18,2026-05-27,2026-07-19,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Adani Total Gas Limited,Udupi District,18,2025-09-23,2026-07-19,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Adani Total Gas Limited,Vadodara,18,2026-01-01,2026-07-19,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Assam Gas Company Limited,Upper Assam,87,2026-01-01,2026-01-01,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Bagpat Green Energy Private Limited,Bagpat District,18,2025-12-16,2026-08-22,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Bengal Gas Company Limited,Kolkata Municipal Corporation and Parts of adjoining Districts,108,2024-08-16,2026-08-16,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Bhagyanagar Gas Limited,Hyderabad,87,2024-10-17,2026-07-19,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Bhagyanagar Gas Limited,Kakinada,18,2024-10-17,2026-07-19,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Bhagyanagar Gas Limited,Vijaywada,18,2024-10-17,2026-07-19,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Bharat Petroleum Corporation Limited,Ahmednagar & Aurangabad Districts,32,2025-04-26,2026-05-27,2025-05,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Bharat Petroleum Corporation Limited,Alipurduar and Koch Bihar,32,2025-04-26,2026-05-27,2025-05,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Bharat Petroleum Corporation Limited,"Amethi, Pratapgarh & Raebareli Districts",48,2025-04-26,2026-05-27,2025-05,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Bharat Petroleum Corporation Limited,Angul & Dhekanal Districts,32,2025-04-26,2026-05-27,2025-05,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Bharat Petroleum Corporation Limited,Ballari & Gadag Districts,32,2024-10-23,2026-05-27,2025-05,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Bharat Petroleum Corporation Limited,"Bargarh, Debagarh & Sambalpur Districts",48,2025-04-26,2026-05-27,2025-05,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Bharat Petroleum Corporation Limited,Bidar District,16,2024-10-23,2026-05-27,2025-05,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Bharat Petroleum Corporation Limited,"Bilaspur, Hamirpur & Una Districts",48,2025-04-26,2026-05-27,2025-05,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Bharat Petroleum Corporation Limited,Chatra and Palamu Districts,32,2025-04-26,2026-05-27,2025-05,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Bharat Petroleum Corporation Limited,"Darbhanga, Madhubani, Supaul, Sitamarhi and Sheohar districts",80,2024-04-26,2026-05-27,2025-05,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Bharat Petroleum Corporation Limited,"Fazilka (except area already authorized), Ganganagar and Hanumangarh districts",48,2025-04-26,2026-05-27,2025-05,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Bharat Petroleum Corporation Limited,"Gopalganj, Siwan, West Champaran, East Champaran and Deoria districts",80,2025-04-26,2026-05-27,2025-05,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Bharat Petroleum Corporation Limited,Jagatsinghpur & Kendrapara Districts,32,2025-04-26,2026-05-27,2025-05,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Bharat Petroleum Corporation Limited,Jajpur & Kendujhar Districts,32,2025-04-26,2026-05-27,2025-05,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Bharat Petroleum Corporation Limited,"Koriya, Surajpur, Balrampur and Surguja Districts",64,2025-04-26,2026-05-27,2025-05,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Bharat Petroleum Corporation Limited,"Lakhimpur Kheri, Sitapur, Bahraich, Shrawasti, Balrampur, Siddharth Nagar & Maharajganj Districts",112,2025-04-26,2026-05-27,2025-05,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Bharat Petroleum Corporation Limited,Purulia and Bankura districts,32,2025-04-26,2026-05-27,2025-05,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Bharat Petroleum Corporation Limited,Rohtak District,16,2025-04-26,2026-05-27,2025-05,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Bharat Petroleum Corporation Limited,Rupnagar District,16,2025-04-26,2026-05-27,2025-05,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Bharat Petroleum Corporation Limited,Saharanpur District,16,2025-04-26,2026-05-27,2025-05,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Bharat Petroleum Corporation Limited,Sangli & Satara Districts,32,2025-04-26,2026-05-27,2025-05,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Bharat Petroleum Corporation Limited,Satna & Shahdol Districts,3,2025-04-26,2025-04-26,2025-05,2025-12,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Bharat Petroleum Corporation Limited,Satna & Shandol Districts,29,2025-04-26,2026-05-27,2025-05,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Bharat Petroleum Corporation Limited,Sidhi and Singrauli Districts,32,2024-04-26,2026-05-27,2025-05,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Bharat Petroleum Corporation Limited,The Nilgiris and Erode districts,32,2024-10-23,2026-05-27,2025-05,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Bharat Petroleum Corporation Limited,Yamunanagar District,16,2025-04-26,2026-05-27,2025-05,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Central UP Gas Limited,Bareilly,18,2024-11-19,2026-08-30,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Central UP Gas Limited,Jhansi,17,2024-11-19,2026-07-25,2025-03,2026-07,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Central UP Gas Limited,Kanpur,18,2024-11-19,2026-08-30,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Charotar Gas Sahakari Mandali Limited,Anand area including Kanjari & Vadtal Villages (in Kheda District),36,2026-03-19,2026-07-20,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Consortium of Assam Gas and Oil India Limited,"Dhalai, North Tripura, Unakoti and Khowai",1,,,2025-03,2025-03,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Consortium of Assam Gas and Oil India Limited,South Tripura and Sepahijala district,1,,,2025-03,2025-03,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Dholpur CGD Private Limited,Dholpur District,19,2025-01-01,2026-07-23,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,East Coast Natural Gas Distribution Private Limited,Puducherry District,18,2026-05-27,2026-05-27,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,GAIL (India) Limited,Cuttack District,4,2026-01-01,2026-05-28,2025-12,2026-05,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,GAIL (India) Limited,East Singhbhum District,4,2026-01-01,2026-05-28,2025-12,2026-05,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,GAIL (India) Limited,Khordha District,4,2026-01-01,2026-05-28,2025-12,2026-05,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,GAIL (India) Limited,Patna District,4,2026-01-01,2026-05-28,2025-12,2026-05,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,GAIL (India) Limited,Ranchi District,4,2026-01-01,2026-05-28,2025-12,2026-05,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,GAIL (India) Limited,Varanasi District,4,2026-01-01,2026-05-28,2025-12,2026-05,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,GAIL Gas Limited,Bengaluru Rural and Urban Districts,34,2026-01-01,2026-05-23,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,GAIL Gas Limited,Dakshina Kannada District,18,2026-01-01,2026-05-23,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,GAIL Gas Limited,Dehradun District,18,2025-10-17,2026-05-23,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,GAIL Gas Limited,Dewas,18,2025-10-17,2026-05-23,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,GAIL Gas Limited,Firozabad (Taj Trapezium Zone),55,2025-01-01,2026-05-23,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,GAIL Gas Limited,"Gajapati, Kandhamal, Boudh and Sonepur districts",18,2025-10-17,2026-05-23,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,GAIL Gas Limited,"Ganjam, Nayagarh & Puri Districts",44,2025-10-17,2026-05-23,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,GAIL Gas Limited,Giridih & Dhanbad Districts,36,2025-10-17,2026-05-23,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,GAIL Gas Limited,"Kondagaon, Bastar, Sukma, Narayanpur, Bijapur and Dantewada Districts",35,2025-10-17,2026-05-23,2025-04,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,GAIL Gas Limited,Meerut,18,2025-10-17,2026-06-06,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,GAIL Gas Limited,"Mirzapur, Chandauli and Sonbhadra Districts",54,2025-01-01,2026-04-16,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,GAIL Gas Limited,"Raisen, Shajapur and Sehore Districts",54,2025-10-17,2026-05-23,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,GAIL Gas Limited,Seraikela-Kharsawan District,18,2025-10-17,2026-05-23,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,GAIL Gas Limited,Sonipat,18,2025-10-17,2026-05-23,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,GAIL Gas Limited,Sundargarh & Jharsuguda Districts,36,2025-10-17,2026-05-23,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,GAIL Gas Limited,West Singhbhum District,18,2025-10-17,2026-06-06,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,GAIL India Limited,Cuttack District,14,2025-10-17,2026-08-16,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,GAIL India Limited,East Singhbhum District,14,2025-10-17,2026-07-16,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,GAIL India Limited,Khordha District,14,2025-10-17,2026-08-16,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,GAIL India Limited,Patna District,14,2025-03-16,2026-07-16,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,GAIL India Limited,Ranchi District,14,2025-10-17,2026-07-16,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,GAIL India Limited,Varanasi District,14,2025-03-16,2026-07-16,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gasonet Services (HP) Limited,"Mandi, Kullu, Kinnaur and Lahaul & Spiti districts",36,2025-06-21,2025-06-21,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gasonet Services (RJ) Limited,Bikaner and Churu districts,36,2025-03-19,2025-06-20,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gasonet Services (UK) Limited,"Pauri Garhwal, Uttarkashi, Rudraprayag and Tehri Garhwal districts",36,2024-06-21,2026-01-23,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gasonet Services (UK) Limited,"Pithoragarh, Champawat, Almora, Chamoli and Bageshwar districts",18,2025-03-19,2026-01-23,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Goa Natural Gas Private Limited,North Goa District,18,2025-04-16,2026-01-01,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Godavari Gas Private Limited,East Godavari District (EAAA),18,2026-04-26,2026-05-22,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Godavari Gas Private Limited,West Godavari District,17,2026-04-26,2026-05-22,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Green Gas Limited,Agra,17,2024-11-21,2026-08-08,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Green Gas Limited,Faizabad & Sultanpur Districts,34,2024-06-16,2026-08-08,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Green Gas Limited,Lucknow,18,2024-11-21,2026-08-08,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Green Gas Limited,Unnao (EAAA) District,18,2025-04-16,2026-08-08,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Energy Limited,Ahmedabad District (EAAA),2,2026-07-20,2026-08-17,2026-07,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Energy Limited,Amreli District,2,2026-07-20,2026-08-17,2026-07,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Energy Limited,Amritsar District,2,2026-05-16,2026-08-17,2026-07,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Energy Limited,Anand District (EAAA),2,2026-07-20,2026-08-17,2026-07,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Energy Limited,Bhatinda District,2,2026-05-16,2026-08-17,2026-07,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Energy Limited,Bhavnagar,4,2026-07-20,2026-08-17,2026-07,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Energy Limited,Dahej Vagra Taluka,2,2026-07-20,2026-08-17,2026-07,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Energy Limited,Dahod District,2,2026-07-20,2026-08-17,2026-07,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Energy Limited,"Ferozepur, Faridkot and Sri Muktsar Sahib Districts",8,2026-05-16,2026-08-17,2026-07,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Energy Limited,Gandhinagar (Part) District,2,2026-07-20,2026-08-17,2026-07,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Energy Limited,Hazira,2,2026-07-20,2026-08-17,2026-07,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Energy Limited,Hoshiarpur and Gurdaspur Districts,4,2026-05-16,2026-08-17,2026-07,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Energy Limited,Jalore and Sirohi Districts,4,2026-07-20,2026-08-17,2026-07,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Energy Limited,Jamnagar,4,2026-07-20,2026-08-17,2026-07,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Energy Limited,"Jhabua, Banswara, Ratlam and Dungarpur Districts",8,2026-07-20,2026-08-17,2026-07,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Energy Limited,Kutch West,2,2026-07-20,2026-08-17,2026-07,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Energy Limited,Nadiad,2,2026-07-20,2026-08-17,2026-07,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Energy Limited,Narmada (Rajpipla) District,2,2026-07-20,2026-08-17,2026-07,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Energy Limited,Navsari,2,2026-07-20,2026-08-17,2026-07,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Energy Limited,Palghar District and Thane Rural,4,2026-07-20,2026-08-17,2026-07,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Energy Limited,Panchmahal District,2,2026-07-20,2026-08-17,2026-07,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Energy Limited,Rajkot,4,2026-07-20,2026-08-17,2026-07,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Energy Limited,"Sirsa, Fatehabad and Mansa (Punjab) Districts",6,2026-05-16,2026-08-17,2026-07,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Energy Limited,"Surat, Bharuch, Ankleshwar",6,2026-07-20,2026-08-17,2026-07,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Energy Limited,Surendranagar,2,2026-05-16,2026-08-17,2026-07,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Energy Limited,UT of Dadra & Nagar Haveli,2,2026-07-20,2026-07-20,2026-07,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Energy Limited,"Ujjain (EAAA) District, Dewas (EAAA) District and Indore (EAAA) District",6,2026-07-20,2026-07-20,2026-07,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Energy Limited,Valsad,2,2026-07-20,2026-08-17,2026-07,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Gas Limited,Ahmedabad District (EAAA),16,2025-01-01,2026-05-16,2025-03,2026-06,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Gas Limited,Amreli District,16,2025-01-01,2026-05-16,2025-03,2026-06,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Gas Limited,Amritsar District,12,2026-05-16,2026-05-16,2025-06,2026-06,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Gas Limited,Anand District (EAAA),16,2025-01-01,2026-05-16,2025-03,2026-06,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Gas Limited,Bhatinda District,12,2026-05-16,2026-05-16,2025-06,2026-06,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Gas Limited,Bhavnagar,32,2025-01-01,2026-05-16,2025-03,2026-06,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Gas Limited,Dahej Vagra Taluka,16,2025-01-01,2026-05-16,2025-03,2026-06,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Gas Limited,Dahod District,16,2025-01-01,2026-05-16,2025-03,2026-06,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Gas Limited,"Ferozepur, Faridkot and Sri Muktsar Sahib Districts",64,2026-05-16,2026-05-16,2025-03,2026-06,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Gas Limited,Gandhinagar (Part) District,6,2026-05-16,2026-05-16,2025-08,2026-06,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Gas Limited,Gandinagar (Part) District,24,2025-01-01,2025-01-01,2025-03,2026-04,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Gas Limited,Hazira,16,2025-01-01,2026-05-16,2025-03,2026-06,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Gas Limited,Hoshiarpur and Gurdaspur Districts,32,2026-05-16,2026-05-16,2025-03,2026-06,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Gas Limited,Jalore and Sirohi Districts,32,2025-03-17,2026-05-16,2025-03,2026-06,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Gas Limited,Jamnagar,32,2025-01-01,2026-05-16,2025-03,2026-06,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Gas Limited,"Jhabua, Banswara, Ratlam and Dungarpur Districts",64,2025-03-17,2026-05-16,2025-03,2026-06,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Gas Limited,Kutch West,16,2025-01-01,2026-05-16,2025-03,2026-06,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Gas Limited,Nadiad,16,2025-01-01,2026-05-16,2025-03,2026-06,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Gas Limited,Narmada (Rajpipla) District,16,2025-01-01,2026-05-16,2025-03,2026-06,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Gas Limited,Navsari,16,2025-01-01,2026-05-16,2025-03,2026-06,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Gas Limited,Palghar District and Thane Rural,32,2026-05-16,2026-05-16,2025-03,2026-06,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Gas Limited,Panchmahal District,16,2025-01-01,2026-05-16,2025-03,2026-06,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Gas Limited,Rajkot,32,2025-01-01,2026-05-16,2025-03,2026-06,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Gas Limited,"Sirsa, Fatehabad and Mansa (Punjab) Districts",48,2026-05-16,2026-05-16,2025-03,2026-06,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Gas Limited,"Surat, Bharuch, Ankleshwar",47,2025-01-01,2026-05-16,2025-03,2026-06,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Gas Limited,Surendranagar,16,2025-01-01,2026-05-16,2025-03,2026-06,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Gas Limited,UT of Dadra & Nagar Haveli,16,2025-01-01,2026-05-16,2025-03,2026-06,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Gas Limited,"Ujjain (EAAA) District, Dewas (EAAA) District and Indore (EAAA) District",48,2026-05-16,2026-05-16,2025-03,2026-06,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Gas Limited,Valsad,16,2025-01-01,2026-05-16,2025-03,2026-06,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Gas Limited (Earlier authorized to GSPL),Amritsar District,4,,,2025-03,2025-07,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Gujarat Gas Limited (Earlier authorized to GSPL),Bhatinda District,4,,,2025-03,2025-07,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,HCG (KCE) Private Limited,Hisar District,14,2026-05-16,2026-08-18,2025-06,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,HCG Nagpur Pvt. Ltd.,Nagpur district,15,2026-05-28,2026-08-18,2025-06,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,HCG Raipur Pvt Ltd,"Baloda Bazar, Gariyaband and Raipur districts",15,2024-08-24,2026-08-18,2025-06,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,HPOIL Gas Private Limited,Ambala and Kurukshetra Districts,36,2026-01-19,2026-07-18,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,HPOIL Gas Private Limited,Kolhapur District,18,2024-11-17,2026-06-16,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Haridwar Natural Gas Private Limited,Haridwar District,18,2025-01-01,2026-01-01,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Haryana City Gas (KCE) Private Limited,Hisar District,1,,,2025-09,2025-09,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Haryana City Gas (KCE) Private Limited,Jhajjar District,15,2025-08-15,2026-08-18,2025-06,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Haryana City Gas Distribution (Bhiwadi) Limited,Bhiwadi (in Alwar District),18,2024-12-31,2026-08-30,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Haryana City Gas Distribution Limited,Gurugram-2,15,2026-05-28,2026-08-18,2025-06,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Hindustan Petroleum Corporation Limited,Ahmedabad City (Only CNG),17,2025-03-19,2026-07-22,2025-03,2026-07,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Hindustan Petroleum Corporation Limited,"Banka (Bihar), Dumka, Godda, Jamtara, Pakur & Sahibganj Districts",90,2022-09-27,2026-05-28,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Hindustan Petroleum Corporation Limited,"Bareilly (EAAA) District, Pilibhit and Rampur Districts",54,2024-11-16,2026-05-28,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Hindustan Petroleum Corporation Limited,Bijnor and Nainital Districts,36,2024-11-16,2026-05-28,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Hindustan Petroleum Corporation Limited,"Birbhum, Murshidabad, Maldah & Dakshin Dinajpur Districts",53,2026-01-01,2026-05-27,2025-07,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Hindustan Petroleum Corporation Limited,"Darjeeling, Jalpaiguri and Uttar Dinajpur Districts",42,2025-12-31,2026-06-13,2025-04,2026-07,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Hindustan Petroleum Corporation Limited,"Dausa, Karauli, Sawai Madhopur and Tonk districts",72,2025-03-18,2026-08-30,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Hindustan Petroleum Corporation Limited,"Farrukhabad, Etah and Hardoi Districts",54,2024-11-11,2026-05-28,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Hindustan Petroleum Corporation Limited,Howrah (EAAA) District and Hooghly (EAAA) District,22,2024-06-24,2026-05-27,2025-04,2026-07,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Hindustan Petroleum Corporation Limited,Mainpuri and Kannauj Districts,36,2024-11-15,2026-05-27,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Hindustan Petroleum Corporation Limited,Nadia (EAAA) District and North 24 Parganas (EAAA) District,36,2024-06-24,2026-05-27,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Hindustan Petroleum Corporation Limited,Shahjahanpur and Budaun Districts,36,2024-11-16,2026-05-28,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Hindustan Petroleum Corporation Limited,Sonipat District (EAAA) & Jind District,36,2024-11-16,2026-05-27,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Hindustan Petroleum Corporation Limited,South 24 Parganas (EAAA) District,15,2026-01-01,2026-01-01,2025-04,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,IRM Energy Limited,Banaskantha District,18,2026-01-01,2026-08-30,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,IRM Energy Limited,Diu & Gir Somnath Districts,37,2026-01-01,2026-08-30,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,IRM Energy Limited,Fatehgarh Sahib District,19,2024-11-14,2026-01-01,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,IRM Energy Limited,Namakkal and Tiruchirapalli districts,36,2026-05-29,2026-05-29,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indian Oil Adani Gas Private Limited,Allahabad,18,2025-12-19,2026-07-17,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indian Oil Adani Gas Private Limited,"Allahabad District (EAAA), Bhadohi & Kaushambi Districts",54,2025-12-19,2026-07-17,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indian Oil Adani Gas Private Limited,Bulandshahr (part) District,17,2025-12-19,2026-07-17,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indian Oil Adani Gas Private Limited,"Bulandshahr District (EAAA), Aligarh & Hathras Districts",54,2025-12-19,2026-07-17,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indian Oil Adani Gas Private Limited,Burdwan District,18,2025-12-19,2026-07-17,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indian Oil Adani Gas Private Limited,Chandigarh,75,2025-12-19,2026-07-17,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indian Oil Adani Gas Private Limited,Dharwad District,18,2025-12-19,2026-07-17,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indian Oil Adani Gas Private Limited,Ernakulam District,18,2025-12-19,2026-07-17,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indian Oil Adani Gas Private Limited,Gaya & Nalanda Districts,36,2026-01-01,2026-07-17,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indian Oil Adani Gas Private Limited,Jaunpur and Ghazipur Districts,36,2024-11-30,2026-07-17,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indian Oil Adani Gas Private Limited,"Kannur, Kasaragod & Mahe Districts",54,2024-11-30,2026-07-17,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indian Oil Adani Gas Private Limited,Kozhikode & Wayanad Districts,36,2024-11-30,2026-07-17,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indian Oil Adani Gas Private Limited,Malappuram District,18,2025-12-19,2026-07-17,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indian Oil Adani Gas Private Limited,Palakkad & Thrissur Districts,36,2025-12-19,2026-07-17,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indian Oil Adani Gas Private Limited,"Panchkula District (EAAA), Sirmaur, Shimla & Solan (EAAA) Districts",56,2024-11-30,2026-07-17,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indian Oil Adani Gas Private Limited,Panipat District,18,2025-12-19,2026-07-17,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indian Oil Adani Gas Private Limited,South Goa District,18,2025-12-19,2026-07-17,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indian Oil Adani Gas Private Limited,UT of Daman,18,2025-12-19,2026-07-17,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indian Oil Adani Gas Private Limited,Udham Singh Nagar District,18,2025-12-19,2026-07-17,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indian Oil Corporation Limited,"Araria, Purnia, Katihar and Kishanganj Districts",68,2025-04-16,2026-05-27,2025-04,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indian Oil Corporation Limited,"Arwal, Jehanabad, Bhojpur and Buxar Districts",68,2025-04-16,2026-05-27,2025-04,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indian Oil Corporation Limited,Ashoknagar District,17,2025-04-16,2026-05-27,2025-04,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indian Oil Corporation Limited,"Aurangabad, Kaimur & Rohtas Districts",51,2025-04-16,2026-05-27,2025-04,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indian Oil Corporation Limited,"Beed, Jalgaon and Jalna districts",51,2025-04-16,2026-05-27,2025-04,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indian Oil Corporation Limited,"Bokaro, Hazaribagh & Ramgarh Districts",51,2025-04-16,2026-05-27,2025-04,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indian Oil Corporation Limited,Coimbatore District,17,2025-04-16,2026-05-27,2025-04,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indian Oil Corporation Limited,Dharmapuri and Krishnagiri districts,34,2025-04-16,2026-05-27,2025-04,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indian Oil Corporation Limited,"East Mednipore, West Mednipore and Jhargram districts",51,2025-04-16,2026-05-27,2025-04,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indian Oil Corporation Limited,Guna District,17,2025-04-16,2026-05-27,2025-04,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indian Oil Corporation Limited,"Jagtial, Peddapalli, Karimnagar & Rajanna Sircilla Districts",68,2025-04-16,2026-05-27,2025-04,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indian Oil Corporation Limited,"Jammu, Udhampur, Reasi, Samba and Kathua districts",85,2025-04-16,2026-05-27,2025-04,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indian Oil Corporation Limited,"Jhunjhunu, Sikar and Nagaur districts",51,2025-04-16,2026-05-27,2025-04,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indian Oil Corporation Limited,"Kanyakumari, Thoothukudi, Tiruneveli Kattabo and Tenkasi districts",68,2025-04-16,2026-05-27,2025-04,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indian Oil Corporation Limited,"Khagaria, Saharsa and Madhepura Districts",51,2025-04-16,2026-05-27,2025-04,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indian Oil Corporation Limited,"Kurnool, Guntur, and Prakasam districts",51,2025-04-16,2026-05-27,2025-04,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indian Oil Corporation Limited,"Lakhisarai, Munger and Bhagalpur Districts",51,2025-04-16,2026-05-27,2025-04,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indian Oil Corporation Limited,"Madurai, Theni and Virudhnagar districts",51,2025-04-16,2026-05-27,2025-04,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indian Oil Corporation Limited,Morena District,17,2025-04-16,2026-05-27,2025-04,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indian Oil Corporation Limited,"Muzaffarpur, Vaishali, Saran and Samastipur Districts",68,2025-04-16,2026-05-27,2025-04,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indian Oil Corporation Limited,Nawada and Koderma Districts,34,2025-04-16,2026-05-27,2025-04,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indian Oil Corporation Limited,Pathankot district,17,2025-04-16,2026-05-27,2025-04,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indian Oil Corporation Limited,Rewa District,17,2025-04-16,2026-05-27,2025-04,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indian Oil Corporation Limited,Salem District,17,2025-05-14,2026-05-27,2025-04,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indian Oil Corporation Limited,"Sheikhpura, Jamui and Deoghar Districts",51,2025-04-16,2026-05-27,2025-04,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indian Oil Corporation Limited,"Srikakulam, Visakhapatnam & Vizianagaram Districts",51,2025-04-16,2026-05-27,2025-04,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indraprastha Gas Limited,"Ajmer, Pali and Rajsamand Districts",38,2025-03-18,2026-08-29,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indraprastha Gas Limited,"Banda, Chitrakoot and Mahoba",36,2024-11-23,2026-08-29,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indraprastha Gas Limited,Ghaziabad & Hapur Districts,34,2025-10-20,2026-08-29,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indraprastha Gas Limited,Gurugram (Part) District,16,2024-11-23,2026-05-26,2025-03,2026-06,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indraprastha Gas Limited,Gurugram-1 District,2,2026-05-26,2026-08-29,2026-07,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indraprastha Gas Limited,Kaithal District,18,2024-12-28,2026-08-29,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indraprastha Gas Limited,"Kanpur (EAAA) District, Fatehpur and Hamirpur Districts",36,2024-12-28,2026-08-29,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indraprastha Gas Limited,Karnal District,18,2024-12-28,2026-08-29,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indraprastha Gas Limited,"Meerut District (EAAA), Muzaffarnagar & Shamli Districts",38,2025-03-20,2026-08-29,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indraprastha Gas Limited,NCT of Delhi,18,2024-06-22,2026-08-29,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indraprastha Gas Limited,Noida(Including Greater Noida),18,2025-10-20,2026-08-29,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Indraprastha Gas Limited,Rewari District,18,2024-12-28,2026-08-29,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Mahanagar Gas Limited,Mumbai & Greater Mumbai,35,2024-12-22,2026-05-30,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Mahanagar Gas Limited,Raigarh District (EAAA),18,2024-12-22,2026-05-30,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Mahanagar Gas Limited,Thane Urban and adjoining municipalities,35,2024-12-22,2026-05-30,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Maharashtra Natural Gas Limited,"Buldana, Nanded and Parbhani districts",36,2024-11-22,2026-05-28,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Maharashtra Natural Gas Limited,"Nizamabad, Adilabad, Nirmal, Mancherial Kumuram Bheem Asifabad and Kamareddy districts",102,2022-09-23,2026-05-28,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Maharashtra Natural Gas Limited,"Pune City including Pimpri-Chiechwad& adjoining contiguous areas Hinjewadi, Chakan, Talegaon",18,2024-12-28,2026-06-16,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Maharashtra Natural Gas Limited,Ramanagara District,18,2026-05-28,2026-06-16,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Maharashtra Natural Gas Limited,Sindhudurg District,18,2024-09-09,2026-06-16,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Maharashtra Natural Gas Limited,"Valsad (EAAA), Dhule & Nashik Districts",54,2024-11-22,2026-06-16,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Megha City Gas Distribution Private Limited,"Agar Malwa, Neemuch, Mandsaur and Jhalawar districts",72,2024-10-16,2026-05-24,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Megha City Gas Distribution Private Limited,Amroha (except area already authorized) & Sambhal (except area already authorized) districts,36,2026-01-01,2026-05-16,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Megha City Gas Distribution Private Limited,Ariyalur and Perambalur districts,18,2025-02-16,2026-05-26,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Megha City Gas Distribution Private Limited,Belgaum District,18,2026-01-01,2026-01-01,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Megha City Gas Distribution Private Limited,"Betul, Chhindwara, Seoni and Balaghat districts",54,2026-05-16,2026-05-16,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Megha City Gas Distribution Private Limited,Bhadradri Kothagudem & Khamman Districts,36,2024-10-16,2026-05-24,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Megha City Gas Distribution Private Limited,Chandrapur and Wardha districts,36,2023-08-29,2026-05-16,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Megha City Gas Distribution Private Limited,Chikkaballapur district,18,2026-01-01,2026-05-16,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Megha City Gas Distribution Private Limited,"Damoh, Jabalpur, Katni, Mandla, Umaria and Dindori districts",36,2026-05-16,2026-05-16,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Megha City Gas Distribution Private Limited,Dindigul and Karur districts,36,2025-02-16,2026-05-26,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Megha City Gas Distribution Private Limited,"Hoshangabad, Narsinghpur, Sagar and Vidisha districts",52,2026-05-16,2026-05-16,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Megha City Gas Distribution Private Limited,"Jangaon, Jayashankar Bhupalpally, Mahabubabad, Warangal Urban & Warangal Rural Districts",88,2024-10-16,2026-05-24,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Megha City Gas Distribution Private Limited,"Jogulamba Gadwal, Nagarkurnool, Mahabubnagar, Narayanpet, Wanaparthy and Yadgir districts",108,2024-02-02,2026-05-24,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Megha City Gas Distribution Private Limited,Kasganj district,18,2026-01-01,2026-05-16,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Megha City Gas Distribution Private Limited,Krishna District (EAAA),18,2024-10-17,2026-05-24,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Megha City Gas Distribution Private Limited,"Medchal-Malkajgiri, Ranga Reddy & Vikarabad Districts",54,2024-10-16,2026-05-24,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Megha City Gas Distribution Private Limited,Nalgonda Suryapet & Yadadri Bhuvanagiri Districts,54,2024-10-16,2026-05-24,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Megha City Gas Distribution Private Limited,"Pudukottai, Sivaganga and Thanjavur districts",48,2025-02-16,2026-05-26,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Megha City Gas Distribution Private Limited,"Rayagada, Kalahandi, Bolangir and Nuapada districts",54,2024-11-26,2026-01-01,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Megha City Gas Distribution Private Limited,Tarn Taran district,18,2026-01-01,2026-05-24,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Megha City Gas Distribution Private Limited,"Tiruvannamalai, Villupuram and Kallakkurichi districts",51,2022-08-27,2026-05-26,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Megha City Gas Distribution Private Limited,Tumkur District,18,2026-01-01,2026-03-26,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,NEGDCL,"Dhalai, North Tripura, Unakoti and Khowai",1,,,2025-05,2025-05,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,NEGDCL,"Lakhimpur, Dhemaji , Darrang, Udalgiri, Sonitpur and Biswanath Chariali districts",1,2023-05-24,2023-05-24,2025-05,2025-05,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,NEGDCL,South Tripura and Sepahijala district,2,,,2025-05,2025-05,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Naveriya Gas Private Limited,Dhar District,18,2026-01-01,2026-05-16,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,North East Distribution Company Limited,"Dhalai, North Tripura, Unakoti and Khowai",3,,,2025-08,2025-09,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,North East Distribution Company Limited,"Lakhimpur, Dhemaji , Darrang, Udalgiri, Sonitpur and Biswanath Chariali districts",4,,,2025-08,2025-09,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,North East Distribution Company Limited,South Tripura and Sepahijala district,3,,,2025-08,2025-09,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,North East Gas Distribution Company Limited,"Dhalai, North Tripura, Unakoti and Khowai",14,2026-01-01,2026-05-28,2025-07,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,North East Gas Distribution Company Limited,"Lakhimpur, Dhemaji , Darrang, Udalgiri, Sonitpur and Biswanath Chariali districts",19,,,2025-07,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,North East Gas Distribution Company Limited,South Tripura and Sepahijala district,14,2026-01-01,2026-05-28,2025-07,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,North East Gas Distribution company Limited,"Dhalai, North Tripura, Unakoti and Khowai",8,2025-03-25,2026-01-01,2026-02,2026-06,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,North East Gas Distribution company Limited,"Lakhimpur, Dhemaji , Darrang, Udalgiri, Sonitpur and Biswanath Chariali districts",9,2025-03-25,2025-03-25,2026-02,2026-06,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,North East Gas Distribution company Limited,South Tripura and Sepahijala district,8,2025-03-25,2026-01-01,2026-02,2026-06,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,North east gas distribution company limited,"Dhalai, North Tripura, Unakoti and Khowai",1,,,2025-06,2025-06,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,North east gas distribution company limited,"Lakhimpur, Dhemaji , Darrang, Udalgiri, Sonitpur and Biswanath Chariali districts",2,,,2025-06,2025-06,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,North east gas distribution company limited,South Tripura and Sepahijala district,1,,,2025-06,2025-06,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Purba Bharati Gas Private Limited,"Cachar, Hailakandi & Karimganj Districts",16,2026-05-21,2026-05-21,2025-05,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Purba Bharati Gas Private Limited,Kamrup & Kamrup Metropolitan Districts,22,2023-01-01,2026-05-21,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Purba Bharti Gas Private Limited,"Dhalai, North Tripura, Unakoti and Khowai",1,,,2025-04,2025-04,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Purba Bharti Gas Private Limited,South Tripura and Sepahijala district,1,,,2025-04,2025-04,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Rajasthan State Gas Limited,Gwalior (EAAA) District and Sheopur District,33,2025-10-18,2026-06-06,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Rajasthan State Gas Limited,Kota,18,2025-03-14,2026-05-28,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Sabarmati Gas Limited,"Gandhinagar, Mehsana, Sabarkantha",72,2025-01-01,2026-08-17,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Sabarmati Gas Limited,Patan District,18,2025-01-01,2026-08-17,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Sholagasco Private Limited,Solapur District,4,2024-01-01,2026-05-15,2025-07,2026-05,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Sholagasco Private Limited/IMC,Solapur District,1,2024-01-01,2024-01-01,2025-04,2025-04,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,THINK Gas Begusarai Private Limited,Begusarai District,18,2026-01-01,2026-08-22,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,THINK Gas Bhopal Private Limited,Bhopal & Rajgarh Districts,36,2026-01-01,2026-08-22,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,THINK Gas Bhopal Private Limited,Shivpuri District,18,2026-01-01,2026-08-22,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,THINK Gas Ludhiana Private Limited,"Jalandhar District (EAAA), Kapurthala & SBS Nagar Districts",54,2025-12-16,2026-08-22,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,THINK Gas Ludhiana Private Limited,"Ludhiana District (EAAA), Barnala & Moga Districts",54,2025-12-16,2026-08-22,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,THINK Gas Private Limited,"Barmer, Jaisalmer & Jodhpur Districts",3,,,2026-07,2026-07,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,THINK Gas Private Limited,Kanchipuram District,1,,,2026-07,2026-07,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,THINK Gas Private Limited,Ramanathapuram District,1,,,2026-07,2026-07,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Think Gas Himachal Private Limited,Kangra and Chamba districts,18,2026-01-01,2026-08-16,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Think Gas Private Limited,"Barmer, Jaisalmer & Jodhpur Districts",3,2026-08-22,2026-08-22,2026-08,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Think Gas Private Limited,Kanchipuram District,1,2026-08-22,2026-08-22,2026-08,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Think Gas Private Limited,Ramanathapuram District,1,2026-08-22,2026-08-22,2026-08,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Think Gas Pvt. Ltd.,"Barmer, Jaisalmer & Jodhpur Districts",3,2026-05-24,2026-05-24,2026-05,2026-05,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Think Gas Pvt. Ltd.,Kanchipuram District,1,,,2026-05,2026-05,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Think Gas Pvt. Ltd.,Ramanathapuram District,1,,,2026-05,2026-05,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Torrent Gas Chennai Private Limited,Chennai & Tiruvallur Districts,36,2026-01-01,2026-05-27,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Torrent Gas Jaipur Private Limited,Alwar (Other than Bhiwadi) & Jaipur Districts,36,2025-03-17,2026-07-23,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Torrent Gas Limited,"Auraiya, Kanpur Dehat & Etawah Districts",54,2025-10-16,2026-08-22,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Torrent Gas Limited,"Azamgarh, Mau and Ballia Districts",54,2025-10-16,2026-08-21,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Torrent Gas Limited,Basti and Ambedkarnagar Districts,36,2025-01-01,2026-08-21,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Torrent Gas Limited,Gonda and Barabanki Districts,36,2025-10-16,2026-08-21,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Torrent Gas Limited,"Gorakhpur, Sant Kabir Nagar & Kushinagar Districts",54,2025-10-16,2026-08-21,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Torrent Gas Limited,Junagadh District,18,2025-05-13,2026-08-21,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Torrent Gas Limited,Karaikal & Nagapattinam Districts,36,2026-01-01,2026-05-27,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Torrent Gas Limited,"Kota District (EAAA), Baran & Chittorgarh (Only Rawatbhata Taluka) Districts",54,2025-03-17,2026-08-22,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Torrent Gas Limited,Mathura,18,2025-05-13,2026-07-23,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Torrent Gas Limited,"Medak, Siddipet & Sangareddy Districts",54,2026-01-01,2026-07-23,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Torrent Gas Limited,Moradabad,18,2025-01-01,2026-07-23,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Torrent Gas Limited,Moradabad (EAAA) District,18,2025-01-01,2026-07-23,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Torrent Gas Limited,Pune District (EAAA),18,2026-01-01,2026-07-23,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Torrent Gas Limited,"SAS Nagar District (EAAA), Patiala & Sangrur Districts",54,2025-10-16,2026-07-23,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Tripura Natural Gas Company Limited,Agartala,18,2026-01-01,2026-01-01,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Tripura Natural Gas Company Limited,Gomati District,18,2026-01-01,2026-01-01,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Tripura Natural Gas Company Limited,West Tripura (EAAA) District,19,2026-01-01,2026-01-01,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Unison Enviro Private Limited,Chitradurga & Davanagere Districts,36,2024-11-22,2026-05-30,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Unison Enviro Private Limited,Latur & Osmanabad Districts,36,2026-05-30,2026-05-30,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Unison Enviro Private Limited,Ratnagiri District,18,2024-11-22,2026-05-30,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.
+pngrb_prices,Vadodara Gas Limited,Vadodara,21,2026-01-01,2026-01-01,2025-03,2026-08,False,0,Counts and endpoints do not establish continuity or independent truth.

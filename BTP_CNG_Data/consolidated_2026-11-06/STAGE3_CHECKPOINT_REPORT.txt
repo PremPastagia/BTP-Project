@@ -1,0 +1,112 @@
+BTP STAGE 3 COMPLETION REVIEW — REVISE, NOT ACCEPTED
+6 November 2026
+
+OBJECTIVE
+Recover and reconcile previously collected evidence, repair demonstrated extraction
+errors, remove duplicate active records without destroying lineage, and determine
+whether the approved multi-city research can advance to Stage 4.
+
+INPUTS
+GitHub main 4d4959cc5659c34989a32cc1902622b28a47e429; open draft PR1
+5e57b0ed4867bca25461c1e3211f11796a1c76f4; preserved local legacy data; fresh
+6 November collection; original-source recovery; official MoSPI CPI responses.
+See source_receipts.csv and raw_objects.csv for versions, URLs and SHA256 identities.
+
+METHOD
+Reused byte-identical local sources; recovered missing public originals with bounded
+HTTP requests; retained changed captures as new versions. Stored one object per
+SHA256. Repaired PNGRB body/header schema variants from raw cells. Preserved source
+dates at their actual precision. Consolidated numerical records at native frequency
+and source/version grain with exact Decimal equality. Kept conflicting and unverified
+claims outside canonical numerical observations. Deduplicated corporate documents
+by raw hash, retaining all metadata aliases. No source assertions were silently
+upgraded to verified historical truth or forecasting availability.
+
+ACTUAL RESULTS
+- 1,382 normalized GitHub-source receipts;796 / 856 expected source hashes recovered
+  exactly. All 761 expected PDF hashes are locally present and Poppler-readable.
+- All 185 expected corporate PDFs/188 PR #1 metadata rows recovered. With fresh sources,
+  the cumulative corpus contains 251 distinct corporate PDF identities/375 aliases.
+- 60 older HTML hashes remain unavailable; current captures are separate versions.
+- 1,214 / 1,453 bundle member hashes available. Remaining 239 HTML/text versions are
+  not silently substituted.69 of709 text-extracted PDFs require OCR; 52 additional
+  main PDFs are not covered by that extraction batch.
+- Repaired 1,208 shifted PNGRB body rows, including retail-price/component alignment.
+- 11,699 canonical price-source claims; 19 duplicate aliases retained separately.
+- 10,538 canonical cost-component records; 15 source arithmetic conflicts retained.
+- 695 IGL quotes recovered, including 5 positive numeric-string cells previously lost.
+- 47,830 native numerical observations and395 separate unverified transcription
+  candidates. 8,096 duplicate GPR extraction rows suppressed with aliases preserved.
+- 175 unambiguous official MoSPI CPI months retained. 10 conflicting claims for
+  January–May2013 are excluded; no value was selected to obtain continuity.
+- 34 conflicting infrastructure rows preserved outside canonical observations.
+- Corrected 179 Yahoo source bar periods using its declared Europe/London timezone;
+  excluded 2 incomplete November bars. No monthly averages were invented.
+- 56 national bulletin observations preserve monthly and FY-to-date source totals
+  separately. Station indicators are not labelled operating-station stock.
+- 24 source-version article records,23 with publisher date claims. This is a seed
+  sample, not a representative historical news corpus.
+
+INDEPENDENT VERIFICATION
+Separate price implementation checks raw HTML, Excel cells, source hashes and foreign
+keys. Numerical checks independently verify raw energy workbook cells, IMF CPI,
+World Bank GDP, official MoSPI records and source timezone decoding. Cross-module
+review passed 470 checks; an additional independent acceptance review passed 6 source
+and structural checks. Eight March 2026 CNG sales/station cells were visually verified
+against the original rendered PDF. Package verification results are in logs/.
+Passing these checks is not proof of source completeness or economic truth.
+
+FAILURES AND CONTRADICTIONS
+1. All 415 source-market coverage entries remain uncertified as complete price paths.
+   Exact effective dates, city/GA boundaries and interval continuity require review.
+2. Pune April 2023: MNGL chronology86 INR/kg versus Autocar 87 INR/kg. Both remain,
+   and the disputed interval must not enter an accepted target path without resolution.
+3. 11,576/11,699 price claims lack publication dates. Retrospective outcome-label
+   validity differs from historical availability of lagged prices and predictors.
+4. Corporate publication times remain unverified. Report years, letter dates,
+   retrieval timestamps and HTTP last-modified dates are not inferred release dates.
+5. Three MoPNG PDFs have malformed trailers: Poppler reads them, PyPDF fails.
+   Originals are preserved and flagged for conditional use, not repaired silently.
+6. An older IGL workbook contains 27 formulas and 17 nonpositive cached values.
+   Six negative caches arise from formulas subtracting 2.5 from missing antecedents;
+   these are not actual negative retail prices. Vintages are not silently spliced.
+7. PDF recovery does not complete semantic extraction. The queue includes 301 PPAC
+   reports, 108 gas notifications, 114 PNGRB reports, 185 corporate documents, 32 MoPNG
+   policies, 17 operator/other histories and 4 other official/parliamentary documents.
+8. Observed vehicle registrations/active stock, company procurement/sourcing histories,
+   city demand, statutory tax/tariff histories and historical macro vintages remain
+   partial or missing. National aggregates do not fill those city-level gaps.
+
+STATISTICAL RELIABILITY
+No hypothesis tests, power estimates or forecast metrics were computed at Stage 3.
+Monthly row count is not independent sample size; common operators, repeated prices,
+shared shocks and future overlapping forecast errors will reduce information.
+The news sample and undated company corpus do not establish H2 test feasibility.
+No H1/H2 support, GAM superiority, causal effect or prediction accuracy is claimed.
+
+DECISION
+REVISE. Collection recovery and engineering repair are substantially complete for the
+identified sources. Scientific Stage 3 acceptance is NOT granted. No accepted-data
+snapshot exists; this is a checksum-tracked review candidate. Stage 4 NOT STARTED.
+
+NEXT ACTION / RESEARCHER REVIEW
+Review a bounded city/operator/time scope, deciding which exact-date primary sources
+can establish price paths and which disputed intervals must be excluded. Resolve or
+exclude uncertain publication information before defining historical predictor sets.
+Decide whether H2 can be supported by further dated collection or must remain
+inconclusive/deferred. Approve explicit missing-factor limitations rather than
+manufacturing observations. Complete the remaining relevant semantic/OCR review.
+Only after a revised Stage 3 report and explicit acceptance should an immutable
+accepted snapshot be frozen and Stage 4 target reconstruction/integration begin.
+
+No Stage 4 EDA, stationarity tests, feature selection, model fitting or forecasts ran.
+The final research protocol's Section 2 acceptance gate remains in force.
+
+BOUNDED SCOPE REVIEW
+A further source review identifies 287 interval claims across Delhi, Noida, Lucknow,
+Agra and Unnao. 275 documentary candidates remain after 12 intervals abutting disputed
+GGL boundaries are excluded. These are not monthly targets or certified paths.
+New reporting gives 06:00 effective times and calendar-day disagreements; an exact
+continuous-time TWAP cannot be inferred from date-only revisions. A restricted
+date-resolution study requires explicit qualification and researcher acceptance.
+See metadata/reviews/prices/bounded_path_review_conclusion.txt.

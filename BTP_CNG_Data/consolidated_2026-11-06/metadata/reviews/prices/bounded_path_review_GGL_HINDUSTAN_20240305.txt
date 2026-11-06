@@ -1,0 +1,932 @@
+<!DOCTYPE html><html lang="hi"><head><script id="meta-pixel-base-code">
+                !function(f,b,e,v,n,t,s)
+                {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+                n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+                if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+                n.queue=[];}(window, document,'script');
+                // Automatic events add document click listeners that walk the DOM on
+                // every tap (INP). Only PageView is tracked, so turn them off.
+                fbq('set', 'autoConfig', false, '2442192816092061');
+                fbq('init', '2442192816092061');
+                fbq('track', 'PageView');
+
+                (function(w, d, src) {
+                    var loadPixel = function() {
+                        var script = d.createElement('script');
+                        script.async = true;
+                        script.src = src;
+                        script.fetchPriority = 'low';
+                        d.head.appendChild(script);
+                    };
+                    var schedulePixel = function() {
+                        if (typeof w.requestIdleCallback === 'function') {
+                            w.requestIdleCallback(loadPixel, { timeout: 5000 });
+                        } else {
+                            w.setTimeout(loadPixel, 3000);
+                        }
+                    };
+                    if (d.readyState === 'complete') {
+                        schedulePixel();
+                    } else {
+                        w.addEventListener('load', schedulePixel, { once: true });
+                    }
+                })(window, document, 'https://connect.facebook.net/en_US/fbevents.js');
+            </script><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0, user-scalable=yes"/><link rel="preconnect" href="https://www.livehindustan.com" crossorigin=""/><link rel="preload" as="image" fetchpriority="high" href="https://www.livehindustan.com/lh-img/uploadimage/library/2020/10/29/16_9/16_9_3/default-image384x216.jpg" media="(max-width:1022px)"/><link rel="preload" as="image" fetchpriority="high" href="https://www.livehindustan.com/lh-img/uploadimage/library/2020/10/29/16_9/16_9_1/default-image640x360.jpg" media="(min-width:1023px)"/><link rel="preload" as="image" href="https://www.livehindustan.com/static-content/1y/lh/img/lh-logo-desk.webp" media="(min-width:1023px)" fetchpriority="high"/><link rel="preload" as="image" href="https://www.livehindustan.com/static-content/1y/lh/img/lh-logo-m.webp" media="(max-width:1022px)" fetchpriority="high"/><style id="inlined-css">﻿.mastHeadDesktopShow{display:block;margin-bottom:20px}.mainCont{display:-webkit-flex;display:flex}.wrap{max-width:1280px;margin:0 auto}.wrap ul{margin:0;padding:0;vertical-align:baseline}.rhsCont{width:300px;margin-right:0px}.mainLftCnt{display:-webkit-flex;display:flex;width:100%;flex:1;margin-right:25px;flex-direction:column;max-width:955px}.storyblk{margin:0 20px;overflow:hidden}.cardImg{width:100%;border-radius:4px}.dMobile{display:none}@media(max-width: 768px){.dMobile{display:block}}.logoBndWrp{position:fixed;max-width:1100px;min-height:90px;left:0;right:0;margin:auto;z-index:999;bottom:0}.logoBndWrp.rel{position:relative;z-index:9}.logoBndWrp .cross{cursor:pointer;right:16px;top:-16px;right:-7px;width:30px;box-shadow:0 4px 6px rgba(0,0,0,.2);border:33 solid #7e7e7e;height:30px;background:#f0f0f0;border-radius:100%;display:flex;position:absolute;-webkit-transform-origin:center;-moz-transform-origin:center;transform-origin:center}.logoBndWrp .cross:before,.logoBndWrp .cross:after{top:50%;content:"";position:absolute;left:50%;width:16px;height:1.7px;background-color:#565656;-webkit-transform:translate(-50%, -50%) rotate(45deg);-moz-transform:translate(-50%, -50%) rotate(45deg);transform:translate(-50%, -50%) rotate(45deg)}.logoBndWrp .cross::after{-webkit-transform:translate(-50%, -50%) rotate(-45deg);-moz-transform:translate(-50%, -50%) rotate(-45deg);transform:translate(-50%, -50%) rotate(-45deg)}.logo-band-ad{overflow:hidden;width:100%;text-align:center;background-color:#fbfbfb}.logo-band-ad-top{overflow:hidden;width:100%;text-align:center;background-color:#fbfbfb;margin-bottom:8px;min-height:90px}.articleWrp{position:relative;margin-bottom:20px}.astro25bnner{width:100%}.moreNvZIdx59{z-index:59}.moreNvZIdx65{z-index:65}.brndPst{color:#353535;font-weight:700;font-size:14px}.addtnlTxtAtEOA{font-size:18px;line-height:22px;color:#333;margin:10px 0;margin-bottom:20px}.addtnlTxtAtEOA a{color:#36c;cursor:pointer;pointer-events:all}.addtnlTxtAtEOA a strong{color:#444}.storyArticle{flex:1;display:flex;flex-direction:column}.storyArticle .inlnSpclTg{display:inline;color:#c4132a;margin-right:6px}.storyArticle .figCptn{font-size:14px;color:#48484a;padding:6px 10px;background:#f2f2f2;line-height:1.7rem;margin:0;position:relative;top:-4px}.storyArticle .stryHdg{font-size:32px;line-height:44px;margin-bottom:16px;color:#222;height:auto;max-height:308px;pointer-events:auto;overflow:hidden;font-weight:600}.storyArticle .headStry{height:115px;padding:8px;border-radius:4px;background-color:#f3f4f6;margin-bottom:16px;position:relative}.storyArticle .subHdg{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;text-overflow:ellipsis;box-orient:vertical;overflow:hidden;color:#222;font-size:20px;border-radius:4px;font-weight:400;line-height:32px}.storyArticle .subHdg ul{list-style-type:none}.storyArticle .mstheadAdMob{display:none}.storyArticle .mstheadAdMobGadgets{display:none}.storyArticle .vdoPly{position:absolute;left:0;right:0;height:100%;width:100%;top:0;bottom:0;display:flex;align-items:center;justify-content:center;z-index:2;cursor:pointer}.storyArticle .vdoPly:after{z-index:9;content:"";border:2px solid #fff;width:50px;cursor:pointer;position:absolute;height:50px;border-radius:100px;background:rgba(0,0,0,.5)}.storyArticle .vdoPly:before{content:"";position:absolute;width:0;cursor:pointer;height:0;z-index:10;border-top:12px solid rgba(0,0,0,0);border-bottom:12px solid rgba(0,0,0,0);border-left:14px solid #fff;border-radius:2px}.storyArticle .topImgBlk{position:relative;margin-bottom:12px}.storyArticle .topImgBlk img,.storyArticle .topImgBlk iframe{width:100%;aspect-ratio:4/3;height:auto}.storyArticle .topVdoWrap{position:relative;width:100%;aspect-ratio:4/3}.storyArticle .topVdoWrap iframe{width:100%;height:100%}.storyArticle .topImgBlk .pipIframe{position:fixed;right:16px;bottom:16px;width:min(320px,80vw);height:min(180px,45vw);aspect-ratio:auto;z-index:70;border-radius:8px;overflow:hidden;box-shadow:0 8px 24px rgba(0,0,0,.28);background:#000}.storyArticle .pipClose{position:fixed;right:22px;bottom:calc(16px + min(180px,45vw) - 28px - 6px);z-index:72;width:28px;height:28px;border-radius:50%;border:none;background:rgba(0,0,0,.65);color:#fff;font-size:20px;line-height:28px;text-align:center;cursor:pointer}@media(max-width: 768px){.storyArticle .topImgBlk .pipIframe{bottom:120px;width:min(240px,70vw);height:min(135px,40vw)}.storyArticle .pipClose{bottom:calc(120px + min(135px,40vw) - 28px - 6px)}}.storyArticle .adBlk{background-color:#0f0f0f;position:relative;height:280px;margin-bottom:20px;display:flex;justify-content:center;text-align:center;padding-bottom:10px}.storyArticle .adBlk:before{content:"विज्ञापन";margin:0 auto;min-height:11px;color:#777;font-size:14px;line-height:16px;padding:5px 0}.stryShreWrap{display:flex;margin-bottom:24px;justify-content:space-between;align-items:center}.stryShreWrap .tmStmp{font-size:14px;color:#757575;display:flex;font-family:sans-serif}.stryShreWrap .athrInfo{font-size:14px;color:#757575;line-height:22px}.stryShreWrap .athrInfo .nameLst{display:block}.stryShreWrap .athrInfo .seqRow{display:flex}.stryShreWrap .athrInfo .athrCreat{display:flex;flex-direction:column;margin-bottom:10px}.stryShreWrap .athrInfo a{text-decoration:none;color:#353535;font-family:sans-serif;font-size:16px;display:flex;align-items:center;margin-left:4px;margin-right:4px;font-weight:700}.stryShreWrap .athrInfo a.noDot::after{width:0;height:0}.stryShreWrap .strpFlw{display:flex;justify-content:center;text-align:center;position:relative}.stryShreWrap .strpFlw a{min-width:85px;width:85px;height:50px}.stryShreWrap .strpFlw a img{width:100%}.stryShreWrap .strpFlw .last{padding-top:1px}.stryShreWrap .strpFlw>span{position:absolute;font-size:10px;bottom:0;left:0;right:0;margin:auto;font-weight:500;color:rgba(34,34,34,.8);font-style:normal}.stryShreWrap .shrView{display:flex;align-items:center;border-radius:4px;gap:10px;background-color:#fff}.stryShreWrap .shrView .echoShrWidget{display:flex;align-items:center;justify-content:center}.stryShreWrap .shrView .echoShrWidget:empty{display:none}.stryShreWrap .shrView .echoShrWidget a{display:flex;cursor:pointer;width:127px;height:52px;margin-left:0;margin-right:10px}.stryShreWrap .shrView .echoShrWidget a img{width:127px;height:52px}@media(max-width: 768px){.stryShreWrap .shrView .echoShrWidget a{width:120px;height:52px}.stryShreWrap .shrView .echoShrWidget a img{width:120px;height:52px}}.stryShreWrap .shrView .wrpShr{height:40px;width:40px;touch-action:manipulation;-webkit-tap-highlight-color:rgba(0,0,0,0);cursor:pointer;font-size:14px;font-style:normal;font-weight:700;line-height:24px;color:#222;padding:5px 6px;position:relative;display:flex;align-items:center;border-radius:8px;border:1px solid #9ca3af}.stryShreWrap .shrView .shrImg{width:24px;height:24px;margin-right:3px}.stryShreWrap .shrView .shrIcn{display:flex;align-items:center;flex-direction:column;border-radius:8px;border:1px rgba(0,0,0,.05);width:40px;padding:10px 0;top:20px;position:absolute;box-shadow:1.5px 1.5px 4px 0px rgba(0,0,0,.08);background-color:#fff;z-index:9}.stryShreWrap .shrView .shrIcn p{font-size:13px;margin-right:15px}.stryShreWrap .shrView .gnwsStry{margin-bottom:0}.stryShreWrap .shrView .hideDesk{display:none}.stryShreWrap .shrView .shrIcn a{display:flex;cursor:pointer;width:24px;margin-bottom:16px}.stryShreWrap .shrView .shrIcn a img{width:100%}.stryShreWrap .shrView .shrIcn a:last-child{margin-bottom:0;margin-left:0}.stryShreWrap .shrView .gglNws{border:1px solid #4a8af4;padding:0 10px;-moz-border-radius:20px;-webkit-border-radius:20px;border-radius:20px;color:#4a8af4;display:flex;height:35px;line-height:35px;align-items:center;justify-content:space-between;gap:5px}.stryShreWrap .shrView .gglNws img{height:22px;width:22px;margin-left:5px;overflow:hidden;margin-top:10px}.stryShreWrap a.trdBtn{background-color:#c4132a;padding:0 12px;display:flex;width:fit-content;justify-content:center;color:#fff;font-size:14px;border-radius:12px;line-height:28px;margin-right:0}.goglTrst{display:none}.stryCnt{position:relative}.stryCnt a{color:#36c;font-size:19px}.stryCnt h2{font-size:20px;font-weight:700;line-height:30px;color:#333;margin-bottom:8px}.stryCnt h2 a{color:#36c;font-size:19px}.stryCnt p{margin:10px 0;line-height:180%;font-size:18px;text-align:left;pointer-events:auto;color:#333}.stryCnt p:empty{display:none}.stryCnt p strong{font-weight:700;font-size:20px;color:#333;display:inline;margin:8px 0 8px 0}.stryCnt p a{color:#36c;cursor:pointer;pointer-events:all}.stryCnt p a strong{color:#1a0dab}.stryCnt ol{margin:10px 20px;font-size:18px;line-height:180%}.stryCnt ol li{list-style:decimal;padding:5px 0}.stryCnt .contImg{width:100%;margin:10px 0}.stryCnt blockquote{margin:20px auto !important;pointer-events:all;overflow:scroll;height:315px;width:100%}.stryCnt .afDisclaimer{margin:10px 0;padding:10px 0}.story-content-paragraph ul{list-style:none;margin:0;padding:0}.story-content-paragraph ul li{list-style:none;display:flex;align-items:flex-start;gap:10px;padding:14px 0;border-bottom:.5px solid #d1d5db;font-size:18px;line-height:1.6;color:#333}.story-content-paragraph ul li:first-child{border-top:.5px solid #d1d5db}.story-content-paragraph ul li::before{content:"";display:inline-block;width:5px;height:5px;min-width:5px;background:linear-gradient(135deg, #f472b6, #8b5cf6);transform:rotate(45deg);flex-shrink:0;margin-top:13px;margin-left:5px}.nxtArticlsBlk{position:relative;margin-bottom:26px;text-align:center}.nxtArticlsBlk:before{content:"";position:absolute;border-bottom:2px solid #2f2235;height:1px;width:100%;display:block;top:16px;z-index:1}.nxtArticlsBlk .nxtTxt{line-height:36px;display:inline-block;transform:skew(-20deg);position:relative;margin-bottom:10px;z-index:1;background-color:#2f2235;color:#fff;font-weight:700;font-size:18px;padding:0 33px;line-height:36px}.nxtArticlsBlk .nxtTxt:before{content:"";position:absolute;width:10px;height:26px;top:0;background:#fff;z-index:1;left:-10px}.nxtArticlsBlk .nxtTxt:after{right:-10px;left:inherit;content:"";position:absolute;width:10px;height:26px;top:0;background:#fff;z-index:1}.nxtArticlsBlk .nxtLineTxt{transform:skew(20deg);display:block}.nxtArtcleHdng{display:flex;align-items:center;justify-content:center;margin-bottom:15px}.nxtArtcleHdng .line{flex:1;height:1px}.nxtArtcleHdng .line.left{background:linear-gradient(to right, rgba(255, 255, 255, 0), #d8d7d9)}.nxtArtcleHdng .line.right{background:linear-gradient(to left, rgba(255, 255, 255, 0), #d8d7d9)}.nxtArtcleHdng .label{display:flex;align-items:center;gap:8px;padding:0 12px;color:#030712;font-size:16px;line-height:27px;font-weight:400;position:relative}.nxtArtcleHdng .label::before,.nxtArtcleHdng .label::after{content:"";width:0;height:0;border-left:7px solid rgba(0,0,0,0);border-right:7px solid rgba(0,0,0,0);border-top:9px solid #d0021b}.nxtArtcleHdng .label::before{margin-right:4px}.nxtArtcleHdng .label::after{margin-left:4px}.inlineArtclWrp{border-left:4px solid #dd273f;position:relative;padding-left:16px;font-size:20px;font-style:normal;font-weight:700;color:#222;line-height:30px;display:inline-block;min-height:60px;margin-bottom:24px}.inlineArtclWrp a{color:#dd273f;text-decoration:underline;font-weight:500;padding-left:4px}.stickyAglaLekh,.nxtarblck{display:none}.linearText{margin-bottom:20px;overflow-x:scroll;white-space:nowrap;font-size:12px;margin-bottom:0px;-ms-overflow-style:-ms-autohiding-scrollbar;-webkit-overflow-scrolling:touch;width:100%;line-height:24px;color:#393939}.linearText a{color:#393939;font-weight:700;text-decoration:underline}.linearText .downldAp{color:#000;pointer-events:none}.pooraLekhWrp{width:100%;position:relative;height:auto;padding:10px 0;display:flex;justify-content:center;align-items:center}.pooraLekhWrp.cssBased{position:absolute;background-image:linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.88) 63%, #fff);z-index:5;bottom:0;left:0}.pooraLekhWrp button{height:35px;font-size:14px;font-style:normal;font-weight:800;line-height:24px;letter-spacing:normal;color:#c4132a;cursor:pointer;width:118px;display:flex;align-items:center;justify-content:center;white-space:nowrap;font-weight:800;border-radius:4px;border:1px solid #c4132a;background:#fff}.pooraLekhWrp i{border:solid #c4132a;border-width:0 2px 2px 0;display:inline-block;padding:3px;margin:1px 0 2px 8px;transform:rotate(45deg)}.tabooWrp{min-height:283px}.endOfArtcBnr{margin-bottom:16px;display:block}.aiSummryBtn{display:none}.kyPntsWrp{background:#fef9f0;border-left:3px solid #c4132a;border-radius:0 8px 8px 0;padding:12px 14px;margin:4px 0 20px}.kyPntsHd{display:flex;align-items:center;gap:8px;font-size:14px;font-weight:700;color:#1a1a1a;margin:0 0 8px}.kyPntsHd::before{content:"";width:16px;height:14px;flex-shrink:0;background:linear-gradient(#c4132a, #c4132a) 0 0/16px 2px no-repeat,linear-gradient(#c4132a, #c4132a) 0 6px/10px 2px no-repeat,linear-gradient(#c4132a, #c4132a) 0 12px/14px 2px no-repeat}.kyPntsList{margin:0;padding:0 0 0 6px;list-style:none}.kyPntsList li{position:relative;padding:4px 0 4px 16px;font-size:13px;line-height:1.6;color:#333}.kyPntsList li::before{content:"";position:absolute;left:0;top:11px;width:6px;height:6px;background:#c4132a;border-radius:50%}@media(max-width: 768px){.storyblk.mobilePerpetualSliderStoryBlock{overflow:visible}.perpetualStoryCardArticle{margin-bottom:20px}.perpetualStorySliderStage{--perpetual-reel-height: 100vh;--perpetual-reel-runway: 200vh;--perpetual-reel-top: 96px;--perpetual-reel-bottom: 114px;--perpetual-reel-slot: calc( var(--perpetual-reel-height) - var(--perpetual-reel-top) - var(--perpetual-reel-bottom) );--perpetual-card-h: var(--perpetual-reel-slot);position:relative;flex:0 0 auto;width:100vw;margin-left:calc(50% - 50vw);height:calc(var(--perpetual-reel-slot) + var(--perpetual-reel-runway));margin-bottom:20px;background:#fff}@supports(height: 100dvh){.perpetualStorySliderStage{--perpetual-reel-height: 100dvh;--perpetual-reel-runway: 200dvh}}.perpetualStorySliderPin{position:sticky;top:var(--perpetual-reel-top);z-index:2;width:100%;height:var(--perpetual-reel-slot);background:#fff}.perpetualStoryReel{width:100%;height:100%;overflow-x:hidden;overflow-y:hidden;scroll-snap-type:y mandatory;scroll-behavior:auto;overscroll-behavior-y:contain;scrollbar-width:none}.perpetualStoryReel::-webkit-scrollbar{width:0;height:0;display:none}.perpetualStorySliderStage.isReelPinned .perpetualStoryReel{overflow-y:auto}.perpetualStoryReel.isReelReleasable{overscroll-behavior-y:auto}.perpetualStoryReelItem{width:100%;height:100%;padding:0 10px 10px;box-sizing:border-box;scroll-snap-align:start;scroll-snap-stop:always}.perpetualStoryReelItem .perpetualStoryCardArticle{height:100%;margin-bottom:0}html.perpetualReelPinned .stickyReclton{display:none}html.perpetualReelPinned .hdrWrp{top:0;transform:none;transition:none}.perpetualStorySliderAdSlide{height:100%;padding:12px;display:flex;align-items:center;justify-content:center;background:#fbfbfb;border:1px solid #e2e2e2;border-radius:14px;box-shadow:0 2px 7px rgba(0,0,0,.16)}.perpetualStorySliderAd{width:100%;min-height:280px;display:flex;align-items:center;justify-content:flex-start;flex-direction:column;overflow:hidden;text-align:center}.perpetualStorySliderAd::before{content:"विज्ञापन";min-height:20px;color:#999;font-size:12px;line-height:20px}.perpetualStorySliderPollSlide{height:100%;padding:12px;display:flex;align-items:center;justify-content:center;overflow-y:auto;background:#fff;border:1px solid #e2e2e2;border-radius:14px;box-shadow:0 2px 7px rgba(0,0,0,.16)}.perpetualStoryCard{height:100%;min-height:0;padding:12px;display:flex;flex-direction:column;background:#fff;border:1px solid #e2e2e2;border-radius:14px;box-shadow:0 2px 7px rgba(0,0,0,.16);overflow:hidden}.perpetualStoryCardImage{display:block;width:100%;aspect-ratio:16/9;flex:0 1 auto;min-height:0;max-height:32%;object-fit:cover;border-radius:12px;background:#f2f2f2}.perpetualStoryCardContent{padding:clamp(10px,var(--perpetual-card-h)*.036,20px) 8px 8px;display:flex;flex:1 1 auto;flex-direction:column;min-height:0;overflow:hidden}.perpetualStoryCardTitle{margin:0;flex:0 1 auto;min-height:0;display:-webkit-box;overflow:hidden;color:#111;font-size:clamp(17px,var(--perpetual-card-h)*.045,24px);font-weight:700;line-height:1.42;text-overflow:ellipsis;-webkit-box-orient:vertical;-webkit-line-clamp:3}.perpetualStoryCardSummary{margin:clamp(8px,var(--perpetual-card-h)*.033,18px) 0 clamp(10px,var(--perpetual-card-h)*.042,24px);flex:1 1 auto;min-height:0;display:-webkit-box;overflow:hidden;color:#222;font-size:clamp(14px,var(--perpetual-card-h)*.034,18px);font-weight:400;line-height:1.6;text-overflow:ellipsis;-webkit-box-orient:vertical;-webkit-line-clamp:3}.perpetualStoryCardButton{position:relative;z-index:1;width:100%;flex:0 0 auto;min-height:clamp(46px,var(--perpetual-card-h)*.105,56px);margin-top:auto;padding:10px 20px;display:flex;align-items:center;justify-content:center;color:#fff;background:#000;border-radius:10px;box-shadow:0 2px 4px rgba(0,0,0,.25);cursor:pointer;pointer-events:auto;touch-action:manipulation;font-size:clamp(16px,var(--perpetual-card-h)*.039,20px);font-weight:700;line-height:1.4;text-align:center}.perpetualStorySliderStage.isReelSlotSm .perpetualStoryCardImage{max-height:26%}.perpetualStorySliderStage.isReelSlotSm .perpetualStoryCardSummary{-webkit-line-clamp:2}.perpetualStorySliderStage.isReelSlotXs .perpetualStoryCardImage{max-height:22%}.perpetualStorySliderStage.isReelSlotXs .perpetualStoryCardTitle{-webkit-line-clamp:2}.perpetualStorySliderStage.isReelSlotXs .perpetualStoryCardSummary{-webkit-line-clamp:2}.perpetualStoryCardSkeletonBlock{background:linear-gradient(90deg, #ededed 25%, #f7f7f7 50%, #ededed 75%);background-size:200% 100%;animation:perpetualStoryCardShimmer 1.25s ease-in-out infinite}.perpetualStoryCardSkeletonTitle,.perpetualStoryCardSkeletonSummary{display:flex;flex-direction:column;gap:12px;flex:0 1 auto;min-height:0;overflow:hidden}.perpetualStoryCardSkeletonTitle span{width:100%;height:22px;border-radius:6px}.perpetualStoryCardSkeletonTitle span:last-child{width:72%}.perpetualStoryCardSkeletonSummary{margin-top:clamp(12px,var(--perpetual-card-h)*.048,28px);gap:10px;flex:1 1 auto}.perpetualStoryCardSkeletonSummary span{width:100%;height:16px;border-radius:5px}.perpetualStoryCardSkeletonSummary span:last-child{width:64%}.perpetualStoryCardSkeletonButton{width:100%;flex:0 0 auto;min-height:clamp(46px,var(--perpetual-card-h)*.105,56px);margin-top:auto;border-radius:10px}@keyframes perpetualStoryCardShimmer{from{background-position:200% 0}to{background-position:-200% 0}}}@media(max-width: 768px)and (prefers-reduced-motion: reduce){.perpetualStoryCardSkeletonBlock{animation:none}}@media(max-width: 768px){.mastHeadDesktopShow{display:none}.rhsCont{display:none}.mainLftCnt{margin-right:0;padding:0 10px}.storyblk{margin:0}.logoBndWrp{min-height:70px;padding-top:12px;bottom:56px}.logoBndWrp.rel{bottom:0}.logoBndWrp .cross{right:0}.logo-band-ad-top{min-height:70px;padding-top:12px}.logo-band-ad-top.result-logo-band{min-height:104px}.tabooWrp{min-height:900px;height:100%}.addtnlTxtAtEOA{font-size:16px;line-height:20px}.nxtArtcleHdng{margin-bottom:0}.storyArticle{width:100%}.storyArticle .topImgBlk{margin:42px 0 12px}.storyArticle .topImgBlk img,.storyArticle .topImgBlk iframe{border-radius:0;aspect-ratio:16/9}.storyArticle .figCptn{font-size:14px;color:#48484a;padding:6px 10px;background:#f2f2f2;line-height:1.7rem;margin:0;position:relative;top:-4px}.storyArticle .topVdoWrap{aspect-ratio:16/9}.storyArticle .stryHdg{font-size:28px;font-style:normal;font-weight:600;line-height:44px;margin-bottom:12px;color:#222;-webkit-line-clamp:3;height:130px;margin-top:15px}.storyArticle .headStry{height:196px;padding:14px 16px;border-left:3px solid #c41429;margin:0 0 26px;border-radius:0}.storyArticle .subHdg{font-size:18px;-webkit-line-clamp:5;font-style:normal;font-weight:400;line-height:31px}.storyArticle .mstheadAdMob{display:block;height:310px}.storyArticle .mstheadAdMobGadgets{display:block;height:300px}.storyArticle .stryShreWrap{display:flex;align-items:center;border-top:1px solid #e5e7eb;border-bottom:1px solid #e5e7eb;margin-bottom:22px;min-height:70px}.storyArticle .stryShreWrap .tmStmp{font-size:12px}.storyArticle .stryShreWrap .athrInfo{font-size:12px}.storyArticle .stryShreWrap .athrInfo a{font-size:12px;display:inline}.storyArticle .stryShreWrap .athrInfo .athrCreat{margin-bottom:0;display:inline}.storyArticle .stryShreWrap .shrView{background-color:#fff}.storyArticle .stryShreWrap .shrView img{width:24px;height:24px}.storyArticle .stryShreWrap .shrView .hideDesk{display:flex}.storyArticle .stryShreWrap .shrView .shrTxt{display:none}.storyArticle .stryShreWrap .wrpShr{border:1px solid #e5e7eb;height:40px;display:flex;align-items:center;border-radius:8px;justify-content:center;width:40px;width:40px}.storyArticle .stryShreWrap .wrpShr img{width:22px;height:auto}.storyArticle .stryShreWrap .strpFlw{margin-left:0;margin-right:0}.storyArticle .stryShreWrap .strpFlw::after,.storyArticle .stryShreWrap .strpFlw::before{display:none}.storyArticle .stryShreWrap .strpFlw .first{display:none}.storyArticle .stryShreWrap .strpFlw a{width:80px;min-width:80px;height:45px}.storyArticle .stryShreWrap .strpFlw a>img{width:100%;height:auto}.storyArticle .stryShreWrap .strpFlw span{display:none}.storyArticle .stryShreWrap .gglNws{font-size:12px;height:24px;padding:0 10px;gap:5px}.storyArticle .stryShreWrap .gglNws img{margin-top:12px;width:17px;height:17px}.storyArticle .stryShreWrap a.trdBtn{padding:0 24px}.storyArticle .goglTrst{background:linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #fff200);background-size:400% 400%;animation:goglTrstBg 4.3s ease infinite;color:#fff;height:60px;margin:0 -10px 15px;margin-bottom:10px;margin-top:10px;display:flex;padding:0 15px;align-items:center;justify-content:space-between}.storyArticle .goglTrst>span{font-size:20px;font-weight:500;display:flex;flex-direction:column;padding-right:10px}.storyArticle .goglTrst strong{font-size:16px}.storyArticle .goglTrst em{background:rgba(34,3,3,.18);border:1.7px solid hsla(0,0%,100%,.65);border-radius:50px;padding:0px 13px;color:#fff;font-size:17px;cursor:pointer;transition:all .2s ease;white-space:nowrap;display:flex;height:34px;align-items:center;line-height:34px;font-style:normal}@keyframes goglTrstBg{0%{background-position:0 50%}50%{background-position:100% 50%}to{background-position:0 50%}}.storyArticle .stryCnt h2{font-size:19px}.storyArticle .stryCnt h2 a{color:#36c;font-size:18px}.storyArticle .stryCnt p{font-size:18px;line-height:180%}.storyArticle .stryCnt p strong{font-size:18px}.shareKreinTxt{color:#c3102a;font-size:13px;position:relative}.shareKreinTxt .arrowIcn{border:solid #c4132a;border-width:0 2px 2px 0;display:inline-block;padding:3px;margin:1px 0 2px 2px;transform:rotate(45deg)}.shareKreinBox{position:absolute;top:32px;padding:13px;width:105px;height:99px;box-shadow:0 6px 23px 0 rgba(0,0,0,.4);border-radius:4px;background-color:#fff;left:-16px;z-index:33}.shareKreinBox::after{content:"";border:1px solid #e0e0e0;border-width:0 1px 1px 0;padding:4px;transform:rotate(-137deg);top:-5px;position:absolute;-webkit-transform:rotate(-137deg);right:48px;background:#fff}.shareKreinBox a{position:fixed !important;margin:0px}.shareKreinBox a:nth-child(2){margin:0 3px 0 50px}.shareKreinBox a:nth-child(3){margin:40px 0}.shareKreinBox a:nth-child(4){margin:40px 50px}.shareKreinBox img{width:28px !important;height:28px !important}.stickyAglaLekh{border:1px solid #d0d0d0;background:#fff;border-top-left-radius:2px;border-bottom-left-radius:2px;padding:2px 3px 16px 2px;display:block;min-width:36px;width:36px;color:#c4132a;font-size:12px;line-height:14px;margin:0 0 5px auto;box-shadow:-3px 0 12px 0 rgba(0,0,0,.32);position:fixed;top:59%;right:-2px;text-align:center;z-index:99}.stickyAglaLekh i{border:solid #c4132a;position:absolute;border-width:0 2px 2px 0;bottom:6px;left:13px;padding:4px;transform:rotate(45deg);margin-top:40px}.nxtarblck{position:fixed;width:100%;left:0;height:auto;background:#fff;z-index:20;border-radius:8px 8px 0 0;padding:10px;transition:.3s;display:block !important;opacity:1;border-bottom:1px solid #d1d1d1;animation:.4s ease-in nxartcltbtn;box-shadow:0 -5px 4px 0 rgba(0,0,0,.3);bottom:114px;border-bottom:.1px solidrgba(128, 128, 128, 0.427) y;font-size:15px !important}.nxtarblck span{font-weight:700;color:#c4132a}.nxtarblck .nxtartitle{padding-right:15px}.nxtarblck a{line-height:20px}.nxtarblck a i{position:absolute;border:solid #c4132a;border-width:0 2px 2px 0;display:inline-block;padding:6px;margin:1px 0 2px 2px;transform:rotate(312deg);right:3%;top:40%}.linearText .downldAp{color:#c4132a;pointer-events:all}.stickyReclton{position:fixed;left:0;top:36px;background:hsla(0,0%,100%,.95);width:100%;animation:recirculationSlideUp;opacity:0;height:1px}.stickyReclton.show{display:block;animation:recirculationSlideDown;opacity:1}@keyframes recirculationSlideUp{0%{opacity:1;transform:translateY(-100px)}to{opacity:0;transform:translate(0)}}@keyframes recirculationSlideDown{0%{opacity:0;transform:translateY(-100px)}to{opacity:1;transform:translate(0)}}.aiSummryBtn{display:flex;align-items:center;justify-content:center;gap:8px;width:100%;height:44px;background:linear-gradient(0deg, rgba(30, 3, 104, 0.2), rgba(30, 3, 104, 0.2)),linear-gradient(90deg, #8636F1, #2F61F3 57.22%, #2D95E3);border:none;border-radius:8px;cursor:pointer;padding:12px 24px;font-size:15px;font-weight:600;color:#fff;margin:1rem 0}}.textGray{color:#7b7b7b !important}.ytEmbed{display:flex;justify-content:center;align-items:center;min-height:400px;margin-bottom:15px;overflow:hidden}.ytEmbed iframe{aspect-ratio:16/9}.authrBlkWrp{background-color:#f3f4f6;box-shadow:0 2px 4px 0 rgba(128,136,148,.25);border-radius:6px;padding:8px 16px 8px 8px;display:flex;flex-direction:column;margin-bottom:25px}.authrBlkWrp a .info{position:relative;padding-left:68px;margin-bottom:8px;height:62px}.authrBlkWrp a .info img{width:60px;height:60px;border-radius:100%;object-fit:cover;position:absolute;left:0;top:0;border:2px solid #fff;box-shadow:0 0 2px 1px rgba(118,128,145,.15)}.authrBlkWrp a .info h2{font-size:16px;font-style:normal;margin-top:5px;color:#4b5563;font-weight:400;padding-bottom:5px;line-height:19.2px}.authrBlkWrp a .info strong{font-size:18px;font-style:normal;color:#030712;font-weight:600;line-height:21.6px}.authrBlkWrp a .summary{font-size:16px;font-style:normal;font-weight:normal;line-height:160%;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;box-orient:vertical;overflow:hidden;text-overflow:ellipsis;color:#030712;position:relative}.authrBlkWrp a .summary .aurpadheTxt{background-color:#f3f4f6;position:absolute;bottom:0;right:2px;color:#c4132a;cursor:pointer;padding:0}.authrBlkWrp a .summary .aurpadheTxt:before{content:"...";color:#030712}@media(max-width: 768px){.authrBlkWrp{margin-bottom:20px}.authrBlkWrp a .info{padding-left:46px;margin-bottom:6px;height:42px}.authrBlkWrp a .info h2{font-size:14px;margin-top:0;padding-bottom:0;margin-bottom:1px}.authrBlkWrp a .info strong{font-size:16px}.authrBlkWrp a .info img{height:40px;width:40px}.authrBlkWrp a .summary{font-size:14px;-webkit-line-clamp:3;line-height:23px}}
+html,body,*{padding:0;margin:0;box-sizing:border-box;font-family:sans-serif}.wplHide .hdgFilter{display:none !important}.orngcp .otherStats .ipl-drop-down{display:none}a{color:inherit;text-decoration:none}.clrRed{color:#c4132a}.clrGreen{color:#26a79a}.clrDflt{color:#222}.cardHolder.commBlock{padding:0;margin-bottom:20px}.cardHolder .tabBtnSec a{margin-left:0;margin-right:8px}.cardHolder .selectComm select{width:130px}.cardHolder .commSection{margin:16px 0}section.ipl_schedule2023 .storyDetails p,div.ipl2023 .iplSeoTxt{font-size:18px;line-height:26px}div.astroPhtWrp{padding-bottom:80px}div.astroPhtWrp.swiper-backface-hidden .swiper-slide{transform:scale(0.7)}div.astroPhtWrp.swiper-backface-hidden .swiper-slide.swiper-slide-active{transform:scale(1.2)}div.astroPhtWrp .swiper-slide{transition:all 200ms linear;padding-top:25px}div.astroPhtWrp .swiper-slide img{width:100%}div.astroPhtWrp .swiper-button-next,div.astroPhtWrp .swiper-button-prev{position:absolute;z-index:1;bottom:0;top:inherit;left:51%;border-radius:100%;width:42px;height:42px;border:solid 1.7px #661592;background-image:linear-gradient(to right bottom, #fff, #f9f6ff, #f5edfd, #f3e2fa, #f3d8f6)}div.astroPhtWrp .swiper-button-next::after,div.astroPhtWrp .swiper-button-prev::after{background:none;border-bottom-style:solid;border-bottom-width:2px;border-right-style:solid;border-right-width:2px;content:"";display:inline-block;height:10px;width:10px;left:11px;position:absolute;top:14px;color:#661592;transform:rotate(-45deg)}div.astroPhtWrp .swiper-button-prev{margin-left:-55px}div.astroPhtWrp .swiper-button-prev::after{transform:rotate(135deg);left:16px;top:14px}.swiperDflt .swiper-button-prev .swiper-button-next{background-color:#fff;border-radius:100%;width:30px;height:30px;display:flex;align-items:center;text-align:center}.swiperDflt .swiper-button-prev .swiper-button-next::after{left:16px;top:14px;font-size:13px;font-weight:bold;color:#222}.swiperBlkDflt .swiper-button-prev,.swiperBlkDflt .swiper-button-next{background-color:#212121;border-radius:100%;width:35px;height:35px;display:flex;align-items:center;text-align:center;border:2px solid #fff;opacity:.9}.swiperBlkDflt .swiper-button-prev::after,.swiperBlkDflt .swiper-button-next::after{left:16px;top:14px;font-size:14px;font-weight:bold;color:#fff}.swiperRHS .swiper{position:inherit}.swiperRHS .swiper-button-prev,.swiperRHS .swiper-button-next{background-color:#fff;width:24px;height:24px;padding:4px;display:flex;align-items:center;text-align:center;border-radius:41.18px;border:2px solid #444;bottom:8px;top:inherit}.swiperRHS .swiper-button-prev::after,.swiperRHS .swiper-button-next::after{left:16px;top:14px;font-size:12px;font-weight:bold;color:#222}.swiperRHS .swiper-button-prev.swiper-button-disabled,.swiperRHS .swiper-button-next.swiper-button-disabled{background-color:#fff;border-color:#a2a2a2}.swiperRHS .swiper-button-prev.swiper-button-disabled::after,.swiperRHS .swiper-button-next.swiper-button-disabled::after{color:#a2a2a2}.swiperRHS .swiper-button-prev{left:97px}.swiperRHS .swiper-button-next{right:97px}@media(max-width: 768px){section.ipl_schedule2023 .storyDetails p,div.ipl2023 .iplSeoTxt{font-size:16px;line-height:24px}.grecaptcha-badge{z-index:199;bottom:63px !important}div.astroPhtWrp{padding-bottom:90px}}input::-webkit-outer-spin-button,input::-webkit-inner-spin-button{-webkit-appearance:none;margin:0}input[type=number]{-moz-appearance:textfield}.grecaptcha-badge{z-index:199}.quizInfo{padding:5px 10px 0}body .quizAd{min-height:250px}@media(max-width: 767px){body .goldQuiz{padding:10px;margin:20px 0}body .quizAd{width:320px;margin:0 auto 20px;padding:10px 0}}.trendingWdgetSlider .react-multiple-carousel__arrow--right{right:20px;top:38px}.trendingWdgetSlider .react-multiple-carousel__arrow--left{left:2px;top:38px}.trendingWdgetSlider .react-multiple-carousel__arrow{position:absolute;outline:0;transition:all .5s;border-radius:35px;z-index:1000;border:0;background:rgba(0,0,0,.5);min-width:35px;min-height:35px;opacity:1;cursor:pointer;border:2px solid #fff}@media(max-width: 768px){.trendingWdgetSlider .react-multiple-carousel__arrow{display:none}}.ellipsis1{-webkit-box-orient:vertical;overflow:hidden;display:-webkit-box;-webkit-line-clamp:2}
+.nvWrpr{position:relative}.hdrWrp{position:sticky;background:#fff;z-index:60;top:0;box-shadow:0 2px 4px 0 rgba(0,0,0,.16);padding-bottom:2px;transition:all .3s ease}.hdrWrpCntr{max-width:1280px;margin:auto}.lgnWrp{position:relative}.hdrsticky{transform:translate3d(0, -68%, 0)}@keyframes astroEntryBg{0%,to{transform:translate3d(0, 0, 0)}50%{transform:translate3d(-75%, 0, 0)}}.hdrAstro2025{border-radius:48px;background:linear-gradient(102deg, #000 49.25%, #FFB921 114.24%);padding:11px 16px;height:32px;display:flex;align-items:center;justify-content:center;line-height:20px}.hdrAstro2025 span{color:#fff}.mainHdr{border-bottom:1px solid #ededed}.mainHdr .topHdrTm{position:absolute;right:1px;top:51px;font-size:13px;color:#606060}.mainHdr .hdrCnt{background-color:#fff;display:flex;justify-content:space-between;padding:20px 0 18px;align-items:center}.logoImgCnt{width:290px;display:flex}.logoImgCnt img{width:100%}.crickitLogo{width:152px;position:relative;top:2px}.crickitLogo img{width:100%}.hamburgerToggle{display:none}.blackOverlay{overflow:hidden;position:fixed;top:0;left:0;width:100%;height:100%;background:#000;opacity:.76;z-index:99;visibility:hidden;opacity:0;transition:visibility 0s,opacity .3s ease-in-out}.hamburgerToggle~.blackOverlay{visibility:visible;opacity:.76}.hamburgerToggle~aside{transform:translateX(0)}.hdrLft{display:flex;align-items:center;position:relative}.hdrMenuIcn{position:relative;width:40px;padding-left:10px;padding-right:12px;cursor:pointer;height:14px;display:block;margin-right:8px}.hmbrgrLine,.hmbrgrLine::before,.hmbrgrLine::after{width:18px;height:2px;background-color:#454545;content:"";position:absolute;top:2px}.hmbrgrLine::before{top:6px}.hmbrgrLine::after{top:12px}.hdrRght{display:flex;align-items:center;color:#fff;margin-top:9px}.hdrRght .crickHdrLnk{border-right:1px solid #c2c2c2}.hdrRght .crickHdrLnk img{width:24px;margin-right:5px}.hdrRght a{padding:0 23px;color:#c4132a;display:flex;align-items:center;position:relative}.hdrRght .sehrTxt{color:#c4132a;font-size:18px;margin-right:4px}.hdrRght .epprView,.hdrRght .shrChune{border-right:1px solid #c2c2c2;cursor:pointer}.hdrRght .shrChune img{margin-right:8px;width:16px;vertical-align:middle}.hdrRght .epprView img{height:24px;width:24px;margin-right:10px}.hdrRght .epprView .epprTxt{color:#c4132a}.hdrRght .notificnIcn{display:none}.hdrRght .epprWeb{height:24px;width:24px;margin-right:10px}.hdrRght .signHdr img{height:18px;width:18px;margin-right:10px}.hdrRght svg{margin-right:8px;height:20px;width:20px;vertical-align:middle}.hdrRght .offer{-moz-border-radius:20px;-webkit-border-radius:20px;border-radius:20px;background:#c4132a;color:#fff;position:absolute;top:-20px;right:-28px;text-transform:uppercase;left:0;margin:0 auto;padding:0 4px 5px 3px;height:18px;font-style:normal;width:50px;border:1px solid #c4132a;text-align:center;font-size:12px}.hdrRght .dropbtn{width:99px;overflow:hidden;text-overflow:ellipsis;padding:6px 11px 6px 6px;border:1px solid #c4132a;color:#c4132a;margin-left:13px;border-radius:4px;display:inline-block;font-weight:400;white-space:nowrap}.hdrRght .dropbtn::after{content:"";width:0;height:0;display:inline-block;border:5px solid rgba(0,0,0,0);border-radius:2px;margin-left:4px;border-top-color:#c4132a !important;color:#c4132a;position:absolute;top:11px;right:6px}.hdrRght .vdeHdrLnk{border-left:1px solid #c2c2c2;border-right:1px solid #c2c2c2}.hdrRght .vdeHdrLnk img,.hdrRght .phtHdrLnk img{margin-right:8px}.dropdownContent{display:none;position:absolute;font-size:14px;overflow:auto;z-index:1;color:#af272d;padding:0 4px;right:0;top:31px;width:100px;text-align:center;border:1px solid #ededed;box-shadow:0 2px 7px -1px #c1c1c1;border-bottom-right-radius:4px;border-bottom-left-radius:4px;background:#fff}.dropdownContent a{color:#222;margin:0;border:none;display:block;padding:10px 0}.gifL1{display:block;width:auto;height:32px;max-width:none;max-height:none;margin:0;padding:0;object-fit:contain}.hdrMenu{display:flex;align-items:center;height:46px;background-color:#fff}.hdrMenu.scrolled{display:flex}.hdrMenu>a{font-size:18px;color:#222;padding:0 12px;margin:0 10px;height:28px;border-radius:18px;border:1px solid rgba(0,0,0,0);display:flex;align-items:center;position:relative;white-space:nowrap}.hdrMenu>a.hdrNewNav{background:#e73c7e;color:#fff;padding:3px 14px;height:28px;font-size:16px;border-radius:18px;text-transform:uppercase;position:relative;overflow:hidden;flex:0 0 auto;min-width:max-content;isolation:isolate}.hdrMenu>a.hdrNewNav::before{content:"";position:absolute;top:0;bottom:0;left:0;width:400%;z-index:0;background:linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #fff200);animation:astroEntryBg 3s ease-in-out 0s 4 forwards}.hdrMenu>a.hdrNewNav>span{display:inline-flex;flex:0 0 auto;white-space:nowrap;position:relative;z-index:1}@media(prefers-reduced-motion: reduce){.hdrMenu>a.hdrNewNav::before{animation:none}}.hdrMenu>a:first-child{margin-left:0}.hdrMenu>a.active,.hdrMenu>a:hover{font-weight:700;background-color:#ffe8eb;border:1px solid #ffd9de;color:#c4132a}.hdrMenu>a.gifNavItem{padding:0 6px;margin:0 5px}.hdrMenu>a.gifNavItem.active,.hdrMenu>a.gifNavItem:hover{background-color:rgba(0,0,0,0);border-color:rgba(0,0,0,0)}.hdrMenu .menuCntrl{position:relative;height:23px;display:flex;align-items:center;width:25px}.hdrMenu .menuCntrl:hover .dwnMenu{display:block}.hdrMenu .moreMenu{background-color:#444;border-radius:100%;width:4px;margin-left:12px;height:4px;cursor:pointer}.hdrMenu .moreMenu:after,.hdrMenu .moreMenu:before{background-color:#444;border-radius:100%;width:4px;margin-left:11px;height:4px;cursor:pointer}.hdrMenu .moreMenu:before{content:"";left:-8px;position:absolute}.hdrMenu .moreMenu:after{position:absolute;content:"";left:inherit}.hdrMenu .dwnMenu{position:absolute;right:0;flex-direction:column;top:21px;color:#333;background:#fff;z-index:22;padding:3px 0;display:none;border:1px solid #ededed;-moz-box-shadow:0 2px 7px -1px #c1c1c1;-webkit-box-shadow:0 2px 7px -1px #c1c1c1;box-shadow:0 2px 7px -1px #c1c1c1;width:180px;-moz-border-radius:4px;-webkit-border-radius:4px;border-radius:4px}.hdrMenu .dwnMenu a{display:block;font-size:18px;padding:7px 12px;border-bottom:1px solid #eee}.hdrMenu .dwnMenu a:hover{color:#c4132a}.sehrChuneBLk{height:100%;background-color:#fff;position:fixed;padding:10px 0;z-index:9999;top:0}.sehrChuneBLk .showSehr{width:295px;right:0;overflow:auto}.sehrChuneBLk .sehrHead{color:#000;display:flex;font-size:18px;font-weight:700;justify-content:space-between;margin:0 14px 10px 12px}.sehrChuneBLk .sehrHead .clsBtn{width:22px;height:17px;cursor:pointer;position:relative}.sehrChuneBLk .sehrHead .clsBtn:before,.sehrChuneBLk .sehrHead .clsBtn:after{content:"";position:absolute;top:50%;left:50%;width:14px;height:2px;background-color:#c4132a;transform:translate(-50%, -50%) rotate(-45deg)}.sehrChuneBLk .sehrHead .clsBtn:after{transform:rotate(-45deg)}.sehrChuneBLk .sehrHead .clsBtn:before{transform:rotate(45deg)}.sehrSrch{display:flex;margin:0 12px 3px}.sehrSrch .srchInput{background-color:#eee;height:40px;display:flex;flex:1;line-height:40px;outline:none;border:none;padding:10px}.sehrSrch .srchBtn{background-color:#c4132a;height:40px;width:40px;border:none;display:flex;align-items:center;outline:none;cursor:pointer;line-height:40px;color:#fff;padding:10px 11px;text-align:center}.sehrSrch .iconSearch{border:1px solid #c2c2c2;-moz-border-radius:50%;-webkit-border-radius:50%;border-radius:50%;width:16px;height:16px}.sehrSrch .iconSearch::after{content:"";width:7px;height:1px;background:#c2c2c2;-moz-transform:rotate(45deg);-ms-transform:rotate(45deg);-webkit-transform:rotate(45deg);transform:rotate(45deg);position:absolute;bottom:-2px;right:-4px}.sehrlist li{line-height:52px;border-bottom:1px solid #eee;position:relative;display:flex;flex-direction:column}.sehrlist li>a{padding:0 12px;color:#222}.sehrlist li span{position:absolute;right:16px;top:24px;cursor:pointer;border:solid #333;border-width:0 2px 2px 0;display:inline-block;content:"";width:9px;height:9px;transform:rotate(-45deg);-webkit-transform:rotate(-45deg);vertical-align:middle}.sehrlist .sehrCnt{background-color:#f4f4f4;padding:0 13px 0 28px}.sehrlist .sehrCnt a{display:flex;justify-content:space-between;align-items:center;position:relative}.sehrlist .sehrCnt a::after{right:12px;top:20px;border:solid #333;border-width:0 2px 2px 0;display:inline-block;content:"";width:7px;height:7px;transform:rotate(-45deg);-webkit-transform:rotate(-45deg);vertical-align:middle;position:absolute}.open .sehrCnt{display:block}.searchBar{width:205px;position:relative;display:flex;align-items:center;justify-content:space-between}.searchBar input{height:34px;background-color:#fff;padding-left:10px;border:1px solid #c2c2c2;border-right:0;color:#7b7b7b;flex:1;font-size:14px;padding:0 10px;border-radius:17px 0 0 17px;line-height:40px;background-color:#fff;outline:0;display:flex;align-items:center}.searchBar button{height:34px;width:34px;border:1px solid #c2c2c2;cursor:pointer;border-radius:0 17px 17px 0;color:#fff;justify-content:center;padding:3px 3px 7px 0;border-left:0;background-color:#fff;outline:0;display:flex;align-items:center}.searchBar button i{display:inline-block;border:1px solid #c2c2c2;border-radius:50%;width:16px;height:16px}.searchBar button i::after{content:"";width:7px;height:1px;background:#c2c2c2;transform:rotate(45deg);position:absolute;bottom:11px;right:7px;display:inline-block}.signIn{padding:0 23px}@media(max-width: 1366px){.hdrMenu a{font-size:16px}}@media(max-width: 1024px){.hdrMenu{width:100%;max-width:100%;overflow:hidden;overflow-x:scroll;white-space:nowrap;margin-bottom:0px;-ms-overflow-style:-ms-autohiding-scrollbar;-webkit-overflow-scrolling:touch;min-height:auto;height:40px;margin-bottom:-2px;display:flex;font-weight:400}.hdrMenu .dwnMenu{display:inline-block;position:unset;background:0 0;box-shadow:none;border:none}.hdrMenu .dwnMenu a{display:inline-block;font-size:16px;border-bottom:none}.hdrMenu a{font-size:16px;padding:0 12px}.hdrMenu a:first-child{padding-left:16px}.hdrMenu .moreMenu{display:none}}@media(max-width: 768px){.mWebSubcBtn{margin-right:8px}.hdrWrp{top:0;box-shadow:inherit;padding-bottom:2px;transition:inherit;border-bottom:1px solid #ededed;height:96px}.hdrMenu{display:none}.cricitMenuView a.shrChune{margin-right:8px}.crickitLogo{width:82px;top:2px}.cricitMenuView .seherChune,.cricitMenuView .epprView{display:none}.epprView img{display:none}.epprView .epprTxt{display:flex;border-radius:4px;border:1px solid #c4122a;height:24px;color:#c4132a;font-size:12px;margin-right:8px;padding:0 4px;align-items:center}.hdrsticky{transform:none;top:-49px}.mainHdr{border-bottom:0}.mainHdr .topHdrTm{display:none}.mainHdr .hdrCnt{padding:13px 0}.logoImgCnt{width:92px;height:21px}.logoImgCnt img{width:100%}.hdrRght{margin-top:-3px}.hdrRght .crickHdrLnk{border:none;margin-right:8px}.hdrRght .crickHdrLnk span{display:none}.hdrRght .crickHdrLnk img{width:18px}.hdrRght .epprMob{width:52px;padding-bottom:2px;margin-bottom:5px}.hdrRght .srch{display:none}.hdrRght svg{display:none}.hdrRght .offer{top:-2px;right:1px;padding:1px 8px 0;width:inherit;font-size:10px;line-height:13px;height:inherit}.hdrRght .epprView{padding-top:0px;border:none}.hdrRght .dwnladapp{width:7px;height:12px;margin:4px 0 4px 0}.hdrRght .eperofrmobile{width:34px;height:20px;padding-bottom:2px}.hdrRght a{flex-direction:column;padding:0 3px;font-size:14px;line-height:14px;font-weight:normal;white-space:nowrap}.hdrRght .sehrTxt{background-color:#c4132a;color:#fff;width:53px;height:22px;font-size:10px;padding:10px;display:none;align-items:center;border-radius:4px}.hdrRght .notificnIcn{height:24px;width:24px;margin-right:10px}.hdrRght .searchBar{display:none}.hdrRght .shrChune{border-right:0;height:24px;margin-right:5px;width:28px;padding:0;border-radius:4px;display:flex;align-items:center}.hdrRght .shrChune img{width:100%;height:24px}.hdrAstro2025{padding:8px 10px;height:28px;line-height:18px}a.signHdr{display:none}.hdrMenuIcn{height:18px;display:block}.hdr-rght a{flex-direction:column;padding:0 9px;font-size:14px;line-height:14px;font-weight:normal;white-space:nowrap}.hdr-rght .hideMob{display:none}.hdr-rght a.dwnlapp-link{display:block}.hdr-rght .eperofrmobile{width:34px;height:20px;padding-bottom:2px}.hdr-rght svg{margin-right:0;width:12px}.hdr-rght .offer{display:none}.hdr-rght .dwnladapp{width:7px;height:12px;margin:4px 0 4px 0}a.vdeHdrLnk,a.phtHdrLnk{display:none}}@media(max-width: 769px){.hmbrgrLine,.hmbrgrLine::before,.hmbrgrLine::after{height:1.4px}.dwnlappLink{display:none !important}.hdrMenuIcn{margin-right:0}.hdrMenu{position:relative;overflow-x:scroll}.hdrMenu>a.active{font-weight:700;color:#c4132a}.hdrMenu>a.active::before{top:26px}}
+.moreNvBtn,.moreNvCls{touch-action:manipulation;-webkit-tap-highlight-color:rgba(0,0,0,0)}body.more-nav-open .stickyReclton{z-index:59}.moreNvBtn{background-color:#1f2937;border-radius:8px 0px 0px 8px;width:30px;height:30px;position:absolute;right:0;top:10px;display:none;padding-left:4px;padding-top:0;padding-bottom:0;border:0;z-index:99;cursor:pointer;align-items:center}.moreNvBtn>span{position:absolute;width:100%;height:100%}.moreNvBtn::after,.moreNvBtn::before,.moreNvBtn>span::after,.moreNvBtn>span::before{position:absolute;content:"";width:4px;height:4px;border-radius:2px;border:1.5px solid #fff}.moreNvBtn::after{right:6px;bottom:6px}.moreNvBtn::before{left:7px;bottom:6px}.moreNvBtn>span::after{right:6px;top:7px}.moreNvBtn>span::before{left:7px;top:7px}.MorNvWrp{display:flex;min-height:175px;padding:8px 16px;flex-wrap:wrap;top:0;left:0;right:0;background-color:#fff;width:100%;position:absolute;z-index:99}.MorNvWrp>a{display:flex;align-items:center;justify-content:center;height:36px;padding:4px 8px;border-radius:8px;border:1px solid rgba(0,0,0,.1);margin-right:8px;margin-bottom:8px}.MorNvWrp>a.moreAct{background-color:#faf0f0;border-color:#f6ccc5}.MorNvWrp>a.moreAct:first-child{padding-left:10px}.MorNvWrp>a .gifL1{display:block;width:auto;height:28px;max-width:none;max-height:none;margin:0;padding:0;object-fit:contain}.moreNvBg{position:fixed;background:rgba(0,0,0,.7);backdrop-filter:blur(11.5px);top:50px;bottom:0;left:0;right:0}.moreNvCls{width:36px;height:36px;position:absolute;border-radius:8px;background-color:#c4321a;left:0;right:0;border:0;z-index:999;margin:auto;bottom:-22px;padding:0;cursor:pointer}.moreNvCls i{border:solid #fff;border-width:0 2px 2px 0;padding:4px;-webkit-transition:.2s ease-in;-moz-transition:.2s ease-in;transition:.2s ease-in;-webkit-transform:rotate(225deg);-moz-transform:rotate(225deg);transform:rotate(225deg);display:inline-block}@media(max-width: 768px){.moreNvBtn{right:0;top:5px;display:flex}}
+﻿.ipl{text-align:center;min-height:100px;background:#f0f0f0;margin-bottom:20px;padding-bottom:10px;padding-top:8px}.ipl::before{content:"विज्ञापन";margin:0 auto;min-height:11px;color:#777;font-size:14px;line-height:16px;padding:5px 0 5px 0}.ipl-mob{text-align:center;min-height:80px;background:#f0f0f0;margin-bottom:20px;padding-bottom:10px;padding-top:8px}.ipl-mob::before{content:"विज्ञापन";margin:0 auto;min-height:11px;color:#777;font-size:14px;line-height:16px;padding:5px 0 5px 0}.ipl-head{text-align:center;min-height:100px;background:#f0f0f0;margin-bottom:20px;padding-bottom:10px;padding-top:8px;overflow:hidden}.ipl-head::before{content:"विज्ञापन";margin:0 auto;min-height:11px;color:#777;font-size:14px;line-height:16px;padding:5px 0 5px 0}.ipl-head-mob{text-align:center;min-height:100px;background:#f0f0f0;margin-bottom:20px;padding-bottom:10px;padding-top:8px}.ipl-head-mob::before{content:"विज्ञापन";margin:0 auto;min-height:11px;color:#777;font-size:14px;line-height:16px;padding:5px 0 5px 0}.ads-head{text-align:center;min-height:280px;background:#f0f0f0;margin-bottom:20px;padding-bottom:10px;padding-top:8px}.ads-head::before{content:"विज्ञापन";margin:0 auto;min-height:11px;color:#777;font-size:14px;line-height:16px;padding:5px 0 5px 0}.logoBndWrp{position:fixed;max-width:1100px;min-height:90px;left:0;right:0;margin:auto;z-index:59;bottom:0}.logoBndWrp.rel{z-index:9}.logoBndWrp.relative{position:relative}.logoBndWrp .cross{cursor:pointer;right:16px;top:-16px;right:-7px;width:30px;box-shadow:0 4px 6px rgba(0,0,0,.2);border:33 solid #7e7e7e;height:30px;background:#f0f0f0;border-radius:100%;display:flex;position:absolute;-webkit-transform-origin:center;-moz-transform-origin:center;transform-origin:center}.logoBndWrp .cross:before,.logoBndWrp .cross:after{top:50%;content:"";position:absolute;left:50%;width:16px;height:1.7px;background-color:#565656;-webkit-transform:translate(-50%, -50%) rotate(45deg);-moz-transform:translate(-50%, -50%) rotate(45deg);transform:translate(-50%, -50%) rotate(45deg)}.logoBndWrp .cross::after{-webkit-transform:translate(-50%, -50%) rotate(-45deg);-moz-transform:translate(-50%, -50%) rotate(-45deg);transform:translate(-50%, -50%) rotate(-45deg)}@media(min-width: 769px){.hideOnDesktopUntilScroll{display:none}}.logo-band-ad{overflow:hidden;width:100%;text-align:center;background-color:#fbfbfb;min-height:90px}.logo-result-band-ad{overflow:hidden;width:100%;text-align:center;background-color:#fbfbfb;min-height:156px}.logo-band-ad-top{overflow:hidden;width:100%;text-align:center;background-color:#fbfbfb;margin-bottom:8px;min-height:90px}.ads-rhs{text-align:center;height:280px;background:#f0f0f0;margin-bottom:20px;padding-bottom:10px;padding-top:8px;overflow:hidden}.ads-rhs::before{content:"विज्ञापन";margin:0 auto;min-height:11px;color:#777;font-size:14px;line-height:16px;padding:5px 0 5px 0}.ads-inline-dark{text-align:center;height:290px;background:#343434;margin-bottom:20px;padding-bottom:10px;padding-top:8px;overflow:auto;overflow:hidden}.ads-inline-dark::before{content:"विज्ञापन";margin:0 auto;min-height:11px;color:#777;font-size:14px;line-height:16px;padding:5px 0 5px 0}.ads-inline{text-align:center;height:290px;background:#f0f0f0;margin-bottom:20px;padding-bottom:10px;padding-top:8px;overflow:auto;overflow:hidden}.ads-inline::before{content:"विज्ञापन";margin:0 auto;min-height:11px;color:#777;font-size:14px;line-height:16px;padding:5px 0 5px 0}.edu-schlrshp-inline{text-align:center;width:100vw;height:290px;background:#f0f0f0;margin-bottom:20px;padding-bottom:10px;padding-top:8px}.edu-schlrshp-inline::before{content:"विज्ञापन";margin:0 auto;min-height:11px;color:#777;font-size:14px;line-height:16px;padding:5px 0 5px 0}.edu-schlrshp-inline-mob{text-align:center;width:100vw;height:290px;background:#f0f0f0;margin-bottom:20px;padding-bottom:10px;padding-top:8px}.edu-schlrshp-inline-mob::before{content:"विज्ञापन";margin:0 auto;min-height:11px;color:#777;font-size:14px;line-height:16px;padding:5px 0 5px 0}.sticky-ad{display:none;bottom:54px;position:-webkit-sticky;position:fixed;left:0;width:100%;z-index:9;background:#f0f0f0;margin-bottom:0px;height:60px;text-align:center;overflow:hidden}.sticky-ad::before{margin:0 auto;min-height:11px;color:#777;font-size:14px;line-height:16px;padding:5px 0 5px 0}.head-ad{text-align:center;min-height:280px;background:#f0f0f0;margin-bottom:20px;overflow:hidden}.head-ad::before{content:"विज्ञापन";margin:0 auto;min-height:11px;color:#777;font-size:14px;line-height:16px;padding:5px 0 5px 0}.rhs-ad{text-align:center;height:280px;background:#f0f0f0;margin-bottom:20px;overflow:hidden}.rhs-ad::before{content:"विज्ञापन";margin:0 auto;min-height:11px;color:#777;font-size:14px;line-height:16px;padding:5px 0 5px 0}.inline-ads{text-align:center;height:280px;background:#f0f0f0;margin-bottom:20px;overflow:hidden}.inline-ads::before{content:"विज्ञापन";margin:0 auto;min-height:11px;color:#777;font-size:14px;line-height:16px;padding:5px 0 5px 0}.prlads{text-align:center;min-height:280px;background:#f0f0f0;margin-bottom:20px;padding-top:8px}.prlads a{display:inherit !important}.prlads::before{content:"विज्ञापन";margin:0 auto;min-height:11px;color:#777;font-size:14px;line-height:16px;padding:5px 0 5px 0}.prlads-dark{text-align:center;min-height:280px;background:#343434;margin-bottom:20px;padding-top:8px}.prlads-dark::before{content:"विज्ञापन";margin:0 auto;min-height:11px;color:#777;font-size:14px;line-height:16px;padding:5px 0 5px 0}.inline-ads-dark{text-align:center;height:280px;background:#343434;margin-bottom:20px;overflow:hidden}.inline-ads-dark::before{content:"विज्ञापन";margin:0 auto;min-height:11px;color:#777;font-size:14px;line-height:16px;padding:5px 0 5px 0}.inline-ads-with-margin{text-align:center;height:280px;background:#f0f0f0;margin-bottom:20px;margin-top:20px;overflow:hidden}.inline-ads-with-margin::before{content:"विज्ञापन";margin:0 auto;min-height:11px;color:#777;font-size:14px;line-height:16px;padding:5px 0 5px 0}.promotionBnrImg{min-height:90px;width:100%;margin-bottom:20px;overflow:hidden;display:flex;justify-content:center}.story-ads{height:280px;justify-content:flex-start;display:flex;align-items:center;flex-direction:column;text-align:center;position:relative;overflow:hidden;width:100%;margin:auto;margin-bottom:20px !important;background:#fbfbfb;padding-bottom:10px}.story-ads::before{content:"Story continues below advertisement";margin:0 auto;height:20px;font-family:sans-serif;color:hsla(0,0%,60%,.5);font-size:12px;line-height:20px;padding:0px 0 10px 0}.story-epaper-ad{margin-bottom:10px}.story-ads-prlads{min-height:280px;text-align:center;position:relative;width:100%;margin:auto;margin-bottom:20px !important;background:#fbfbfb;padding-bottom:10px}.story-ads-prlads::before{content:"Story continues below advertisement";margin:0 auto;min-height:11px;color:#777;font-size:10px;line-height:16px;padding:5px 0 5px 0}.inline-ads-free-size{text-align:center;min-height:280px;background:#f0f0f0;margin-bottom:20px;overflow:hidden}.inline-ads-free-size::before{content:"विज्ञापन";margin:0 auto;min-height:11px;color:#777;font-size:14px;line-height:16px;padding:5px 0 5px 0}.rdBlkStyle.ads-head,.rdBlkStyle.head-ad{min-height:110px;overflow:inherit}.rdBlkStyle.ads-head::before,.rdBlkStyle.head-ad::before{display:none}.rdBlkStyle.rhs-ad{overflow:inherit}.roadBlockAcross{overflow:inherit !important;height:auto !important;min-height:280px}@media(max-width: 768px){.head-ad{min-height:280px;overflow:inherit}.sticky-ad{display:block}.ads-head{min-height:300px;height:300px;padding-top:2px;background-color:#fbfbfb}.ads-head::before{font-size:10px;content:"Story continues below advertisement"}.logoBndWrp{position:relative;min-height:70px;padding-top:6px;bottom:auto;left:auto;right:auto;margin:0;max-width:100%}.logoBndWrp.rel{bottom:auto}.logoBndWrp .cross{right:3px;top:0}.logo-band-ad{min-height:90px}.logo-result-band-ad{min-height:104px}.logo-band-ad-top{min-height:90px;padding-top:6px}.story-epaper-mob-ad{margin-bottom:20px}.story-end-of-article-ad{min-height:100px;background:#f0f0f0;text-align:center;margin-bottom:0px;padding-bottom:10px;padding-top:0px}.story-end-of-article-ad::before{content:"विज्ञापन";margin:0 auto;min-height:11px;color:#777;font-size:14px;line-height:16px;padding:5px 0 5px 0}.ads-inline{text-align:center;height:335px;background:#f0f0f0;margin-bottom:20px;padding-bottom:10px;padding-top:8px}.ads-inline::before{content:"विज्ञापन";margin:0 auto;min-height:11px;color:#777;font-size:14px;line-height:16px;padding:5px 0 5px 0}.promotionBnrImg{min-height:70px}.rdBlkStyle.ads-head,.rdBlkStyle.head-ad{min-height:320px}.logo-band-ad-top.result-logo-band{min-height:104px}}
+﻿.smt-1{margin:auto}.mainCont{display:-webkit-flex;display:flex}.mainEvent{max-width:1130px}.adsCenter{margin:auto}.mastHeadDesktopShow{display:block;margin-bottom:20px}.mstheadAdMob{display:none}.font16{font-size:16px}.lazyImg{padding-top:56.25%;position:relative;display:block;overflow:hidden}.lazyImg>img{position:absolute;top:0;left:0;border-radius:4px;right:0;display:block;height:auto;width:100%;margin:auto}.algnLft{text-align:left}.imgSizer{padding-top:56.25%;display:block;height:100%}.imgSizer75{padding-top:75%;display:block;height:100%}.lazyImg{position:absolute;top:0;left:0;right:0;display:block;height:auto;width:100%;margin:auto}.wdgtScrollValue{scroll-margin-top:170px}.crsel::-webkit-scrollbar{display:none;height:0;width:0px;background:rgba(0,0,0,0)}.crsel::-moz-scrollbar{display:none;height:0}.crsel::-webkit-scrollbar-thumb{background:rgba(0,0,0,0)}.crsel{width:100%;overflow:hidden;overflow-x:scroll;white-space:nowrap;-ms-overflow-style:-ms-autohiding-scrollbar;-webkit-overflow-scrolling:touch;margin:0;padding:0}div.brdCrum{display:flex;align-items:center;color:#7b7b7b;font-size:12px;line-height:22px;width:95%;margin-bottom:12px;white-space:nowrap;padding-left:4px;margin-top:10px}div.brdCrum .brdCrumLast{display:inline-block;width:58%;text-align:left;white-space:nowrap;text-overflow:ellipsis}div.brdCrum .brdCrumLast.full{width:100%}div.brdCrum .dark{color:#fff}div.brdCrum .dark a{color:#fff}div.brdCrum .dark a:after{border-left-color:#fff}div.brdCrum a{color:#c4132a;display:flex;align-items:center;white-space:nowrap;font-family:sans-serif}div.brdCrum a:after{width:0;height:0;display:inline-block;content:"";border:4px solid rgba(0,0,0,0);border-radius:2px;margin:0 6px 0 8px;border-left-color:#c4132a}.pageHdng{font-size:22px;line-height:26px;margin-bottom:30px;padding-bottom:10px;border-bottom:1px solid #e0e0e0}.wrap{max-width:1280px;margin:0 auto}.wrap ul{margin:0;padding:0;vertical-align:baseline}.wrapimp{max-width:100% !important}.rhsCont{width:300px;margin-right:0px}.rhsContLoan{max-width:330px;margin:25px 0 10px}@media(max-width: 768px){.rhsContLoan{max-width:100%;width:100%;padding:0 10px;margin:6px 0 10px}.mainCont:has(>.rhsContLoan){flex-direction:column}}.calcMainCont{padding:32px 0}.mainLonEntry{padding:0 80px;height:218px}@media(max-width: 768px){.calcMainCont{flex-direction:column}.calcMainCont .rhsContLoan{max-width:100%;width:100%;padding:0 10px}.mainLonEntry{padding:0 10px;height:inherit}}.mainWdgt{margin-bottom:20px}.mainWdgt.dark{background-color:#222;padding:12px}.lessSize{font-size:16px;line-height:26px}.scrlDsbl::-webkit-scrollbar{display:none}.scrlDsbl::-moz-scrollbar{display:none}.scrlDsbl::-moz-scrollbar{display:none}.date{font-size:14px;color:#757575;font-weight:normal}.mainLftCnt{display:-webkit-flex;display:flex;width:100%;flex:1;margin-right:25px;flex-direction:column;max-width:955px}.mainLoanLndg{display:flex}.mainLoanLndg .mainLoanLft{flex:1 1;margin-right:16px;max-width:955px}.mainLoanLndg .mainLoanRgt{max-width:350px}.storyblk{margin:0 20px;overflow:hidden}.storyblkVisible{margin:0 20px;overflow:visible}.shadowWdgt{margin-bottom:20px;padding:10px 10px 5px;border-radius:3px;box-shadow:0 0 4px 0 rgba(0,0,0,.1);background-color:#fff}.shadowWdgt.dark{background-color:#343434}.dtlImgAdd{min-height:81px;margin-top:10px;background:#f0f0f0;margin-bottom:20px;padding-bottom:10px;padding-top:8px;text-align:center;display:flex;align-items:center;justify-content:center;flex-direction:column;position:relative}.dtlImgAdd::before{content:"विज्ञापन";min-height:11px;color:#777;font-size:14px;line-height:16px}.cardSm{display:flex;padding-bottom:10px}.cardSm .smLft{width:125px;margin-right:12px;position:relative;overflow:hidden}.cardSm.rightCards div.smLft{width:90px;min-width:90px}.cardSm .smRght{flex:1}.cardSm:hover img{transform:scale(1.1);transition:.5s}.rghtCrd{border-bottom:1px solid #eee;margin-bottom:10px}.rghtCrd.dark{border-bottom:none}.rghtCrd .cardSm{border-bottom:1px solid #eee;margin-bottom:10px}.rghtCrd .cardSm.dark{border-bottom:none}.rghtCrd div.smLft{width:90px;min-width:90px}.wdgtSubtitle3{font-size:14px;line-height:20px;color:#555;font-weight:normal}.wdgtSubtitle3.dark{color:#efefef}.cardImg{width:100%;border-radius:4px}.wdgtHdng{line-height:25px;font-weight:bold;margin-top:0;margin-bottom:15px;padding-left:10px;display:flex;align-items:center;position:relative;font-size:22px;justify-content:space-between}.wdgtHdng.full::after{width:100%}.wdgtHdng .txtMore{background-color:#fff;color:#c4132a;z-index:1;padding-left:10px;font-size:18px}.wdgtHdng .txtMore.dark{background-color:#222;color:#fff}.wdgtHdng .readMore{z-index:1;padding-left:10px;font-size:22px;padding:0 20px 0 12px;color:#c4132a;font-size:18px;background-color:#fff}.wdgtHdng .readMore:after{height:8px;width:9px;border-color:#c4132a;font-weight:bold;border-style:solid;border-width:0 2px 2px 0;transform:rotate(-45deg);position:absolute;top:9px;right:6px;content:"";display:block}.wdgtHdng .readMore{z-index:1;padding-left:10px;font-size:22px;padding:0 20px 0 12px;color:#c4132a;font-size:18px;background-color:#fff}.wdgtHdng .readMore:after{height:8px;width:9px;border-color:#c4132a;font-weight:bold;border-style:solid;border-width:0 2px 2px 0;transform:rotate(-45deg);position:absolute;top:9px;right:6px;content:"";display:block}.wdgtHdng.noLine{padding-left:0px;display:none}.wdgtHdng.noLine::before{display:none !important}.wdgtHdng::before{content:"";border-left:4px solid #c4132a;content:"";border-left:4px solid #c4132a;position:absolute;left:0;top:0;height:100%}.wdgtHdng.dark::before{border-left:4px solid #7b7b7b}.wdgtHdng::after{content:"";height:2px;background-color:#c4132a;position:absolute;width:100%;left:0}.wdgtHdng.dark::after{background-color:#7b7b7b}.wdgtHdng .txtMore{background:#fff;color:#c4132a;z-index:1;padding:0 12px;font-size:18px}.wdgtHdng .txt{background:#fff;display:inline-block;padding:0 12px 0 7px;z-index:1;color:#222;font-weight:bold;margin-left:-6px}.wdgtHdng .txt.dark{background-color:#222;color:#fff}.wdgtHdng .txt.rhsdark{background-color:#343434;color:#fff}.wdgtHdng span.txt{font-size:22px;font-weight:700}.wdgtHdng h2.txt,.wdgtHdng h1.txt{font-size:22px;font-weight:700}.wdgtHdng.wdgtHdngNoLine::after{display:none}.newWdgtHdng{display:flex;align-items:center;height:36px;margin-bottom:15px}.newWdgtHdng .arwImg{width:28px;height:28px;margin-left:24px}.newWdgtHdng .arwImg img{width:100%}.mgBtm-10{margin-bottom:10px}.mgBtm20{margin-bottom:20px}.readMoreTxt{position:relative;font-size:18px;line-height:28px;color:#222;position:relative}.justifyBTF{font-size:20px;color:rgba(0,0,0,.85);line-height:34px;font-weight:400}.showMoreTxt{position:absolute;bottom:0;right:2px;color:#c4132a;cursor:pointer;padding:0 0 0 0px;background:#fff}.ellipsis1{-webkit-box-orient:vertical;overflow:hidden;display:-webkit-box;-webkit-line-clamp:1}.ellipsis2{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}.ellipsis3{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}.ellipsis4{display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}.ellipsis4 p{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}.ellipsis5 p{display:-webkit-box;-webkit-line-clamp:5;-webkit-box-orient:vertical;overflow:hidden}.showMoreTxt:before{content:"...";color:#222}.scrlDsbl::-webkit-scrollbar-thumb{background:rgba(0,0,0,0)}.stkDown span:nth-child(3){color:#f44336}.stkDown span:nth-child(4){color:#f44336}.stkUp span:nth-child(3){color:#26a79a}.stkUp span:nth-child(4){color:#26a79a}.redTxt{margin-top:20px;font-size:18px}.redTxt a{color:#c4132a}.relatedCntSec .reltedCnt{display:flex;flex-wrap:wrap}.relatedCntSec .reltedCnt a{padding:0 12px;border-radius:20px;border:solid 1px #c4132a;background:rgba(196,19,42,.06);margin:0 8px 12px 2px;font-size:14px;height:32px;color:#c4132a;display:flex;align-items:center}.liveScoreNewCmpnt{background:#fff;box-shadow:0 3px 6px 0 rgba(0,0,0,.16);padding:20px}.mrginSpace{max-width:1128px}.fullWidth .Common_wrap__hos11{max-width:100% !important}.fixedWidth .Common_wrap__hos11{max-width:1280px !important;margin:auto !important}.fixedWidth .midCntFix{max-width:1280px !important;margin:0 auto}@media(max-width: 768px){.phnWrp{padding:0 10px}.justifyBTF{font-size:18px;line-height:30px}.mastHeadDesktopShow{display:none}.mstheadAdMob{display:block;height:310px}.topBrdcrmb{padding:0 10px}.storyblk{margin:0}.storyblkVisible{margin:0}.brdCrum{margin-bottom:15px;height:inherit}.wdgtHdng span.txt{font-size:20px;max-width:210px}.wdgtHdng h1.txt{font-size:20px;max-width:210px}.wdgtHdng h2.txt{font-size:20px;max-width:210px}.wdgtHdng .txtMore{font-size:16px}.wdgtScrollValue{scroll-margin-top:100px}.readMoreTxt{font-size:16px}.mainLftCnt{margin-right:0}.rhsCont{display:none}.mainLftCnt{padding:0 10px}.hideMob{display:none}.wdgtHdng{font-size:20px}.dsplyNone{display:none}.dsplyBlck{display:block}.noImage{border-radius:50%;height:50px;width:50px}.liveScoreNewCmpnt{background:#fff;box-shadow:0 3px 6px 0 rgba(236,236,236,.16);padding:0px}.mainLoanLndg{flex-direction:column}.mainLoanLndg .mainLoanLft{margin-right:0;max-width:100%}.mainLoanLndg .mainLoanRgt{max-width:100%}}@media(min-width: 769px){.hideDesk{display:none}.noImage{border-radius:50%;height:32px;width:32px}}.aurPadheArrow{border:solid #c4132a;border-width:0px 2px 2px 0px;padding:4px;transition:.2s ease-in;transform:rotate(-45deg);display:inline-block}.aurPadheArrow.dark{border:solid #fff;border-width:0px 2px 2px 0px}.wdgtHdng:hover .aurPadheArrow{transform:translate(35%, 0) rotate(-45deg)}.mainEvent{width:100%}.dMobile{display:none}@media(max-width: 768px){.dMobile{display:block}}.desktopAdReserve{display:none}@media(min-width: 769px){.desktopAdReserve{display:block;min-height:250px}}.menuBtmNew{display:none}@media(max-width: 767px){.menuBtmNew{display:flex;position:fixed;z-index:9;justify-content:space-between;bottom:0;left:0;right:0;width:100vw;max-width:100vw;height:56px;-webkit-backdrop-filter:blur(50px);backdrop-filter:blur(50px);background-color:#fff;box-sizing:border-box;border-top:.1px solid #bab8b8;align-items:center;will-change:transform;transform:translate3d(0, 0, 0);-webkit-transform:translate3d(0, 0, 0);pointer-events:auto}.menuBtmNew div.btmHome{height:24px;width:24px}.menuBtmNew div.btmNewsBrief{height:24px;width:24px}.menuBtmNew div.btmPhoto{height:24px;width:24px}.menuBtmNew div.btmRashi{height:24px;width:24px}.menuBtmNew div.btmCric{height:24px;width:24px}.menuBtmNew div.btmMarket{height:24px;width:24px}.menuBtmNew div.btmSignIn{height:24px;width:24px}}.btmWrp{display:none}@media(max-width: 767px){.btmWrp{display:flex;position:fixed;z-index:9;justify-content:space-between;bottom:0;width:100%;left:0;height:56px;backdrop-filter:blur(50px);-webkit-backdrop-filter:blur(50px);background-color:#fff;box-sizing:border-box;border-top:.1px solid #bab8b8;align-items:center}.btmWrp a img{height:48px;max-width:100%;object-fit:contain}}.onlyDesktop{display:block}@media(max-width: 768px){.onlyDesktop{display:none}}.onlyPhone{display:none}@media(max-width: 768px){.onlyPhone{display:block}}.pgNav{height:42px;padding:0px 10px 0px 0px;display:-webkit-flex;display:flex;background:#222;margin-bottom:15px;gap:10px}.pgNav a{line-height:42px;display:inline-block;font-size:16px;padding:0 14px 0px;text-transform:capitalize;color:#fff;position:relative;border-bottom:none;height:42px}.pgNav a.active{border-bottom:1px solid #fff;color:#c4132a}.pgNav a.navItem:hover{border-bottom:1px solid #fff}.pgNav a>span{position:relative;z-index:1}.l2NewImg{position:absolute;left:0;right:0;top:0;bottom:0;margin:auto;z-index:0}.pgNav .gifL2{display:inline-block;width:auto;height:34px;max-width:none;max-height:100%;margin:0;padding:0;object-fit:contain;vertical-align:middle}.firstActive{display:inline-block;background:#c4132a;text-align:center;white-space:nowrap;position:relative;padding:1px;margin-right:10px}.firstActive:after{content:"";width:0px;height:0px;border-top:21px solid rgba(0,0,0,0);border-bottom:21px solid rgba(0,0,0,0);border-left:9px solid #c4132a;position:absolute;right:-9px;top:0px;z-index:13}@media(max-width: 768px){.pgNav{margin:0 -10px 15px}}.liveBlogBtn{left:5px;top:5px;padding:5px 5px;font-size:12px;text-transform:uppercase;background:#c4132a;color:#fff;border-radius:4px;position:absolute;z-index:5}.liveBlogBtn i{display:inline-block;background-color:#d6322e;width:5px;height:5px;border-radius:50%;z-index:1;top:0;margin-right:4px;animation:live2 3s ease-in-out infinite;vertical-align:text-top;margin-top:4px}.liveBlogBtn i:before{content:"";display:block;position:absolute;background-color:#ffd800;border-radius:50%;animation:live 3s ease-in-out infinite;z-index:-1}@keyframes live{0%{transform:scale(1, 1)}100%{transform:scale(3.1, 3.1);background-color:rgba(255,216,0,.1)}}@keyframes live2{0%{background:#c4132a}100%{background-color:#fff}}.topicListContainer{display:flex;align-items:center;flex-wrap:nowrap;justify-content:flex-start;position:relative}div.tagsblk{margin-bottom:18px;position:relative;margin-right:4px}.trendingTopicSeperator:after{content:"";display:block;position:absolute;top:0px;right:0px;bottom:0px;left:auto;margin:auto;width:40px;background-image:linear-gradient(90deg, transparent 0%, #ffffff 92%);height:100%}.trendingTopicSeperator{border-right:solid 1px #d2d2d2;border-color:rgba(97,97,97,.5019607843);max-width:calc(74% - 5px);position:relative;margin-right:10px}.stickyAd{display:none}@media(max-width: 768px){.stickyAd{display:block}}div.tagsblk{margin-bottom:0px;display:flex}div.tagsblk a{background-color:#fff;border-radius:2px;color:rgba(34,34,34,.6);font-size:14px;padding:0 3px;margin-right:11px;display:flex;line-height:22px;border:1px solid rgba(0,0,0,.12);cursor:pointer}div.tagsblk.dark a{background-color:#1a1a1a;color:#cecece}div.tagsblk .moreTags{display:none}div.tagsblk a{font-size:12px}div.tagsblk a:hover{background-color:#c4132a;border:1px solid #c4132a;color:#fff;cursor:pointer}div.tagsblk{margin-bottom:0px;display:flex}div.tagsblk a{background-color:#fff;border-radius:2px;color:rgba(34,34,34,.6);font-size:14px;padding:0 3px;margin-right:11px;display:flex;line-height:22px;border:1px solid rgba(0,0,0,.12);cursor:pointer}div.tagsblk.dark a{background-color:#1a1a1a;color:#cecece}div.tagsblk .moreTags{display:none}div.tagsblk a{font-size:12px}div.tagsblk a:hover{background-color:#c4132a;border:1px solid #c4132a;color:#fff;cursor:pointer}
+.ftrMain{background:#000}.ftrMain li{margin-bottom:24px}.ftrMain li:last-child{margin-bottom:0}.ftrMain li span{color:#fff;font-size:20px;font-weight:normal;margin-bottom:6px;display:flex;align-items:center}.ftrMain li span h2{display:inline;width:fit-content;font-size:16px;font-weight:normal;color:#fff}.ftrMain li a{cursor:pointer;display:inline-block;font-size:15px;color:#8f8f8f;line-height:30px}.ftrMain li a:after{content:" ";width:1px;height:13px;margin:0 10px;background:#8f8f8f;display:inline-block;top:2px;position:relative}.ftrMain li a:last-child:after{display:none}.ftrMain li img{margin-left:5px;width:12px}.ftrInsd{margin:auto;max-width:1150px}.ftrLinkAll{margin-bottom:40px;padding-top:24px}.ftrLogoSec{display:flex;padding-bottom:95px;justify-content:space-between}.ftrLogo{display:inline-block;width:362px;height:79px}.ftrLogo .logoImg{width:100%}.ftrSocialBlk{display:flex}.ftrSocialBlk .hdng{display:block;font-size:18px;font-weight:normal;color:#fff;margin-bottom:14px}.ftrSocial{margin-right:60px;position:relative}.ftrSocial:after{content:" ";width:1px;height:60px;right:-18px;position:absolute;background-color:#727272;top:22px}.ftrSocial a{width:40px;display:inline-block;height:40px;margin-right:22px}.ftrSocial img{width:100%}.ftrApp a{width:131px;display:inline-block;height:38px}.ftrApp .gplayFtr{margin-right:9px}.ftrApp img{height:38px}.ftrMoreLnk{width:100%;text-align:center}.ftrMoreLnk p{width:100%;text-align:center;padding-bottom:12px;position:relative;margin-bottom:12px}.ftrMoreLnk p::after{width:100%;left:0;right:0;height:1px;bottom:0;background-color:#383838;content:" ";position:absolute}.ftrMoreLnk p:last-child::after{display:none}.ftrMoreLnk p a:last-child{border-right:none}.ftrMoreLnk span{font-size:13px;font-weight:normal}.ftrMoreLnk .lnkOverview{color:#8f8f8f;font-size:13px}.ftrMoreLnk a{font-size:13px;padding-right:5px;margin-right:5px;border-right:1px solid #8f8f8f;color:#8f8f8f}.ftrCpyRgt{color:#8a8a8a;font-size:13px;padding:12px 16px;background:#212121;margin:auto;text-align:center}@media(max-width: 768px){.ftrInsd{padding-top:27px;padding:0 16px}.ftrLinkAll{margin-bottom:26px;padding-top:26px}.ftrMain li{margin-bottom:18px}.ftrMain li span{font-size:16px;margin-bottom:10px;line-height:normal}.ftrMain li h2{font-size:16px;margin-bottom:10px;line-height:normal}.ftrMain li a{font-size:14px;line-height:22px}.ftrLogoSec,.ftrSocialBlk{flex-direction:column}.ftrSocial{margin-right:0;margin-bottom:20px}.ftrSocial:after{display:none}.ftrSocial a{margin-right:25px}.ftrLogoSec{padding-bottom:17px}.ftrMoreLnk{padding:0 16px}.ftrMoreLnk p{line-height:22px;text-align:left}.ftrLogo{width:276px;height:61px;margin-bottom:27px}.ftrCpyRgt{font-size:11px}}
+.popAddBg{background:rgba(0,0,0,.6);backdrop-filter:blur(3px);position:fixed;width:100%;height:100vh;top:0;left:0;z-index:99}.popAddWrp{border-radius:16px;background:linear-gradient(177deg, #fef6f7 3.05%, #f5fff6 98.61%);width:404px;min-height:348px;background-color:#f8f8f8;overflow:hidden;position:relative;margin:auto;top:50%;left:50%;-webkit-transform:translate(-50%, -50%);-moz-transform:translate(-50%, -50%);transform:translate(-50%, -50%);position:fixed}.bgTrnsprts{position:absolute;left:0;top:0;width:390px;min-height:316px}.popupBlk{display:flex;flex-direction:column;align-items:center;justify-content:center;padding:24px;text-align:center;position:relative;z-index:1}.popupBlk img{width:100px;height:100px;margin-bottom:24px}.popupBlk h3{color:#222a3a;font-size:22px;font-weight:600;line-height:150%;margin:0 0 8px 0;text-overflow:ellipsis;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}.popupBlk p{color:#222a3a;font-size:17px;font-weight:400;line-height:150%;margin:0 0 24px 0}.popupBlk p strong{color:#222a3a;font-size:16px;font-weight:600;line-height:150%}.downloadBtn{background:#c4321a;color:#fff;border:none;padding:16px 32px;border-radius:8px;font-size:20px;font-weight:600;cursor:pointer}@media(max-width: 480px){.popAddWrp{width:312px;min-height:368px}.bgTrnsprts{width:312px;min-height:330px}.popupBlk{padding:16px}.popupBlk img{width:80px;height:80px}}
+</style><link rel="preconnect" href="https://dap.livehindustan.com" crossorigin=""/><link rel="preconnect" href="https://api.livehindustan.com" crossorigin=""/><link rel="dns-prefetch" href="https://www.googletagservices.com"/><link rel="dns-prefetch" href="https://tpc.googlesyndication.com/"/><link rel="dns-prefetch" href="https://adservice.google.com"/><link rel="dns-prefetch" href="https://www.google.com/"/><link rel="dns-prefetch" href="https://adservice.google.co.in/"/><link rel="dns-prefetch" href="https://googleads.g.doubleclick.net"/><link rel="dns-prefetch" href="https://gum.criteo.com/"/><link rel="dns-prefetch" href="https://secure.cdn.fastclick.net/"/><link rel="dns-prefetch" href="https://www.google-analytics.com/"/><link rel="dns-prefetch" href="https://static.chartbeat.com/"/><link rel="dns-prefetch" href="https://sb.scorecardresearch.com"/><link rel="dns-prefetch" href="https://pagead2.googlesyndication.com"/><link rel="dns-prefetch" href="https://cdn.taboola.com"/><link rel="dns-prefetch" href="https://ping.chartbeat.net"/><link rel="dns-prefetch" href="https://securepubads.g.doubleclick.net"/><link rel="dns-prefetch" href="https://c.amazon-adsystem.com/"/><meta property="fb:pages" content="106615909377324"/><meta name="referrer" content="no-referrer-when-downgrade"/><meta property="fb:app_id" content="457678261031170"/><link rel="shortcut icon" href="https://www.livehindustan.com/static-content/1y/lh/img/favicon-96x96.ico"/><link rel="canonical" href="https://www.livehindustan.com/uttar-pradesh/lucknow/story-cng-became-cheaper-by-rs-2-5-in-lucknow-9469568.html"/><meta name="description" content="लखनऊ, अयोध्या, उन्नाव और आगरा में सीएनजी (कम्प्रेस्ड नेचुरल गैस) 2.50 रुपये प्रति किलो सस्ती हो गई हैं। नई दरें बुधवार सुबह छह बजे से लागू होंगी।..., Lucknow Hindi News - Hindustan"/><meta name="keywords" content="lucknow News, lucknow Latest news, uttar pradesh News, uttar pradesh Latest news, लखनऊ न्यूज़, लखनऊ लेटेस्ट न्यूज़, उत्तर प्रदेश न्यूज़, उत्तर प्रदेश लेटेस्ट न्यूज़"/><meta name="news_keywords" content="lucknow News, lucknow Latest news, uttar pradesh News, uttar pradesh Latest news, लखनऊ न्यूज़, लखनऊ लेटेस्ट न्यूज़, उत्तर प्रदेश न्यूज़, उत्तर प्रदेश लेटेस्ट न्यूज़"/><meta name="robots" content="index, follow, max-image-preview:large"/><meta name="language" content="hi"/><meta property="og:name" content="Hindustan हिन्दी"/><meta property="og:title" content="लखनऊ में सीएनजी 2.5 रुपये सस्ती हुई"/><meta property="og:type" content="Article"/><meta property="og:url" content="https://www.livehindustan.com/uttar-pradesh/lucknow/story-cng-became-cheaper-by-rs-2-5-in-lucknow-9469568.html"/><meta property="og:image" content="https://www.livehindustan.com/static-content/1y/lh/logo/1600x900-logo.jpg"/><meta property="og:description" content="लखनऊ, अयोध्या, उन्नाव और आगरा में सीएनजी (कम्प्रेस्ड नेचुरल गैस) 2.50 रुपये प्रति किलो सस्ती हो गई हैं। नई दरें बुधवार सुबह छह बजे से लागू होंगी।..., Lucknow Hindi News - Hindustan"/><meta property="og:locale" content="hi_IN"/><meta property="og:image:height" content="900"/><meta property="og:image:width" content="1600"/><meta property="article:published_time" content="2024-03-05T22:45:12+05:30"/><meta property="article:modified_time" content="2024-03-05T22:45:12+05:30"/><meta itemProp="name" content="लखनऊ में सीएनजी 2.5 रुपये सस्ती हुई, Lucknow  Hindi News - Hindustan"/><meta itemProp="description" content="लखनऊ, अयोध्या, उन्नाव और आगरा में सीएनजी (कम्प्रेस्ड नेचुरल गैस) 2.50 रुपये प्रति किलो सस्ती हो गई हैं। नई दरें बुधवार सुबह छह बजे से लागू होंगी।..., Lucknow Hindi News - Hindustan"/><meta itemProp="image" content="https://www.livehindustan.com/static-content/1y/lh/logo/1600x900-logo.jpg"/><meta name="twitter:title" content="लखनऊ में सीएनजी 2.5 रुपये सस्ती हुई"/><meta name="twitter:description" content="लखनऊ, अयोध्या, उन्नाव और आगरा में सीएनजी (कम्प्रेस्ड नेचुरल गैस) 2.50 रुपये प्रति किलो सस्ती हो गई हैं। नई दरें बुधवार सुबह छह बजे से लागू होंगी।..., Lucknow Hindi News - Hindustan"/><meta name="twitter:site" content="@Live_Hindustan"/><meta name="twitter:image:src" content="https://www.livehindustan.com/static-content/1y/lh/logo/1600x900-logo.jpg"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:creator" content="@Live_Hindustan"/><meta name="twitter:url" content="https://www.livehindustan.com/uttar-pradesh/lucknow/story-cng-became-cheaper-by-rs-2-5-in-lucknow-9469568.html"/><meta name="twitter:image:height" content="900"/><meta name="twitter:image:width" content="1600"/><meta name="google-site-verification" content="u_nf4_2z1VCFr1Zb4Ut0UVNBecxRJgzdT37Y_hDJ3Pw"/><title>लखनऊ में सीएनजी 2.5 रुपये सस्ती हुई, Lucknow  Hindi News - Hindustan</title><link rel="amphtml" href="https://www.livehindustan.com/uttar-pradesh/lucknow/story-cng-became-cheaper-by-rs-2-5-in-lucknow-9469568.amp.html"/><meta name="next-head-count" content="3"/><noscript data-n-css=""></noscript><script defer="" nomodule="" src="https://www.livehindustan.com/lhfeed/_next/static/chunks/polyfills-5cd94c89d3acac5f.js"></script><script src="https://www.livehindustan.com/lhfeed/_next/static/chunks/webpack-f64a0c59fc73011b.js" defer=""></script><script src="https://www.livehindustan.com/lhfeed/_next/static/chunks/main-f3bc21f59bc6d1f6.js" defer=""></script><script src="https://www.livehindustan.com/lhfeed/_next/static/chunks/framework-4bf87da4deb8797b.js" defer=""></script><script src="https://www.livehindustan.com/lhfeed/_next/static/chunks/pages/_app-1fce79e26a1141cb.js" defer=""></script><script src="https://www.livehindustan.com/lhfeed/_next/static/chunks/2390-f90ea123513851d6.js" defer=""></script><script src="https://www.livehindustan.com/lhfeed/_next/static/chunks/26504-9a4622a49c98f417.js" defer=""></script><script src="https://www.livehindustan.com/lhfeed/_next/static/chunks/19552-ad7c7e8fbc04fe21.js" defer=""></script><script src="https://www.livehindustan.com/lhfeed/_next/static/chunks/30958-adeb51e2baf23302.js" defer=""></script><script src="https://www.livehindustan.com/lhfeed/_next/static/chunks/52658-ed888a77b77cb9b0.js" defer=""></script><script src="https://www.livehindustan.com/lhfeed/_next/static/chunks/98313-5b295b3e9e6110bb.js" defer=""></script><script src="https://www.livehindustan.com/lhfeed/_next/static/chunks/53468-a25eee93932e7a09.js" defer=""></script><script src="https://www.livehindustan.com/lhfeed/_next/static/chunks/78855-781b30593b42317c.js" defer=""></script><script src="https://www.livehindustan.com/lhfeed/_next/static/chunks/88714-39ce5f5699869058.js" defer=""></script><script src="https://www.livehindustan.com/lhfeed/_next/static/chunks/pages/story-detail/%5Bslug%5D-b8d2def1debd5a22.js" defer=""></script><script src="https://www.livehindustan.com/lhfeed/_next/static/8pO7zOvtjarPigYNxkeut/_buildManifest.js" defer=""></script><script src="https://www.livehindustan.com/lhfeed/_next/static/8pO7zOvtjarPigYNxkeut/_ssgManifest.js" defer=""></script><script src="https://www.livehindustan.com/lhfeed/_next/static/8pO7zOvtjarPigYNxkeut/_middlewareManifest.js" defer=""></script></head><body><script>
+    (function () {
+        if (window.__LH_INP_EVENT_GUARD__) {
+            return;
+        }
+        window.__LH_INP_EVENT_GUARD__ = true;
+
+        var outboundClickSelectors = [
+            'a[target="_blank"]',
+            'a[target="_parent"]',
+            'a[target="_top"]',
+            '.astroSliderGroup a',
+            '.author-name a'
+        ];
+        var clickGuardSelectors = [
+            '.stryHdg',
+            '.headStry',
+            '.headStry .subHdg',
+            '.astrAiInptWrp',
+            '.kyPntsWrp',
+            '.stryShreWrap',
+            '.storyArticle .topImgBlk:not(.topImgBlk--interactiveMedia)',
+            '.story-content-paragraph--guarded',
+        ];
+        var pointerBlockSelectors = [
+            '.wrap',
+            '.hdrWrp',
+            '.hdrWrp .logoImgCnt',
+            '.hdrWrp .topHdrWrp',
+            '.astrAiInptWrp',
+            '.stryHdg',
+            '.kyPntsWrp',
+            '.stryShreWrap',
+            '.story-content-paragraph--guarded',
+            '.storyArticle .stryCnt p',
+            '.storyArticle .topImgBlk',
+            '#story-content',
+            '#story-content .story-content-paragraph',
+            '#story-content .inlineArtclWrp a',
+            '#parentSidestickyopenapp img',
+            '.slideStoryImg',
+            '.photo-article img',
+            '.lvHd span',
+            '.pgHdng',
+            '.pgShrtHdng',
+            '.firstCnt',
+            '.lvBlgWrp h1',
+            '.lvBlgWrp h2',
+            '.lvBlgWrp p',
+            '.lvBlgWrp .blgImgWrp',
+            '.lvBlgWrp .blgImgWrp img',
+            '.blgUpdates p',
+            '.blgUpdates h2',
+            '.blgImgWrp',
+            '.blgImgWrp img'
+        ];
+        var interactiveSelector = 'a, button, input, textarea, select, label, [role="button"], .wrpShr, .shareKreinTxt, .echoShrWidget';
+
+        // These handlers run on every pointerdown and pointerup on every page.
+        // Walking the selector arrays one at a time meant up to 30 sequential
+        // closest() calls — each a full walk to the document root — per event,
+        // three times over (pointerdown, pointerup, click). Pre-joining into a
+        // single selector list makes it one closest() call per check. The result
+        // is used as a boolean in every call site, and every entry in
+        // outboundClickSelectors resolves to an anchor, so collapsing the lists
+        // does not change behaviour.
+        var outboundClickSelector = outboundClickSelectors.join(',');
+        var clickGuardSelector = clickGuardSelectors.join(',');
+        var pointerBlockSelector = pointerBlockSelectors.join(',');
+        var bypassSelector = '.affiliate-pl-eligible, .affiliateEligibilityBtn, .affiliate-header, .productListBox, .backlink, .share-social-link, #ECHO_LH_POPUP, #appSheet, .app-sheet';
+
+        function getEventTarget(event) {
+            var target = event.target;
+
+            if (target && target.nodeType === 3) {
+                target = target.parentElement;
+            }
+
+            if (!target || target.nodeType !== 1 || !target.closest) {
+                return null;
+            }
+
+            return target;
+        }
+
+        function closestMatch(target, selector) {
+            try {
+                return target.closest(selector);
+            } catch (e) {
+                return null;
+            }
+        }
+
+        function isStoryArticleSurface(target) {
+            return (
+                target.id === 'story-content' ||
+                (target.classList && target.classList.contains('storyArticle'))
+            );
+        }
+
+        function stopPropagation(event, immediate) {
+            if (immediate && event.stopImmediatePropagation) {
+                event.stopImmediatePropagation();
+                return;
+            }
+
+            event.stopPropagation();
+        }
+
+        function stopOutboundLinkPropagation(event) {
+            var target = getEventTarget(event);
+            var link;
+            var clickGuardTarget;
+            var storyArticleSurfaceTarget;
+
+            if (!target) {
+                return;
+            }
+                
+            if (closestMatch(target, bypassSelector)) {
+                return;
+            }
+
+            link = closestMatch(target, outboundClickSelector);
+            clickGuardTarget = closestMatch(target, clickGuardSelector);
+            storyArticleSurfaceTarget = isStoryArticleSurface(target);
+
+            if (
+                (link && link.href && link.href.indexOf('javascript:') !== 0) ||
+                ((clickGuardTarget || storyArticleSurfaceTarget) && !target.closest(interactiveSelector))
+            ) {
+                stopPropagation(event, true);
+            }
+        }
+
+        function stopRegisteredPointerPropagation(event) {
+            var target = getEventTarget(event);
+
+            if (!target) {
+                return;
+            }
+
+            if (isStoryArticleSurface(target) || closestMatch(target, pointerBlockSelector)) {
+                stopPropagation(event, true);
+            }
+        }
+
+        window.addEventListener('click', stopOutboundLinkPropagation, true);
+        // passive: these handlers only call stopPropagation, never
+        // preventDefault, so the browser does not have to block scrolling on
+        // them. Same semantics, but the compositor is no longer gated on us.
+        document.addEventListener('pointerdown', stopRegisteredPointerPropagation, { passive: true });
+        document.addEventListener('pointerup', stopRegisteredPointerPropagation, { passive: true });
+    })();
+</script><div id="__next" data-reactroot=""><script>
+                var _cookieCacheSC = {};
+                function getCookieSC(e){
+                    if (e in _cookieCacheSC) return _cookieCacheSC[e];
+                    for (var t = e + "=", n = document.cookie.split(";"), o = 0; o < n.length; o++) {
+                        for (var a = n[o];
+                            " " == a.charAt(0);) a = a.substring(1, a.length);
+                        if (0 == a.indexOf(t)) { _cookieCacheSC[e] = a.substring(t.length, a.length); return _cookieCacheSC[e]; }
+                    }
+                    _cookieCacheSC[e] = null;
+                    return null;    
+                }
+                function setCookieSC(e, t, n) {
+                    var o = new Date;
+                    o.setTime(o.getTime() + 24 * n * 60 * 60 * 1e3);
+                    var a = "expires=" + o.toUTCString();
+                    document.cookie = e + "=" + t + ";" + a + ";path=/;SameSite=None;Secure";
+                }
+            </script><script src="https://www.livehindustan.com/lhfeed/lh/cdp/prod/sdk/echo-sdk.js" defer=""></script><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MKFNS68" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><header class="hdrWrp"><div class="mainHdr"><div class="hdrCnt hdrWrpCntr"><div class="hdrLft"><time class="topHdrTm"></time><a id="hamburger-toggle" class="hamburgerToggle"></a><label for="hamburger-toggle" class="hdrMenuIcn inpOptimize"><span class="hmbrgrLine" id="hamburger-icon"></span></label><a href="https://www.livehindustan.com" class="logoImgCnt"><picture><source media="(min-width:1023px)" srcSet="https://www.livehindustan.com/static-content/1y/lh/img/lh-logo-desk.webp" type="image/webp"/><source media="(max-width:1022px)" srcSet="https://www.livehindustan.com/static-content/1y/lh/img/lh-logo-m.webp" type="image/webp"/><source srcSet="https://www.livehindustan.com/static-content/1y/lh/img/lh-logo-m.webp" type="image/webp"/><img decoding="async" class="logo-img" src="https://www.livehindustan.com/static-content/1y/lh/img/lh-logo-desk.webp" alt="Hindustan Hindi News" title="Hindustan Hindi News"/></picture></a></div><div class="hdrRght "><a href="https://www.livehindustan.com/photos/" id="pht-hdr-lnk" class="phtHdrLnk" title="फोटो"><picture><source media="(min-width:1023px)" srcSet="https://www.livehindustan.com/static-content/1y/lh/img/header-photo-icon.webp" type="image/webp"/><source media="(min-width:1023px)" srcSet="https://www.livehindustan.com/static-content/1y/lh/img/header-photo-icon.png" type="image/png"/><img width="22" height="22" src="" alt="फोटो"/></picture>फोटो</a><a href="https://www.livehindustan.com/videos/" id="vde-hdr-lnk" class="vdeHdrLnk" title="वीडियो"><picture><source media="(min-width:1023px)" srcSet="https://www.livehindustan.com/static-content/1y/lh/img/header-video-icon.webp" type="image/webp"/><source media="(min-width:1023px)" srcSet="https://www.livehindustan.com/static-content/1y/lh/img/header-video-icon.png" type="image/png"/><img width="22" height="22" src="" alt="वीडियो"/></picture>वीडियो</a><a id="seherChune" class="shrChune"><picture><source media="(max-width:1022px)" srcSet="https://www.livehindustan.com/static-content/1y/lh/img/seher-icon-mob.png" type="image/png"/><source media="(min-width:1023px)" srcSet="https://www.livehindustan.com/static-content/1y/lh/img/seher-icon-web.png" type="image/png"/><img class="cardImg" src="https://www.livehindustan.com/static-content/1y/lh/img/seher-icon-web.png" alt="शहर चुनें"/></picture><span id="sehr-chune-link" class="sehrTxt">शहर चुनें</span></a><a title="ई-पेपर" class="epprView" data-google-interstitial="false"><picture><source media="(min-width:1023px)" srcSet="https://www.livehindustan.com/static-content/1y/lh/img/epaper-icn-head.png" type="image/png"/><img loading="eager" decoding="async" src="" alt="epaper" class="epprWeb" width="22" height="22"/></picture><span class="epprTxt">ई- पेपर</span></a><div id="mWebSubcBtn" class="mWebSubcBtn"></div><span class="hideMob lgnWrp" id="show-header-out-login"><a title="साइन इन"><svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17"><path id="Path_6198" data-name="Path 6198" d="M12,12A4,4,0,1,0,8,8,4,4,0,0,0,12,12Zm0,2c-2.67,0-8,1.34-8,4v2H20V18C20,15.34,14.67,14,12,14Z" transform="translate(-3.5 -3.5)" fill="#fff" stroke="#c4132a" stroke-width="1"></path></svg>साइन इन</a></span><form class="searchBar" method="post" action="/search"><input type="hidden" name="type" value="story"/><input type="text" name="searchKeywords" autoComplete="off" placeholder="यहाँ लिखें"/><button type="submit"><i></i></button></form></div></div></div><div class="nvWrpr"><nav class="hdrMenu hdrWrpCntr scrlDsbl" style="display:flex"><a href="https://www.livehindustan.com/" title="होम" class="active  ">होम</a><a href="https://www.livehindustan.com/state" title="राज्य" class="  ">राज्य</a><a href="https://www.livehindustan.com/national" title="देश" class="  ">देश</a><a href="https://www.livehindustan.com/static-content/1y/lh/immersive/astrology/diwali-greetings-card-maker-in-hindi-english-2026.html" title="दिवाली ग्रीटिंग" class=" hdrNewNav "><span>दिवाली ग्रीटिंग</span></a><a href="https://www.livehindustan.com/festival-of-gifts" title="खुशियों के पल" class="  ">खुशियों के पल</a><a href="https://www.livehindustan.com/cricket" title="क्रिकेट" class="  ">क्रिकेट</a><a href="https://www.livehindustan.com/astro/ai-panditji" title="पंडित जी से चैट" class="  ">पंडित जी से चैट</a><a href="https://www.livehindustan.com/entertainment" title="मनोरंजन" class="  ">मनोरंजन</a><a href="https://www.livehindustan.com/business" title="बिजनेस" class="  ">बिजनेस</a><a href="https://www.livehindustan.com/career" title="करियर" class="  ">करियर</a><a href="https://www.livehindustan.com/international" title="विदेश" class="  ">विदेश</a><a href="https://www.livehindustan.com/astrology/" title="धर्म" class="  ">धर्म</a><a href="https://www.livehindustan.com/lifestyle" title="लाइफस्टाइल" class="  ">लाइफस्टाइल</a><div class="menuCntrl"><span class="moreMenu"></span><div class="dwnMenu"><a href="https://www.livehindustan.com/grap-graded-response-action-plan-car-checker" title="GRAP चेक" class="">GRAP चेक</a><a href="https://www.livehindustan.com/games" title="गेम्स खेलें" class="">गेम्स खेलें</a><a href="https://www.livehindustan.com/cricket/live-score" title="Live Cricket Score" class="">Live Cricket Score</a><a href="https://www.livehindustan.com/auto" title="ऑटो" class="">ऑटो</a><a href="https://www.livehindustan.com/tags/kaam-ki-baat" title="काम की बात" class="">काम की बात</a><a href="https://www.livehindustan.com/gadgets" title="गैजेट्स" class="">गैजेट्स</a><a href="https://www.livehindustan.com/astrology/rashifal" title="राशिफल" class="">राशिफल</a><a href="https://www.livehindustan.com/astrology/yearly-horoscope-2027" title="राशिफल 2027" class="">राशिफल 2027</a><a href="https://www.livehindustan.com/cricket/india-vs-new-zealand-1st-odi-live-score-ind-vs-nz-odi-live-cricket-score-in-hindi-form-auckland-virat-kohli-rohit-sharma-live-blog-201793750221156.html" title="IND vs NZ Live Score" class="">IND vs NZ Live Score</a><a href="https://www.livehindustan.com/astrology/god-shiva/shiv-chalisa" title="Shiv Chalisa" class="">Shiv Chalisa</a><a href="https://www.livehindustan.com/explainer/news" title="एक्सप्लेनर्स" class="">एक्सप्लेनर्स</a><a href="https://www.livehindustan.com/videos" title="वीडियो" class="">वीडियो</a><a href="https://www.livehindustan.com/viral-news/news" title="वायरल" class="">वायरल</a><a href="https://www.livehindustan.com/blog" title="ओपिनियन" class="">ओपिनियन</a><a href="https://www.livehindustan.com/photos" title="फोटो" class="">फोटो</a><a></a></div></div></nav></div></header><section class="wrap Common_wrap__Zi4iX"><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"लखनऊ में सीएनजी 2.5 रुपये सस्ती हुई","description":"लखनऊ, अयोध्या, उन्नाव और आगरा में सीएनजी (कम्प्रेस्ड नेचुरल गैस) 2.50 रुपये प्रति किलो सस्ती हो गई हैं। नई दरें बुधवार सुबह छह बजे से लागू होंगी।..., Lucknow Hindi News - Hindustan","url":"https://www.livehindustan.com/uttar-pradesh/lucknow/story-cng-became-cheaper-by-rs-2-5-in-lucknow-9469568.html","publisher":{"@type":"Organization","name":"हिंदुस्तान","url":"https://www.livehindustan.com/","logo":{"@type":"ImageObject","url":"https://www.livehindustan.com/static-content/1y/lh/img/Lh-logo-600x60.jpg","width":600,"height":60}},"keywords":"lucknow News, lucknow Latest news, uttar pradesh News, uttar pradesh Latest news, लखनऊ न्यूज़, लखनऊ लेटेस्ट न्यूज़, उत्तर प्रदेश न्यूज़, उत्तर प्रदेश लेटेस्ट न्यूज़"}</script><script type="application/ld+json">{
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "name": "हिंदुस्तान",
+            "url": "https://www.livehindustan.com/",
+            "logo": { 
+                "@context": "https://schema.org",
+                "@type": "ImageObject",
+                "width": "600",
+                "height": "60",
+                "url": "https://www.livehindustan.com/static-content/1y/lh/img/Lh-logo-600x60.jpg"
+            },
+            "address":{
+                "@type":"PostalAddress",
+                "streetAddress":"Hindustan Times House, 18-20, Kasturba Gandhi Marg",
+                "addressLocality":"New Delhi",
+                "addressRegion":"India",
+                "postalCode":"110 001"
+            },
+            "contactPoint":{
+                "@type":"ContactPoint",
+                "telephone":"+91 – 11 – 60004242",
+                "contactType":"Customer Service",
+                "areaServed":"IN",
+                "availableLanguage":"hi",
+                "hoursAvailable":{
+                "opens":"09:00",
+                "closes":"18:00"
+                }
+            },   
+            "sameAs": ["https://www.facebook.com/LiveHindustanNews", "https://x.com/Live_Hindustan", "https://www.youtube.com/@Livehindustan", "https://www.instagram.com/livehindustan/#"]
+        }</script><script type="application/ld+json">
+        {
+  "@context": "https://schema.org",
+  "@type": "SiteNavigationElement",
+  "name": [
+    "होम",
+    "देश",
+    "राज्य ",
+    "विदेश",
+    "मनोरंजन",
+    "क्रिकेट",
+    "प्रवासी भारतीय",
+    "वीडियो",
+    "धर्म",
+    "बिजनेस",
+    "कॅरियर-जॉब्स",
+    "लाइफस्टाइल",
+    "फोटो",
+    "गैजेट्स",
+    "ऑटो ",
+    "क्राइम",
+    "वायरल न्यूज़",
+    "खेल",
+    "विधानसभा चुनाव"
+  ],
+  "url": [
+    "https://www.livehindustan.com/",
+    "https://www.livehindustan.com/national",
+    "https://www.livehindustan.com/state",
+    "https://www.livehindustan.com/international",
+    "https://www.livehindustan.com/entertainment",
+    "https://www.livehindustan.com/cricket",
+    "https://www.livehindustan.com/international/india-abroad-news/news",
+    "https://www.livehindustan.com/videos",
+    "https://www.livehindustan.com/astrology",
+    "https://www.livehindustan.com/business",
+    "https://www.livehindustan.com/career",
+    "https://www.livehindustan.com/lifestyle",
+    "https://www.livehindustan.com/photos",
+    "https://www.livehindustan.com/gadgets",
+    "https://www.livehindustan.com/auto",
+    "https://www.livehindustan.com/crime",
+    "https://www.livehindustan.com/viral-news/news",
+    "https://www.livehindustan.com/sports",
+    "https://www.livehindustan.com/assembly-elections"
+  ]
+}
+
+        </script><script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://www.livehindustan.com/","name":"Hindi News"}},{"@type":"ListItem","position":2,"item":{"@id":"https://www.livehindustan.com/uttar-pradesh","name":"Uttar-pradesh News"}},{"@type":"ListItem","position":3,"item":{"@id":"https://www.livehindustan.com/uttar-pradesh/lucknow/news","name":"Lucknow News"}},{"@type":"ListItem","position":4,"item":{"@id":"https://www.livehindustan.com/uttar-pradesh/lucknow/story-cng-became-cheaper-by-rs-2-5-in-lucknow-9469568.html","name":"लखनऊ में सीएनजी 2.5 रुपये सस्ती हुई"}}]}</script><script type="application/ld+json">{
+            "@context": "https://schema.org",
+            "@type": "MobileApplication",
+            "name": "Hindustan",
+            "applicationCategory": "News",
+            "operatingSystem": "Android",
+            "url": "https://play.google.com/store/apps/details?id=com.hindustan.hindinews&hl=en_IN",
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4.5",
+                "reviewCount": "32678"
+            },
+            "offers": {
+                "@type": "Offer",
+                "price": "0",
+                "priceCurrency": "INR",
+                "category": "free"
+            }
+        }</script><script type="application/ld+json" id="news-article-schema-script">{"@context":"https://schema.org","@type":"NewsArticle","@id":"https://www.livehindustan.com/uttar-pradesh/lucknow/story-cng-became-cheaper-by-rs-2-5-in-lucknow-9469568.html#article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.livehindustan.com/uttar-pradesh/lucknow/story-cng-became-cheaper-by-rs-2-5-in-lucknow-9469568.html","name":"लखनऊ में सीएनजी 2.5 रुपये सस्ती हुई","description":"लखनऊ, अयोध्या, उन्नाव और आगरा में सीएनजी (कम्प्रेस्ड नेचुरल गैस) 2.50 रुपये प्रति किलो सस्ती हो गई हैं। नई दरें बुधवार सुबह छह बजे से लागू होंगी।...","keywords":["lucknow News","lucknow Latest news","uttar pradesh News","uttar pradesh Latest news","लखनऊ न्यूज़","लखनऊ लेटेस्ट न्यूज़","उत्तर प्रदेश न्यूज़","उत्तर प्रदेश लेटेस्ट न्यूज़"]},"inLanguage":"hi-IN","speakable":{"@type":"SpeakableSpecification","cssSelector":["h1.article-headline","h2.article-dek"]},"headline":"लखनऊ में सीएनजी 2.5 रुपये सस्ती हुई","description":"लखनऊ, अयोध्या, उन्नाव और आगरा में सीएनजी (कम्प्रेस्ड नेचुरल गैस) 2.50 रुपये प्रति किलो सस्ती हो गई हैं। नई दरें बुधवार सुबह छह बजे से लागू होंगी।...","keywords":["lucknow News","lucknow Latest news","uttar pradesh News","uttar pradesh Latest news","लखनऊ न्यूज़","लखनऊ लेटेस्ट न्यूज़","उत्तर प्रदेश न्यूज़","उत्तर प्रदेश लेटेस्ट न्यूज़"],"articleSection":"उत्तर प्रदेश","url":"https://www.livehindustan.com/uttar-pradesh/lucknow/story-cng-became-cheaper-by-rs-2-5-in-lucknow-9469568.html","datePublished":"2024-03-05T22:45:12+05:30","dateModified":"2024-03-05T22:45:12+05:30","articleBody":"लखनऊ, अयोध्या, उन्नाव और आगरा में सीएनजी (कम्प्रेस्ड नेचुरल गैस) 2.50 रुपये प्रति किलो सस्ती हो गई हैं। नई दरें बुधवार सुबह छह बजे से लागू होंगी। ग्रीन गैस लि. के प्रवक्ता के मुताबिक लखनऊ, उन्नाव और आगरा में सीएनजी 92.25 रुपये प्रति किलो मिलेगी, अभी तक इन शहरों में सीएनजी 94.75 रुपये में थी। अयोध्या में सीएनजी की कीमत 92.35 रुपये होगी, यहां 94.85 रुपये किलो थी। ग्रीन गैस के सहायक महाप्रबंधक (विपणन) प्रवीन सिंह ने बताया कि प्राकृतिक गैस की खपत बढ़ाने और हरित ईंधन अपनाने के राष्ट्रीय अभियान को गति देने के लिए दामों में कमी की गई है।","image":{"@type":"ImageObject","url":"https://www.livehindustan.com/static-content/1y/lh/logo/1600x900-logo.jpg","caption":"default image","height":900,"width":1600},"associatedMedia":{"@type":"ImageObject","url":"https://www.livehindustan.com/static-content/1y/lh/logo/1600x900-logo.jpg","caption":"default image","description":"लखनऊ, अयोध्या, उन्नाव और आगरा में सीएनजी (कम्प्रेस्ड नेचुरल गैस) 2.50 रुपये प्रति किलो सस्ती हो गई हैं। नई दरें बुधवार सुबह छह बजे से लागू होंगी।...","height":900,"width":1600},"publisher":{"@type":"Organization","@id":"https://www.livehindustan.com/#organization","name":"हिंदुस्तान","url":"https://www.livehindustan.com","logo":{"@type":"ImageObject","url":"https://www.livehindustan.com/static-content/1y/lh/img/Lh-logo-600x60.jpg","width":600,"height":60}},"wordCount":102,"isAccessibleForFree":"http://schema.org/True","author":{"@type":"Person","name":"Newswrap","jobTitle":"Author"},"locationCreated":{"@type":"City","name":"लखनऊ"}}</script><div class="mastHeadDesktopShow"></div><section class="wrap mainCont"><aside class="rhsCont" style="margin-right:0px"></aside><section class="mainLftCnt storyblk "><article id="story-201720441311092" class="story-article articleWrp"><div class="storyArticle"><h1 class="stryHdg article-headline">लखनऊ में सीएनजी 2.5 रुपये सस्ती हुई</h1><div class="stryShreWrap"><div class="athrInfo"><time datetime="2024-03-05T22:45:12+05:30" class="tmStmp">Mar 05, 2024 10:45 pm IST</time><span class="athrCreat"><div class="seqRow">By  <a class="location textGray">Newswrap</a> </div><a href="https://www.livehindustan.com/authors/Hindustan-363">हिन्दुस्तान</a>, लखनऊ</span></div><div class="shrView"><span class="echoWidgetShr"><div id="ECH_DESK_STORY_ICON_ATF" class=" echoShrWidget"></div></span><div class="wrpShr"><img class="shrImg" src="https://www.livehindustan.com/static-content/1y/lh/img/share-icn-story.png" alt="share"/> </div></div></div><div class="headStry"><h2 class="subHdg article-dek">लखनऊ, अयोध्या, उन्नाव और आगरा में सीएनजी (कम्प्रेस्ड नेचुरल गैस) 2.50 रुपये प्रति किलो सस्ती हो गई हैं। नई दरें बुधवार सुबह छह बजे से लागू होंगी।...</h2></div><div class="mstheadAdMob"><div class="dMobile"><div class="ads-head " id="ad-banr"><div id="div-gpt-ad-gpt-inline-ad-masthead"></div></div> </div></div><div class="topImgBlk"><picture><source media="(max-width:1022px)" srcSet="https://www.livehindustan.com/lh-img/uploadimage/library/2020/10/29/16_9/16_9_3/default-image384x216.jpg" type="image/jpeg"/><source media="(min-width:1023px)" srcSet="https://www.livehindustan.com/lh-img/uploadimage/library/2020/10/29/16_9/16_9_1/default-image640x360.jpg" type="image/jpeg"/><img class="cardImg" src="https://www.livehindustan.com/lh-img/uploadimage/library/2020/10/29/16_9/16_9_3/default-image384x216.jpg" alt="default image" title="लखनऊ में सीएनजी 2.5 रुपये सस्ती हुई" width="387" height="218" fetchpriority="high" loading="eager" decoding="async"/></picture></div><div class="stryCnt" style="height:100%" id="story-content"><div class="story-content-paragraph story-content-paragraph--guarded"><p>लखनऊ, अयोध्या, उन्नाव और आगरा में सीएनजी (कम्प्रेस्ड नेचुरल गैस) 2.50 रुपये प्रति किलो सस्ती हो गई हैं। नई दरें बुधवार सुबह छह बजे से लागू होंगी। ग्रीन गैस लि. के प्रवक्ता के मुताबिक लखनऊ, उन्नाव और आगरा में सीएनजी 92.25 रुपये प्रति किलो मिलेगी, अभी तक इन शहरों में सीएनजी 94.75 रुपये में थी। अयोध्या में सीएनजी की कीमत 92.35 रुपये होगी, यहां 94.85 रुपये किलो थी। ग्रीन गैस के सहायक महाप्रबंधक (विपणन) प्रवीन सिंह ने बताया कि प्राकृतिक गैस की खपत बढ़ाने और हरित ईंधन अपनाने के राष्ट्रीय अभियान को गति देने के लिए दामों में कमी की गई है।</p></div></div><div><div><style>
+            .echoBannerEOA {
+                overflow: hidden;
+            }
+            .echoBannerEOA:not(:empty) {
+                margin-top: 10px;
+                margin-bottom: 10px;
+            }
+        </style><div id="ECH_DESK_STORY_BAN_BTF" class=" echoBannerEOA"></div><div class="onlyPhone "></div><section class="authrBlkWrp"></section><style>
+.tagsWithLinearText .linearTextToggle {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+}
+.tagsWithLinearText .trendTextExpandedContent,
+.tagsWithLinearText .trendTextShowHideLabel {
+    display: none;
+}
+.tagsWithLinearText .linearTextToggle:checked ~ .topicListContainer {
+    display: block;
+}
+.tagsWithLinearText .linearTextToggle:checked ~ .topicListContainer .linearText {
+    margin: 10px 0;
+    overflow-x: auto;
+    white-space: inherit;
+}
+.tagsWithLinearText .linearTextToggle:checked ~ .topicListContainer .linearTextContent {
+    max-width: none;
+    overflow: visible;
+    text-overflow: clip;
+    white-space: normal;
+}
+.tagsWithLinearText .linearTextToggle:checked ~ .topicListContainer .trendShowHideLabel {
+    display: none;
+}
+.tagsWithLinearText .linearTextToggle:checked ~ .trendTextExpandedContent,
+.tagsWithLinearText .linearTextToggle:checked ~ .trendTextShowHideLabel {
+    display: block;
+}
+.tagsWithLinearText .trendTextShowHideLabel {
+    cursor: pointer;
+    flex-basis: 100%;
+    text-decoration: underline;
+    position: relative;
+    color: #0b1c38;
+    font-size: 12px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+.tagsWithLinearText .trendTextShowHideLabel strong::after {
+    content: "";
+    display: inline-block;
+    height: 6px;
+    width: 6px;
+    border-style: solid;
+    border-color: #000;
+    border-width: 0 1px 1px 0;
+    transform: rotate(225deg);
+    margin-left: 8px;
+    position: absolute;
+    top: 10px;
+}
+.tagsWithLinearText .linearTextToggle:focus-visible ~ .topicListContainer .trendShowHideLabel,
+.tagsWithLinearText .linearTextToggle:checked:focus-visible ~ .trendTextShowHideLabel {
+    outline: 2px solid #0b1c38;
+    outline-offset: 2px;
+}
+                    </style><div class="tagsWithLinearText"><input type="checkbox" id="trend-text-toggle" class="linearTextToggle" aria-label="Show or hide additional topics"/><div class="topicListContainer"><style>
+            div.tagsblk {margin-bottom: 18px; position: relative; margin-right: 4px;}
+            
+            .trendingTopicSeperator:after {
+                content: "";
+                display: block;
+                position: absolute;
+                top: 0px;
+                right: 0px;
+                bottom: 0px;
+                left: auto;
+                margin: auto;
+                width: 40px;
+                background-image: linear-gradient(90deg, transparent 0%, #ffffff 92%);
+                height: 100%;
+            }
+
+            .trendingTopicSeperator {
+                border-right: solid 1px #d2d2d2;
+                border-color: #61616180;
+                max-width: calc(74% - 5px);
+                position: relative;
+                margin-right: 10px;
+            }
+            
+            </style><style>
+            div.tagsblk{
+    margin-bottom: 0px;
+    display: flex;
+    a{
+        background-color: #fff;
+        border-radius: 2px;
+        color: rgba(34, 34, 34, 0.60);
+        font-size: 14px;
+        padding: 0 3px;
+        margin-right: 11px;
+        display: flex;
+        line-height: 22px;
+        border: 1px solid rgba(0, 0, 0, 0.12);
+        cursor: pointer;
+        
+    }
+    &.dark {
+        a {
+            background-color: #1a1a1a;
+            color: #cecece;
+        }
+    }
+    .moreTags{
+        display: none;
+    }
+}
+                div.tagsblk a {font-size: 12px;}
+                div.tagsblk a:hover {
+    background-color: #c4132a;
+
+    border: 1px solid #c4132a;
+    color: white;
+    cursor: pointer;
+}
+                </style><div class="trendingTopicSeperator"><div class="crsel tagsblk  " style="width:auto"><a href="/tags/lucknow-news"> <!-- -->Lucknow News<!-- --> </a><a href="/tags/lucknow-latest-news"> <!-- -->Lucknow Latest News<!-- --> </a><a href="/tags/uttar-pradesh-news"> <!-- -->Uttar Pradesh News<!-- --> </a><a> अन्य..</a></div></div><style>
+.linearText { display: flex; align-items: center; position: relative; }
+.linearTextContent {
+    max-width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.trendShowHideLabel {
+    display: block;
+    min-width: 18px;
+    width: 18px;
+    height: 18px;
+    position: relative;
+    cursor: pointer;
+}
+.trendShowHideLabel::after {
+    content: "";
+    display: block;
+    position: absolute;
+    top: -2px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    margin: auto;
+    height: 6px;
+    width: 6px;
+    border-style: solid;
+    border-color: #212121;
+    border-width: 0px 1px 1px 0px;
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+                    </style><div class="linearText"><div class="linearTextContent">
+<div class="liner-text">  
+        <p>
+            लेटेस्ट &nbsp;&nbsp;<a href="https://www.livehindustan.com/">Hindi News </a>, &nbsp;&nbsp;
+            <a href="https://www.livehindustan.com/entertainment/news"> बॉलीवुड न्यूज</a>, &nbsp;&nbsp;<a href="https://www.livehindustan.com/business">बिजनेस न्यूज</a>, &nbsp;&nbsp;<a href="https://www.livehindustan.com/gadgets">टेक</a>
+            , &nbsp;&nbsp;<a href="https://www.livehindustan.com/auto">ऑटो</a>, &nbsp;&nbsp;<a href="https://www.livehindustan.com/career">करियर </a>, और &nbsp;&nbsp;<a href="https://www.livehindustan.com/astrology/rashifal/">राशिफल</a>,
+             पढ़ने के लिए Live Hindustan App डाउनलोड करें।
+        </p>
+    </div>
+</div><label class="trendShowHideLabel" for="trend-text-toggle" aria-label="Show more"></label></div></div><div class="trendTextExpandedContent"><div class="brdCrum crsel"><span class="  "><a title="Hindi News" href="https://www.livehindustan.com/">Hindi News</a></span><span class="  "><a title="Uttar-pradesh News" href="https://www.livehindustan.com/uttar-pradesh">Uttar-pradesh News</a></span><span class="  "><a title="Lucknow News" href="https://www.livehindustan.com/uttar-pradesh/lucknow/news">Lucknow News</a></span><span class="brdCrumLast  ">लखनऊ में सीएनजी 2.5 रुपये सस्ती हुई</span></div></div><label class="trendTextShowHideLabel" for="trend-text-toggle"><strong>See Less</strong></label></div></div></div></div><div id="storyEnd"></div></article><div style="height:50px;width:100%"></div></section><aside class="rhsCont"></aside></section></section><div class="menuBtmNew" id="btmMenuDiv"><div id="ECH_LH_MWEB_ALL_BTM_BUT1_ATF"></div><div id="ECH_LH_MWEB_ALL_BTM_BUT2_ATF"></div><div id="ECH_LH_MWEB_ALL_BTM_BUT3_ATF" class="btmVideo"></div><div id="ECH_LH_MWEB_ALL_BTM_BUT4_ATF"></div><div id="ECH_LH_MWEB_ALL_BTM_BUT5_ATF"></div></div><footer class="ftrMain" data-lh-section-name="uttar-pradesh" data-lh-page-type="storyDetail"><ul class="ftrLinkAll ftrInsd"><li><span>Top Performing Section common<picture></picture></span><a href="https://www.livehindustan.com/career/" title="Career">Career</a><a href="https://www.livehindustan.com/astrology/" title="Astrology">Astrology</a><a href="https://www.livehindustan.com/uttar-pradesh/" title="Uttar Pradesh">Uttar Pradesh</a><a href="https://www.livehindustan.com/cricket/" title="Cricket">Cricket</a><a href="https://www.livehindustan.com/national/" title="National">National</a><a href="https://www.livehindustan.com/ncr" title="NCR">NCR</a><a href="https://www.livehindustan.com/entertainment" title="Entertainment">Entertainment</a><a href="https://www.livehindustan.com/business/" title="Business">Business</a><a href="https://www.livehindustan.com/lifestyle" title="Lifestyle">Lifestyle</a><a href="https://www.livehindustan.com/bihar/" title="Bihar">Bihar</a><a href="https://www.livehindustan.com/web-stories/" title="Web Stories">Web Stories</a><a href="https://www.livehindustan.com/auto/" title="Auto">Auto</a><a href="https://www.livehindustan.com/gadgets/" title="Gadgets">Gadgets</a><a href="https://www.livehindustan.com/international/" title="International">International</a><a href="https://www.livehindustan.com/rajasthan/" title="Rajasthan">Rajasthan</a><a href="https://www.livehindustan.com/weather/" title="Weather">Weather</a><a href="https://www.livehindustan.com/madhya-pradesh" title="Madhya Pradesh">Madhya Pradesh</a><a href="https://www.livehindustan.com/maharashtra/" title="Maharashtra">Maharashtra</a><a href="https://www.livehindustan.com/photos/" title="Photos">Photos</a><a href="https://www.livehindustan.com/videos/" title="Videos">Videos</a><a href="https://www.livehindustan.com/career/results" title="Results">Results</a></li><li><span>State News<picture></picture></span><a href="https://www.livehindustan.com/uttar-pradesh/news" title="UP News">UP News</a><a href="https://www.livehindustan.com/bihar/news" title="Bihar News">Bihar News</a><a href="https://www.livehindustan.com/ncr/news" title="NCR News">NCR News</a><a href="https://www.livehindustan.com/ncr/new-delhi/news" title="Delhi News">Delhi News</a><a href="https://www.livehindustan.com/ncr/noida/news" title="Noida News">Noida News</a><a href="https://www.livehindustan.com/ncr/gurgaon/news" title="Gurgaon News">Gurgaon News</a><a href="https://www.livehindustan.com/ncr/faridabad/news" title="Faridabad News">Faridabad News</a><a href="https://www.livehindustan.com/ncr/ghaziabad/news" title="Ghaziabad News">Ghaziabad News</a><a href="https://www.livehindustan.com/rajasthan/news" title="Rajasthan News">Rajasthan News</a><a href="https://www.livehindustan.com/uttarakhand/news" title="Uttarakhand News">Uttarakhand News</a><a href="https://www.livehindustan.com/jharkhand/news" title="Jharkhand News">Jharkhand News</a><a href="https://www.livehindustan.com/chhattisgarh/news" title="Chhattisgarh News">Chhattisgarh News</a><a href="https://www.livehindustan.com/madhya-pradesh/news" title="MP News">MP News</a><a href="https://www.livehindustan.com/himachal-pradesh/news" title="Himachal Pradesh News">Himachal Pradesh News</a><a href="https://www.livehindustan.com/haryana/news" title="Haryana News">Haryana News</a><a href="https://www.livehindustan.com/maharashtra/news" title="Maharashtra News">Maharashtra News</a><a href="https://www.livehindustan.com/elections" title="Elections 2026">Elections 2026</a></li><li><span>Astrology News<picture></picture></span><a href="https://www.livehindustan.com/astrology/rashifal" title="Aaj ka rashifal">Aaj ka rashifal</a><a href="https://www.livehindustan.com/astrology/rashifal/aries" title="Mesh Rashifal">Mesh Rashifal</a><a href="https://www.livehindustan.com/astrology/rashifal/taurus" title="Vrishabh Rashifal">Vrishabh Rashifal</a><a href="https://www.livehindustan.com/astrology/rashifal/aquarius" title="Kumbh Rashifal">Kumbh Rashifal</a><a href="https://www.livehindustan.com/astrology/rashifal/gemini" title="Mithun Rashifal">Mithun Rashifal</a><a href="https://www.livehindustan.com/astrology/rashifal/libra" title="Tula Rashifal">Tula Rashifal</a><a href="https://www.livehindustan.com/astrology/rashifal/leo" title="Singh Rashifal">Singh Rashifal</a><a href="https://www.livehindustan.com/astrology/rashifal/virgo" title="Kanya Rashifal">Kanya Rashifal</a><a href="https://www.livehindustan.com/astrology/rashifal/pisces" title="Meen Rashifal">Meen Rashifal</a><a href="https://www.livehindustan.com/astrology/rashifal/scorpio" title="Vrishchik Rashifal">Vrishchik Rashifal</a><a href="https://www.livehindustan.com/astrology/rashifal/cancer" title="Kark Rashifal">Kark Rashifal</a><a href="https://www.livehindustan.com/astrology/rashifal/capricorn" title="Makar Rashifal">Makar Rashifal</a><a href="https://www.livehindustan.com/astrology/rashifal/sagittarius" title="Dhanu Rashifal">Dhanu Rashifal</a><a href="https://www.livehindustan.com/astrology/shubh-panchang" title="Aaj ka Panchang">Aaj ka Panchang</a><a href="https://www.livehindustan.com/astrology/hindu-calendar/2026" title="Hindu Calender">Hindu Calender</a><a href="https://www.livehindustan.com/astrology/sawan" title="Sawan 2026">Sawan 2026</a><a href="https://www.livehindustan.com/astrology/navratri" title="Navratri 2026">Navratri 2026</a><a href="https://www.livehindustan.com/astrology/2026-horoscope" title="Horoscope 2026">Horoscope 2026</a><a href="https://www.livehindustan.com/astrology/hindu-calendar/2026/eclipses" title="Grahan 2026">Grahan 2026</a><a href="https://www.livehindustan.com/astrology/hindu-calendar/2026/planet-transits" title="ग्रह गोचर 2026">ग्रह गोचर 2026</a><a href="https://www.livehindustan.com/astrology/aarti" title="Aarti">Aarti</a><a href="https://www.livehindustan.com/astrology/god-shiva/shiv-chalisa" title="Shiv Chalisa">Shiv Chalisa</a><a href="https://www.livehindustan.com/astrology/god-shiva/shivji-ki-aarti" title="Shiv Aarti">Shiv Aarti</a><a href="https://www.livehindustan.com/astrology/god-shiva/mahamrityunjaya-mantra" title="Mahamrityunjay Mantra">Mahamrityunjay Mantra</a><a href="https://www.livehindustan.com/astrology/god-shiva/shiv-stuti" title="Shiv Stuti">Shiv Stuti</a><a href="https://www.livehindustan.com/astrology/god-hanuman/hanuman-chalisa" title="Hanuman Chalisa">Hanuman Chalisa</a><a href="https://www.livehindustan.com/astrology/god-hanuman/bajran-baan" title="Bajrang Baan">Bajrang Baan</a></li><li><span>Business News<picture></picture></span><a href="https://www.livehindustan.com/business/news" title="Business News">Business News</a><a href="https://www.livehindustan.com/business/share-market/news" title="Share Market">Share Market</a><a href="https://www.livehindustan.com/business/petrol" title="Petrol Prices">Petrol Prices</a><a href="https://www.livehindustan.com/business/diesel" title="Diesel Prices">Diesel Prices</a><a href="https://www.livehindustan.com/business/income-tax-return/news" title="ITR">ITR</a><a href="https://www.livehindustan.com/business/personal-investments/news" title="Personal Investment">Personal Investment</a><a href="https://www.livehindustan.com/budget" title="Budget">Budget</a><a href="https://www.livehindustan.com/business/market-stats" title="Market Stats">Market Stats</a><a href="https://www.livehindustan.com/business/calculators" title="Calculator">Calculator</a><a href="https://www.livehindustan.com/business/calculator/emi-calculator" title="EMI Calculator">EMI Calculator</a><a href="https://www.livehindustan.com/business/calculator/sip-calculator" title="SIP Calculator">SIP Calculator</a><a href="https://www.livehindustan.com/business/calculator/home-loan-emi-calculator" title="Home Loan EMI Calculator">Home Loan EMI Calculator</a><a href="https://www.livehindustan.com/business/calculator/car-loan-emi-calculator" title="Car Loan EMI Calculator">Car Loan EMI Calculator</a><a href="https://www.livehindustan.com/business/calculator/retirement-planner" title="Retirement Planner">Retirement Planner</a></li><li><span>Career<picture></picture></span><a href="https://www.livehindustan.com/career/news" title="Career News">Career News</a><a href="https://www.livehindustan.com/career/education" title="Education">Education</a><a href="https://www.livehindustan.com/career/education/engineering" title="Engineering">Engineering</a><a href="https://www.livehindustan.com/career/education/medical" title="Medical">Medical</a><a href="https://www.livehindustan.com/career/jobs/news" title="Jobs">Jobs</a><a href="https://www.livehindustan.com/career/exams/news" title="Exam">Exam</a><a href="https://www.livehindustan.com/career/results" title="Board Results">Board Results</a></li><li><span>Entertainment<picture></picture></span><a href="https://www.livehindustan.com/entertainment/news" title="Entertainment News">Entertainment News </a><a href="https://www.livehindustan.com/entertainment/tv/news" title="TV News">TV News</a><a href="https://www.livehindustan.com/entertainment/web-series/news" title="Web Series">Web Series</a><a href="https://www.livehindustan.com/entertainment/film-review/news" title="Movie Review">Movie Review</a><a href="https://www.livehindustan.com/entertainment/bigg-boss/news" title="Bigg Boss">Bigg Boss</a></li><li><span>Cricket<picture></picture></span><a href="https://www.livehindustan.com/cricket/schedule" title="Cricket Schedule">Cricket Schedule</a><a href="https://www.livehindustan.com/cricket/live-score" title="Live Cricket Score">Live Cricket Score</a><a href="https://www.livehindustan.com/cricket/womens-t20-world-cup" title="Women T20 World Cup 2026">Women T20 World Cup 2026</a><a href="https://www.livehindustan.com/cricket/womens-t20-world-cup/schedule" title="Women T20 World Cup 2026 Schedule">Women T20 World Cup 2026 Schedule</a><a href="https://www.livehindustan.com/cricket/womens-t20-world-cup/points-table" title="Women T20 World Cup 2026 Points Table">Women T20 World Cup 2026 Points Table</a><a href="https://www.livehindustan.com/cricket/womens-t20-world-cup/stats" title="Women T20 World Cup 2026 Stats">Women T20 World Cup 2026 Stats</a><a href="https://www.livehindustan.com/cricket/delhi-premier-league" title="दिल्ली प्रीमियर लीग 2026">दिल्ली प्रीमियर लीग 2026</a><a href="https://www.livehindustan.com/cricket/delhi-premier-league/points-table" title="DPL 2026 पॉइंट्स टेबल">DPL 2026 पॉइंट्स टेबल</a><a href="https://www.livehindustan.com/cricket/delhi-premier-league/schedule" title="शेड्यूल">शेड्यूल</a></li><li><span>Lifestyle<picture></picture></span><a href="https://www.livehindustan.com/lifestyle/news" title="Lifestyle">Lifestyle Tips </a><a href="https://www.livehindustan.com/lifestyle/health/news" title="Health">Health</a><a href="https://www.livehindustan.com/lifestyle/fashion/news" title="Fashion">Fashion</a><a href="https://www.livehindustan.com/lifestyle/parents-guide/news" title="Parenting tips">Parenting tips</a><a href="https://www.livehindustan.com/lifestyle/travel/news" title="Travel">Travel</a><a href="https://www.livehindustan.com/lifestyle/fitness/news" title="Fitness">Fitness</a></li><li><span>Photos<picture></picture></span><a href="https://www.livehindustan.com/photos" title="Photos">Photos </a><a href="https://www.livehindustan.com/photos/entertainment" title="Entertainment">Entertainment</a><a href="https://www.livehindustan.com/photos/lifestyle" title="Lifestyle">Lifestyle</a><a href="https://www.livehindustan.com/photos/business" title="Business">Business</a><a href="https://www.livehindustan.com/photos/astrology" title="Astrology">Astrology</a><a href="https://www.livehindustan.com/photos/sports" title="Sports">Sports</a><a href="https://www.livehindustan.com/photos/career" title="Career">Career</a><a href="https://www.livehindustan.com/photos/gadgets" title="Gadgets">Gadgets</a><a href="https://www.livehindustan.com/photos/national" title="National">National</a><a href="https://www.livehindustan.com/photos/international" title="International">International</a></li><li><span>Weather<picture></picture></span><a href="https://www.livehindustan.com/weather" title="Delhi Weather">Delhi Weather</a><a href="https://www.livehindustan.com/weather/lucknow" title="Lucknow Weather">Lucknow Weather</a><a href="https://www.livehindustan.com/weather/bhopal" title="Bhopal Weather">Bhopal Weather</a><a href="https://www.livehindustan.com/weather/indore" title="Indore Weather">Indore Weather</a><a href="https://www.livehindustan.com/weather/jaipur" title="Jaipur Weather">Jaipur Weather</a><a href="https://www.livehindustan.com/weather/agra" title="Agra Weather">Agra Weather</a><a href="https://www.livehindustan.com/weather/ranchi" title="Ranchi Weather">Ranchi Weather</a><a href="https://www.livehindustan.com/weather/kolkata" title="Kolkata Weather">Kolkata Weather</a><a href="https://www.livehindustan.com/weather/patna" title="Patna Weather">Patna Weather</a><a href="https://www.livehindustan.com/weather/ahmedabad" title="Ahmedabad Weather">Ahmedabad Weather</a><a href="https://www.livehindustan.com/weather/nagpur" title="Nagpur Weather">Nagpur Weather</a></li></ul><section class="ftrLogoSec ftrInsd"><a href="https://www.livehindustan.com" class="ftrLogo" title="Hindustan Hindi News"><picture></picture></a><section class="ftrSocialBlk"><div class="ftrSocial"><span class="hdng">Connect with us</span><a class="facebkFt" href="https://www.facebook.com/LiveHindustanNews" target="_blank" rel="nofollow" data-lh-ga4-event="social_icon_click" data-lh-cta-text="facebook" data-lh-section-name="uttar-pradesh" data-lh-page-type="storyDetail" data-lh-current-url="" data-lh-target-url="https://www.facebook.com/LiveHindustanNews" data-lh-data-source="Non-Amp"><picture></picture></a><a class="facebkFt" href="https://x.com/Live_Hindustan" target="_blank" rel="nofollow" data-lh-ga4-event="social_icon_click" data-lh-cta-text="x" data-lh-section-name="uttar-pradesh" data-lh-page-type="storyDetail" data-lh-current-url="" data-lh-target-url="https://x.com/Live_Hindustan" data-lh-data-source="Non-Amp"><picture></picture></a><a class="facebkFt" href="https://www.youtube.com/channel/UCCJRFl1Qjo83GG_09U-DIBA?view_as=subscriber" target="_blank" rel="nofollow" data-lh-ga4-event="social_icon_click" data-lh-cta-text="youtube" data-lh-section-name="uttar-pradesh" data-lh-page-type="storyDetail" data-lh-current-url="" data-lh-target-url="https://www.youtube.com/channel/UCCJRFl1Qjo83GG_09U-DIBA?view_as=subscriber" data-lh-data-source="Non-Amp"><picture></picture></a></div><div class="ftrApp"><span class="hdng">Download App</span><a class="gplayFtr" href="https://www.livehindustan.com/s/deeplink?targetUrl=https://www.livehindustan.com&amp;amp&amp;utm_source=LH_Download_web_masthead&amp;amp&amp;utm_campaign=LH_Download_web_masthead&amp;amp&amp;utm_medium=LH_Download_web_masthead&amp;amp&amp;redirectToBrowser=false&amp;skipPreviewPageIOS=false&amp;appPrefix=lh"><picture></picture></a><a data-lh-app-platform="ios" href="https://www.livehindustan.com/s/deeplink?targetUrl=https://www.livehindustan.com&amp;amp&amp;utm_source=LH_Download_web_masthead&amp;amp&amp;utm_campaign=LH_Download_web_masthead&amp;amp&amp;utm_medium=LH_Download_web_masthead&amp;amp&amp;redirectToBrowser=false&amp;skipPreviewPageIOS=false&amp;appPrefix=lh"><picture></picture></a></div></section></section><section class="ftrMoreLnk"><p><a href="https://www.livehindustan.com/rss/">आरएसएस</a><a href="https://www.hindustantimes.com/rate-card/ImpactLHindustan" target="_blank" title="विज्ञापन र॓ट">विज्ञापन र॓ट</a><a href="https://www.hmvl.in/careers.html" rel="nofollow" target="_blank" title="हमार॓ साथ काम करें">हमार॓ साथ काम करें</a><a href="https://www.livehindustan.com/about-us" title="हमारे बारे में">हमारे बारे में</a><a href="https://www.livehindustan.com/contact-us" title="संपर्क करें">संपर्क करें</a><a href="https://www.livehindustan.com/privacypolicy/" title="गोपनीयता">गोपनीयता</a><a href="https://www.livehindustan.com/sitemap/" title="साइट जानकारी">साइट जानकारी</a></p><p><a href="https://www.hindustantimes.com/rate-card/ImpactLHindustan" target="_blank" rel="noreferrer" title="Advertise with us">Advertise with us</a><a href="https://www.livehindustan.com/about-us/" rel="noreferrer" title="About us">About us</a><a href="https://www.hmvl.in/careers.html" target="_blank" rel="noreferrer nofollow" title="Careers">Careers</a><a href="https://www.livehindustan.com/privacypolicy/" title="Privacy"> Privacy </a><a href="https://www.livehindustan.com/contact-us" title="Contact us">Contact us</a><a href="https://www.livehindustan.com/sitemap/" title="Sitemap">Sitemap</a><a href="https://www.livehindustan.com/dnpa-code-of-ethics-for-digital-news-websites/" title="Code Of Ethics">Code Of Ethics</a></p><p><span class="lnkOverview">Partner sites: </span><a href="https://www.hindustantimes.com/" class="ftr-frst-lnk" target="_blank" rel="nofollow">Hindustan Times</a><a href="https://www.livemint.com/" target="_blank">Mint</a><a href="https://tech.hindustantimes.com/" target="_blank" rel="nofollow">HT Tech</a><a href="https://www.shine.com/" target="_blank" rel="nofollow">Shine</a><a href="https://auto.hindustantimes.com/" target="_blank" rel="nofollow">HT Auto</a><a href="https://www.healthshots.com/" target="_blank" rel="nofollow">Healthshots</a><a href="https://www.htsmartcast.com/" target="_blank" rel="nofollow">HT Smartcast</a><a href="https://www.fabplay.in/" target="_blank" rel="nofollow">FAB Play</a></p></section><div class="ftrCpyRgt">Copyright © 2026 HT Digital Streams Limited. All Rights Reserved.</div><div style="background:transparent;border:none;color:#8a8a8a;cursor:pointer;text-decoration:underline;font-size:0.9rem;margin:auto;text-align:center">Privacy and cookie settings</div></footer><script src="https://static.chartbeat.com/js/chartbeat_mab.js" defer=""></script><script strategy="afterInteractive">
+      function GTMGA4(loginStatus) {
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-MKFNS68');
+        setFingerPrint(loginStatus);
+      }
+    </script><script id="loadable" strategy="afterInteractive">
+       
+            function q(c, r) {
+                apstag._Q.push([c, r]);
+            };
+            var apstag = {
+                init: function() {
+                  q("i", arguments);
+                },
+                fetchBids: function() {
+                  q("f", arguments);
+                },
+                setDisplayBids: function() {},
+                _Q: [],
+            };
+            apstag.init({
+                pubID: '04490307-82e6-4a26-8a03-ce88452d8ffd',
+                adServer: 'googletag'
+            });
+            
+            window.googletag = window.googletag || {cmd: []};
+            window.PWT = window.PWT || {};
+            var PWT = window.PWT || window.PWT || {};
+            googletag.cmd.push(function() {
+                function setWithExpiryCDP(key, value, ttl) {
+                    const now = new Date();
+                    const item = {
+                      value: value,
+                      expiry: now.getTime() + ttl,
+                    };
+                    localStorage.setItem(key, JSON.stringify(item));
+                }
+                function getWithExpiryCDP(key) {
+                    const itemStr = localStorage.getItem(key);
+                    if (!itemStr) {
+                      return null;
+                    }
+                    const item = JSON.parse(itemStr);
+                    const now = new Date();
+                    if (now.getTime() > item.expiry) {
+                      localStorage.removeItem(key);
+                      return null;
+                    }
+                    return item.value;
+                }
+                var _cookieCacheLS = {};
+                function getCookie(e){
+                    if (e in _cookieCacheLS) return _cookieCacheLS[e];
+                    for (var t = e + "=", n = document.cookie.split(";"), o = 0; o < n.length; o++) {
+                        for (var a = n[o];
+                            " " == a.charAt(0);) a = a.substring(1, a.length);
+                        if (0 == a.indexOf(t)) { _cookieCacheLS[e] = a.substring(t.length, a.length); return _cookieCacheLS[e]; }
+                    }
+                    _cookieCacheLS[e] = null;
+                    return null;    
+                }
+                function setCookie(e, t, n) {
+                    var o = new Date;
+                    o.setTime(o.getTime() + 24 * n * 60 * 60 * 1e3);
+                    var a = "expires=" + o.toUTCString();
+                    document.cookie = e + "=" + t + ";" + a + ";path=/;SameSite=None;Secure";
+                }
+                var cookieValue = getCookie("_ht_fp");
+                var htCdp = getWithExpiryCDP("lh_cdp");
+                let reqHostLoadable = isSafari() ? "https://www.livehindustan.com/cdp/api/adserve/lh?user=" : "https://www.hindustantimes.com/cdp/api/adserve/lh?user=";
+                var requestUrl = reqHostLoadable + cookieValue;
+            });
+            </script><script>
+
+        var _cookieCacheIPV = {};
+        const getCookieName = (name) => {
+                if (name in _cookieCacheIPV) return _cookieCacheIPV[name];
+                var nameEQ = name + "=";
+                var ca = document.cookie.split(";");
+                for (var i = 0; i < ca.length; i++) {
+                var c = ca[i];
+                while (c.charAt(0) == " ") c = c.substring(1, c.length);
+                if (c.indexOf(nameEQ) == 0) { _cookieCacheIPV[name] = c.substring(nameEQ.length, c.length); return _cookieCacheIPV[name]; }
+                }
+                _cookieCacheIPV[name] = null;
+                return null;
+        };
+        const getWithExpiryCDPSSO = (key) => {
+            const itemStr = localStorage.getItem(key);
+            if (!itemStr) {
+                return null;
+            }
+            const item = JSON.parse(itemStr);
+            const now = new Date();
+            if (now.getTime() > item.expiry) {
+                localStorage.removeItem(key);
+                return null;
+            }
+            return item.value;
+        };
+
+        const ssoGotPopUp = () => {
+            if (typeof sso != "undefined") {
+                var ssohtCdp = getWithExpiryCDPSSO('lh_cdp');
+                window.sso.render({
+                element: document.querySelector('#ECH_LH_MWeb_PopUpGOT'),
+                client: 'LH',
+                benefitId: '',
+                cohortId: ssohtCdp,
+                funnel_entry:'popupGOT',
+                lhsContent: {
+                    heading: 'लॉग-इन करें और फायदे में रहें',
+                    listItems: ['आपकी रुचि के अनुसार पर्सनलाइज्ड फीड मिलेगी','ब्रेकिंग न्यूज के साथ पल-पल की हर खबर रीयल टाइम मिलेगी']
+                }
+            });
+            }
+        }
+        const setCookieName = (e, t, n) => {
+          var o = new Date();
+          o.setTime(o.getTime() + 24 * n * 60 * 60 * 1e3);
+          var a = 'expires=' + o.toUTCString();
+          var d = ';domain=.livehindustan.com';
+          var samesite = ';SameSite=None;Secure';
+          document.cookie = e + '=' + t + ';' + a + d + ';path=/' + samesite;
+        };
+
+        const isSafari = () => {
+          const userAgent = navigator.userAgent;
+          return (
+            userAgent.includes("Safari") &&
+            !userAgent.includes("Chrome") &&
+            !userAgent.includes("Edge")
+          );
+        }
+
+        const isOnlyNumbers = (str) => {
+            return /^[0-9]+$/.test(str);
+        }
+
+        function fetchWithTimeout(url, options = {}, timeout = 2000) {
+          const controller = new AbortController();
+          const signal = controller.signal;
+        
+          const timer = setTimeout(() => controller.abort(), timeout);
+        
+          return fetch(url, { ...options, signal })
+            .then((response) => {
+              clearTimeout(timer); // Clear the timeout if fetch succeeds
+              return response;
+            })
+            .catch((error) => {
+              clearTimeout(timer); // Clear the timeout in case of an error
+              if (error.name === "AbortError") {
+                throw new Error("Request timed out");
+              }
+              throw error;
+            });
+        }
+
+        window.dataLayer = window.dataLayer || [];
+
+        const token = getCookieName('token');
+        const clientid = getCookieName('_ht_clientid');
+        let loginStatus = 'guest';
+        if(token && !token.includes('amp-') && clientid && isOnlyNumbers(clientid)) {
+            loginStatus = 'logged_in';
+        }
+            
+        (function() {
+          function trackBackButtonClick() {
+            if (window.dataLayer) {
+              window.dataLayer.push({
+                'event': 'cta_clicked',
+                'cta_text': 'Back Button clicked',
+                'section_name': "uttar-pradesh",
+                'story_id': "9469568",
+                'logged_in_medium': '',
+                'user_login_status': loginStatus,
+                'user_id': clientid || '',
+                'clientID': clientid || null,
+                'data_source': "non_amp"
+              });
+            }
+          }
+          
+          // Also try to detect back button using the performance API
+          if (window.performance && window.performance.navigation) {
+            if (window.performance.navigation.type === window.performance.navigation.type === 2) {
+              trackBackButtonClick();
+            }
+          }
+          
+          // Backup approach: check if the page was loaded from browser cache
+          if (window.performance && window.performance.getEntriesByType) {
+            window.addEventListener('load', function() {
+              const navigationEntries = window.performance.getEntriesByType('navigation');
+              if (navigationEntries.length > 0 && navigationEntries[0].type === 'back_forward') {
+                trackBackButtonClick();
+              }
+            });
+          }
+        })();
+    function setFingerPrint(loginStatus) {
+            let eventName = "custom_page_view";
+            let dataSource = "Non-Amp";
+
+             if("uttar-pradesh" === "mothers-day" || "uttar-pradesh" === "fathers-day") return;
+
+             if(!getCookieName("_ht_fp")) {
+                let fpUrl = 'https://www.hindustantimes.com/cdp/user/lh';
+                let ht_fp_Cookie = getCookieName('_ht_fp');
+                if(ht_fp_Cookie && ht_fp_Cookie !== null){
+                    fpUrl = fpUrl + '?ex_htfp=' + ht_fp_Cookie;
+                }
+                fetchWithTimeout(fpUrl, {
+		                method: 'GET',
+		                credentials: 'include',
+		            },3000)
+                .then((response) => response.json())
+                .then((data) => {
+                  if(data._ht_fp){
+                    setCookieName('_ht_fp', data._ht_fp, 90);
+                  }
+                  if(data.ppid){
+                    setCookieName('ppid', data.ppid, 90);
+                  }
+
+
+                  if(dataLayer) {
+                      dataLayer.push({
+                          'event': eventName,
+                          'event': 'custom_page_view',
+                          'page_type': "storyDetail",
+                          'section_name': "uttar-pradesh",
+                          'sub_section_name': "lucknow",
+                          'published_date': "2024-03-05T17:15:12+0000",
+                          'author_name': "Newswrap",
+                          'created_by': "Newswrap",
+                          'story_id': "9469568",
+                          'user_id': getCookieName("lh_token")? getCookieName("_ht_clientid"):null,
+                          'user_login_status': loginStatus,
+                          'data_source':dataSource,
+                          'data_source':"Non-Amp",
+                          'htfpID': getCookieName('_ht_fp'),
+                          'publisherID': data.ppid ? data.ppid : null,
+                          'clientID': loginStatus === 'logged_in' ? getCookieName("_ht_clientid"):"null",
+                          'perpetual_story':0,
+                          'perpetual_logic': "null",
+                          'is_app_wall': false,
+                          'story_type': "null",
+                          'automated_content_type': "Written",
+                          "marketplace_name":null,"is_configued_adcode":true,"adcode_placement":"web:inline;mweb:inline,secondInline,bottomCarousel,interstitial"
+                      });
+                  }
+                })
+                .catch((error) => {
+                  console.error("FingerPrint Call Failed:", error);
+                  if(dataLayer) {
+                      dataLayer.push({
+                          'event': eventName,
+                          'event': 'custom_page_view',
+                          'page_type': "storyDetail",
+                          'section_name': "uttar-pradesh",
+                          'sub_section_name': "lucknow",
+                          'published_date': "2024-03-05T17:15:12+0000",
+                          'author_name': "Newswrap",
+                          'created_by': "Newswrap",
+                          'story_id': "9469568",
+                          'user_id': getCookieName("lh_token")? getCookieName("_ht_clientid"):null,
+                          'user_login_status': loginStatus,
+                          'data_source':dataSource,
+                          'data_source':"Non-Amp",
+                          'htfpID': getCookieName('_ht_fp') ? getCookieName('_ht_fp') : 'NA',
+                          'publisherID': getCookieName('ppid') ? getCookieName('ppid') : 'NA',
+                          'clientID': loginStatus === 'logged_in' ? getCookieName("_ht_clientid"):"null",
+                          'perpetual_story':0,
+                          'perpetual_logic': "null",
+                          'is_app_wall': false,
+                          'story_type': "null",
+                          'automated_content_type': "Written",
+                          "marketplace_name":null,"is_configued_adcode":true,"adcode_placement":"web:inline;mweb:inline,secondInline,bottomCarousel,interstitial"
+                      });
+                  }
+                });
+              } else {
+                if(dataLayer) {
+                      dataLayer.push({
+                          'event': eventName,
+                          'event': 'custom_page_view',
+                          'page_type': "storyDetail",
+                          'section_name': "uttar-pradesh",
+                          'sub_section_name': "lucknow",
+                          'published_date': "2024-03-05T17:15:12+0000",
+                          'author_name': "Newswrap",
+                          'created_by': "Newswrap",
+                          'story_id': "9469568",
+                          'user_id': getCookieName("lh_token")? getCookieName("_ht_clientid"):null,
+                          'user_login_status': loginStatus,
+                          'data_source':dataSource,
+                          'data_source':"Non-Amp",
+                          'htfpID': getCookieName('_ht_fp') ? getCookieName('_ht_fp') : 'NA',
+                          'publisherID': getCookieName('ppid') ? getCookieName('ppid') : 'NA',
+                          'clientID': loginStatus === 'logged_in' ? getCookieName("_ht_clientid"):"null",
+                          'perpetual_story':0,
+                          'perpetual_logic': "null",
+                          'is_app_wall': false,
+                          'story_type': "null",
+                          'automated_content_type': "Written",
+                          "marketplace_name":null,"is_configued_adcode":true,"adcode_placement":"web:inline;mweb:inline,secondInline,bottomCarousel,interstitial"
+                      });
+                  }
+              }
+        }
+        GTMGA4(loginStatus);
+    </script><script>
+    var analyticsHostName = 'https://analytics.htmedia.in/analytics-js/tracker.js';
+
+    const isSafariBrowser = () => {
+      const userAgent = navigator.userAgent;
+      return (
+        userAgent.includes("Safari") &&
+        !userAgent.includes("Chrome") &&
+        !userAgent.includes("Edge")
+      );
+    }
+
+    let dapTrackerDomain = 'dap.livehindustan.com';
+
+    var configObject = {
+        "appId": "lh", 
+        "collectorHost": dapTrackerDomain,
+        "pageViewRequired": true,
+        "syncRequired": true,
+        "userIdCookie": "_ht_clientid",
+        "pltRequired": false, 
+        "existingImpressionCapture": false, 
+        "existingLinkClickCapture": false,
+        "webEngageTokenRequired":  false
+    };
+    function lhSnowplowScript() {
+        (function(p, l, o, w, i, k, n, g) {
+            if (!p[i]) {
+                p.GlobalSnowplowNamespace = p.GlobalSnowplowNamespace || []; 
+                p.GlobalSnowplowNamespace.push(i); 
+                p[i] = function() {
+                    (p[i].q = p[i].q || []).push(arguments); 
+                };
+                p[i].q = p[i].q || [];
+                n = l.createElement(o); 
+                g = l.getElementsByTagName(o)[0];
+                n.async = 1; 
+                n.src = w; 
+                g.parentNode.insertBefore(n, g); 
+                n.onload = function() {
+                    window.dapTracker = new window.dapDataTracker();
+                    dapTracker.init(k);
+                }
+            }
+        }(window, document, 'script', analyticsHostName, 'snowplow', configObject));
+    }
+ 
+        
+    </script><script type="text/javascript">
+    (function() {
+      var W = window;
+      W.PWT = W.PWT || {};
+      W.googletag = W.googletag || { cmd: [] };
+      var _sf_async_config = W._sf_async_config = W._sf_async_config || {};
+      _sf_async_config.flickerControl = false;
+      _sf_async_config.uid = 63228;
+      _sf_async_config.useCanonical = true;
+      _sf_async_config.domain = "livehindustan.com";
+      _sf_async_config.sections = "uttar-pradesh";
+      _sf_async_config.title = "लखनऊ में सीएनजी 2.5 रुपये सस्ती हुई";
+      _sf_async_config.authors = "Newswrap";
+      var _cbq = W._cbq = W._cbq || [];
+      function loadChartbeat() {
+        var e = document.createElement('script');
+        var n = document.getElementsByTagName('script')[0];
+        e.type = 'text/javascript';
+        e.async = true;
+        e.src = '//static.chartbeat.com/js/chartbeat.js';
+        n.parentNode.insertBefore(e, n);
+      }
+      // Defer chartbeat injection until after page load to unblock LCP
+      if (document.readyState === 'complete') {
+        loadChartbeat();
+      } else {
+        window.addEventListener('load', loadChartbeat, { once: true });
+      }
+    })();
+  </script><script id="comscore">
+               var _comscore = _comscore || [];
+                    _comscore.push({ c1: "2", c2: "6035286", options: {enableFirstPartyCookie: true, bypassUserConsentRequirementFor1PCookie:true }});
+                    (function() {
+                      var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+                      s.src = "https://sb.scorecardresearch.com/cs/6035286/beacon.js";
+                      s.defer=true;
+                      el.parentNode.insertBefore(s, el);
+                    })();
+                    </script><noscript><img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=6035286&amp;cv=3.6.0&amp;cj=1"/></noscript><script>
+        // Defer snowplow initialization until after page load to unblock LCP
+        if (document.readyState === 'complete') {
+          lhSnowplowScript();
+        } else {
+          window.addEventListener('load', function() { lhSnowplowScript(); }, { once: true });
+        }
+    </script><div id="popup_interstitial"></div><script id="izooto-init">(function () {
+	function initIzooto() {
+		try {
+			var locationValue = getCookieSC('lh-location');
+			if (locationValue === 'IN') {
+				window._izq = window._izq || [];
+				window._izq.push(["init", { auto_prompt: false }]);
+
+				if (!document.querySelector('script[src="https://cdn.izooto.com/scripts/6ceefbb7847300768d46dd2721591af05aff74d0.js"]')) {
+					const script = document.createElement('script');
+					script.defer = true;
+					script.src = 'https://cdn.izooto.com/scripts/6ceefbb7847300768d46dd2721591af05aff74d0.js';
+					document.head.appendChild(script);
+				}
+			}
+		} catch (e) {
+			console.error('iZooto init error:', e);
+		}
+	}
+
+	if (document.readyState === 'complete') {
+		setTimeout(initIzooto, 1000);
+	} else {
+		window.addEventListener('load', function () {
+			setTimeout(initIzooto, 1000);
+		});
+	}
+})();</script><script type="text/javascript">
+                        if(document.location.href.indexOf("Shareware") != -1){
+                            var scriptTag = document.createElement('script');
+                            scriptTag.src = "https://newzo.in/assets/checkscript.js?v=1.2.7."+new Date().getTime();
+                            document.head.appendChild(scriptTag);
+                        }
+                    </script><div id="ssoSDKSignIn"></div><div id="onBoardingDiv"></div><div id="voucherConfetti"></div><div id="ECH_LH_MWeb_PopUpGOT" style="display:none"></div><div id="lead-form-modal"></div><input value="storyDetail" id="pageTypeVal" style="display:none"/></div><script id="__NEXT_DATA__" type="application/json">{"props":{"pageProps":{"storyDetails":{"id":201720441311092,"oldUuid":"9469568","domainId":"63a8564c0118f51f159e8223","sourceBody":null,"title":"लखनऊ में सीएनजी 2.5 रुपये सस्ती हुई","articleType":"story","createdBy":"Newswrap","createdDate":"2024-03-05T17:15:12+0000","lastModifiedBy":"newswrap@htlive.com","lastModifiedDate":"2024-03-05T17:15:12+0000","lastPublishedBy":null,"lastPublishedDate":"2024-03-05T17:15:12+0000","firstPublishedDate":"2024-03-05T17:15:12+0000","timeToRead":1,"metadata":{"aiContentType":null,"performanceArticleType":null,"aiContent":false,"url":"/uttar-pradesh/lucknow/story-cng-became-cheaper-by-rs-2-5-in-lucknow-9469568.html","primaryLocation":"लखनऊ","section":"uttar-pradesh","subSection":"lucknow","disclaimer":null,"topic":["Lucknow News","Lucknow Latest News","Uttar Pradesh News","Uttar Pradesh Latest News"],"sectionUrl":"/uttar-pradesh","subSectionUrl":"/uttar-pradesh/lucknow","old_author":null,"authorsList":null,"editedByList":null,"writtenByList":null,"reportedByList":null,"deadLinkUrl":null,"premiumStory":false,"collapseArticle":false,"storyType":"PRINT","location":["लखनऊ"],"dynamicMeta":null,"videoMetadata":null,"topicUrls":["/tags/lucknow-news","/tags/lucknow-latest-news","/tags/uttar-pradesh-news","/tags/uttar-pradesh-latest-news"],"keywords":["lucknow News","lucknow Latest news","uttar pradesh News","uttar pradesh Latest news","लखनऊ न्यूज़","लखनऊ लेटेस्ट न्यूज़","उत्तर प्रदेश न्यूज़","उत्तर प्रदेश लेटेस्ट न्यूज़"],"secondarySections":null,"agency":"हिन्दुस्तान टीम","audienceTags":null,"sectionDisplayName":"उत्तर प्रदेश","subsectionDisplayName":"लखनऊ","contextualKeyword":null,"prContextualKeywords":null,"sectionId":201719905391849,"subSectionId":201719905396658,"crawledWidgetType":null,"crawledWidgetData":null,"productWidgetData":null,"embedAmazonCount":null,"embedFlipkartCount":null,"embedFlipkart25Count":null,"embedD2CBrandsCount":null,"embedSnapdealCount":null,"canonicalUrl":"https://www.livehindustan.com/uttar-pradesh/lucknow/story-cng-became-cheaper-by-rs-2-5-in-lucknow-9469568.html","affiliateDisclaimer":null,"disableTopAffiliateWidget":false,"disableScorecard":false,"disablePoll":false,"disableQuiz":false,"disablePredictor":false,"disableAQI":false,"disableEcho":false,"disableElections":false,"disableBanner":false,"disableMidArticleEchoWidget":false,"disableEchoPoweredPopup":false,"disableShortsWidget":false,"iabTagging":null,"authorsString":"","ampurl":"/uttar-pradesh/lucknow/story-cng-became-cheaper-by-rs-2-5-in-lucknow-9469568.amp.html","breadcrumbTitle":"CNG became cheaper by Rs 2 5 in Lucknow"},"social":{"twitter":false,"web":false,"facebook":false,"mobile":false},"webId":null,"listRelatedStories":null,"listCollectionStories":null,"name":null,"timestamp":null,"type":"story","paragraph":null,"image":null,"video":null,"liveBlog":null,"listicle":null,"relatedStories":null,"collectionStories":null,"embed":null,"expiryDate":null,"elements":[201720441310646],"listElement":[{"type":"paragraph","adPosition":1,"paragraph":{"body":"\u003cp\u003eलखनऊ, अयोध्या, उन्नाव और आगरा में सीएनजी (कम्प्रेस्ड नेचुरल गैस) 2.50 रुपये प्रति किलो सस्ती हो गई हैं। नई दरें बुधवार सुबह छह बजे से लागू होंगी। ग्रीन गैस लि. के प्रवक्ता के मुताबिक लखनऊ, उन्नाव और आगरा में सीएनजी 92.25 रुपये प्रति किलो मिलेगी, अभी तक इन शहरों में सीएनजी 94.75 रुपये में थी। अयोध्या में सीएनजी की कीमत 92.35 रुपये होगी, यहां 94.85 रुपये किलो थी। ग्रीन गैस के सहायक महाप्रबंधक (विपणन) प्रवीन सिंह ने बताया कि प्राकृतिक गैस की खपत बढ़ाने और हरित ईंधन अपनाने के राष्ट्रीय अभियान को गति देने के लिए दामों में कमी की गई है।\u003c/p\u003e"},"alsoReadStoriesList":[]}],"headline":"लखनऊ में सीएनजी 2.5 रुपये सस्ती हुई","summary":"लखनऊ, अयोध्या, उन्नाव और आगरा में सीएनजी (कम्प्रेस्ड नेचुरल गैस) 2.50 रुपये प्रति किलो सस्ती हो गई हैं। नई दरें बुधवार सुबह छह बजे से लागू होंगी।...","quickReadSummary":null,"mobileHeadline":"लखनऊ में सीएनजी 2.5 रुपये सस्ती हुई","subType":null,"jsonSourceUrl":null,"leadMedia":{"id":null,"mediaType":"image","elements":[201720441310198],"image":{"images":{"384x216":"https://www.livehindustan.com/lh-img/uploadimage/library/2020/10/29/16_9/16_9_3/default-image384x216.jpg","640x360":"https://www.livehindustan.com/lh-img/uploadimage/static/document/2022/11/25/lucknow-2_1669372576.jpg","533x300":"","1200x900":"https://www.livehindustan.com/lh-img/uploadimage/library/2020/10/29/16_9/16_9_1/default-image640x360.jpg","1600x900":"","original":"https://www.livehindustan.com/lh-img/uploadimage/library/2020/10/29/16_9/16_9_1/default-image640x360.jpg","ampImage":"","600x800":""},"caption":"default image","name":null,"alternateText":null,"imageCredit":null,"anchorTag":null,"verticalImage":false,"height":0,"width":0,"overImage":false,"description":"default_image","title":"default image"},"autotagged":false,"video":null,"defaultImage":false},"leadMediaGif":null,"linkStoryId":null,"storySlug":null,"introBody":null,"webType":null,"related":null,"showRelated":true,"nextStoriesList":null,"trending":null,"match":null,"misResponse":false,"misJobResponse":null,"manulSummary":false,"urlHeadline":"CNG became cheaper by Rs 2 5 in Lucknow","containAffiliateEmbed":false,"noFollowNoIndex":false,"breadcrumbObj":[{"url":"https://www.livehindustan.com/","name":"Hindi News"},{"name":"Uttar-pradesh News","url":"https://www.livehindustan.com/uttar-pradesh"},{"name":"Lucknow News","url":"https://www.livehindustan.com/uttar-pradesh/lucknow/news"},{"url":"","name":"लखनऊ में सीएनजी 2.5 रुपये सस्ती हुई"}]},"masterAdsData":{"amp":{"enabled":true,"mastHeadAd":"","adCod1":"","adCod2":"/1055314/HT_AMP_Story_300x250_TG_2","adCod3":"","bottomAd":"","stickyAd":"","firstInline":["",""],"secondInline":["/1055314/LM_MF_AMP_STORY_300x250_TGH_1_Carousel1","/1055314/LM_MF_AMP_STORY_300x250_TGH_1_Carousel2"],"bottomCarousel":["","","/1055314/HT_AMP_Story_320x100_2_Carousel_TG","/1055314/HT_AMP_Story_320x100_3_Carousel_TG","","","","",""]},"nonAmp":{"enabledWeb":true,"enabledMweb":true,"inline":[{"adDeskCode":"","adMobCode":""},{"adDeskCode":"/1055314/HT_Desk_Story_300x250_TG_2","adMobCode":"/1055314/HT_WAP_Story_300x250_TG_2"},{"adDeskCode":"","adMobCode":""},{"adDeskCode":"","adMobCode":""},{"adDeskCode":"","adMobCode":""},{"adDeskCode":"","adMobCode":""},{"adDeskCode":"","adMobCode":""},{"adDeskCode":"","adMobCode":""}],"masthead":[{"adDeskCode":"","adMobCode":""}],"stickyAds":{"adMobCode":""},"stickyCarosuel":["",""],"firstInline":{"mweb":["",""]},"secondInline":{"mweb":["/1055314/LM_MF_WAP_STORY_300x250_TGH_1_Carousel1","/1055314/LM_MF_WAP_STORY_300x250_TGH_1_carousel2"]},"bottomCarousel":{"mweb":["","/1055314/HT_WAP_Story_320x100_1_Carousel_TG","/1055314/HT_WAP_Story_320x100_2_Carousel_TG","/1055314/HT_WAP_Story_320x100_3_Carousel_TG","","","","",""]},"rightPanel":[{"adDeskCode":""},{"adDeskCode":""}],"interstitial":{"adDeskCode":"","adMobCode":"/1055314/LM_MF_WAP_Popup_Interstitial_TGH"}}},"articleSchema":"लखनऊ, अयोध्या, उन्नाव और आगरा में सीएनजी (कम्प्रेस्ड नेचुरल गैस) 2.50 रुपये प्रति किलो सस्ती हो गई हैं। नई दरें बुधवार सुबह छह बजे से लागू होंगी। ग्रीन गैस लि. के प्रवक्ता के मुताबिक लखनऊ, उन्नाव और आगरा में सीएनजी 92.25 रुपये प्रति किलो मिलेगी, अभी तक इन शहरों में सीएनजी 94.75 रुपये में थी। अयोध्या में सीएनजी की कीमत 92.35 रुपये होगी, यहां 94.85 रुपये किलो थी। ग्रीन गैस के सहायक महाप्रबंधक (विपणन) प्रवीन सिंह ने बताया कि प्राकृतिक गैस की खपत बढ़ाने और हरित ईंधन अपनाने के राष्ट्रीय अभियान को गति देने के लिए दामों में कमी की गई है।","l2Menu":{"metadata":{"dynamicMeta":[{"key":"metatitleprefix","value":""},{"key":"metatitlesuffix","value":""},{"key":"metadescriptionprefix","value":""},{"key":"metadescriptionsuffix","value":""},{"key":"cutomemeta1","value":""}]}},"sectionName":"uttar-pradesh","subSectionItem":"lucknow","isSlideStory":false,"pageType":"storyDetail","createdBy":"Newswrap","pubDate":"2024-03-05T17:15:12+0000","author":"Newswrap","storyId":"9469568","storyTitle":"लखनऊ में सीएनजी 2.5 रुपये सस्ती हुई","automated_content_type":"Written","headerFooter":{"l1MenuData":{"mainMenu":[{"name":"होम","title":"होम","urlPath":"https://www.livehindustan.com/","urlPathAmp":"https://www.livehindustan.com/","active":true},{"name":"राज्य","title":"राज्य","urlPath":"https://www.livehindustan.com/state","urlPathAmp":"https://www.livehindustan.com/state","active":false},{"name":"देश","title":"देश","urlPath":"https://www.livehindustan.com/national","urlPathAmp":"https://www.livehindustan.com/amp_national","active":false},{"name":"दिवाली ग्रीटिंग","title":"दिवाली ग्रीटिंग","urlPath":"https://www.livehindustan.com/static-content/1y/lh/immersive/astrology/diwali-greetings-card-maker-in-hindi-english-2026.html","urlPathAmp":"https://www.livehindustan.com/static-content/1y/lh/immersive/astrology/diwali-greetings-card-maker-in-hindi-english-2026.html","newNav":true,"active":false},{"name":"खुशियों के पल","title":"खुशियों के पल","urlPath":"https://www.livehindustan.com/festival-of-gifts","urlPathAmp":"https://www.livehindustan.com/festival-of-gifts","active":false},{"name":"क्रिकेट","title":"क्रिकेट","urlPath":"https://www.livehindustan.com/cricket","urlPathAmp":"https://www.livehindustan.com/amp_cricket","active":false},{"name":"पंडित जी से चैट","title":"पंडित जी से चैट","urlPath":"https://www.livehindustan.com/astro/ai-panditji","urlPathAmp":"https://www.livehindustan.com/astro/ai-panditji","active":false},{"name":"मनोरंजन","title":"मनोरंजन","urlPath":"https://www.livehindustan.com/entertainment","urlPathAmp":"https://www.livehindustan.com/amp_entertainment","active":false},{"name":"बिजनेस","title":"बिजनेस","urlPath":"https://www.livehindustan.com/business","urlPathAmp":"https://www.livehindustan.com/amp_business","active":false},{"name":"करियर","title":"करियर","urlPath":"https://www.livehindustan.com/career","urlPathAmp":"https://www.livehindustan.com/amp_career","active":false},{"name":"विदेश","title":"विदेश","urlPath":"https://www.livehindustan.com/international","urlPathAmp":"https://www.livehindustan.com/amp_international","active":false},{"name":"धर्म","title":"धर्म","urlPath":"https://www.livehindustan.com/astrology/","urlPathAmp":"https://www.livehindustan.com/astrology/","active":false},{"name":"लाइफस्टाइल","title":"लाइफस्टाइल","urlPath":"https://www.livehindustan.com/lifestyle","urlPathAmp":"https://www.livehindustan.com/amp_lifestyle","active":false}],"dropDownmainMenu":[{"name":"GRAP चेक","title":"GRAP चेक","urlPath":"https://www.livehindustan.com/grap-graded-response-action-plan-car-checker","urlPathAmp":"https://www.livehindustan.com/grap-graded-response-action-plan-car-checker","active":false},{"name":"गेम्स खेलें","title":"गेम्स खेलें","urlPath":"https://www.livehindustan.com/games","urlPathAmp":"https://www.livehindustan.com/games","active":false},{"name":"Live Cricket Score","title":"Live Cricket Score","urlPath":"https://www.livehindustan.com/cricket/live-score","urlPathAmp":"https://www.livehindustan.com/cricket/live-score","active":false},{"name":"ऑटो","title":"ऑटो","urlPath":"https://www.livehindustan.com/auto","urlPathAmp":"https://www.livehindustan.com/amp_auto","active":false},{"name":"काम की बात","title":"काम की बात","urlPath":"https://www.livehindustan.com/tags/kaam-ki-baat","urlPathAmp":"https://www.livehindustan.com/tags/amp_kaam-ki-baat","active":false},{"name":"गैजेट्स","title":"गैजेट्स","urlPath":"https://www.livehindustan.com/gadgets","urlPathAmp":"https://www.livehindustan.com/amp_gadgets","active":false},{"name":"राशिफल","title":"राशिफल","urlPath":"https://www.livehindustan.com/astrology/rashifal","urlPathAmp":"https://www.livehindustan.com/amp_astrology/amp_rashifal","active":false},{"name":"राशिफल 2027","title":"राशिफल 2027","urlPath":"https://www.livehindustan.com/astrology/yearly-horoscope-2027","urlPathAmp":"https://www.livehindustan.com/astrology/yearly-horoscope-2027","active":false},{"name":"IND vs NZ Live Score","title":"IND vs NZ Live Score","urlPath":"https://www.livehindustan.com/cricket/india-vs-new-zealand-1st-odi-live-score-ind-vs-nz-odi-live-cricket-score-in-hindi-form-auckland-virat-kohli-rohit-sharma-live-blog-201793750221156.html","urlPathAmp":"https://www.livehindustan.com/cricket/india-vs-new-zealand-1st-odi-live-score-ind-vs-nz-odi-live-cricket-score-in-hindi-form-auckland-virat-kohli-rohit-sharma-live-blog-201793750221156.html","active":false},{"name":"Shiv Chalisa","title":"Shiv Chalisa","urlPath":"https://www.livehindustan.com/astrology/god-shiva/shiv-chalisa","urlPathAmp":"https://www.livehindustan.com/astrology/god-shiva/shiv-chalisa","active":false},{"name":"एक्सप्लेनर्स","title":"एक्सप्लेनर्स","urlPath":"https://www.livehindustan.com/explainer/news","urlPathAmp":"https://www.livehindustan.com/amp_explainer","active":false},{"name":"वीडियो","title":"वीडियो","urlPath":"https://www.livehindustan.com/videos","urlPathAmp":"https://www.livehindustan.com/amp_videos","active":false},{"name":"वायरल","title":"वायरल","urlPath":"https://www.livehindustan.com/viral-news/news","urlPathAmp":"https://www.livehindustan.com/amp_viral-news","active":false},{"name":"ओपिनियन","title":"ओपिनियन","urlPath":"https://www.livehindustan.com/blog","urlPathAmp":"https://www.livehindustan.com/amp_blog","active":false},{"name":"फोटो","title":"फोटो","urlPath":"https://www.livehindustan.com/photos","urlPathAmp":"https://www.livehindustan.com/amp_photos","active":false}],"roadBlock":false,"inlineWidget":[],"roadBlockAcross":false,"echoL1":{},"promotionBanner":false,"promotionbannerads":{"deskAdCode":"/1055314/LH_Desk_Budget_1100x90","mobileAdCode":"/1055314/LH_WAP_Budget_320x70","ampAdCode":"/1055314/LH_AMP_Budget_320x70"},"showPromotionImage":false,"promotionBannerImage":[{"imgPathWeb":" https://www.livehindustan.com/static-content/1y/lh/img/promotion-banner/fog-web.png","imgPathMob":"https://www.livehindustan.com/static-content/1y/lh/img/promotion-banner/fog-mweb.png","imgUrl":"https://www.livehindustan.com/gadgets/participate-in-ht-festival-of-gifts-during-festive-season-and-win-fantastic-gifts-201727346715024.html?utm_source=topbanners\u0026utm_medium=web\u0026utm_campaign=lhfog"}],"sectionPromotionBanner":false,"sectionPromotionBannerads":{"deskAdCode":"/1055314/LH_Desk_Cricket_LogoBand","mobileAdCode":"/1055314/LH_WAP_Cricket_LogoBand","ampAdCode":"/1055314/LH_AMP_Cricket_LogoBand","sections":["cricket"]},"resultPromotionBanner":false,"resultPromotionBannerads":{"deskAdCode":"/1055314/LH_Desk_log_Result","mobileAdCode":"/1055314/LH_WAP_log_Result","ampAdCode":"/1055314/LH_AMP_log_Result","sections":["career"]},"stickyAdRefreshRate":"","logoData":[{"key":"logo","value":"https://www.livehindustan.com/static-content/1y/lh/img/lh-logo-m.webp","description":"https://www.livehindustan.com/static-content/1y/lh/img/lh-logo-desk.webp","brandIdentifier":null},{"key":"logoFlipFront","value":"https://www.livehindustan.com/static-content/1y/lh/img/lh-logo-desk.webp","description":"https://www.livehindustan.com/","brandIdentifier":null},{"key":"logoFlipBack","value":"https://www.livehindustan.com/static-content/1y/lh/img/lh-logo-desk.webp","description":"https://www.livehindustan.com/","brandIdentifier":null},{"key":"logoFlipOnOff","value":"false","description":"","brandIdentifier":null}],"ampOffSections":[],"perpetualAiTrackingSections":["business","lifestyle","national","bihar","entertainment","auto","international"],"backButtonData":[{"key":"astrology","value":"home","description":null,"brandIdentifier":null},{"key":"national","value":"home","description":"","brandIdentifier":null},{"key":"business","value":"section","description":"","brandIdentifier":null},{"key":"elections","value":"Section","description":"","brandIdentifier":null},{"key":"international","value":"home","description":"","brandIdentifier":null}],"ampRecirculationSections":[],"dynamicCollapseSectionsData":["national","business"],"adRefreshIntervalConfig":[{"key":"Ad Code","value":"Refresh Interval","description":"","brandIdentifier":null},{"key":"LH_WAP_Story_Bottom_320x100","value":"30","description":null,"brandIdentifier":null},{"key":"LH_WAP_Story_Bottom_320x100_1","value":"30","description":"","brandIdentifier":null},{"key":"LH_WAP_Story_Bottom_320x100_2","value":"30","description":"","brandIdentifier":null},{"key":"LH_WAP_Story_Bottom_320x100_3","value":"30","description":"","brandIdentifier":null},{"key":"LH_WAP_Story_Bottom_320x100_4","value":"30","description":"","brandIdentifier":null},{"key":"LH_WAP_Story_Bottom_320x100_5","value":"30","description":"","brandIdentifier":null},{"key":"LH_WAP_Story_Bottom_320x100_6","value":"30","description":"","brandIdentifier":null},{"key":"LH_WAP_Story_Bottom_320x100_7","value":"30","description":"","brandIdentifier":null},{"key":"LH_WAP_Story_Bottom_320x100_8","value":"30","description":"","brandIdentifier":null},{"key":"LH_AMP_Story_Bottom_320x100","value":"30","description":"","brandIdentifier":null},{"key":"LH_AMP_Story_Bottom_320x100_1","value":"30","description":"","brandIdentifier":null},{"key":"LH_AMP_Story_Bottom_320x100_2","value":"30","description":"","brandIdentifier":null},{"key":"LH_AMP_Story_Bottom_320x100_3","value":"30","description":"","brandIdentifier":null},{"key":"LH_AMP_Story_Bottom_320x100_4","value":"30","description":"","brandIdentifier":null},{"key":"LH_AMP_Story_Bottom_320x100_5","value":"30","description":"","brandIdentifier":null},{"key":"LH_AMP_Story_Bottom_320x100_6","value":"30","description":"","brandIdentifier":null},{"key":"LH_AMP_Story_Bottom_320x100_7","value":"30","description":"","brandIdentifier":null},{"key":"LH_AMP_Story_Bottom_320x100_8","value":"30","description":"","brandIdentifier":null},{"key":"HT_AMP_Story_320x100_Carousel_TG","value":"30","description":"","brandIdentifier":null},{"key":"HT_AMP_Story_320x100_1_Carousel_TG","value":"30","description":"","brandIdentifier":null},{"key":"HT_AMP_Story_320x100_2_Carousel_TG","value":"30","description":"","brandIdentifier":null},{"key":"HT_AMP_Story_320x100_3_Carousel_TG","value":"30","description":"","brandIdentifier":null},{"key":"HT_AMP_Story_320x100_4_Carousel_TG","value":"30","description":"","brandIdentifier":null},{"key":"HT_AMP_Story_320x100_5_Carousel_TG","value":"30","description":"","brandIdentifier":null},{"key":"HT_WAP_Story_320x100_Carousel_TG","value":"30","description":"","brandIdentifier":null},{"key":"HT_WAP_Story_320x100_1_Carousel_TG","value":"30","description":"","brandIdentifier":null},{"key":"HT_WAP_Story_320x100_2_Carousel_TG","value":"30","description":"","brandIdentifier":null},{"key":"HT_WAP_Story_320x100_3_Carousel_TG","value":"30","description":"","brandIdentifier":null},{"key":"HT_WAP_Story_320x100_4_Carousel_TG","value":"30","description":"","brandIdentifier":null},{"key":"HT_WAP_Story_320x100_5_Carousel_TG","value":"30","description":"","brandIdentifier":null},{"key":"HT_Desk_Story_728x90_Carousel_TG","value":"30","description":"","brandIdentifier":null},{"key":"HT_Desk_Story_728x90_Carousel_1_TG","value":"30","description":"","brandIdentifier":null},{"key":"HT_Desk_Story_728x90_Carousel_2_TG","value":"30","description":"","brandIdentifier":null},{"key":"LM_MF_WAP_Story_320x100_Carousel_TGH","value":"30","description":"","brandIdentifier":null},{"key":"LM_MF_WAP_Story_320x100_1_Carousel_TGH","value":"30","description":"","brandIdentifier":null},{"key":"LM_MF_WAP_Story_320x100_2_Carousel_TGH","value":"30","description":"","brandIdentifier":null},{"key":"LM_MF_WAP_Story_320x100_3_Carousel_TGH","value":"30","description":"","brandIdentifier":null},{"key":"LM_MF_WAP_Story_320x100_4_Carousel_TGH","value":"30","description":"","brandIdentifier":null},{"key":"LM_MF_WAP_Story_320x100_5_Carousel_TGH","value":"30","description":"","brandIdentifier":null},{"key":"LM_MF_WAP_Story_320x100_6_Carousel_TGH","value":"30","description":"","brandIdentifier":null},{"key":"LM_MF_WAP_Story_320x100_7_Carousel_TGH","value":"30","description":"","brandIdentifier":null},{"key":"LM_MF_WAP_Story_320x100_8_Carousel_TGH","value":"30","description":"","brandIdentifier":null},{"key":"LM_MF_AMP_Story_320x100_Carousel_TGH","value":"30","description":"","brandIdentifier":null},{"key":"LM_MF_AMP_Story_320x100_1_Carousel_TGH","value":"30","description":"","brandIdentifier":null},{"key":"LM_MF_AMP_Story_320x100_2_Carousel_TGH","value":"30","description":"","brandIdentifier":null},{"key":"LM_MF_AMP_Story_320x100_3_Carousel_TGH","value":"30","description":"","brandIdentifier":null},{"key":"LM_MF_AMP_Story_320x100_4_Carousel_TGH","value":"30","description":"","brandIdentifier":null},{"key":"LM_MF_AMP_Story_320x100_5_Carousel_TGH","value":"30","description":"","brandIdentifier":null},{"key":"LM_MF_AMP_Story_320x100_6_Carousel_TGH","value":"30","description":"","brandIdentifier":null},{"key":"LM_MF_AMP_Story_320x100_7_Carousel_TGH","value":"30","description":"","brandIdentifier":null},{"key":"LM_MF_AMP_Story_320x100_8_Carousel_TGH","value":"30","description":"","brandIdentifier":null}],"vopBannerConfig":{"title":"true","description":"http://livehindustan.com/static-content/1y/lh/voiceup/story-banner-vop.gif","imageUrl":"","deeplinkUrl":"https://www.livehindustan.com/voice-of-up?utm_source=Web2App\u0026utm_medium=Voup\u0026utm_campaign=LH-VoUP","cta":"","design":"Design 2"},"firstInlineAdCarouselConfig":{"isEnabled":true,"numberOfCards":"3","isEnabledAMP":true,"numberOfCardsAMP":"3"},"secondInlineAdCarouselConfig":{"isEnabled":true,"numberOfCards":"3","isEnabledAMP":true,"numberOfCardsAMP":"3"},"stickyAdCarouselConfig":{"isEnabled":true,"numberOfCards":"3"},"bottomAdCarouselConfig":{"isEnabled":true,"numberOfCards":"9","isEnabledAMP":true,"numberOfCardsAMP":"9"}},"hasElectionBottomNav":false},"footerHtml":"\u003cli\u003e\n    \u003cspan\u003e\n        Latest UP News in Hindi\n        \u003cpicture\u003e\n            \u003csource srcset=\"https://www.livehindustan.com/static-content/1y/lh/img/arrw-double-grey.webp\" type=\"image/webp\" /\u003e\n            \u003csource srcset=\"https://www.livehindustan.com/static-content/1y/lh/img/arrw-double-grey.webp\" type=\"image/png\" /\u003e\n            \u003cimg loading=\"lazy\" src=\"https://www.livehindustan.com/static-content/1y/lh/img/arrw-double-grey.png\" alt=\"Latest News\" /\u003e\n        \u003c/picture\u003e\n    \u003c/span\u003e\n    \u003ca href=\"https://www.livehindustan.com/bihar/anant-singh-patna-prayagraj-road-show-tour-updates-as-mokama-mla-shows-power-with-supporters-strength-to-jdu-bjp-nda-live-blog-201793937563847.html\" title=\"Anant Singh LIVE: अनंत सिंह का शक्ति प्रदर्शन, बिहार से यूपी तक तूफानी रोड शो, आरा से आगे बढ़े, प्रयागराज जाना है\"\u003eAnant Singh LIVE: अनंत सिंह का शक्ति प्रदर्शन, बिहार से यूपी तक तूफानी रोड शो, आरा से आगे बढ़े, प्रयागराज जाना है\u003c/a\u003e\n    \u003ca href=\"https://www.livehindustan.com/national/suvendu-adhikari-follws-yogi-style-bengal-government-to-now-purchase-land-and-provide-it-to-company-201793943278550.html\" title=\"योगी की राह पर शुभेंदु अधिकारी, बंगाल में अब सरकार खरीदकर देगी जमीन; शेयर भी मिलेगा\"\u003eयोगी की राह पर शुभेंदु अधिकारी, बंगाल में अब सरकार खरीदकर देगी जमीन; शेयर भी मिलेगा\u003c/a\u003e\n    \u003ca href=\"https://www.livehindustan.com/uttar-pradesh/anam-riaz-has-become-the-president-of-the-women-college-at-amu-201793942476649.html\" title=\"एएमयू के वीमेंस कॉलेज की अध्यक्ष अनम रियाज बनीं, 10 साल के बाद हुआ छात्रसंघ का चुनाव\"\u003eएएमयू के वीमेंस कॉलेज की अध्यक्ष अनम रियाज बनीं, 10 साल के बाद हुआ छात्रसंघ का चुनाव\u003c/a\u003e\n    \u003ca href=\"https://www.livehindustan.com/uttar-pradesh/up-news-live-6-november-cm-yogi-adityanath-kgmu-religion-change-case-dhanteras-sant-premanand-akhilesh-yadav-live-blog-201793926751925.html\" title=\"UP News LIVE: दिवाली पर यूपी के लिए चार सुपरफास्ट ट्रेनें, अयोध्या में रामायण थीम नावें\"\u003eUP News LIVE: दिवाली पर यूपी के लिए चार सुपरफास्ट ट्रेनें, अयोध्या में रामायण थीम नावें\u003c/a\u003e\n    \u003ca href=\"https://www.livehindustan.com/uttar-pradesh/starting-today-and-continuing-until-the-chhath-festival-special-ac-regular-and-e-buses-will-be-in-operation-201793940703803.html\" title=\"आज से छठ पर्व तक स्पेशल एसी, साधारण और ई-बसें चलेंगी, हर 10 मिनट मिलेगी बस\"\u003eआज से छठ पर्व तक स्पेशल एसी, साधारण और ई-बसें चलेंगी, हर 10 मिनट मिलेगी बस\u003c/a\u003e\n\u003c/li\u003e\u003cli\u003e\n    \u003cspan\u003e\n        \u003ch2\u003eLatest News in Hindi\u003c/h2\u003e\n        \u003cpicture\u003e\n            \u003csource srcset=\"https://www.livehindustan.com/static-content/1y/lh/img/arrw-double-grey.webp\" type=\"image/webp\" /\u003e\n            \u003csource srcset=\"https://www.livehindustan.com/static-content/1y/lh/img/arrw-double-grey.webp\" type=\"image/png\" /\u003e\n            \u003cimg loading=\"lazy\" src=\"https://www.livehindustan.com/static-content/1y/lh/img/arrw-double-grey.png\" alt=\"Latest News\" /\u003e\n        \u003c/picture\u003e\n    \u003c/span\u003e\n\u003c/li\u003e\u003cli\u003e\n    \u003cspan\u003e\n        \u003ch2\u003eTrending News Today\u003c/h2\u003e\n        \u003cpicture\u003e\n            \u003csource srcset=\"https://www.livehindustan.com/static-content/1y/lh/img/arrw-double-grey.webp\" type=\"image/webp\" /\u003e\n            \u003csource srcset=\"https://www.livehindustan.com/static-content/1y/lh/img/arrw-double-grey.webp\" type=\"image/png\" /\u003e\n            \u003cimg loading=\"lazy\" src=\"https://www.livehindustan.com/static-content/1y/lh/img/arrw-double-grey.png\" alt=\"Latest News\" /\u003e\n        \u003c/picture\u003e\n    \u003c/span\u003e\n    \u003ca href=\"https://www.livehindustan.com/entertainment/bollywood/ramayana-box-office-collection-day-2-live-updates-in-hindi-ranbir-kapoor-yash-ravi-dubey-yash-live-blog-201793934535856.html\"\u003eRamayana Box office collection Live\u003c/a\u003e\n    \u003ca href=\"https://www.livehindustan.com/astrology/dhanteras-2026-live-wishes-messages-in-hindi-muhurat-gold-silver-buying-today-live-blog-201793933480555.html\"\u003eDhanteras 2026 live\u003c/a\u003e\n    \u003ca href=\"https://www.livehindustan.com/ncr/delhi-air-pollution-air-to-turn-even-more-toxic-starting-today-aqi-crosses-400-in-20-locations-201793933611385.html\"\u003eDelhi Pollution\u003c/a\u003e\n    \u003ca href=\"https://www.livehindustan.com/astrology/happy-dhanteras-wishes-2026-send-these-dhanteras-ki-hardik-shubhkamnaye-to-your-family-and-friends-201793863696550.html\"\u003eDhanteras Wishes in Hindi\u003c/a\u003e\n    \u003ca href=\"https://www.livehindustan.com/uttar-pradesh/up-news-live-6-november-cm-yogi-adityanath-kgmu-religion-change-case-dhanteras-sant-premanand-akhilesh-yadav-live-blog-201793926751925.html\"\u003eUP News Live\u003c/a\u003e\n    \u003ca href=\"https://www.livehindustan.com/bihar/bihar-news-today-live-pm-modi-vaishali-tour-bjp-samrat-jdu-nishant-rjd-tejaswi-anant-singh-crime-politics-event-updates-live-blog-201793924440901.html\"\u003eBihar News Live\u003c/a\u003e\n    \u003ca href=\"https://www.livehindustan.com/entertainment/bollywood/virat-kohli-hilariously-sing-akshay-kumar-khiladi-786-song-fire-brigade-mangwa-de-tu-on-his-38th-birthday-video-viral-201793924755081.html\"\u003eVirat Kohli Viral Video\u003c/a\u003e\n    \u003ca href=\"https://www.livehindustan.com/astrology/dhanteras-puja-muhurat-2026-today-start-from-6-02-pm-know-here-pradosh-kaal-and-vrishabh-kaal-timing-6-november-201793928418094.html\"\u003eDhanteras Puja Muhurat\u003c/a\u003e\n    \u003ca href=\"https://www.livehindustan.com/national/swatantra-bhardwaj-fled-to-up-as-fir-lodged-under-pocso-how-did-he-dodge-police-201788576555176.html\"\u003eकाम की बात\u003c/a\u003e\n    \u003ca href=\"https://www.livehindustan.com/astrology/god-shiva/shiv-chalisa\"\u003eShiv Chalisa\u003c/a\u003e\n    \u003ca href=\"https://www.livehindustan.com/astrology/god-hanuman/hanuman-chalisa\"\u003eHanuman Chalisa\u003c/a\u003e\n    \u003ca href=\"https://www.livehindustan.com/astrology/god-hanuman/bajran-baan\"\u003eBajrang Baan\u003c/a\u003e\n    \u003ca href=\"https://www.livehindustan.com/astrology/rashifal/news\"\u003eRashifal\u003c/a\u003e\n    \u003ca href=\"https://www.livehindustan.com/assembly-elections/up-election\"\u003eUP Vidhan Sabha Chunav\u003c/a\u003e\n    \u003ca href=\"https://www.livehindustan.com/assembly-elections/up-election/constituency\"\u003eUP Vidhan Sabha Seat\u003c/a\u003e\n    \u003ca href=\"https://www.livehindustan.com/assembly-elections/up-election/candidates\"\u003eUP chunav Candidate\u003c/a\u003e\n    \u003ca href=\"https://www.livehindustan.com/tags/up-election\"\u003eUP Chunav News\u003c/a\u003e\n\u003c/li\u003e","containAffiliateEmbed":false,"performanceType":"","marketplaceName":"","isAutomatedArticle":false,"typeOfFormat":"","prContextualKeywords":null,"isSpecialPerpetualStory":false,"iabTag":null,"isBrandPost":false,"showRajnigandhaCta":false,"lcpImageUrl":"https://www.livehindustan.com/lh-img/uploadimage/library/2020/10/29/16_9/16_9_3/default-image384x216.jpg","lcpImageUrlDesktop":"https://www.livehindustan.com/lh-img/uploadimage/library/2020/10/29/16_9/16_9_1/default-image640x360.jpg","hideAds":true,"quizContestMap":{"career":"201780722185087","uttar-pradesh":"201780995412581","national":"201780995412581"}},"l1MenuData":{},"footerData":{},"footerHtml":"","hasElectionBottomNav":false,"hasBudgetIframeOnAmpHome":[],"__N_SSP":true},"page":"/story-detail/[slug]","query":{"section":"uttar-pradesh","subsection":"lucknow","url":"story-cng-became-cheaper-by-rs-2-5-in-lucknow-9469568"},"buildId":"8pO7zOvtjarPigYNxkeut","assetPrefix":"https://www.livehindustan.com/lhfeed","isFallback":false,"gssp":true,"appGip":true,"locale":"hn","locales":["hn","en"],"defaultLocale":"hn","scriptLoader":[]}</script><noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=2442192816092061&amp;ev=PageView&amp;noscript=1" alt=""/></noscript><script>(function(){var n=History.prototype.pushState;History.prototype.pushState=function(s,t,u){if(!s){try{var r=u?new URL(u,location.origin).href:location.href;if(r===location.href)return}catch(e){}}return n.apply(this,arguments)}})();</script></body></html>

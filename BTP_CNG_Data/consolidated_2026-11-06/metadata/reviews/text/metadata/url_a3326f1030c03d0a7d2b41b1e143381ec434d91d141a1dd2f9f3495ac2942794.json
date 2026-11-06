@@ -1,0 +1,32 @@
+{
+  "url": "https://indianexpress.com/article/cities/pune/cng-price-up-by-rs-2-kg-in-pune-pimpri-chinchwad-from-september-1-10858179/",
+  "expected_sha256": "d8c331f04a106b3555b7eb6c86d6552424ce976ba01b1dec0608e82cfca7d714",
+  "original_publication_claim": "2026-09-01T11:06:59+05:30",
+  "title_claim": "CNG price up by Rs 2/kg in Pune, Pimpri-Chinchwad from September 1",
+  "origin": "github-pr1",
+  "source_id": "NEWS_HISTORY_10",
+  "http_status": 200,
+  "final_url": "https://indianexpress.com/article/cities/pune/cng-price-up-by-rs-2-kg-in-pune-pimpri-chinchwad-from-september-1-10858179/",
+  "source_path": "PROJECT_ROOT/Stage3_Consolidated_2026-11-06/text/raw/bf7dbca19770659c097bcbd137f791c54c0d9e0d7b9277b02cea42b61b8b5e89.html",
+  "retrieved_sha256": "bf7dbca19770659c097bcbd137f791c54c0d9e0d7b9277b02cea42b61b8b5e89",
+  "matches_previous_hash": false,
+  "retrieved_at": "2026-11-06T05:48:20.936395+00:00",
+  "retrieval_method": "direct_original_url",
+  "title": "CNG price up by Rs 2/kg in Pune, Pimpri-Chinchwad from September 1 | Pune News - The Indian Express",
+  "publication_date": "2026-09-01T11:06:59+05:30",
+  "publication_date_claims": [
+    [
+      "JSON-LD datePublished",
+      "2026-09-01T11:06:59+05:30"
+    ],
+    [
+      "article:published_time",
+      "2026-09-01T11:06:59+05:30"
+    ]
+  ],
+  "date_status": "publisher_date_claim_preserved",
+  "status": "retained_public_html",
+  "historical_availability_status": "publisher_claim_not_independent_archive_verification",
+  "redistribution_license": "not_established_no_public_full_text_release",
+  "synthetic": false
+}
