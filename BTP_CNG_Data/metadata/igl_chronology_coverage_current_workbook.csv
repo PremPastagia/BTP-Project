@@ -1,0 +1,15 @@
+reported_geography,first_revision_claim,last_revision_claim,source_cells,positive_price_claims,missing_cells,delta_or_invalid_cells,verified_continuous_target_months,path_status
+Ajmer,2010-06-17,2026-08-29,108,45,62,1,0,effective_time_and_gap_review_required
+Banda,2010-06-17,2026-08-29,108,19,89,0,0,effective_time_and_gap_review_required
+Delhi,2010-06-17,2026-08-29,108,98,9,1,0,effective_time_and_gap_review_required
+G Noida,2010-06-17,2026-08-29,108,23,85,0,0,effective_time_and_gap_review_required
+Ghaziabad,2010-06-17,2026-08-29,108,23,85,0,0,effective_time_and_gap_review_required
+Ghaziabad DM-1&2,2010-06-17,2026-08-29,108,18,90,0,0,effective_time_and_gap_review_required
+Gurugram,2010-06-17,2026-08-29,108,65,42,1,0,effective_time_and_gap_review_required
+Hapur,2010-06-17,2026-08-29,108,18,90,0,0,effective_time_and_gap_review_required
+Kaithal,2010-06-17,2026-08-29,108,57,50,1,0,effective_time_and_gap_review_required
+Kanpur,2010-06-17,2026-08-29,108,49,58,1,0,effective_time_and_gap_review_required
+Karnal,2010-06-17,2026-08-29,108,65,42,1,0,effective_time_and_gap_review_required
+Muzaffar Nagar,2010-06-17,2026-08-29,108,54,52,2,0,effective_time_and_gap_review_required
+Noida,2010-06-17,2026-08-29,108,88,19,1,0,effective_time_and_gap_review_required
+Rewari,2010-06-17,2026-08-29,108,70,37,1,0,effective_time_and_gap_review_required

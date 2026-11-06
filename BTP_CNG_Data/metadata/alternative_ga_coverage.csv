@@ -1,0 +1,1446 @@
+GA ID,Name of CGD Entity,GA Name,District,first_period,last_period,snapshot_records,observed_periods
+1.01,GAIL Gas Limited,Dewas,Dewas District,2025-03,2026-08,16,16
+1.02,Rajasthan State Gas Limited,Kota,Kota District,2025-03,2026-08,16,16
+1.03,Torrent Gas Limited,Mathura,Mathura District,2025-03,2026-08,16,16
+1.04,Bhagyanagar Gas Limited,Kakinada,East Godavari District,2025-03,2026-08,16,16
+1.05,GAIL Gas Limited,Sonipat,Sonipat District,2025-03,2026-08,16,16
+1.06,GAIL Gas Limited,Meerut,MeerutDistrict,2025-03,2026-08,16,16
+10.01,AGP City Gas Private Limited,Anantapur and YSR (Kadapa) Districts,Anantapur District,2025-03,2026-08,16,16
+10.01,AGP City Gas Private Limited,Anantapur and YSR (Kadapa) Districts,YSR (Kadapa) District,2025-03,2026-08,16,16
+10.02,AGP City Gas Private Limited,Sri Potti Sriramulu Nellore District,Sri Potti Sriramulu Nellore District,2025-03,2026-08,16,16
+10.03,AGP City Gas Private Limited,"Chittoor, Kolar and Vellore Districts",Chittoor District,2025-03,2026-08,16,16
+10.03,AGP City Gas Private Limited,"Chittoor, Kolar and Vellore Districts",Kolar District,2025-03,2026-08,16,16
+10.03,AGP City Gas Private Limited,"Chittoor, Kolar and Vellore Districts",Vellore District,2025-03,2026-08,16,16
+10.04,Indian Oil Corporation Limited,"Araria, Purnia, Katihar and Kishanganj Districts",Araria District,2025-04,2026-08,15,15
+10.04,Indian Oil Corporation Limited,"Araria, Purnia, Katihar and Kishanganj Districts",Katihar District,2025-04,2026-08,15,15
+10.04,Indian Oil Corporation Limited,"Araria, Purnia, Katihar and Kishanganj Districts",Kishanganj District,2025-04,2026-08,15,15
+10.04,Indian Oil Corporation Limited,"Araria, Purnia, Katihar and Kishanganj Districts",Purnia District,2025-04,2026-08,15,15
+10.05,Indian Oil Corporation Limited,"Arwal, Jehanabad, Bhojpur and Buxar Districts",Arwal District,2025-04,2026-08,15,15
+10.05,Indian Oil Corporation Limited,"Arwal, Jehanabad, Bhojpur and Buxar Districts",Bhojpur District,2025-04,2026-08,15,15
+10.05,Indian Oil Corporation Limited,"Arwal, Jehanabad, Bhojpur and Buxar Districts",Buxar District,2025-04,2026-08,15,15
+10.05,Indian Oil Corporation Limited,"Arwal, Jehanabad, Bhojpur and Buxar Districts",Jehanabad District,2025-04,2026-08,15,15
+10.06,Indian Oil Corporation Limited,"Khagaria, Saharsa and Madhepura Districts",Khagaria District,2025-04,2026-08,15,15
+10.06,Indian Oil Corporation Limited,"Khagaria, Saharsa and Madhepura Districts",Madhepura Districts,2025-04,2026-08,15,15
+10.06,Indian Oil Corporation Limited,"Khagaria, Saharsa and Madhepura Districts",Saharsa District,2025-04,2026-08,15,15
+10.07,Indian Oil Corporation Limited,"Lakhisarai, Munger and Bhagalpur Districts",Bhagalpur Districts,2025-04,2026-08,15,15
+10.07,Indian Oil Corporation Limited,"Lakhisarai, Munger and Bhagalpur Districts",Lakhisarai District,2025-04,2026-08,15,15
+10.07,Indian Oil Corporation Limited,"Lakhisarai, Munger and Bhagalpur Districts",Munger District,2025-04,2026-08,15,15
+10.08,Indian Oil Corporation Limited,"Muzaffarpur, Vaishali, Saran and Samastipur Districts",Muzaffarpur District,2025-04,2026-08,15,15
+10.08,Indian Oil Corporation Limited,"Muzaffarpur, Vaishali, Saran and Samastipur Districts",Samastipur Districts,2025-04,2026-08,15,15
+10.08,Indian Oil Corporation Limited,"Muzaffarpur, Vaishali, Saran and Samastipur Districts",Saran District,2025-04,2026-08,15,15
+10.08,Indian Oil Corporation Limited,"Muzaffarpur, Vaishali, Saran and Samastipur Districts",Vaishali District,2025-04,2026-08,15,15
+10.09,Indian Oil Corporation Limited,Nawada and Koderma Districts,Koderma District,2025-04,2026-08,15,15
+10.09,Indian Oil Corporation Limited,Nawada and Koderma Districts,Nawada District,2025-04,2026-08,15,15
+10.1,Indian Oil Corporation Limited,"Sheikhpura, Jamui and Deoghar Districts",Deoghar Districts,2025-04,2026-08,14,14
+10.1,Indian Oil Corporation Limited,"Sheikhpura, Jamui and Deoghar Districts",Jamui District,2025-04,2026-08,14,14
+10.1,Indian Oil Corporation Limited,"Sheikhpura, Jamui and Deoghar Districts",Sheikhpura District,2025-04,2026-08,14,14
+10.10,Indian Oil Corporation Limited,"Sheikhpura, Jamui and Deoghar Districts",Deoghar Districts,2026-05,2026-05,1,1
+10.10,Indian Oil Corporation Limited,"Sheikhpura, Jamui and Deoghar Districts",Jamui District,2026-05,2026-05,1,1
+10.10,Indian Oil Corporation Limited,"Sheikhpura, Jamui and Deoghar Districts",Sheikhpura District,2026-05,2026-05,1,1
+10.11,Indraprastha Gas Limited,Kaithal District,Kaithal District,2025-03,2026-08,16,16
+10.12,Gujarat Energy Limited,"Sirsa, Fatehabad and Mansa (Punjab) Districts",Fatehabad District,2026-07,2026-08,2,2
+10.12,Gujarat Energy Limited,"Sirsa, Fatehabad and Mansa (Punjab) Districts",Mansa District,2026-07,2026-08,2,2
+10.12,Gujarat Energy Limited,"Sirsa, Fatehabad and Mansa (Punjab) Districts",Sirsa District,2026-07,2026-08,2,2
+10.12,Gujarat Gas Limited,"Sirsa, Fatehabad and Mansa (Punjab) Districts",Fatehabad District,2025-03,2026-06,14,14
+10.12,Gujarat Gas Limited,"Sirsa, Fatehabad and Mansa (Punjab) Districts",Mansa District,2025-03,2026-06,14,14
+10.12,Gujarat Gas Limited,"Sirsa, Fatehabad and Mansa (Punjab) Districts",Sirsa District,2025-03,2026-06,14,14
+10.13,Bharat Petroleum Corporation Limited,Chatra and Palamu Districts,Chatra District,2025-05,2026-08,14,14
+10.13,Bharat Petroleum Corporation Limited,Chatra and Palamu Districts,Palamu District,2025-05,2026-08,14,14
+10.14,GAIL Gas Limited,Seraikela-Kharsawan District,Seraikela-Kharsawan District,2025-03,2026-08,16,16
+10.15,GAIL Gas Limited,West Singhbhum District,West Singhbhum District,2025-03,2026-08,16,16
+10.16,AGP City Gas Private Limited,"Bagalkot, Koppal and Raichur Districts",Bagalkot District,2025-03,2026-08,16,16
+10.16,AGP City Gas Private Limited,"Bagalkot, Koppal and Raichur Districts",Koppal District,2025-03,2026-08,16,16
+10.16,AGP City Gas Private Limited,"Bagalkot, Koppal and Raichur Districts",Raichur District,2025-03,2026-08,16,16
+10.17,AGP City Gas Private Limited,"Chikkamagaluru, Hassan and Kodagu Districts",Chikkamagaluru District,2025-03,2026-08,16,16
+10.17,AGP City Gas Private Limited,"Chikkamagaluru, Hassan and Kodagu Districts",Hassan District,2025-03,2026-08,16,16
+10.17,AGP City Gas Private Limited,"Chikkamagaluru, Hassan and Kodagu Districts",Kodagu District,2025-03,2026-08,16,16
+10.18,AGP City Gas Private Limited,Kalaburagi and Vijayapura Districts,Kalaburagi District,2025-03,2026-08,16,16
+10.18,AGP City Gas Private Limited,Kalaburagi and Vijayapura Districts,Vijayapura District,2025-03,2026-08,16,16
+10.19,AGP City Gas Private Limited,"Mysuru, Mandya and Chamarajanagar Districts",Chamarajanagar District,2025-03,2026-08,16,16
+10.19,AGP City Gas Private Limited,"Mysuru, Mandya and Chamarajanagar Districts",Mandya District,2025-03,2026-08,16,16
+10.19,AGP City Gas Private Limited,"Mysuru, Mandya and Chamarajanagar Districts",Mysuru District,2025-03,2026-08,16,16
+10.2,AGP City Gas Private Limited,"Uttara Kannada, Haveri and Shivamogga Districts",Haveri District,2025-04,2026-08,15,14
+10.2,AGP City Gas Private Limited,"Uttara Kannada, Haveri and Shivamogga Districts",Shivamogga District,2025-04,2026-08,15,14
+10.2,AGP City Gas Private Limited,"Uttara Kannada, Haveri and Shivamogga Districts",Uttara Kannada District,2025-04,2026-08,15,14
+10.20,AGP City Gas Private Limited,"Uttara Kannada, Haveri and Shivamogga Districts",Haveri District,2025-03,2026-05,2,2
+10.20,AGP City Gas Private Limited,"Uttara Kannada, Haveri and Shivamogga Districts",Shivamogga District,2025-03,2026-05,2,2
+10.20,AGP City Gas Private Limited,"Uttara Kannada, Haveri and Shivamogga Districts",Uttara Kannada District,2025-03,2026-05,2,2
+10.21,AGP City Gas Private Limited,"Alappuzha, Kollam and Thiruvananthapuram Districts",Alapuzzha District,2025-03,2026-08,16,16
+10.21,AGP City Gas Private Limited,"Alappuzha, Kollam and Thiruvananthapuram Districts",Kollam District,2025-03,2026-08,16,16
+10.21,AGP City Gas Private Limited,"Alappuzha, Kollam and Thiruvananthapuram Districts",Thiruvananthapuram District,2025-03,2026-08,16,16
+10.22,Indian Oil Corporation Limited,Ashoknagar District,Ashoknagar District,2025-04,2026-08,15,15
+10.23,Rajasthan State Gas Limited,Gwalior (EAAA) District and Sheopur District,Gwalior District,2025-04,2026-08,15,15
+10.23,Rajasthan State Gas Limited,Gwalior (EAAA) District and Sheopur District,Gwalior District(EAAA),2025-03,2025-03,1,1
+10.23,Rajasthan State Gas Limited,Gwalior (EAAA) District and Sheopur District,Sheopur District,2025-03,2026-08,14,14
+10.24,Indian Oil Corporation Limited,Morena District,Morena District,2025-04,2026-08,15,15
+10.25,GAIL Gas Limited,"Raisen, Shajapur and Sehore Districts",Raisen District,2025-03,2026-08,17,16
+10.25,GAIL Gas Limited,"Raisen, Shajapur and Sehore Districts",Sehore District,2025-04,2026-08,15,15
+10.25,GAIL Gas Limited,"Raisen, Shajapur and Sehore Districts",Shajapur District,2025-03,2026-08,16,16
+10.26,THINK Gas Bhopal Private Limited,Shivpuri District,Shivpuri District,2025-03,2026-08,16,16
+10.27,Bharat Petroleum Corporation Limited,Sidhi and Singrauli Districts,Sidhi District,2025-05,2026-08,14,14
+10.27,Bharat Petroleum Corporation Limited,Sidhi and Singrauli Districts,Singrauli District,2025-05,2026-08,14,14
+10.28,Gujarat Energy Limited,"Ujjain (EAAA) District, Dewas (EAAA) District and Indore (EAAA) District",Dewas District,2026-07,2026-08,2,2
+10.28,Gujarat Energy Limited,"Ujjain (EAAA) District, Dewas (EAAA) District and Indore (EAAA) District",Indore District,2026-07,2026-08,2,2
+10.28,Gujarat Energy Limited,"Ujjain (EAAA) District, Dewas (EAAA) District and Indore (EAAA) District",Ujjain District,2026-07,2026-08,2,2
+10.28,Gujarat Gas Limited,"Ujjain (EAAA) District, Dewas (EAAA) District and Indore (EAAA) District",Dewas District,2025-04,2026-06,13,13
+10.28,Gujarat Gas Limited,"Ujjain (EAAA) District, Dewas (EAAA) District and Indore (EAAA) District",Dewas District(EAAA),2025-03,2025-03,1,1
+10.28,Gujarat Gas Limited,"Ujjain (EAAA) District, Dewas (EAAA) District and Indore (EAAA) District",Indore District,2025-04,2026-06,13,13
+10.28,Gujarat Gas Limited,"Ujjain (EAAA) District, Dewas (EAAA) District and Indore (EAAA) District",Indore District(EAAA),2025-03,2025-03,1,1
+10.28,Gujarat Gas Limited,"Ujjain (EAAA) District, Dewas (EAAA) District and Indore (EAAA) District",Ujjain District,2025-04,2026-06,13,13
+10.28,Gujarat Gas Limited,"Ujjain (EAAA) District, Dewas (EAAA) District and Indore (EAAA) District",Ujjain District(EAAA),2025-03,2025-03,1,1
+10.29,Adani Total Gas Limited,"Anuppur, Bilaspur and Korba Districts",Anuppur District,2025-03,2026-08,16,16
+10.29,Adani Total Gas Limited,"Anuppur, Bilaspur and Korba Districts",Bilaspur District,2025-03,2026-08,16,16
+10.29,Adani Total Gas Limited,"Anuppur, Bilaspur and Korba Districts",Korba District,2025-05,2025-05,1,1
+10.3,Gujarat Energy Limited,"Jhabua, Banswara, Ratlam and Dungarpur Districts",Banswara District,2026-07,2026-08,2,2
+10.3,Gujarat Energy Limited,"Jhabua, Banswara, Ratlam and Dungarpur Districts",Dungarpur District,2026-07,2026-08,2,2
+10.3,Gujarat Energy Limited,"Jhabua, Banswara, Ratlam and Dungarpur Districts",Jhabua District,2026-07,2026-08,2,2
+10.3,Gujarat Energy Limited,"Jhabua, Banswara, Ratlam and Dungarpur Districts",Ratlam District,2026-07,2026-08,2,2
+10.3,Gujarat Gas Limited,"Jhabua, Banswara, Ratlam and Dungarpur Districts",Banswara District,2025-04,2026-06,12,12
+10.3,Gujarat Gas Limited,"Jhabua, Banswara, Ratlam and Dungarpur Districts",Dungarpur District,2025-04,2026-06,12,12
+10.3,Gujarat Gas Limited,"Jhabua, Banswara, Ratlam and Dungarpur Districts",Jhabua District,2025-05,2026-06,11,11
+10.3,Gujarat Gas Limited,"Jhabua, Banswara, Ratlam and Dungarpur Districts",Ratlam District,2025-04,2026-06,12,12
+10.30,Gujarat Gas Limited,"Jhabua, Banswara, Ratlam and Dungarpur Districts",Banswara District,2025-03,2026-05,2,2
+10.30,Gujarat Gas Limited,"Jhabua, Banswara, Ratlam and Dungarpur Districts",Dungarpur District,2025-03,2026-05,2,2
+10.30,Gujarat Gas Limited,"Jhabua, Banswara, Ratlam and Dungarpur Districts",Jhabua District,2025-03,2026-05,3,3
+10.30,Gujarat Gas Limited,"Jhabua, Banswara, Ratlam and Dungarpur Districts",Ratlam District,2025-03,2026-05,2,2
+10.31,Adani Total Gas Limited,"Jhansi (EAAA) District, Bhind, Jalaun, Lalitpur and Datia Districts",Bhind District,2025-03,2026-08,16,16
+10.31,Adani Total Gas Limited,"Jhansi (EAAA) District, Bhind, Jalaun, Lalitpur and Datia Districts",Datia District,2025-03,2026-08,16,16
+10.31,Adani Total Gas Limited,"Jhansi (EAAA) District, Bhind, Jalaun, Lalitpur and Datia Districts",Jalaun District,2025-03,2026-08,16,16
+10.31,Adani Total Gas Limited,"Jhansi (EAAA) District, Bhind, Jalaun, Lalitpur and Datia Districts",Jhansi District,2025-04,2026-08,15,15
+10.31,Adani Total Gas Limited,"Jhansi (EAAA) District, Bhind, Jalaun, Lalitpur and Datia Districts",Jhansi District(EAAA),2025-03,2025-03,1,1
+10.31,Adani Total Gas Limited,"Jhansi (EAAA) District, Bhind, Jalaun, Lalitpur and Datia Districts",Lalitpur District,2025-03,2026-08,16,16
+10.32,Gujarat Energy Limited,"Ferozepur, Faridkot and Sri Muktsar Sahib Districts",Faridkot District,2026-07,2026-08,2,2
+10.32,Gujarat Energy Limited,"Ferozepur, Faridkot and Sri Muktsar Sahib Districts",Fazilka District,2026-07,2026-08,2,2
+10.32,Gujarat Energy Limited,"Ferozepur, Faridkot and Sri Muktsar Sahib Districts",Ferozepur District,2026-07,2026-08,2,2
+10.32,Gujarat Energy Limited,"Ferozepur, Faridkot and Sri Muktsar Sahib Districts",Sri Muktsar Sahib Districts,2026-07,2026-08,2,2
+10.32,Gujarat Gas Limited,"Ferozepur, Faridkot and Sri Muktsar Sahib Districts",Faridkot District,2025-03,2026-06,14,14
+10.32,Gujarat Gas Limited,"Ferozepur, Faridkot and Sri Muktsar Sahib Districts",Fazilka District,2025-03,2026-06,14,14
+10.32,Gujarat Gas Limited,"Ferozepur, Faridkot and Sri Muktsar Sahib Districts",Ferozepur District,2025-03,2026-06,14,14
+10.32,Gujarat Gas Limited,"Ferozepur, Faridkot and Sri Muktsar Sahib Districts",Sri Muktsar Sahib Districts,2025-03,2026-06,14,14
+10.33,Gujarat Energy Limited,Hoshiarpur and Gurdaspur Districts,Gurdaspur District,2026-07,2026-08,2,2
+10.33,Gujarat Energy Limited,Hoshiarpur and Gurdaspur Districts,Hoshiarpur District,2026-07,2026-08,2,2
+10.33,Gujarat Gas Limited,Hoshiarpur and Gurdaspur Districts,Gurdaspur District,2025-03,2026-06,14,14
+10.33,Gujarat Gas Limited,Hoshiarpur and Gurdaspur Districts,Hoshiarpur District,2025-03,2026-06,14,14
+10.34,Indraprastha Gas Limited,"Ajmer, Pali and Rajsamand Districts",Ajmer District,2025-03,2026-08,16,16
+10.34,Indraprastha Gas Limited,"Ajmer, Pali and Rajsamand Districts",Pali District,2025-07,2026-08,8,8
+10.34,Indraprastha Gas Limited,"Ajmer, Pali and Rajsamand Districts",Rajsamand District,2025-07,2026-08,8,8
+10.35,Gujarat Energy Limited,Jalore and Sirohi Districts,Jalore District,2026-07,2026-08,2,2
+10.35,Gujarat Energy Limited,Jalore and Sirohi Districts,Sirohi District,2026-07,2026-08,2,2
+10.35,Gujarat Gas Limited,Jalore and Sirohi Districts,Jalore District,2025-03,2026-06,14,14
+10.35,Gujarat Gas Limited,Jalore and Sirohi Districts,Sirohi District,2025-03,2026-06,14,14
+10.36,Torrent Gas Limited,"Azamgarh, Mau and Ballia Districts",Azamgarh District,2025-03,2026-08,16,16
+10.36,Torrent Gas Limited,"Azamgarh, Mau and Ballia Districts",Ballia District,2025-03,2026-08,16,16
+10.36,Torrent Gas Limited,"Azamgarh, Mau and Ballia Districts",Mau District,2025-03,2026-08,16,16
+10.37,Hindustan Petroleum Corporation Limited,"Bareilly (EAAA) District, Pilibhit and Rampur Districts",Bareilly District,2025-04,2026-08,16,15
+10.37,Hindustan Petroleum Corporation Limited,"Bareilly (EAAA) District, Pilibhit and Rampur Districts",Bareilly District(EAAA),2025-03,2025-03,1,1
+10.37,Hindustan Petroleum Corporation Limited,"Bareilly (EAAA) District, Pilibhit and Rampur Districts",Pilibhit District,2025-03,2026-08,17,16
+10.37,Hindustan Petroleum Corporation Limited,"Bareilly (EAAA) District, Pilibhit and Rampur Districts",Rampur District,2025-03,2026-08,17,16
+10.38,Torrent Gas Limited,Basti and Ambedkarnagar Districts,Ambedkarnagar District,2025-03,2026-08,16,16
+10.38,Torrent Gas Limited,Basti and Ambedkarnagar Districts,Basti District,2025-03,2026-08,16,16
+10.39,Hindustan Petroleum Corporation Limited,"Farrukhabad, Etah and Hardoi Districts",Etah District,2025-03,2026-08,16,16
+10.39,Hindustan Petroleum Corporation Limited,"Farrukhabad, Etah and Hardoi Districts",Farrukhabad District,2025-03,2026-08,16,16
+10.39,Hindustan Petroleum Corporation Limited,"Farrukhabad, Etah and Hardoi Districts",Hardoi District,2025-03,2026-08,16,16
+10.4,Torrent Gas Limited,Gonda and Barabanki Districts,Barabanki District,2025-04,2026-08,14,14
+10.4,Torrent Gas Limited,Gonda and Barabanki Districts,Gonda District,2025-04,2026-08,14,14
+10.40,Torrent Gas Limited,Gonda and Barabanki Districts,Barabanki District,2025-03,2026-05,2,2
+10.40,Torrent Gas Limited,Gonda and Barabanki Districts,Gonda District,2025-03,2026-05,2,2
+10.41,Indian Oil Adani Gas Private Limited,Jaunpur and Ghazipur Districts,Ghazipur District,2025-03,2026-08,16,16
+10.41,Indian Oil Adani Gas Private Limited,Jaunpur and Ghazipur Districts,Jaunpur District,2025-03,2026-08,16,16
+10.42,Indraprastha Gas Limited,"Kanpur (EAAA) District, Fatehpur and Hamirpur Districts",Fatehpur District,2025-07,2026-08,7,7
+10.42,Indraprastha Gas Limited,"Kanpur (EAAA) District, Fatehpur and Hamirpur Districts",Hamirpur District,2025-07,2026-08,6,6
+10.42,Indraprastha Gas Limited,"Kanpur (EAAA) District, Fatehpur and Hamirpur Districts",Hamirpur District',2025-09,2025-09,1,1
+10.42,Indraprastha Gas Limited,"Kanpur (EAAA) District, Fatehpur and Hamirpur Districts",Kanpur District,2025-04,2026-08,15,15
+10.42,Indraprastha Gas Limited,"Kanpur (EAAA) District, Fatehpur and Hamirpur Districts",Kanpur District(EAAA),2025-03,2025-03,1,1
+10.43,Hindustan Petroleum Corporation Limited,Mainpuri and Kannauj Districts,Kannauj District,2025-03,2026-08,16,16
+10.43,Hindustan Petroleum Corporation Limited,Mainpuri and Kannauj Districts,Mainpuri District,2025-03,2026-08,16,16
+10.44,GAIL Gas Limited,"Mirzapur, Chandauli and Sonbhadra Districts",Chandauli District,2025-03,2026-08,16,16
+10.44,GAIL Gas Limited,"Mirzapur, Chandauli and Sonbhadra Districts",Mirzapur District,2025-03,2026-08,16,16
+10.44,GAIL Gas Limited,"Mirzapur, Chandauli and Sonbhadra Districts",Sonbhadra District,2025-03,2026-08,16,15
+10.45,Hindustan Petroleum Corporation Limited,Shahjahanpur and Budaun Districts,Budaun District,2025-03,2026-08,16,16
+10.45,Hindustan Petroleum Corporation Limited,Shahjahanpur and Budaun Districts,Shahjahanpur District,2025-03,2026-08,16,16
+10.46,Hindustan Petroleum Corporation Limited,Bijnor and Nainital Districts,Bijnor District,2025-03,2026-08,16,16
+10.46,Hindustan Petroleum Corporation Limited,Bijnor and Nainital Districts,Nainital District,2025-03,2026-08,16,16
+10.47,Hindustan Petroleum Corporation Limited,"Darjeeling, Jalpaiguri and Uttar Dinajpur Districts",Darjeeling District,2025-04,2026-07,12,12
+10.47,Hindustan Petroleum Corporation Limited,"Darjeeling, Jalpaiguri and Uttar Dinajpur Districts",Jalpaiguri District,2025-04,2026-07,12,12
+10.47,Hindustan Petroleum Corporation Limited,"Darjeeling, Jalpaiguri and Uttar Dinajpur Districts",Uttar Dinajpur District,2025-04,2026-07,12,12
+10.48,Hindustan Petroleum Corporation Limited,Howrah (EAAA) District and Hooghly (EAAA) District,Hoogly District,2025-04,2026-07,7,7
+10.48,Hindustan Petroleum Corporation Limited,Howrah (EAAA) District and Hooghly (EAAA) District,Howrah District,2025-04,2026-07,12,12
+10.49,Hindustan Petroleum Corporation Limited,Nadia (EAAA) District and North 24 Parganas (EAAA) District,Nadia District,2025-04,2026-08,15,15
+10.49,Hindustan Petroleum Corporation Limited,Nadia (EAAA) District and North 24 Parganas (EAAA) District,Nadia District (EAAA),2025-03,2025-03,1,1
+10.49,Hindustan Petroleum Corporation Limited,Nadia (EAAA) District and North 24 Parganas (EAAA) District,North 24 Parganas District,2025-04,2026-08,15,15
+10.49,Hindustan Petroleum Corporation Limited,Nadia (EAAA) District and North 24 Parganas (EAAA) District,North 24 Parganas District(EAAA),2025-03,2025-03,1,1
+10.5,Hindustan Petroleum Corporation Limited,South 24 Parganas (EAAA) District,South 24 Parganas District,2025-07,2026-08,11,11
+10.50,Hindustan Petroleum Corporation Limited,South 24 Parganas (EAAA) District,South 24 Parganas District,2025-04,2026-05,2,2
+11.01,Indian Oil Corporation Limited,"Kurnool, Guntur, and Prakasam districts",Guntur District,2025-04,2026-08,15,15
+11.01,Indian Oil Corporation Limited,"Kurnool, Guntur, and Prakasam districts",Kurnool District,2025-04,2026-08,15,15
+11.01,Indian Oil Corporation Limited,"Kurnool, Guntur, and Prakasam districts",Prakasam District,2025-04,2026-08,15,15
+11.02,Adani Total Gas Limited,"Nagaon, Morigaon, Hojai, Karbi Anglong, West Karbi Anglong and Dima Hasao districts",Morigaon District,2026-04,2026-08,5,5
+11.02,Adani Total Gas Limited,"Nagaon, Morigaon, Hojai, Karbi Anglong, West Karbi Anglong and Dima Hasao districts",Nagaon District,2025-03,2026-08,16,16
+11.03,NEGDCL,"Lakhimpur, Dhemaji , Darrang, Udalgiri, Sonitpur and Biswanath Chariali districts",Dhemaji District,2025-05,2025-05,1,1
+11.03,North East Distribution Company Limited,"Lakhimpur, Dhemaji , Darrang, Udalgiri, Sonitpur and Biswanath Chariali districts",Dhemaji District,2025-08,2025-09,2,2
+11.03,North East Distribution Company Limited,"Lakhimpur, Dhemaji , Darrang, Udalgiri, Sonitpur and Biswanath Chariali districts",Lakhimpur District,2025-08,2025-09,2,2
+11.03,North East Gas Distribution Company Limited,"Lakhimpur, Dhemaji , Darrang, Udalgiri, Sonitpur and Biswanath Chariali districts",Dhemaji District,2025-07,2026-08,6,6
+11.03,North East Gas Distribution Company Limited,"Lakhimpur, Dhemaji , Darrang, Udalgiri, Sonitpur and Biswanath Chariali districts",Lakhimpur District,2025-07,2026-08,6,6
+11.03,North East Gas Distribution Company Limited,"Lakhimpur, Dhemaji , Darrang, Udalgiri, Sonitpur and Biswanath Chariali districts",Sonitpur District,2026-05,2026-08,3,3
+11.03,North East Gas Distribution company Limited,"Lakhimpur, Dhemaji , Darrang, Udalgiri, Sonitpur and Biswanath Chariali districts",Dhemaji District,2026-02,2026-06,4,4
+11.03,North East Gas Distribution company Limited,"Lakhimpur, Dhemaji , Darrang, Udalgiri, Sonitpur and Biswanath Chariali districts",Lakhimpur District,2026-02,2026-06,4,4
+11.03,North East Gas Distribution company Limited,"Lakhimpur, Dhemaji , Darrang, Udalgiri, Sonitpur and Biswanath Chariali districts",Sonitpur District,2026-06,2026-06,1,1
+11.03,North east gas distribution company limited,"Lakhimpur, Dhemaji , Darrang, Udalgiri, Sonitpur and Biswanath Chariali districts",Dhemaji District,2025-06,2025-06,1,1
+11.03,North east gas distribution company limited,"Lakhimpur, Dhemaji , Darrang, Udalgiri, Sonitpur and Biswanath Chariali districts",Lakhimpur District,2025-06,2025-06,1,1
+11.04,Adani Total Gas Limited,"Kokrajhar, Dhubri, South Salmara-Mankachar and Goalpara districts",Dhubri District,2026-08,2026-08,1,1
+11.04,Adani Total Gas Limited,"Kokrajhar, Dhubri, South Salmara-Mankachar and Goalpara districts",Goalpara District,2026-05,2026-08,4,4
+11.04,Adani Total Gas Limited,"Kokrajhar, Dhubri, South Salmara-Mankachar and Goalpara districts",Kokrajhar District,2025-03,2026-08,16,16
+11.05,Adani Total Gas Limited,"Baksa, Barpeta, Bongaigaon, Chirang, Nalbari and Bajali districts",Barpeta District,2025-03,2026-08,16,16
+11.05,Adani Total Gas Limited,"Baksa, Barpeta, Bongaigaon, Chirang, Nalbari and Bajali districts",Bongaigaon District,2026-04,2026-08,5,5
+11.05,Adani Total Gas Limited,"Baksa, Barpeta, Bongaigaon, Chirang, Nalbari and Bajali districts",Chirang District,2025-03,2026-08,16,16
+11.05,Adani Total Gas Limited,"Baksa, Barpeta, Bongaigaon, Chirang, Nalbari and Bajali districts",Nalbari District,2026-03,2026-08,6,6
+11.06,Bharat Petroleum Corporation Limited,"Darbhanga, Madhubani, Supaul, Sitamarhi and Sheohar districts",Darbhanga District,2025-05,2026-08,14,14
+11.06,Bharat Petroleum Corporation Limited,"Darbhanga, Madhubani, Supaul, Sitamarhi and Sheohar districts",Madhubani District,2025-05,2026-08,14,14
+11.06,Bharat Petroleum Corporation Limited,"Darbhanga, Madhubani, Supaul, Sitamarhi and Sheohar districts",Sheohar District,2025-05,2026-08,14,14
+11.06,Bharat Petroleum Corporation Limited,"Darbhanga, Madhubani, Supaul, Sitamarhi and Sheohar districts",Sitamarhi District,2025-05,2026-08,14,14
+11.06,Bharat Petroleum Corporation Limited,"Darbhanga, Madhubani, Supaul, Sitamarhi and Sheohar districts",Supaul District,2025-05,2026-08,14,14
+11.07,Bharat Petroleum Corporation Limited,"Gopalganj, Siwan, West Champaran, East Champaran and Deoria districts",Deoria District,2025-05,2026-08,14,14
+11.07,Bharat Petroleum Corporation Limited,"Gopalganj, Siwan, West Champaran, East Champaran and Deoria districts",East Champaran District,2025-05,2026-08,14,14
+11.07,Bharat Petroleum Corporation Limited,"Gopalganj, Siwan, West Champaran, East Champaran and Deoria districts",Gopalganj District,2025-05,2026-08,14,14
+11.07,Bharat Petroleum Corporation Limited,"Gopalganj, Siwan, West Champaran, East Champaran and Deoria districts",Siwan District,2025-05,2026-08,14,14
+11.07,Bharat Petroleum Corporation Limited,"Gopalganj, Siwan, West Champaran, East Champaran and Deoria districts",West Champaran District,2025-05,2026-08,14,14
+11.08,HCG Raipur Pvt Ltd,"Baloda Bazar, Gariyaband and Raipur districts",Baloda Bazar District,2025-06,2026-08,13,13
+11.09,Adani Total Gas Limited,"Kabirdham, Raj Nandgaon and Kanker districts",Kabirdham District,2026-03,2026-08,6,6
+11.09,Adani Total Gas Limited,"Kabirdham, Raj Nandgaon and Kanker districts",Kanker District,2026-03,2026-08,6,6
+11.09,Adani Total Gas Limited,"Kabirdham, Raj Nandgaon and Kanker districts",Raj Nandgaon District,2025-03,2026-08,16,16
+11.1,Adani Total Gas Limited,"Mungeli, Bemetara, Durg, Balod and Dhamtari districts",Bemetara District,2026-07,2026-08,2,2
+11.1,Adani Total Gas Limited,"Mungeli, Bemetara, Durg, Balod and Dhamtari districts",Dhamtari District,2026-08,2026-08,1,1
+11.1,Adani Total Gas Limited,"Mungeli, Bemetara, Durg, Balod and Dhamtari districts",Durg District,2025-04,2026-08,14,14
+11.1,Adani Total Gas Limited,"Mungeli, Bemetara, Durg, Balod and Dhamtari districts",Mungeli District,2025-04,2026-08,14,14
+11.10,Adani Total Gas Limited,"Mungeli, Bemetara, Durg, Balod and Dhamtari districts",Durg District,2025-03,2026-05,2,2
+11.10,Adani Total Gas Limited,"Mungeli, Bemetara, Durg, Balod and Dhamtari districts",Mungeli District,2025-03,2026-05,2,2
+11.11,Adani Total Gas Limited,"Jashpur, Raigarh, Janjgir-Champa and Mahasamund districts",Mahasamund District,2025-03,2026-08,16,16
+11.16,Gasonet Services (HP) Limited,"Mandi, Kullu, Kinnaur and Lahaul & Spiti districts",Kullu District,2025-03,2026-08,16,16
+11.16,Gasonet Services (HP) Limited,"Mandi, Kullu, Kinnaur and Lahaul & Spiti districts",Mandi District,2025-03,2026-08,16,16
+11.17,Think Gas Himachal Private Limited,Kangra and Chamba districts,Kangra District,2025-03,2026-08,16,16
+11.18,Indian Oil Corporation Limited,"Jammu, Udhampur, Reasi, Samba and Kathua districts",Jammu District,2025-04,2026-08,15,15
+11.18,Indian Oil Corporation Limited,"Jammu, Udhampur, Reasi, Samba and Kathua districts",Kathua District,2025-04,2026-08,15,15
+11.18,Indian Oil Corporation Limited,"Jammu, Udhampur, Reasi, Samba and Kathua districts",Reasi District,2025-04,2026-08,15,15
+11.18,Indian Oil Corporation Limited,"Jammu, Udhampur, Reasi, Samba and Kathua districts",Samba District,2025-04,2026-08,15,15
+11.18,Indian Oil Corporation Limited,"Jammu, Udhampur, Reasi, Samba and Kathua districts",Udhampur District,2025-04,2026-08,15,15
+11.19,Adani Total Gas Limited,"Gumla, Latehar, Lohardaga, Simdega, Garhwa and Khunti districts",Garhwa District,2025-03,2026-08,16,16
+11.19,Adani Total Gas Limited,"Gumla, Latehar, Lohardaga, Simdega, Garhwa and Khunti districts",Gumla District,2025-03,2026-08,16,16
+11.19,Adani Total Gas Limited,"Gumla, Latehar, Lohardaga, Simdega, Garhwa and Khunti districts",Khunti District,2025-03,2026-08,16,16
+11.19,Adani Total Gas Limited,"Gumla, Latehar, Lohardaga, Simdega, Garhwa and Khunti districts",Latehar District,2025-03,2026-08,16,16
+11.19,Adani Total Gas Limited,"Gumla, Latehar, Lohardaga, Simdega, Garhwa and Khunti districts",Lohardaga District,2025-03,2026-08,16,16
+11.19,Adani Total Gas Limited,"Gumla, Latehar, Lohardaga, Simdega, Garhwa and Khunti districts",Simdega District,2025-03,2026-08,16,16
+11.2,Megha City Gas Distribution Private Limited,Chikkaballapur district,Chikkaballapur District,2025-05,2026-08,12,12
+11.20,Megha City Gas Distribution Private Limited,Chikkaballapur district,Chikkaballapur District,2025-03,2026-05,4,4
+11.21,Sholagasco Private Limited,"Idukki, Kottayam and Pattanamtitta districts",Idukki District,2025-05,2025-09,2,2
+11.21,Sholagasco Private Limited,"Idukki, Kottayam and Pattanamtitta districts",Kottayam District,2025-05,2025-09,2,2
+11.21,Sholagasco Private Limited,"Idukki, Kottayam and Pattanamtitta districts",Pattanamtitta District,2025-05,2025-09,2,2
+11.22,Megha City Gas Distribution Private Limited,"Agar Malwa, Neemuch, Mandsaur and Jhalawar districts",Agar Malwa District,2025-03,2026-08,16,16
+11.22,Megha City Gas Distribution Private Limited,"Agar Malwa, Neemuch, Mandsaur and Jhalawar districts",Jhalawar District,2025-03,2026-08,16,16
+11.22,Megha City Gas Distribution Private Limited,"Agar Malwa, Neemuch, Mandsaur and Jhalawar districts",Mandsaur District,2025-03,2026-08,16,16
+11.22,Megha City Gas Distribution Private Limited,"Agar Malwa, Neemuch, Mandsaur and Jhalawar districts",Neemuch District,2025-03,2026-08,16,16
+11.23,Adani Total Gas Limited,"Burhanpur, Khandwa, Khargone and Harda districts",Burhanpur District,2025-03,2026-08,16,16
+11.23,Adani Total Gas Limited,"Burhanpur, Khandwa, Khargone and Harda districts",Harda District,2025-03,2026-08,16,16
+11.23,Adani Total Gas Limited,"Burhanpur, Khandwa, Khargone and Harda districts",Khandwa District,2025-03,2026-08,16,16
+11.23,Adani Total Gas Limited,"Burhanpur, Khandwa, Khargone and Harda districts",Khargone District,2025-03,2026-08,16,16
+11.24,Adani Total Gas Limited,"Tikamgarh, Niwari, Chattarpur and Panna districts",Chattarpur District,2025-03,2026-08,16,16
+11.24,Adani Total Gas Limited,"Tikamgarh, Niwari, Chattarpur and Panna districts",Niwari District,2026-03,2026-08,6,6
+11.24,Adani Total Gas Limited,"Tikamgarh, Niwari, Chattarpur and Panna districts",Panna District,2025-09,2026-08,10,10
+11.24,Adani Total Gas Limited,"Tikamgarh, Niwari, Chattarpur and Panna districts",Tikamgarh District,2025-03,2026-08,16,16
+11.25,Megha City Gas Distribution Private Limited,"Betul, Chhindwara, Seoni and Balaghat districts",Balaghat District,2025-03,2026-08,14,14
+11.25,Megha City Gas Distribution Private Limited,"Betul, Chhindwara, Seoni and Balaghat districts",Betul District,2025-03,2026-08,16,16
+11.25,Megha City Gas Distribution Private Limited,"Betul, Chhindwara, Seoni and Balaghat districts",Chhindwara District,2025-03,2026-08,16,16
+11.25,Megha City Gas Distribution Private Limited,"Betul, Chhindwara, Seoni and Balaghat districts",Seoni District,2025-03,2025-04,2,2
+11.26,Megha City Gas Distribution Private Limited,"Damoh, Jabalpur, Katni, Mandla, Umaria and Dindori districts",Jabalpur District,2025-03,2026-08,16,16
+11.26,Megha City Gas Distribution Private Limited,"Damoh, Jabalpur, Katni, Mandla, Umaria and Dindori districts",Mandla District,2025-03,2026-08,16,16
+11.27,Megha City Gas Distribution Private Limited,"Hoshangabad, Narsinghpur, Sagar and Vidisha districts",Narsinghpur District,2025-03,2026-08,15,15
+11.27,Megha City Gas Distribution Private Limited,"Hoshangabad, Narsinghpur, Sagar and Vidisha districts",Sagar District,2025-03,2026-08,15,15
+11.27,Megha City Gas Distribution Private Limited,"Hoshangabad, Narsinghpur, Sagar and Vidisha districts",Vidisha District,2025-03,2026-08,16,16
+11.28,Maharashtra Natural Gas Limited,"Buldana, Nanded and Parbhani districts",Buldana District,2025-05,2025-05,1,1
+11.28,Maharashtra Natural Gas Limited,"Buldana, Nanded and Parbhani districts",Nanded District,2025-03,2026-08,16,16
+11.28,Maharashtra Natural Gas Limited,"Buldana, Nanded and Parbhani districts",Parbhani District,2025-03,2026-08,16,16
+11.29,Indian Oil Corporation Limited,"Beed, Jalgaon and Jalna districts",Beed District,2025-04,2026-08,15,15
+11.29,Indian Oil Corporation Limited,"Beed, Jalgaon and Jalna districts",Jalgaon District,2025-04,2026-08,15,15
+11.29,Indian Oil Corporation Limited,"Beed, Jalgaon and Jalna districts",Jalna District,2025-04,2026-08,15,15
+11.3,Adani Total Gas Limited,"Akola, Hingoli and Washim districts",Akola District,2025-04,2026-08,14,14
+11.3,Adani Total Gas Limited,"Akola, Hingoli and Washim districts",Hingoli District,2025-04,2026-08,14,14
+11.3,Adani Total Gas Limited,"Akola, Hingoli and Washim districts",Washim District,2025-04,2026-08,14,14
+11.30,Adani Total Gas Limited,"Akola, Hingoli and Washim districts",Akola District,2025-03,2026-05,2,2
+11.30,Adani Total Gas Limited,"Akola, Hingoli and Washim districts",Hingoli District,2025-03,2026-05,2,2
+11.30,Adani Total Gas Limited,"Akola, Hingoli and Washim districts",Washim District,2025-03,2026-05,2,2
+11.31,Adani Total Gas Limited,Amravati and Yavatmal districts,Amravati District,2025-03,2026-08,16,16
+11.31,Adani Total Gas Limited,Amravati and Yavatmal districts,Yavatmal District,2025-03,2026-08,16,16
+11.32,Megha City Gas Distribution Private Limited,Chandrapur and Wardha districts,Chandrapur District,2025-03,2026-08,16,16
+11.32,Megha City Gas Distribution Private Limited,Chandrapur and Wardha districts,Wardha District,2025-03,2026-08,16,16
+11.33,HCG Nagpur Pvt. Ltd.,Nagpur district,Nagpur District,2025-06,2026-08,13,13
+11.34,Adani Total Gas Limited,"Bhandara, Gondiya and Garchiroli districts",Bhandara District,2025-03,2026-08,16,16
+11.34,Adani Total Gas Limited,"Bhandara, Gondiya and Garchiroli districts",Garchiroli District,2026-03,2026-08,6,6
+11.34,Adani Total Gas Limited,"Bhandara, Gondiya and Garchiroli districts",Gondiya District,2025-03,2026-08,16,16
+11.35,Adani Total Gas Limited,"Alirajpur, Nandurbar and Barwani districts",Alirajpur District,2025-03,2026-08,16,16
+11.35,Adani Total Gas Limited,"Alirajpur, Nandurbar and Barwani districts",Barwani District,2025-03,2026-08,16,16
+11.35,Adani Total Gas Limited,"Alirajpur, Nandurbar and Barwani districts",Nandurbar District,2025-03,2026-08,16,16
+11.36,Adani Total Gas Limited,"Koraput, Malkangiri, and Nabarangpur districts",Koraput District,2025-03,2026-08,16,16
+11.36,Adani Total Gas Limited,"Koraput, Malkangiri, and Nabarangpur districts",Nabarangpur District,2025-03,2026-08,16,16
+11.37,GAIL Gas Limited,"Gajapati, Kandhamal, Boudh and Sonepur districts",Gajapati District,2025-03,2026-08,16,16
+11.38,Megha City Gas Distribution Private Limited,"Rayagada, Kalahandi, Bolangir and Nuapada districts",Bolangir District,2025-03,2026-08,16,16
+11.38,Megha City Gas Distribution Private Limited,"Rayagada, Kalahandi, Bolangir and Nuapada districts",Kalahandi District,2025-03,2026-08,16,16
+11.38,Megha City Gas Distribution Private Limited,"Rayagada, Kalahandi, Bolangir and Nuapada districts",Nuapada District,2025-03,2026-08,16,16
+11.39,Indian Oil Corporation Limited,Pathankot district,Pathankot District,2025-04,2026-08,15,15
+11.4,Megha City Gas Distribution Private Limited,Tarn Taran district,Tarn Taran District,2025-04,2026-08,14,14
+11.40,Megha City Gas Distribution Private Limited,Tarn Taran district,Tarn Taran District,2025-03,2026-05,2,2
+11.41,Bharat Petroleum Corporation Limited,"Fazilka (except area already authorized), Ganganagar and Hanumangarh districts",Fazilka (except area already authorized) District,2025-05,2026-08,14,14
+11.41,Bharat Petroleum Corporation Limited,"Fazilka (except area already authorized), Ganganagar and Hanumangarh districts",Ganganagar District,2025-05,2026-08,14,14
+11.41,Bharat Petroleum Corporation Limited,"Fazilka (except area already authorized), Ganganagar and Hanumangarh districts",Hanumangarh District,2025-05,2026-08,14,14
+11.42,Gasonet Services (RJ) Limited,Bikaner and Churu districts,Bikaner District,2025-03,2026-08,16,16
+11.42,Gasonet Services (RJ) Limited,Bikaner and Churu districts,Churu District,2025-03,2026-08,16,16
+11.43,Indian Oil Corporation Limited,"Jhunjhunu, Sikar and Nagaur districts",Jhunjunu District,2025-04,2026-08,15,15
+11.43,Indian Oil Corporation Limited,"Jhunjhunu, Sikar and Nagaur districts",Nagaur District,2025-04,2026-08,15,15
+11.43,Indian Oil Corporation Limited,"Jhunjhunu, Sikar and Nagaur districts",Sikar District,2025-04,2026-08,15,15
+11.44,Hindustan Petroleum Corporation Limited,"Dausa, Karauli, Sawai Madhopur and Tonk districts",Dausa District,2025-03,2026-08,16,16
+11.44,Hindustan Petroleum Corporation Limited,"Dausa, Karauli, Sawai Madhopur and Tonk districts",Karauli District,2025-03,2026-08,16,16
+11.44,Hindustan Petroleum Corporation Limited,"Dausa, Karauli, Sawai Madhopur and Tonk districts",Sawai Madhopur District,2025-03,2026-08,16,16
+11.44,Hindustan Petroleum Corporation Limited,"Dausa, Karauli, Sawai Madhopur and Tonk districts",Tonk District,2025-03,2026-08,16,16
+11.45,Indian Oil Corporation Limited,Dharmapuri and Krishnagiri districts,Dharmapuri District,2025-04,2026-08,15,15
+11.45,Indian Oil Corporation Limited,Dharmapuri and Krishnagiri districts,Krishnagiri District,2025-04,2026-08,15,15
+11.46,Megha City Gas Distribution Private Limited,"Tiruvannamalai, Villupuram and Kallakkurichi districts",Kallakkurichi District,2025-05,2026-08,14,14
+11.46,Megha City Gas Distribution Private Limited,"Tiruvannamalai, Villupuram and Kallakkurichi districts",Tiruvannamalai District,2025-03,2026-08,16,16
+11.46,Megha City Gas Distribution Private Limited,"Tiruvannamalai, Villupuram and Kallakkurichi districts",Villupuram District,2025-03,2026-08,16,16
+11.47,Megha City Gas Distribution Private Limited,Ariyalur and Perambalur districts,Perambalur District,2025-03,2026-08,16,16
+11.48,IRM Energy Limited,Namakkal and Tiruchirapalli districts,Namakkal District,2025-03,2026-08,16,16
+11.48,IRM Energy Limited,Namakkal and Tiruchirapalli districts,Tiruchirapalli District,2025-03,2026-08,16,16
+11.49,Megha City Gas Distribution Private Limited,"Pudukottai, Sivaganga and Thanjavur districts",Pudukottai District,2025-03,2026-08,16,16
+11.49,Megha City Gas Distribution Private Limited,"Pudukottai, Sivaganga and Thanjavur districts",Sivaganga District,2025-09,2026-08,10,10
+11.49,Megha City Gas Distribution Private Limited,"Pudukottai, Sivaganga and Thanjavur districts",Thanjavur District,2025-03,2026-08,16,16
+11.5,Indian Oil Corporation Limited,"Madurai, Theni and Virudhnagar districts",Madurai District,2025-04,2026-08,14,14
+11.5,Indian Oil Corporation Limited,"Madurai, Theni and Virudhnagar districts",Theni District,2025-04,2026-08,14,14
+11.5,Indian Oil Corporation Limited,"Madurai, Theni and Virudhnagar districts",Virudhnagar District,2025-04,2026-08,14,14
+11.50,Indian Oil Corporation Limited,"Madurai, Theni and Virudhnagar districts",Madurai District,2026-05,2026-05,1,1
+11.50,Indian Oil Corporation Limited,"Madurai, Theni and Virudhnagar districts",Theni District,2026-05,2026-05,1,1
+11.50,Indian Oil Corporation Limited,"Madurai, Theni and Virudhnagar districts",Virudhnagar District,2026-05,2026-05,1,1
+11.51,Indian Oil Corporation Limited,"Kanyakumari, Thoothukudi, Tiruneveli Kattabo and Tenkasi districts",Kanyakumari District,2025-04,2026-08,15,15
+11.51,Indian Oil Corporation Limited,"Kanyakumari, Thoothukudi, Tiruneveli Kattabo and Tenkasi districts",Tenkasi District,2025-04,2026-08,15,15
+11.51,Indian Oil Corporation Limited,"Kanyakumari, Thoothukudi, Tiruneveli Kattabo and Tenkasi districts",Thoothukudi District,2025-04,2026-08,15,15
+11.51,Indian Oil Corporation Limited,"Kanyakumari, Thoothukudi, Tiruneveli Kattabo and Tenkasi districts",Tiruneveli District,2025-04,2026-08,15,15
+11.52,Megha City Gas Distribution Private Limited,Dindigul and Karur districts,Dindigul District,2025-03,2026-08,16,16
+11.52,Megha City Gas Distribution Private Limited,Dindigul and Karur districts,Karur District,2025-03,2026-08,16,16
+11.53,Bharat Petroleum Corporation Limited,The Nilgiris and Erode districts,Erode District,2025-05,2026-08,14,14
+11.53,Bharat Petroleum Corporation Limited,The Nilgiris and Erode districts,Nigiris District,2025-05,2026-08,14,14
+11.54,Maharashtra Natural Gas Limited,"Nizamabad, Adilabad, Nirmal, Mancherial Kumuram Bheem Asifabad and Kamareddy districts",Adilabad District,2025-06,2026-08,13,13
+11.54,Maharashtra Natural Gas Limited,"Nizamabad, Adilabad, Nirmal, Mancherial Kumuram Bheem Asifabad and Kamareddy districts",Kamareddy District,2025-03,2026-08,16,16
+11.54,Maharashtra Natural Gas Limited,"Nizamabad, Adilabad, Nirmal, Mancherial Kumuram Bheem Asifabad and Kamareddy districts",Kumuram Bheem Asifabad District,2025-05,2026-08,14,14
+11.54,Maharashtra Natural Gas Limited,"Nizamabad, Adilabad, Nirmal, Mancherial Kumuram Bheem Asifabad and Kamareddy districts",Mancherial District,2025-03,2026-08,16,16
+11.54,Maharashtra Natural Gas Limited,"Nizamabad, Adilabad, Nirmal, Mancherial Kumuram Bheem Asifabad and Kamareddy districts",Nirmal District,2025-03,2026-08,16,16
+11.54,Maharashtra Natural Gas Limited,"Nizamabad, Adilabad, Nirmal, Mancherial Kumuram Bheem Asifabad and Kamareddy districts",Nizamabad District,2025-03,2026-08,16,16
+11.55,Megha City Gas Distribution Private Limited,"Jogulamba Gadwal, Nagarkurnool, Mahabubnagar, Narayanpet, Wanaparthy and Yadgir districts",Jogulamba Gadwal District,2025-03,2026-08,16,16
+11.55,Megha City Gas Distribution Private Limited,"Jogulamba Gadwal, Nagarkurnool, Mahabubnagar, Narayanpet, Wanaparthy and Yadgir districts",Mahabubnagar District,2025-03,2026-08,16,16
+11.55,Megha City Gas Distribution Private Limited,"Jogulamba Gadwal, Nagarkurnool, Mahabubnagar, Narayanpet, Wanaparthy and Yadgir districts",Nagarkurnool District,2025-03,2026-08,16,16
+11.55,Megha City Gas Distribution Private Limited,"Jogulamba Gadwal, Nagarkurnool, Mahabubnagar, Narayanpet, Wanaparthy and Yadgir districts",Narayanpet District,2025-03,2026-08,16,16
+11.55,Megha City Gas Distribution Private Limited,"Jogulamba Gadwal, Nagarkurnool, Mahabubnagar, Narayanpet, Wanaparthy and Yadgir districts",Wanaparthy District,2025-03,2026-08,16,16
+11.55,Megha City Gas Distribution Private Limited,"Jogulamba Gadwal, Nagarkurnool, Mahabubnagar, Narayanpet, Wanaparthy and Yadgir districts",Yadgir District,2025-03,2026-08,16,16
+11.56,Consortium of Assam Gas and Oil India Limited,South Tripura and Sepahijala district,Sepahijala District,2025-03,2025-03,1,1
+11.56,NEGDCL,South Tripura and Sepahijala district,Sepahijala District,2025-05,2025-05,1,1
+11.56,NEGDCL,South Tripura and Sepahijala district,South Tripura District,2025-05,2025-05,1,1
+11.56,North East Distribution Company Limited,South Tripura and Sepahijala district,Sepahijala District,2025-08,2025-09,2,2
+11.56,North East Distribution Company Limited,South Tripura and Sepahijala district,South Tripura District,2025-09,2025-09,1,1
+11.56,North East Gas Distribution Company Limited,South Tripura and Sepahijala district,Sepahijala District,2025-07,2026-08,6,6
+11.56,North East Gas Distribution Company Limited,South Tripura and Sepahijala district,South Tripura District,2025-11,2026-08,4,4
+11.56,North East Gas Distribution company Limited,South Tripura and Sepahijala district,Sepahijala District,2026-02,2026-06,4,4
+11.56,North East Gas Distribution company Limited,South Tripura and Sepahijala district,South Tripura District,2026-02,2026-06,4,4
+11.56,North east gas distribution company limited,South Tripura and Sepahijala district,Sepahijala District,2025-06,2025-06,1,1
+11.56,Purba Bharti Gas Private Limited,South Tripura and Sepahijala district,Sepahijala District,2025-04,2025-04,1,1
+11.57,Consortium of Assam Gas and Oil India Limited,"Dhalai, North Tripura, Unakoti and Khowai",Khowai District,2025-03,2025-03,1,1
+11.57,NEGDCL,"Dhalai, North Tripura, Unakoti and Khowai",Khowai District,2025-05,2025-05,1,1
+11.57,North East Distribution Company Limited,"Dhalai, North Tripura, Unakoti and Khowai",Dhalai District,2025-09,2025-09,1,1
+11.57,North East Distribution Company Limited,"Dhalai, North Tripura, Unakoti and Khowai",Khowai District,2025-08,2025-09,2,2
+11.57,North East Gas Distribution Company Limited,"Dhalai, North Tripura, Unakoti and Khowai",Dhalai District,2025-11,2026-08,4,4
+11.57,North East Gas Distribution Company Limited,"Dhalai, North Tripura, Unakoti and Khowai",Khowai District,2025-07,2026-08,6,6
+11.57,North East Gas Distribution company Limited,"Dhalai, North Tripura, Unakoti and Khowai",Dhalai District,2026-02,2026-06,4,4
+11.57,North East Gas Distribution company Limited,"Dhalai, North Tripura, Unakoti and Khowai",Khowai District,2026-02,2026-06,4,4
+11.57,North east gas distribution company limited,"Dhalai, North Tripura, Unakoti and Khowai",Khowai District,2025-06,2025-06,1,1
+11.57,Purba Bharti Gas Private Limited,"Dhalai, North Tripura, Unakoti and Khowai",Khowai District,2025-04,2025-04,1,1
+11.58,Megha City Gas Distribution Private Limited,Amroha (except area already authorized) & Sambhal (except area already authorized) districts,Amroha District,2025-03,2026-08,16,16
+11.58,Megha City Gas Distribution Private Limited,Amroha (except area already authorized) & Sambhal (except area already authorized) districts,Sambhal (except area already authorized) District,2025-03,2026-08,16,16
+11.59,Megha City Gas Distribution Private Limited,Kasganj district,Kasganj District,2025-03,2026-08,16,16
+11.6,Bharat Petroleum Corporation Limited,Purulia and Bankura districts,Bankura District,2025-05,2026-08,13,13
+11.6,Bharat Petroleum Corporation Limited,Purulia and Bankura districts,Purulia District,2025-05,2026-08,13,13
+11.60,Bharat Petroleum Corporation Limited,Purulia and Bankura districts,Bankura District,2026-05,2026-05,1,1
+11.60,Bharat Petroleum Corporation Limited,Purulia and Bankura districts,Purulia District,2026-05,2026-05,1,1
+11.61,Indian Oil Corporation Limited,"East Mednipore, West Mednipore and Jhargram districts",East Mednipore District,2025-04,2026-08,15,15
+11.61,Indian Oil Corporation Limited,"East Mednipore, West Mednipore and Jhargram districts",Jhargram District,2025-04,2026-08,15,15
+11.61,Indian Oil Corporation Limited,"East Mednipore, West Mednipore and Jhargram districts",West Mednipore District,2025-04,2026-08,15,15
+11.62,Bharat Petroleum Corporation Limited,Alipurduar and Koch Bihar,Alipurduar District,2025-05,2026-08,14,14
+11.62,Bharat Petroleum Corporation Limited,Alipurduar and Koch Bihar,Koch Bihar District,2025-05,2026-08,14,14
+11.63,Indraprastha Gas Limited,"Banda, Chitrakoot and Mahoba",Banda District,2025-03,2026-08,16,16
+11.63,Indraprastha Gas Limited,"Banda, Chitrakoot and Mahoba",Chitrakoot District,2025-07,2026-08,7,7
+11.63,Indraprastha Gas Limited,"Banda, Chitrakoot and Mahoba",Mahoba District,2025-07,2026-08,7,7
+11.64,Gasonet Services (UK) Limited,"Pauri Garhwal, Uttarkashi, Rudraprayag and Tehri Garhwal districts",Pauri Garhwal District,2025-03,2026-08,16,16
+11.64,Gasonet Services (UK) Limited,"Pauri Garhwal, Uttarkashi, Rudraprayag and Tehri Garhwal districts",Tehri Garwal District,2025-03,2026-08,16,16
+11.65,Gasonet Services (UK) Limited,"Pithoragarh, Champawat, Almora, Chamoli and Bageshwar districts",Champawat District,2025-03,2025-09,5,5
+11.65,Gasonet Services (UK) Limited,"Pithoragarh, Champawat, Almora, Chamoli and Bageshwar districts",Chmpawat District,2025-05,2026-08,11,11
+11A.01,Bharat Petroleum Corporation Limited,"Lakhimpur Kheri, Sitapur, Bahraich, Shrawasti, Balrampur, Siddharth Nagar & Maharajganj Districts",Bahraich,2025-05,2026-08,14,14
+11A.01,Bharat Petroleum Corporation Limited,"Lakhimpur Kheri, Sitapur, Bahraich, Shrawasti, Balrampur, Siddharth Nagar & Maharajganj Districts",Balrampur,2025-05,2026-08,14,14
+11A.01,Bharat Petroleum Corporation Limited,"Lakhimpur Kheri, Sitapur, Bahraich, Shrawasti, Balrampur, Siddharth Nagar & Maharajganj Districts",Lakhimpur Kheri,2025-05,2026-08,14,14
+11A.01,Bharat Petroleum Corporation Limited,"Lakhimpur Kheri, Sitapur, Bahraich, Shrawasti, Balrampur, Siddharth Nagar & Maharajganj Districts",Maharajganj,2025-05,2026-08,14,14
+11A.01,Bharat Petroleum Corporation Limited,"Lakhimpur Kheri, Sitapur, Bahraich, Shrawasti, Balrampur, Siddharth Nagar & Maharajganj Districts",Shrawasti,2025-05,2026-08,14,14
+11A.01,Bharat Petroleum Corporation Limited,"Lakhimpur Kheri, Sitapur, Bahraich, Shrawasti, Balrampur, Siddharth Nagar & Maharajganj Districts",Siddharth Nagar,2025-05,2026-08,14,14
+11A.01,Bharat Petroleum Corporation Limited,"Lakhimpur Kheri, Sitapur, Bahraich, Shrawasti, Balrampur, Siddharth Nagar & Maharajganj Districts",Sitapur,2025-05,2026-08,14,14
+11A.02,Hindustan Petroleum Corporation Limited,"Banka (Bihar), Dumka, Godda, Jamtara, Pakur & Sahibganj Districts",Banka,2025-06,2026-08,13,13
+11A.02,Hindustan Petroleum Corporation Limited,"Banka (Bihar), Dumka, Godda, Jamtara, Pakur & Sahibganj Districts",Dumka,2025-06,2026-08,13,13
+11A.02,Hindustan Petroleum Corporation Limited,"Banka (Bihar), Dumka, Godda, Jamtara, Pakur & Sahibganj Districts",Godda,2025-03,2026-08,16,16
+11A.02,Hindustan Petroleum Corporation Limited,"Banka (Bihar), Dumka, Godda, Jamtara, Pakur & Sahibganj Districts",Jamtara,2025-03,2026-08,16,16
+11A.02,Hindustan Petroleum Corporation Limited,"Banka (Bihar), Dumka, Godda, Jamtara, Pakur & Sahibganj Districts",Pakur,2025-09,2026-08,10,10
+11A.02,Hindustan Petroleum Corporation Limited,"Banka (Bihar), Dumka, Godda, Jamtara, Pakur & Sahibganj Districts",Sahibganj,2025-09,2026-08,10,10
+11A.03,Hindustan Petroleum Corporation Limited,"Birbhum, Murshidabad, Maldah & Dakshin Dinajpur Districts",Birbhum,2025-07,2026-08,12,12
+11A.03,Hindustan Petroleum Corporation Limited,"Birbhum, Murshidabad, Maldah & Dakshin Dinajpur Districts",Dakshin Dinajpur,2025-08,2026-08,11,11
+11A.03,Hindustan Petroleum Corporation Limited,"Birbhum, Murshidabad, Maldah & Dakshin Dinajpur Districts",Maldah,2025-08,2026-08,11,11
+11A.03,Hindustan Petroleum Corporation Limited,"Birbhum, Murshidabad, Maldah & Dakshin Dinajpur Districts",Murshidabad,2025-08,2026-08,11,11
+11A.04,Bharat Petroleum Corporation Limited,"Koriya, Surajpur, Balrampur and Surguja Districts",Balrampur,2025-05,2026-08,13,13
+11A.04,Bharat Petroleum Corporation Limited,"Koriya, Surajpur, Balrampur and Surguja Districts",Balrampur',2025-09,2025-09,1,1
+11A.04,Bharat Petroleum Corporation Limited,"Koriya, Surajpur, Balrampur and Surguja Districts",Koriya,2025-05,2026-08,14,14
+11A.04,Bharat Petroleum Corporation Limited,"Koriya, Surajpur, Balrampur and Surguja Districts",Surajpur,2025-05,2026-08,14,14
+11A.04,Bharat Petroleum Corporation Limited,"Koriya, Surajpur, Balrampur and Surguja Districts",Surguja,2025-05,2026-08,14,14
+11A.05,GAIL Gas Limited,"Kondagaon, Bastar, Sukma, Narayanpur, Bijapur and Dantewada Districts",Bastar,2025-06,2026-08,11,11
+11A.05,GAIL Gas Limited,"Kondagaon, Bastar, Sukma, Narayanpur, Bijapur and Dantewada Districts",Kondagaon,2025-04,2026-08,13,13
+11A.05,GAIL Gas Limited,"Kondagaon, Bastar, Sukma, Narayanpur, Bijapur and Dantewada Districts",Sukma,2025-06,2026-05,7,7
+2.01,Indian Oil Adani Gas Private Limited,Chandigarh,Chandigarh District,2025-03,2026-08,17,16
+2.01,Indian Oil Adani Gas Private Limited,Chandigarh,Panchkula District,2025-03,2026-08,17,16
+2.01,Indian Oil Adani Gas Private Limited,Chandigarh,SAS Nagar District,2025-03,2026-08,16,16
+2.01,Indian Oil Adani Gas Private Limited,Chandigarh,Solan District,2025-03,2026-08,17,16
+2.02,Indian Oil Adani Gas Private Limited,Allahabad,Allahabad District,2025-03,2026-08,16,16
+2.03,Central UP Gas Limited,Jhansi,Jhansi District,2025-03,2026-07,15,15
+3.01,Adani Total Gas Limited,Jalandhar,Jalandhar District,2025-03,2026-08,16,16
+3.02,Gujarat Energy Limited,Bhavnagar,Bhavnagar District,2026-07,2026-08,2,2
+3.02,Gujarat Energy Limited,Bhavnagar,Botad Districts,2026-07,2026-08,2,2
+3.02,Gujarat Gas Limited,Bhavnagar,Bhavnagar District,2025-03,2026-06,14,14
+3.02,Gujarat Gas Limited,Bhavnagar,Botad Districts,2025-03,2026-06,14,14
+3.03,Gujarat Energy Limited,Jamnagar,Devbhoomi Dwarka District,2026-07,2026-08,2,2
+3.03,Gujarat Energy Limited,Jamnagar,Jamnagar Districts,2026-07,2026-08,2,2
+3.03,Gujarat Gas Limited,Jamnagar,Devbhoomi Dwarka District,2025-03,2026-06,14,14
+3.03,Gujarat Gas Limited,Jamnagar,Jamnagar Districts,2025-03,2026-06,14,14
+3.04,Gujarat Energy Limited,Kutch West,Kutch District,2026-07,2026-08,2,2
+3.04,Gujarat Gas Limited,Kutch West,Kutch District,2025-03,2026-06,14,14
+4.01,GAIL Gas Limited,Bengaluru Rural and Urban Districts,Bengaluru Rural District,2025-03,2026-08,16,16
+4.01,GAIL Gas Limited,Bengaluru Rural and Urban Districts,Bengaluru Urban District,2025-04,2026-08,14,14
+4.02,Indian Oil Adani Gas Private Limited,Panipat District,Panipat District,2025-03,2026-08,16,16
+4.03,Gujarat Energy Limited,Palghar District and Thane Rural,Palghar District,2026-07,2026-08,2,2
+4.03,Gujarat Energy Limited,Palghar District and Thane Rural,Thane District,2026-07,2026-08,2,2
+4.03,Gujarat Gas Limited,Palghar District and Thane Rural,Palghar District,2025-03,2026-06,14,14
+4.03,Gujarat Gas Limited,Palghar District and Thane Rural,Thane District,2025-03,2026-06,14,14
+4.04,Mahanagar Gas Limited,Raigarh District (EAAA),Raigarh District,2025-04,2026-08,15,15
+4.04,Mahanagar Gas Limited,Raigarh District (EAAA),Raigarh District(EAAA),2025-03,2025-03,1,1
+4.05,Gujarat Energy Limited,UT of Dadra & Nagar Haveli,Dadra & Nagar Haveli District,2026-07,2026-08,2,2
+4.05,Gujarat Gas Limited,UT of Dadra & Nagar Haveli,Dadra & Nagar Haveli District,2025-03,2026-06,14,14
+4.06,Indian Oil Adani Gas Private Limited,UT of Daman,Daman District,2025-03,2026-08,16,16
+4.07,Gujarat Energy Limited,Amritsar District,Amritsar District,2026-07,2026-08,2,2
+4.07,Gujarat Gas Limited,Amritsar District,Amritsar District,2025-06,2026-06,10,10
+4.07,Gujarat Gas Limited (Earlier authorized to GSPL),Amritsar District,Amritsar District,2025-03,2025-07,4,4
+4.08,Torrent Gas Limited,Pune District (EAAA),Pune District,2025-04,2026-08,15,15
+4.08,Torrent Gas Limited,Pune District (EAAA),Pune District(EAAA),2025-03,2025-03,1,1
+4.09,Indian Oil Adani Gas Private Limited,Ernakulam District,Ernakulam District,2025-03,2026-08,16,16
+5.01,Indian Oil Adani Gas Private Limited,Udham Singh Nagar District,Udham Singh Nagar District,2025-03,2026-08,16,16
+5.02,Haridwar Natural Gas Private Limited,Haridwar District,Haridwar District,2025-03,2026-08,16,16
+5.03,Godavari Gas Private Limited,East Godavari District (EAAA),East Godavari District,2025-04,2026-08,15,15
+5.03,Godavari Gas Private Limited,East Godavari District (EAAA),East Godavari District(EAAA),2025-03,2025-03,1,1
+5.04,Godavari Gas Private Limited,West Godavari District,West Godavari District,2025-03,2026-08,15,15
+5.05,Megha City Gas Distribution Private Limited,Tumkur District,Tumkur District,2025-03,2026-08,16,16
+5.06,Megha City Gas Distribution Private Limited,Krishna District (EAAA),Krishna District,2025-04,2026-08,15,15
+5.06,Megha City Gas Distribution Private Limited,Krishna District (EAAA),Krishna District (EAAA),2025-03,2025-03,1,1
+5.07,Indian Oil Adani Gas Private Limited,Dharwad District,Dharwad District,2025-03,2026-08,16,16
+5.08,Megha City Gas Distribution Private Limited,Belgaum District,Belgaum District,2025-03,2026-08,17,16
+6.01,Gujarat Energy Limited,Bhatinda District,Bhatinda District,2026-07,2026-08,2,2
+6.01,Gujarat Gas Limited,Bhatinda District,Bhatinda District,2025-06,2026-06,10,10
+6.01,Gujarat Gas Limited (Earlier authorized to GSPL),Bhatinda District,Bhatinda District,2025-03,2025-07,4,4
+6.02,Bharat Petroleum Corporation Limited,Saharanpur District,Saharanpur District,2025-05,2026-08,14,14
+6.03,Gujarat Energy Limited,Amreli District,Amreli District,2026-07,2026-08,2,2
+6.03,Gujarat Gas Limited,Amreli District,Amreli District,2025-03,2026-06,14,14
+6.04,Sabarmati Gas Limited,Patan District,Patan District,2025-03,2026-08,16,16
+6.05,Gujarat Energy Limited,Dahej Vagra Taluka,Bharuch District,2026-07,2026-08,2,2
+6.05,Gujarat Gas Limited,Dahej Vagra Taluka,Bharuch District,2025-03,2026-06,14,14
+6.06,Bharat Petroleum Corporation Limited,Rupnagar District,Rupnagar District,2025-05,2026-08,14,14
+6.07,Goa Natural Gas Private Limited,North Goa District,North Goa District,2025-03,2026-08,16,16
+6.08,Gujarat Energy Limited,Dahod District,Dahod District,2026-07,2026-08,2,2
+6.08,Gujarat Gas Limited,Dahod District,Dahod District,2025-03,2026-06,14,14
+6.09,IRM Energy Limited,Banaskantha District,Banaskantha District,2025-03,2026-08,16,16
+6.1,Gujarat Energy Limited,Anand District (EAAA),Anand District,2026-07,2026-08,2,2
+6.1,Gujarat Gas Limited,Anand District (EAAA),Anand District,2025-04,2026-06,12,12
+6.10,Gujarat Gas Limited,Anand District (EAAA),Anand District,2026-05,2026-05,1,1
+6.10,Gujarat Gas Limited,Anand District (EAAA),Anand District(EAAA),2025-03,2025-03,1,1
+6.11,Gujarat Energy Limited,Panchmahal District,Panchmahal District,2026-07,2026-08,2,2
+6.11,Gujarat Gas Limited,Panchmahal District,Panchmahal District,2025-03,2026-06,14,14
+6.12,IRM Energy Limited,Fatehgarh Sahib District,Fatehgarh Sahib District,2025-03,2026-08,17,16
+6.13,Bharat Petroleum Corporation Limited,Yamunanagar District,Yamunanagar District,2025-05,2026-08,14,14
+6.14,Unison Enviro Private Limited,Ratnagiri District,Ratnagiri District,2025-03,2026-08,16,16
+6.15,Indraprastha Gas Limited,Rewari District,Rewari District,2025-03,2026-08,16,16
+6.16,Naveriya Gas Private Limited,Dhar District,Dhar District,2025-03,2026-08,16,16
+6.17,Bharat Petroleum Corporation Limited,Rohtak District,Rohtak District,2025-05,2026-08,14,14
+6.18,Gujarat Energy Limited,Ahmedabad District (EAAA),Ahmedabad District,2026-07,2026-08,2,2
+6.18,Gujarat Gas Limited,Ahmedabad District (EAAA),Ahmedabad District,2025-04,2026-06,13,13
+6.18,Gujarat Gas Limited,Ahmedabad District (EAAA),Ahmedabad District(EAAA),2025-03,2025-03,1,1
+7.01,Sholagasco Private Limited,Solapur District,Solapur District,2025-05,2026-05,6,6
+7.01,Sholagasco Private Limited/IMC,Solapur District,Solapur District,2025-04,2025-04,1,1
+8.01,Indian Oil Adani Gas Private Limited,South Goa District,South Goa District,2025-03,2026-08,16,16
+8.02,Indraprastha Gas Limited,Karnal District,Karnal District,2025-03,2026-08,16,16
+8.03,HPOIL Gas Private Limited,Ambala and Kurukshetra Districts,Ambala District,2025-03,2026-08,16,16
+8.03,HPOIL Gas Private Limited,Ambala and Kurukshetra Districts,Kurukshetra District,2025-03,2026-08,16,16
+8.04,HPOIL Gas Private Limited,Kolhapur District,Kolhapur District,2025-03,2026-08,16,16
+8.05,Indian Oil Adani Gas Private Limited,Bulandshahr (part) District,Bulandshahr District,2025-03,2026-08,15,15
+8.06,Bagpat Green Energy Private Limited,Bagpat District,Bagpat District,2025-03,2026-08,16,16
+85.01,Hindustan Petroleum Corporation Limited,Ahmedabad City (Only CNG),Ahmedabad District,2025-05,2025-05,1,1
+9.01,Indian Oil Corporation Limited,"Srikakulam, Visakhapatnam & Vizianagaram Districts",Srikakulam District,2025-04,2026-08,15,15
+9.01,Indian Oil Corporation Limited,"Srikakulam, Visakhapatnam & Vizianagaram Districts",Visakhapatnam District,2025-04,2026-08,15,15
+9.01,Indian Oil Corporation Limited,"Srikakulam, Visakhapatnam & Vizianagaram Districts",Vizianagarm District,2025-04,2026-08,15,15
+9.02,Purba Bharati Gas Private Limited,"Cachar, Hailakandi & Karimganj Districts",Cachar District,2025-05,2026-08,14,14
+9.03,Purba Bharati Gas Private Limited,Kamrup & Kamrup Metropolitan Districts,Kamrup Districts,2026-05,2026-08,4,4
+9.03,Purba Bharati Gas Private Limited,Kamrup & Kamrup Metropolitan Districts,Kamrup Metropolitan District,2025-03,2026-08,16,16
+9.04,Indian Oil Corporation Limited,"Aurangabad, Kaimur & Rohtas Districts",Aurangabad District,2025-04,2026-08,14,14
+9.04,Indian Oil Corporation Limited,"Aurangabad, Kaimur & Rohtas Districts",Aurangabad District',2025-09,2025-09,1,1
+9.04,Indian Oil Corporation Limited,"Aurangabad, Kaimur & Rohtas Districts",Kaimur District,2025-04,2026-08,15,15
+9.04,Indian Oil Corporation Limited,"Aurangabad, Kaimur & Rohtas Districts",Rohtas District,2025-04,2026-08,15,15
+9.05,THINK Gas Begusarai Private Limited,Begusarai District,Begusarai District,2025-03,2026-08,16,16
+9.06,Indian Oil Adani Gas Private Limited,Gaya & Nalanda Districts,Gaya District,2025-03,2026-08,16,16
+9.06,Indian Oil Adani Gas Private Limited,Gaya & Nalanda Districts,Nalanda District,2025-03,2026-08,16,16
+9.07,IRM Energy Limited,Diu & Gir Somnath Districts,Diu District,2025-03,2026-08,16,16
+9.07,IRM Energy Limited,Diu & Gir Somnath Districts,Gir Somnath District,2025-03,2026-08,18,16
+9.08,Adani Total Gas Limited,Surendranagar District (EAAA) & Morbi District (EAAA),Morbi District,2025-04,2026-08,16,15
+9.08,Adani Total Gas Limited,Surendranagar District (EAAA) & Morbi District (EAAA),Morbi District(EAAA),2025-03,2025-03,1,1
+9.08,Adani Total Gas Limited,Surendranagar District (EAAA) & Morbi District (EAAA),Surendranagar District,2025-04,2026-08,16,15
+9.08,Adani Total Gas Limited,Surendranagar District (EAAA) & Morbi District (EAAA),Surendranagar District(EAAA),2025-03,2025-03,1,1
+9.09,Adani Total Gas Limited,Barwala & Ranpur Talukas,Barwala and Ranpur Talukas,2025-03,2026-08,17,16
+9.1,Adani Total Gas Limited,"Navsari District (EAAA), Surat District (EAAA), Tapi District (EAAA) & the Dangs District",Dangs District,2025-04,2026-08,14,14
+9.1,Adani Total Gas Limited,"Navsari District (EAAA), Surat District (EAAA), Tapi District (EAAA) & the Dangs District",Navsari District,2025-04,2026-08,14,14
+9.1,Adani Total Gas Limited,"Navsari District (EAAA), Surat District (EAAA), Tapi District (EAAA) & the Dangs District",Surat District,2025-04,2026-08,14,14
+9.1,Adani Total Gas Limited,"Navsari District (EAAA), Surat District (EAAA), Tapi District (EAAA) & the Dangs District",Tapi District,2025-04,2026-08,14,14
+9.10,Adani Total Gas Limited,"Navsari District (EAAA), Surat District (EAAA), Tapi District (EAAA) & the Dangs District",Dangs District,2025-03,2026-05,2,2
+9.10,Adani Total Gas Limited,"Navsari District (EAAA), Surat District (EAAA), Tapi District (EAAA) & the Dangs District",Navsari District,2026-05,2026-05,1,1
+9.10,Adani Total Gas Limited,"Navsari District (EAAA), Surat District (EAAA), Tapi District (EAAA) & the Dangs District",Navsari District (EAAA),2025-03,2025-03,1,1
+9.10,Adani Total Gas Limited,"Navsari District (EAAA), Surat District (EAAA), Tapi District (EAAA) & the Dangs District",Surat District,2026-05,2026-05,1,1
+9.10,Adani Total Gas Limited,"Navsari District (EAAA), Surat District (EAAA), Tapi District (EAAA) & the Dangs District",Surat District(EAAA),2025-03,2025-03,1,1
+9.10,Adani Total Gas Limited,"Navsari District (EAAA), Surat District (EAAA), Tapi District (EAAA) & the Dangs District",Tapi District,2026-05,2026-05,1,1
+9.10,Adani Total Gas Limited,"Navsari District (EAAA), Surat District (EAAA), Tapi District (EAAA) & the Dangs District",Tapi District(EAAA),2025-03,2025-03,1,1
+9.11,Torrent Gas Limited,Junagadh District,Junagadh District,2025-03,2026-08,16,16
+9.12,Adani Total Gas Limited,Kheda District (EAAA) & Mahisagar District,Kheda District,2025-04,2026-08,15,15
+9.12,Adani Total Gas Limited,Kheda District (EAAA) & Mahisagar District,Kheda District(EAAA),2025-03,2025-03,1,1
+9.12,Adani Total Gas Limited,Kheda District (EAAA) & Mahisagar District,Mahisagar District,2025-03,2026-08,16,16
+9.13,Gujarat Energy Limited,Narmada (Rajpipla) District,Narmada (Rajpipla) District,2026-07,2026-08,2,2
+9.13,Gujarat Gas Limited,Narmada (Rajpipla) District,Narmada (Rajpipla) District,2025-03,2026-06,14,14
+9.14,Adani Total Gas Limited,Porbandar District,Porbandar District,2025-03,2026-08,16,16
+9.15,Indian Oil Adani Gas Private Limited,"Panchkula District (EAAA), Sirmaur, Shimla & Solan (EAAA) Districts",Panchkula District,2025-04,2026-08,15,15
+9.15,Indian Oil Adani Gas Private Limited,"Panchkula District (EAAA), Sirmaur, Shimla & Solan (EAAA) Districts",Panchkula District (EAAA),2025-03,2025-03,1,1
+9.15,Indian Oil Adani Gas Private Limited,"Panchkula District (EAAA), Sirmaur, Shimla & Solan (EAAA) Districts",Panchkula District(EAAA),2025-03,2025-03,1,1
+9.15,Indian Oil Adani Gas Private Limited,"Panchkula District (EAAA), Sirmaur, Shimla & Solan (EAAA) Districts",Shimla District,2025-03,2025-03,1,1
+9.15,Indian Oil Adani Gas Private Limited,"Panchkula District (EAAA), Sirmaur, Shimla & Solan (EAAA) Districts",Sirmaur District,2025-03,2026-08,16,16
+9.15,Indian Oil Adani Gas Private Limited,"Panchkula District (EAAA), Sirmaur, Shimla & Solan (EAAA) Districts",Solan District,2025-04,2026-08,14,14
+9.15,Indian Oil Adani Gas Private Limited,"Panchkula District (EAAA), Sirmaur, Shimla & Solan (EAAA) Districts",Solan District ( EAAA),2025-03,2025-03,1,1
+9.15,Indian Oil Adani Gas Private Limited,"Panchkula District (EAAA), Sirmaur, Shimla & Solan (EAAA) Districts",Solan District(EAAA),2025-03,2025-03,1,1
+9.16,Adani Total Gas Limited,"Bhiwani, Charkhi Dadri & Mahendragarh Districts",Bhiwani District,2025-03,2026-08,16,16
+9.16,Adani Total Gas Limited,"Bhiwani, Charkhi Dadri & Mahendragarh Districts",Charkhi Dadri District,2025-03,2026-08,16,16
+9.16,Adani Total Gas Limited,"Bhiwani, Charkhi Dadri & Mahendragarh Districts",Mahendragarh District,2025-03,2026-08,16,16
+9.17,HCG (KCE) Private Limited,Hisar District,Hisar District,2025-06,2026-08,12,12
+9.17,Haryana City Gas (KCE) Private Limited,Hisar District,Hisar District,2025-09,2025-09,1,1
+9.18,Haryana City Gas (KCE) Private Limited,Jhajjar District,Jhajjar District,2025-06,2026-08,13,13
+9.19,Hindustan Petroleum Corporation Limited,Sonipat District (EAAA) & Jind District,Jind District,2025-03,2026-08,16,16
+9.19,Hindustan Petroleum Corporation Limited,Sonipat District (EAAA) & Jind District,Sonipat District,2025-04,2026-08,15,15
+9.19,Hindustan Petroleum Corporation Limited,Sonipat District (EAAA) & Jind District,Sonipat District(EAAA),2025-03,2025-03,1,1
+9.2,Adani Total Gas Limited,Nuh & Palwal Districts,Nuh District,2025-04,2026-08,14,14
+9.2,Adani Total Gas Limited,Nuh & Palwal Districts,Palwal District,2025-04,2026-08,14,14
+9.20,Adani Total Gas Limited,Nuh & Palwal Districts,Nuh District,2025-03,2026-05,2,2
+9.20,Adani Total Gas Limited,Nuh & Palwal Districts,Palwal District,2025-03,2026-05,2,2
+9.21,Bharat Petroleum Corporation Limited,"Bilaspur, Hamirpur & Una Districts",Bilaspur District,2025-05,2026-08,13,13
+9.21,Bharat Petroleum Corporation Limited,"Bilaspur, Hamirpur & Una Districts",Bilaspur District',2025-09,2025-09,1,1
+9.21,Bharat Petroleum Corporation Limited,"Bilaspur, Hamirpur & Una Districts",Hamirpur District,2025-05,2026-08,14,14
+9.21,Bharat Petroleum Corporation Limited,"Bilaspur, Hamirpur & Una Districts",Una District,2025-05,2026-08,14,14
+9.22,Indian Oil Corporation Limited,"Bokaro, Hazaribagh & Ramgarh Districts",Bokaro District,2025-04,2026-08,15,15
+9.22,Indian Oil Corporation Limited,"Bokaro, Hazaribagh & Ramgarh Districts",Hazaribagh District,2025-04,2026-08,15,15
+9.22,Indian Oil Corporation Limited,"Bokaro, Hazaribagh & Ramgarh Districts",Ramgarh District,2025-04,2026-08,15,15
+9.23,GAIL Gas Limited,Giridih & Dhanbad Districts,Dhanbad District,2025-03,2026-08,16,16
+9.23,GAIL Gas Limited,Giridih & Dhanbad Districts,Giridih District,2025-03,2026-08,16,16
+9.24,Unison Enviro Private Limited,Chitradurga & Davanagere Districts,Chitradurga District,2025-03,2026-08,16,16
+9.24,Unison Enviro Private Limited,Chitradurga & Davanagere Districts,Devangere District,2025-03,2026-08,16,16
+9.25,Adani Total Gas Limited,Udupi District,Udupi District,2025-03,2026-08,16,16
+9.26,Bharat Petroleum Corporation Limited,Ballari & Gadag Districts,Balliari District,2025-05,2026-08,14,14
+9.26,Bharat Petroleum Corporation Limited,Ballari & Gadag Districts,Gadag District,2025-05,2026-08,14,14
+9.27,Bharat Petroleum Corporation Limited,Bidar District,Bidar District,2025-05,2026-08,14,14
+9.28,GAIL Gas Limited,Dakshina Kannada District,Dakshina Kannada District,2025-03,2026-08,16,16
+9.29,Maharashtra Natural Gas Limited,Ramanagara District,Ramanagara District,2025-03,2026-08,16,16
+9.3,Indian Oil Adani Gas Private Limited,Kozhikode & Wayanad Districts,Kozhikode District,2025-04,2026-08,14,14
+9.3,Indian Oil Adani Gas Private Limited,Kozhikode & Wayanad Districts,Wayanad District,2025-04,2026-08,13,13
+9.30,Indian Oil Adani Gas Private Limited,Kozhikode & Wayanad Districts,Kozhikode District,2025-03,2026-05,2,2
+9.30,Indian Oil Adani Gas Private Limited,Kozhikode & Wayanad Districts,Wayanad District,2025-03,2026-05,3,3
+9.31,Indian Oil Adani Gas Private Limited,Malappuram District,Malappuram District,2025-03,2026-08,16,16
+9.32,Indian Oil Adani Gas Private Limited,"Kannur, Kasaragod & Mahe Districts",Kannur District,2025-03,2026-08,16,16
+9.32,Indian Oil Adani Gas Private Limited,"Kannur, Kasaragod & Mahe Districts",Kasargod District,2025-03,2026-08,16,16
+9.32,Indian Oil Adani Gas Private Limited,"Kannur, Kasaragod & Mahe Districts",Mahe District,2025-03,2026-08,16,16
+9.33,Indian Oil Adani Gas Private Limited,Palakkad & Thrissur Districts,Palakkad District,2025-03,2026-08,16,16
+9.33,Indian Oil Adani Gas Private Limited,Palakkad & Thrissur Districts,Thrissur Districts,2025-03,2026-08,16,16
+9.34,THINK Gas Bhopal Private Limited,Bhopal & Rajgarh Districts,Bhopal District,2025-03,2026-08,16,16
+9.34,THINK Gas Bhopal Private Limited,Bhopal & Rajgarh Districts,Rajgarh District,2025-03,2026-08,16,16
+9.35,Indian Oil Corporation Limited,Guna District,Guna District,2025-04,2026-08,15,15
+9.36,Indian Oil Corporation Limited,Rewa District,Rewa District,2025-04,2026-08,15,15
+9.37,Bharat Petroleum Corporation Limited,Satna & Shahdol Districts,Shahdol District,2025-05,2025-05,1,1
+9.37,Bharat Petroleum Corporation Limited,Satna & Shandol Districts,Satna District,2025-05,2026-08,14,14
+9.37,Bharat Petroleum Corporation Limited,Satna & Shandol Districts,Shahdol District,2026-02,2026-05,4,4
+9.37,Bharat Petroleum Corporation Limited,Satna & Shandol Districts,Shandol District,2025-06,2026-08,9,9
+9.38,Bharat Petroleum Corporation Limited,Ahmednagar & Aurangabad Districts,Ahmednagar District,2025-05,2026-08,14,14
+9.38,Bharat Petroleum Corporation Limited,Ahmednagar & Aurangabad Districts,Aurangabad District,2025-05,2026-08,14,14
+9.39,Maharashtra Natural Gas Limited,"Valsad (EAAA), Dhule & Nashik Districts",Dhule District,2025-03,2026-08,16,16
+9.39,Maharashtra Natural Gas Limited,"Valsad (EAAA), Dhule & Nashik Districts",Nashik District,2025-03,2026-08,16,16
+9.39,Maharashtra Natural Gas Limited,"Valsad (EAAA), Dhule & Nashik Districts",Valsad District,2025-04,2026-08,15,15
+9.39,Maharashtra Natural Gas Limited,"Valsad (EAAA), Dhule & Nashik Districts",Valsad District(EAAA),2025-03,2025-03,1,1
+9.4,Unison Enviro Private Limited,Latur & Osmanabad Districts,Latur District,2025-04,2026-08,14,14
+9.4,Unison Enviro Private Limited,Latur & Osmanabad Districts,Osamanabad District,2025-04,2026-08,14,14
+9.40,Unison Enviro Private Limited,Latur & Osmanabad Districts,Latur District,2025-03,2026-05,2,2
+9.40,Unison Enviro Private Limited,Latur & Osmanabad Districts,Osamanabad District,2025-03,2026-05,2,2
+9.41,Bharat Petroleum Corporation Limited,Sangli & Satara Districts,Sangli District,2025-05,2026-08,14,14
+9.41,Bharat Petroleum Corporation Limited,Sangli & Satara Districts,Satara District,2025-05,2026-08,14,14
+9.42,Maharashtra Natural Gas Limited,Sindhudurg District,Sindhudurg District,2025-03,2026-08,16,16
+9.43,Bharat Petroleum Corporation Limited,Angul & Dhekanal Districts,Angul District,2025-05,2026-08,14,14
+9.43,Bharat Petroleum Corporation Limited,Angul & Dhekanal Districts,Dhekanal District,2025-05,2026-08,14,14
+9.44,GAIL Gas Limited,Sundargarh & Jharsuguda Districts,Jharsuguda District,2025-04,2026-08,16,15
+9.44,GAIL Gas Limited,Sundargarh & Jharsuguda Districts,Sundargarh District,2025-03,2026-08,16,16
+9.45,Adani Total Gas Limited,"Balasore, Bhadrak & Mayurbhanj Districts",Balasore District,2025-03,2026-08,16,16
+9.45,Adani Total Gas Limited,"Balasore, Bhadrak & Mayurbhanj Districts",Bhadrak District,2025-03,2026-08,16,16
+9.45,Adani Total Gas Limited,"Balasore, Bhadrak & Mayurbhanj Districts",Mayurbhanj District,2025-03,2026-08,16,16
+9.46,Bharat Petroleum Corporation Limited,"Bargarh, Debagarh & Sambalpur Districts",Bargarh District,2025-05,2026-08,14,14
+9.46,Bharat Petroleum Corporation Limited,"Bargarh, Debagarh & Sambalpur Districts",Debagarh District,2025-05,2026-08,14,14
+9.46,Bharat Petroleum Corporation Limited,"Bargarh, Debagarh & Sambalpur Districts",Sambalpur District,2025-05,2026-08,14,14
+9.47,GAIL Gas Limited,"Ganjam, Nayagarh & Puri Districts",Ganjam District,2025-03,2026-08,13,13
+9.47,GAIL Gas Limited,"Ganjam, Nayagarh & Puri Districts",Nayagarh District,2025-06,2026-05,9,9
+9.47,GAIL Gas Limited,"Ganjam, Nayagarh & Puri Districts",Puri District,2025-03,2026-08,16,16
+9.48,Bharat Petroleum Corporation Limited,Jagatsinghpur & Kendrapara Districts,Jagatsinghpur District,2025-05,2026-08,14,14
+9.48,Bharat Petroleum Corporation Limited,Jagatsinghpur & Kendrapara Districts,Kendrapara District,2025-05,2026-08,14,14
+9.49,Bharat Petroleum Corporation Limited,Jajpur & Kendujhar Districts,Jajpur District,2025-05,2026-08,14,14
+9.49,Bharat Petroleum Corporation Limited,Jajpur & Kendujhar Districts,Kendujhar District,2025-05,2026-08,14,14
+9.5,Torrent Gas Limited,Karaikal & Nagapattinam Districts,Karaikal District,2025-04,2026-08,14,14
+9.5,Torrent Gas Limited,Karaikal & Nagapattinam Districts,Nagapattinam District,2025-04,2026-08,14,14
+9.50,Torrent Gas Limited,Karaikal & Nagapattinam Districts,Karaikal District,2025-03,2026-05,2,2
+9.50,Torrent Gas Limited,Karaikal & Nagapattinam Districts,Nagapattinam District,2025-03,2026-05,2,2
+9.51,East Coast Natural Gas Distribution Private Limited,Puducherry District,Puducherry District,2025-03,2026-08,16,16
+9.52,Torrent Gas Limited,"SAS Nagar District (EAAA), Patiala & Sangrur Districts",Patiala District,2025-03,2026-08,16,16
+9.52,Torrent Gas Limited,"SAS Nagar District (EAAA), Patiala & Sangrur Districts",SAS Nagar District,2025-04,2026-08,15,15
+9.52,Torrent Gas Limited,"SAS Nagar District (EAAA), Patiala & Sangrur Districts",SAS Nagar District(EAAA),2025-03,2025-03,1,1
+9.52,Torrent Gas Limited,"SAS Nagar District (EAAA), Patiala & Sangrur Districts",Sangrur District,2025-03,2026-08,16,16
+9.53,THINK Gas Ludhiana Private Limited,"Ludhiana District (EAAA), Barnala & Moga Districts",Barnala District,2025-03,2026-08,16,16
+9.53,THINK Gas Ludhiana Private Limited,"Ludhiana District (EAAA), Barnala & Moga Districts",Ludhiana District,2025-04,2026-08,15,15
+9.53,THINK Gas Ludhiana Private Limited,"Ludhiana District (EAAA), Barnala & Moga Districts",Ludhiana District(EAAA),2025-03,2025-03,1,1
+9.53,THINK Gas Ludhiana Private Limited,"Ludhiana District (EAAA), Barnala & Moga Districts",Moga District,2025-03,2026-08,16,16
+9.54,THINK Gas Ludhiana Private Limited,"Jalandhar District (EAAA), Kapurthala & SBS Nagar Districts",Jalandhar District,2025-04,2026-08,15,15
+9.54,THINK Gas Ludhiana Private Limited,"Jalandhar District (EAAA), Kapurthala & SBS Nagar Districts",Jalandhar District(EAAA),2025-03,2025-03,1,1
+9.54,THINK Gas Ludhiana Private Limited,"Jalandhar District (EAAA), Kapurthala & SBS Nagar Districts",Kapurthala District,2025-03,2026-08,16,16
+9.54,THINK Gas Ludhiana Private Limited,"Jalandhar District (EAAA), Kapurthala & SBS Nagar Districts",SBS Nagar District,2025-03,2026-08,16,16
+9.55,AGP CGD India Private Limited,"Barmer, Jaisalmer & Jodhpur Districts",Barmer District,2025-03,2026-06,11,11
+9.55,AGP CGD India Private Limited,"Barmer, Jaisalmer & Jodhpur Districts",Jaisalmer District,2025-03,2026-06,11,11
+9.55,AGP CGD India Private Limited,"Barmer, Jaisalmer & Jodhpur Districts",Jodhpur District,2025-03,2026-06,11,11
+9.55,AGP City Gas Private Limited,"Barmer, Jaisalmer & Jodhpur Districts",Barmer District,2025-10,2025-11,2,2
+9.55,AGP City Gas Private Limited,"Barmer, Jaisalmer & Jodhpur Districts",Jaisalmer District,2025-10,2025-11,2,2
+9.55,AGP City Gas Private Limited,"Barmer, Jaisalmer & Jodhpur Districts",Jodhpur District,2025-10,2025-11,2,2
+9.55,THINK Gas Private Limited,"Barmer, Jaisalmer & Jodhpur Districts",Barmer District,2026-07,2026-07,1,1
+9.55,THINK Gas Private Limited,"Barmer, Jaisalmer & Jodhpur Districts",Jaisalmer District,2026-07,2026-07,1,1
+9.55,THINK Gas Private Limited,"Barmer, Jaisalmer & Jodhpur Districts",Jodhpur District,2026-07,2026-07,1,1
+9.55,Think Gas Private Limited,"Barmer, Jaisalmer & Jodhpur Districts",Barmer District,2026-08,2026-08,1,1
+9.55,Think Gas Private Limited,"Barmer, Jaisalmer & Jodhpur Districts",Jaisalmer District,2026-08,2026-08,1,1
+9.55,Think Gas Private Limited,"Barmer, Jaisalmer & Jodhpur Districts",Jodhpur District,2026-08,2026-08,1,1
+9.55,Think Gas Pvt. Ltd.,"Barmer, Jaisalmer & Jodhpur Districts",Barmer District,2026-05,2026-05,1,1
+9.55,Think Gas Pvt. Ltd.,"Barmer, Jaisalmer & Jodhpur Districts",Jaisalmer District,2026-05,2026-05,1,1
+9.55,Think Gas Pvt. Ltd.,"Barmer, Jaisalmer & Jodhpur Districts",Jodhpur District,2026-05,2026-05,1,1
+9.56,Torrent Gas Jaipur Private Limited,Alwar (Other than Bhiwadi) & Jaipur Districts,Alwar District,2025-03,2026-08,16,16
+9.56,Torrent Gas Jaipur Private Limited,Alwar (Other than Bhiwadi) & Jaipur Districts,Jaipur District,2025-03,2026-08,16,16
+9.57,Torrent Gas Limited,"Kota District (EAAA), Baran & Chittorgarh (Only Rawatbhata Taluka) Districts",Baran District,2025-03,2026-08,16,16
+9.57,Torrent Gas Limited,"Kota District (EAAA), Baran & Chittorgarh (Only Rawatbhata Taluka) Districts",Chittorgarh District,2025-03,2026-08,16,16
+9.57,Torrent Gas Limited,"Kota District (EAAA), Baran & Chittorgarh (Only Rawatbhata Taluka) Districts",Kota District,2025-04,2026-08,15,15
+9.57,Torrent Gas Limited,"Kota District (EAAA), Baran & Chittorgarh (Only Rawatbhata Taluka) Districts",Kota District(EAAA),2025-03,2025-03,1,1
+9.58,Adani Total Gas Limited,Bhilwara & Bundi Districts,Bilwara District,2025-03,2026-08,16,16
+9.58,Adani Total Gas Limited,Bhilwara & Bundi Districts,Bundi District,2025-03,2026-08,16,16
+9.59,Adani Total Gas Limited,Chittorgarh (Other than Rawatbhata Taluka) & Udaipur Districts,Chittorgarh District,2025-03,2026-08,16,16
+9.59,Adani Total Gas Limited,Chittorgarh (Other than Rawatbhata Taluka) & Udaipur Districts,Udaipur District,2025-03,2026-08,16,16
+9.6,Dholpur CGD Private Limited,Dholpur District,Dholpur District,2025-04,2026-08,15,14
+9.60,Dholpur CGD Private Limited,Dholpur District,Dholpur District,2025-03,2026-05,2,2
+9.61,AGP CGD India Private Limited,Kanchipuram District,Kanchipuram District,2025-03,2026-06,11,11
+9.61,AGP City Gas Private Limited,Kanchipuram District,Kanchipuram District,2025-10,2025-11,2,2
+9.61,THINK Gas Private Limited,Kanchipuram District,Kanchipuram District,2026-07,2026-07,1,1
+9.61,Think Gas Private Limited,Kanchipuram District,Kanchipuram District,2026-08,2026-08,1,1
+9.61,Think Gas Pvt. Ltd.,Kanchipuram District,Kanchipuram District,2026-05,2026-05,1,1
+9.62,Torrent Gas Chennai Private Limited,Chennai & Tiruvallur Districts,Chennai District,2025-03,2026-08,16,16
+9.62,Torrent Gas Chennai Private Limited,Chennai & Tiruvallur Districts,Tiruvallur District,2025-03,2026-08,16,16
+9.63,Indian Oil Corporation Limited,Coimbatore District,Coimbatore District,2025-04,2026-08,15,15
+9.64,Adani Total Gas Limited,"Cuddalore, Nagapattinam & Tiruvarur Districts",Cuddalore District,2025-03,2026-08,16,16
+9.64,Adani Total Gas Limited,"Cuddalore, Nagapattinam & Tiruvarur Districts",Nagapatinam District,2025-03,2026-08,16,16
+9.64,Adani Total Gas Limited,"Cuddalore, Nagapattinam & Tiruvarur Districts",Tiruvarur District,2025-03,2026-08,16,16
+9.65,AGP CGD India Private Limited,Ramanathapuram District,Ramanathapuram District,2025-03,2026-06,11,11
+9.65,AGP City Gas Private Limited,Ramanathapuram District,Ramanathapuram District,2025-10,2025-11,2,2
+9.65,THINK Gas Private Limited,Ramanathapuram District,Ramanathapuram District,2026-07,2026-07,1,1
+9.65,Think Gas Private Limited,Ramanathapuram District,Ramanathapuram District,2026-08,2026-08,1,1
+9.65,Think Gas Pvt. Ltd.,Ramanathapuram District,Ramanathapuram District,2026-05,2026-05,1,1
+9.66,Indian Oil Corporation Limited,Salem District,Salem District,2025-04,2026-08,15,15
+9.67,Adani Total Gas Limited,Tiruppur District,Tiruppur District,2025-03,2026-08,16,16
+9.68,Megha City Gas Distribution Private Limited,Bhadradri Kothagudem & Khamman Districts,Bhadradri Kothagudem District,2025-03,2026-08,16,16
+9.68,Megha City Gas Distribution Private Limited,Bhadradri Kothagudem & Khamman Districts,Khammam District,2025-03,2026-08,16,16
+9.69,Indian Oil Corporation Limited,"Jagtial, Peddapalli, Karimnagar & Rajanna Sircilla Districts",Jagtial District,2025-04,2026-08,15,15
+9.69,Indian Oil Corporation Limited,"Jagtial, Peddapalli, Karimnagar & Rajanna Sircilla Districts",Karimnagar District,2025-04,2026-08,15,15
+9.69,Indian Oil Corporation Limited,"Jagtial, Peddapalli, Karimnagar & Rajanna Sircilla Districts",Peddapalle District,2025-04,2026-08,15,15
+9.69,Indian Oil Corporation Limited,"Jagtial, Peddapalli, Karimnagar & Rajanna Sircilla Districts",Rajanna Sircilla District,2025-04,2026-08,15,15
+9.7,Megha City Gas Distribution Private Limited,"Jangaon, Jayashankar Bhupalpally, Mahabubabad, Warangal Urban & Warangal Rural Districts",Jangaon District,2025-04,2026-08,14,14
+9.7,Megha City Gas Distribution Private Limited,"Jangaon, Jayashankar Bhupalpally, Mahabubabad, Warangal Urban & Warangal Rural Districts",Jayashankar Boopalpally District,2025-04,2026-08,14,14
+9.7,Megha City Gas Distribution Private Limited,"Jangaon, Jayashankar Bhupalpally, Mahabubabad, Warangal Urban & Warangal Rural Districts",Mahbubabad District,2025-04,2026-08,14,14
+9.7,Megha City Gas Distribution Private Limited,"Jangaon, Jayashankar Bhupalpally, Mahabubabad, Warangal Urban & Warangal Rural Districts",Warangal Rural District,2025-04,2026-08,14,14
+9.7,Megha City Gas Distribution Private Limited,"Jangaon, Jayashankar Bhupalpally, Mahabubabad, Warangal Urban & Warangal Rural Districts",Warangal Urban District,2025-06,2026-08,12,12
+9.70,Megha City Gas Distribution Private Limited,"Jangaon, Jayashankar Bhupalpally, Mahabubabad, Warangal Urban & Warangal Rural Districts",Jangaon District,2025-03,2026-05,2,2
+9.70,Megha City Gas Distribution Private Limited,"Jangaon, Jayashankar Bhupalpally, Mahabubabad, Warangal Urban & Warangal Rural Districts",Jayashankar Boopalpally District,2025-03,2026-05,2,2
+9.70,Megha City Gas Distribution Private Limited,"Jangaon, Jayashankar Bhupalpally, Mahabubabad, Warangal Urban & Warangal Rural Districts",Mahbubabad District,2025-03,2026-05,2,2
+9.70,Megha City Gas Distribution Private Limited,"Jangaon, Jayashankar Bhupalpally, Mahabubabad, Warangal Urban & Warangal Rural Districts",Warangal Rural District,2025-03,2026-05,2,2
+9.70,Megha City Gas Distribution Private Limited,"Jangaon, Jayashankar Bhupalpally, Mahabubabad, Warangal Urban & Warangal Rural Districts",Warangal Urban District,2025-03,2026-05,2,2
+9.71,Torrent Gas Limited,"Medak, Siddipet & Sangareddy Districts",Medak District,2025-03,2026-08,16,16
+9.71,Torrent Gas Limited,"Medak, Siddipet & Sangareddy Districts",Sangareddy District,2025-03,2026-08,16,16
+9.71,Torrent Gas Limited,"Medak, Siddipet & Sangareddy Districts",Siddipet District,2025-03,2026-08,16,16
+9.72,Megha City Gas Distribution Private Limited,"Medchal-Malkajgiri, Ranga Reddy & Vikarabad Districts",Medchal - Malkajgiri district,2026-08,2026-08,1,1
+9.72,Megha City Gas Distribution Private Limited,"Medchal-Malkajgiri, Ranga Reddy & Vikarabad Districts",Medchal Malkajgiri district,2026-02,2026-07,3,3
+9.72,Megha City Gas Distribution Private Limited,"Medchal-Malkajgiri, Ranga Reddy & Vikarabad Districts",Medchal-Malkajgiri district,2025-03,2025-03,1,1
+9.72,Megha City Gas Distribution Private Limited,"Medchal-Malkajgiri, Ranga Reddy & Vikarabad Districts",Medchala- Malkajgiri district,2026-05,2026-05,1,1
+9.72,Megha City Gas Distribution Private Limited,"Medchal-Malkajgiri, Ranga Reddy & Vikarabad Districts",Medchalâ€“Malkajgiri district,2025-04,2026-06,6,6
+9.72,Megha City Gas Distribution Private Limited,"Medchal-Malkajgiri, Ranga Reddy & Vikarabad Districts",Medchal–Malkajgiri district,2025-09,2026-03,4,4
+9.72,Megha City Gas Distribution Private Limited,"Medchal-Malkajgiri, Ranga Reddy & Vikarabad Districts",Rangareddy District,2025-03,2026-08,16,16
+9.72,Megha City Gas Distribution Private Limited,"Medchal-Malkajgiri, Ranga Reddy & Vikarabad Districts",Vikarabad District,2025-03,2026-08,16,16
+9.73,Megha City Gas Distribution Private Limited,Nalgonda Suryapet & Yadadri Bhuvanagiri Districts,Nalgonda District,2025-03,2026-08,16,16
+9.73,Megha City Gas Distribution Private Limited,Nalgonda Suryapet & Yadadri Bhuvanagiri Districts,Suryapet District,2025-03,2026-08,16,16
+9.73,Megha City Gas Distribution Private Limited,Nalgonda Suryapet & Yadadri Bhuvanagiri Districts,Yadadri Bhuvanagiri District,2025-03,2026-08,16,16
+9.74,Tripura Natural Gas Company Limited,Gomati District,Gomati District,2025-03,2026-08,16,16
+9.75,Tripura Natural Gas Company Limited,West Tripura (EAAA) District,West Tripura District,2025-04,2026-08,16,15
+9.75,Tripura Natural Gas Company Limited,West Tripura (EAAA) District,West Tripura District(EAAA),2025-03,2025-03,1,1
+9.76,Indian Oil Adani Gas Private Limited,"Bulandshahr District (EAAA), Aligarh & Hathras Districts",Aligarh District,2025-03,2026-08,16,16
+9.76,Indian Oil Adani Gas Private Limited,"Bulandshahr District (EAAA), Aligarh & Hathras Districts",Bulandshahr District,2025-04,2026-08,15,15
+9.76,Indian Oil Adani Gas Private Limited,"Bulandshahr District (EAAA), Aligarh & Hathras Districts",Bulandshahr District(EAAA),2025-03,2025-03,1,1
+9.76,Indian Oil Adani Gas Private Limited,"Bulandshahr District (EAAA), Aligarh & Hathras Districts",Hathras District,2025-03,2026-08,16,16
+9.77,Indian Oil Adani Gas Private Limited,"Allahabad District (EAAA), Bhadohi & Kaushambi Districts",Allahabad District,2025-04,2026-08,15,15
+9.77,Indian Oil Adani Gas Private Limited,"Allahabad District (EAAA), Bhadohi & Kaushambi Districts",Allahabad District(EAAA),2025-03,2025-03,1,1
+9.77,Indian Oil Adani Gas Private Limited,"Allahabad District (EAAA), Bhadohi & Kaushambi Districts",Bhadohi District,2025-03,2026-08,16,16
+9.77,Indian Oil Adani Gas Private Limited,"Allahabad District (EAAA), Bhadohi & Kaushambi Districts",Kausambi District,2025-03,2026-08,16,16
+9.78,Bharat Petroleum Corporation Limited,"Amethi, Pratapgarh & Raebareli Districts",Amethi District,2025-05,2026-08,14,14
+9.78,Bharat Petroleum Corporation Limited,"Amethi, Pratapgarh & Raebareli Districts",Pratapgarh District,2025-05,2026-08,14,14
+9.78,Bharat Petroleum Corporation Limited,"Amethi, Pratapgarh & Raebareli Districts",Rai Bareli District,2025-05,2026-08,14,14
+9.79,Torrent Gas Limited,"Auraiya, Kanpur Dehat & Etawah Districts",Auraiya District,2025-03,2026-08,16,16
+9.79,Torrent Gas Limited,"Auraiya, Kanpur Dehat & Etawah Districts",Etawah District,2025-03,2026-08,16,16
+9.79,Torrent Gas Limited,"Auraiya, Kanpur Dehat & Etawah Districts",Kanpur Dehat District,2025-03,2026-08,16,16
+9.8,Green Gas Limited,Faizabad & Sultanpur Districts,Faizabad District,2025-04,2026-08,15,14
+9.8,Green Gas Limited,Faizabad & Sultanpur Districts,Sultanpur District,2025-04,2026-08,13,12
+9.80,Green Gas Limited,Faizabad & Sultanpur Districts,Faizabad District,2025-03,2026-05,2,2
+9.80,Green Gas Limited,Faizabad & Sultanpur Districts,Sultanpur District,2025-03,2026-05,2,2
+9.81,Torrent Gas Limited,"Gorakhpur, Sant Kabir Nagar & Kushinagar Districts",Gorakhpur District,2025-03,2026-08,16,16
+9.81,Torrent Gas Limited,"Gorakhpur, Sant Kabir Nagar & Kushinagar Districts",Kushinagar District,2025-03,2026-08,16,16
+9.81,Torrent Gas Limited,"Gorakhpur, Sant Kabir Nagar & Kushinagar Districts",Sant Kabir Nagar District,2025-03,2026-08,16,16
+9.82,Indraprastha Gas Limited,"Meerut District (EAAA), Muzaffarnagar & Shamli Districts",Meerut District,2025-03,2026-08,9,9
+9.82,Indraprastha Gas Limited,"Meerut District (EAAA), Muzaffarnagar & Shamli Districts",Muzaffarnagar District,2025-03,2026-08,16,16
+9.82,Indraprastha Gas Limited,"Meerut District (EAAA), Muzaffarnagar & Shamli Districts",Shamali District,2025-07,2026-08,7,7
+9.83,Torrent Gas Limited,Moradabad (EAAA) District,Moradabad District,2025-04,2026-08,15,15
+9.83,Torrent Gas Limited,Moradabad (EAAA) District,Moradabad District (EAAA),2025-03,2025-03,1,1
+9.84,Green Gas Limited,Unnao (EAAA) District,Unnao District,2025-03,2026-08,17,16
+9.85,GAIL Gas Limited,Dehradun District,Dehradun District,2025-03,2026-08,16,16
+9.86,Indian Oil Adani Gas Private Limited,Burdwan District,Burdwan District,2025-03,2026-08,16,16
+95.01,Adani Total Gas Limited,Faridabad 2,Faridabad District,2025-03,2026-08,16,16
+95.03,Indraprastha Gas Limited,Gurugram-1 District,Gurugram District,2026-07,2026-08,2,2
+96.03,Indraprastha Gas Limited,Gurugram (Part) District,Gurugram District,2025-05,2025-05,1,1
+96.06,Gujarat Gas Limited,Gandinagar (Part) District,Ahmedabad District,2025-03,2026-04,6,6
+96.06,Gujarat Gas Limited,Gandinagar (Part) District,Gandhinagar District,2025-03,2025-05,3,3
+96.07,Adani Total Gas Limited,Vadodara,Vadodara District,2025-05,2025-05,1,1
+97.01,GAIL (India) Limited,Patna District,Patna District,2026-02,2026-05,2,2
+97.01,GAIL India Limited,Patna District,Patna District,2025-03,2026-08,14,14
+97.02,GAIL (India) Limited,East Singhbhum District,East Singhbhum District,2026-02,2026-05,2,2
+97.02,GAIL India Limited,East Singhbhum District,East Singhbhum District,2025-03,2026-08,14,14
+97.03,GAIL (India) Limited,Ranchi District,Ranchi District,2026-02,2026-05,2,2
+97.03,GAIL India Limited,Ranchi District,Ranchi District,2025-03,2026-08,14,14
+97.04,GAIL (India) Limited,Khordha District,Khordha District,2026-02,2026-05,2,2
+97.04,GAIL India Limited,Khordha District,Khordha District,2025-03,2026-08,14,14
+97.05,GAIL (India) Limited,Cuttack District,Cuttack District,2026-02,2026-05,2,2
+97.05,GAIL India Limited,Cuttack District,Cuttack District,2025-03,2026-08,14,14
+97.06,GAIL (India) Limited,Varanasi District,Varanasi District,2026-02,2026-05,2,2
+97.06,GAIL India Limited,Varanasi District,Varanasi District,2025-03,2026-08,14,14
+98.01,Adani Total Gas Limited,Khurja,Bulandshahr District,2025-03,2026-08,16,16
+98.02,Gujarat Energy Limited,"Surat, Bharuch, Ankleshwar",Bharuch District,2026-07,2026-08,2,2
+98.02,Gujarat Energy Limited,"Surat, Bharuch, Ankleshwar",Surat District,2026-07,2026-08,2,2
+98.02,Gujarat Energy Limited,"Surat, Bharuch, Ankleshwar",Tapi District,2026-07,2026-08,2,2
+98.02,Gujarat Gas Limited,"Surat, Bharuch, Ankleshwar",Bharuch District,2025-03,2026-06,13,13
+98.02,Gujarat Gas Limited,"Surat, Bharuch, Ankleshwar",Surat District,2025-03,2026-06,14,14
+98.02,Gujarat Gas Limited,"Surat, Bharuch, Ankleshwar",Tapi District,2025-03,2026-06,14,14
+98.03,Torrent Gas Limited,Moradabad,Moradabad District,2025-03,2026-08,16,16
+98.04,Gujarat Energy Limited,Nadiad,Kheda District,2026-07,2026-08,2,2
+98.04,Gujarat Gas Limited,Nadiad,Kheda District,2025-03,2026-06,14,14
+98.05,Gujarat Energy Limited,Navsari,Navsari District,2026-07,2026-08,2,2
+98.05,Gujarat Gas Limited,Navsari,Navsari District,2025-03,2026-06,14,14
+98.06,Gujarat Energy Limited,Rajkot,Morbi District,2026-07,2026-08,2,2
+98.06,Gujarat Energy Limited,Rajkot,Rajkot District,2026-07,2026-08,2,2
+98.06,Gujarat Gas Limited,Rajkot,Morbi District,2025-03,2026-06,14,14
+98.06,Gujarat Gas Limited,Rajkot,Rajkot District,2025-03,2026-06,14,14
+98.07,Gujarat Energy Limited,Surendranagar,Surendranagar District,2026-07,2026-08,2,2
+98.07,Gujarat Gas Limited,Surendranagar,Surendranagar District,2025-03,2026-06,14,14
+98.08,Adani Total Gas Limited,Ahmedabad City and Daskroi Area,Ahmedabad District,2025-03,2026-08,16,16
+98.09,Gujarat Energy Limited,Hazira,Surat District,2026-07,2026-08,2,2
+98.09,Gujarat Gas Limited,Hazira,Surat District,2025-03,2026-06,14,14
+98.1,Gujarat Energy Limited,Valsad,Valsad District,2026-07,2026-08,2,2
+98.1,Gujarat Gas Limited,Valsad,Valsad District,2025-04,2026-06,12,12
+98.10,Gujarat Gas Limited,Valsad,Valsad District,2025-03,2026-05,2,2
+98.11,Charotar Gas Sahakari Mandali Limited,Anand area including Kanjari & Vadtal Villages (in Kheda District),Anand District,2025-03,2026-08,16,16
+98.11,Charotar Gas Sahakari Mandali Limited,Anand area including Kanjari & Vadtal Villages (in Kheda District),Kheda District,2025-03,2026-08,16,16
+98.12,Haryana City Gas Distribution (Bhiwadi) Limited,Bhiwadi (in Alwar District),Alwar District,2025-03,2026-08,16,16
+98.13,Haryana City Gas Distribution Limited,Gurugram-2,Gurugram District,2025-06,2026-08,13,13
+99.01,Indraprastha Gas Limited,NCT of Delhi,NCT of Delhi,2025-03,2026-08,16,16
+99.02,Mahanagar Gas Limited,Mumbai & Greater Mumbai,Mumbai City District,2025-03,2026-08,16,15
+99.02,Mahanagar Gas Limited,Mumbai & Greater Mumbai,Mumbai sub-urban District,2025-03,2026-08,17,16
+99.03,Central UP Gas Limited,Bareilly,Bareilly District,2025-03,2026-08,16,16
+99.04,Central UP Gas Limited,Kanpur,Kanpur District,2025-03,2026-08,16,16
+99.05,Maharashtra Natural Gas Limited,"Pune City including Pimpri-Chiechwad& adjoining contiguous areas Hinjewadi, Chakan, Talegaon",Pune District,2025-03,2026-08,16,16
+99.06,Bhagyanagar Gas Limited,Vijaywada,Krishna District,2025-03,2026-08,16,16
+99.07,Mahanagar Gas Limited,Thane Urban and adjoining municipalities,Raigarh District,2025-03,2026-07,15,15
+99.07,Mahanagar Gas Limited,Thane Urban and adjoining municipalities,Thane District,2025-03,2026-08,16,16
+99.08,Aavantika Gas Limited,Indore (including Ujjain City),Indore District,2025-03,2026-08,16,16
+99.08,Aavantika Gas Limited,Indore (including Ujjain City),Ujjain District,2025-03,2026-08,16,16
+99.09,Bhagyanagar Gas Limited,Hyderabad,Hyderabad District,2025-03,2026-08,16,16
+99.09,Bhagyanagar Gas Limited,Hyderabad,Medak District,2025-03,2026-05,13,13
+99.09,Bhagyanagar Gas Limited,Hyderabad,Medchal-Malkajgiri District,2025-03,2026-08,16,16
+99.09,Bhagyanagar Gas Limited,Hyderabad,Ranga Reddy District,2025-03,2026-08,16,16
+99.09,Bhagyanagar Gas Limited,Hyderabad,Sangareddy District,2025-03,2026-08,16,16
+99.1,Green Gas Limited,Agra,Agra District,2025-04,2026-08,14,13
+99.10,Green Gas Limited,Agra,Agra District,2025-03,2026-05,2,2
+99.11,Sabarmati Gas Limited,"Gandhinagar, Mehsana, Sabarkantha",Aravali District,2025-03,2026-08,16,16
+99.11,Sabarmati Gas Limited,"Gandhinagar, Mehsana, Sabarkantha",Gandhinagar District,2025-03,2026-08,16,16
+99.11,Sabarmati Gas Limited,"Gandhinagar, Mehsana, Sabarkantha",Mehsana District,2025-03,2026-08,16,16
+99.11,Sabarmati Gas Limited,"Gandhinagar, Mehsana, Sabarkantha",Sabarkantha District,2025-03,2026-08,16,16
+99.12,Aavantika Gas Limited,Gwalior,Gwalior District,2025-03,2026-08,15,15
+99.13,GAIL Gas Limited,Firozabad (Taj Trapezium Zone),Bharatpur District,2025-03,2026-08,15,15
+99.13,GAIL Gas Limited,Firozabad (Taj Trapezium Zone),Firozabad District,2025-03,2026-08,16,16
+99.13,GAIL Gas Limited,Firozabad (Taj Trapezium Zone),Hathras District,2025-03,2025-04,2,2
+99.13,GAIL Gas Limited,Firozabad (Taj Trapezium Zone),Mathura District,2025-03,2026-08,16,15
+99.14,Bengal Gas Company Limited,Kolkata Municipal Corporation and Parts of adjoining Districts,Hoogly District,2025-03,2026-08,16,16
+99.14,Bengal Gas Company Limited,Kolkata Municipal Corporation and Parts of adjoining Districts,Howrah District,2025-03,2026-08,16,16
+99.14,Bengal Gas Company Limited,Kolkata Municipal Corporation and Parts of adjoining Districts,Kolkata District,2025-03,2026-08,16,16
+99.14,Bengal Gas Company Limited,Kolkata Municipal Corporation and Parts of adjoining Districts,Nadia District,2025-03,2026-08,16,16
+99.14,Bengal Gas Company Limited,Kolkata Municipal Corporation and Parts of adjoining Districts,North 24 Parganas District,2025-03,2026-08,16,16
+99.14,Bengal Gas Company Limited,Kolkata Municipal Corporation and Parts of adjoining Districts,South 24 Parganas District,2025-03,2026-08,17,16
+99.15,Assam Gas Company Limited,Upper Assam,Charaideo District,2025-03,2025-05,3,3
+99.15,Assam Gas Company Limited,Upper Assam,Dibrugarh District,2025-04,2026-08,15,15
+99.15,Assam Gas Company Limited,Upper Assam,Golaghat District,2025-04,2026-08,15,15
+99.15,Assam Gas Company Limited,Upper Assam,Jorhat District,2025-04,2026-08,15,15
+99.15,Assam Gas Company Limited,Upper Assam,Sivasagar District,2025-04,2026-08,15,15
+99.15,Assam Gas Company Limited,Upper Assam,Tinsukia District,2025-04,2026-08,14,14
+99.16,Tripura Natural Gas Company Limited,Agartala,West Tripura District,2025-03,2026-08,16,16
+99.17,Green Gas Limited,Lucknow,Lucknow District,2025-03,2026-08,17,16
+99.18,Vadodara Gas Limited,Vadodara,Chhota Udaipur District,2025-05,2025-08,3,3
+99.18,Vadodara Gas Limited,Vadodara,Vadodara District,2025-03,2026-08,16,15
+99.19,Indraprastha Gas Limited,Ghaziabad & Hapur Districts,Ghaziabad Districts,2025-03,2026-08,16,16
+99.19,Indraprastha Gas Limited,Ghaziabad & Hapur Districts,Hapud District,2025-04,2026-08,14,14
+99.2,Indraprastha Gas Limited,Noida(Including Greater Noida),Goutam Buddh Nagar District,2025-04,2026-08,14,14
+99.20,Indraprastha Gas Limited,Noida(Including Greater Noida),Goutam Buddh Nagar District,2025-03,2026-05,2,2
+AGP CGD India Private Limited,"Barmer, Jaisalmer & Jodhpur Districts",Barmer District,Rajasthan,2025-12,2026-01,2,2
+AGP CGD India Private Limited,"Barmer, Jaisalmer & Jodhpur Districts",Jaisalmer District,Rajasthan,2025-12,2026-01,2,2
+AGP CGD India Private Limited,"Barmer, Jaisalmer & Jodhpur Districts",Jodhpur District,Rajasthan,2025-12,2026-01,2,2
+AGP CGD India Private Limited,Kanchipuram District,Kanchipuram District,Tamil Nadu,2025-12,2026-01,2,2
+AGP CGD India Private Limited,Ramanathapuram District,Ramanathapuram District,Tamil Nadu,2025-12,2026-01,2,2
+AGP City Gas Private Limited,"Alappuzha, Kollam and Thiruvananthapuram Districts",Alapuzzha District,Kerala,2025-12,2026-01,2,2
+AGP City Gas Private Limited,"Alappuzha, Kollam and Thiruvananthapuram Districts",Kollam District,Kerala,2025-12,2026-01,2,2
+AGP City Gas Private Limited,"Alappuzha, Kollam and Thiruvananthapuram Districts",Thiruvananthapuram District,Kerala,2025-12,2026-01,2,2
+AGP City Gas Private Limited,Anantapur and YSR (Kadapa) Districts,Anantapur District,Andhra Pradesh,2025-12,2026-01,2,2
+AGP City Gas Private Limited,Anantapur and YSR (Kadapa) Districts,YSR (Kadapa) District,Andhra Pradesh,2025-12,2026-01,2,2
+AGP City Gas Private Limited,"Bagalkot, Koppal and Raichur Districts",Bagalkot District,Karnataka,2025-12,2026-01,2,2
+AGP City Gas Private Limited,"Bagalkot, Koppal and Raichur Districts",Koppal District,Karnataka,2025-12,2026-01,2,2
+AGP City Gas Private Limited,"Bagalkot, Koppal and Raichur Districts",Raichur District,Karnataka,2025-12,2026-01,2,2
+AGP City Gas Private Limited,"Chikkamagaluru, Hassan and Kodagu Districts",Chikkamagaluru District,Karnataka,2025-12,2026-01,2,2
+AGP City Gas Private Limited,"Chikkamagaluru, Hassan and Kodagu Districts",Hassan District,Karnataka,2025-12,2026-01,2,2
+AGP City Gas Private Limited,"Chikkamagaluru, Hassan and Kodagu Districts",Kodagu District,Karnataka,2025-12,2026-01,2,2
+AGP City Gas Private Limited,"Chittoor, Kolar and Vellore Districts",Chittoor District,Andhra Pradesh,2025-12,2026-01,2,2
+AGP City Gas Private Limited,"Chittoor, Kolar and Vellore Districts",Kolar District,Karnataka,2025-12,2026-01,2,2
+AGP City Gas Private Limited,"Chittoor, Kolar and Vellore Districts",Vellore District,Tamil Nadu,2025-12,2026-01,2,2
+AGP City Gas Private Limited,Kalaburagi and Vijayapura Districts,Kalaburagi District,Karnataka,2025-12,2026-01,2,2
+AGP City Gas Private Limited,Kalaburagi and Vijayapura Districts,Vijayapura District,Karnataka,2025-12,2026-01,2,2
+AGP City Gas Private Limited,"Mysuru, Mandya and Chamarajanagar Districts",Chamarajanagar District,Karnataka,2025-12,2026-01,2,2
+AGP City Gas Private Limited,"Mysuru, Mandya and Chamarajanagar Districts",Mandya District,Karnataka,2025-12,2026-01,2,2
+AGP City Gas Private Limited,"Mysuru, Mandya and Chamarajanagar Districts",Mysuru District,Karnataka,2025-12,2026-01,2,2
+AGP City Gas Private Limited,Sri Potti Sriramulu Nellore District,Sri Potti Sriramulu Nellore District,Andhra Pradesh,2025-12,2026-01,2,2
+AGP City Gas Private Limited,"Uttara Kannada, Haveri and Shivamogga Districts",Haveri District,Karnataka,2025-12,2026-01,2,2
+AGP City Gas Private Limited,"Uttara Kannada, Haveri and Shivamogga Districts",Shivamogga District,Karnataka,2025-12,2026-01,2,2
+AGP City Gas Private Limited,"Uttara Kannada, Haveri and Shivamogga Districts",Uttara Kannada District,Karnataka,2025-12,2026-01,2,2
+Aavantika Gas Limited,Gwalior,Gwalior District,Madhya Pradesh,2025-12,2026-01,2,2
+Aavantika Gas Limited,Indore (including Ujjain City),Indore District,Madhya Pradesh,2025-12,2026-01,2,2
+Aavantika Gas Limited,Indore (including Ujjain City),Ujjain District,Madhya Pradesh,2025-12,2026-01,2,2
+Adani Total Gas Limited,Ahmedabad City and Daskroi Area,Ahmedabad District,Gujarat,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Akola, Hingoli and Washim districts",Akola District,Maharashtra,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Akola, Hingoli and Washim districts",Hingoli District,Maharashtra,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Akola, Hingoli and Washim districts",Washim District,Maharashtra,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Alirajpur, Nandurbar and Barwani districts",Alirajpur District,Madhya Pradesh,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Alirajpur, Nandurbar and Barwani districts",Barwani District,Madhya Pradesh,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Alirajpur, Nandurbar and Barwani districts",Nandurbar District,Maharashtra,2025-12,2026-01,2,2
+Adani Total Gas Limited,Amravati and Yavatmal districts,Amravati District,Maharashtra,2025-12,2026-01,2,2
+Adani Total Gas Limited,Amravati and Yavatmal districts,Yavatmal District,Maharashtra,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Anuppur, Bilaspur and Korba Districts",Anuppur District,Madhya Pradesh,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Anuppur, Bilaspur and Korba Districts",Bilaspur District,Chhattisgarh,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Baksa, Barpeta, Bongaigaon, Chirang, Nalbari and Bajali districts",Barpeta District,Assam,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Baksa, Barpeta, Bongaigaon, Chirang, Nalbari and Bajali districts",Chirang District,Assam,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Balasore, Bhadrak & Mayurbhanj Districts",Balasore District,Odisha,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Balasore, Bhadrak & Mayurbhanj Districts",Bhadrak District,Odisha,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Balasore, Bhadrak & Mayurbhanj Districts",Mayurbhanj District,Odisha,2025-12,2026-01,2,2
+Adani Total Gas Limited,Barwala & Ranpur Talukas,Barwala and Ranpur Talukas,Gujarat,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Bhandara, Gondiya and Garchiroli districts",Bhandara District,Maharashtra,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Bhandara, Gondiya and Garchiroli districts",Gondiya District,Maharashtra,2025-12,2026-01,2,2
+Adani Total Gas Limited,Bhilwara & Bundi Districts,Bilwara District,Rajasthan,2025-12,2026-01,2,2
+Adani Total Gas Limited,Bhilwara & Bundi Districts,Bundi District,Rajasthan,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Bhiwani, Charkhi Dadri & Mahendragarh Districts",Bhiwani District,Haryana,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Bhiwani, Charkhi Dadri & Mahendragarh Districts",Charkhi Dadri District,Haryana,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Bhiwani, Charkhi Dadri & Mahendragarh Districts",Mahendragarh District,Haryana,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Burhanpur, Khandwa, Khargone and Harda districts",Burhanpur District,Madhya Pradesh,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Burhanpur, Khandwa, Khargone and Harda districts",Harda District,Madhya Pradesh,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Burhanpur, Khandwa, Khargone and Harda districts",Khandwa District,Madhya Pradesh,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Burhanpur, Khandwa, Khargone and Harda districts",Khargone District,Madhya Pradesh,2025-12,2026-01,2,2
+Adani Total Gas Limited,Chittorgarh (Other than Rawatbhata Taluka) & Udaipur Districts,Chittorgarh District,Rajasthan,2025-12,2026-01,2,2
+Adani Total Gas Limited,Chittorgarh (Other than Rawatbhata Taluka) & Udaipur Districts,Udaipur District,Rajasthan,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Cuddalore, Nagapattinam & Tiruvarur Districts",Cuddalore District,Tamil Nadu,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Cuddalore, Nagapattinam & Tiruvarur Districts",Nagapatinam District,Tamil Nadu,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Cuddalore, Nagapattinam & Tiruvarur Districts",Tiruvarur District,Tamil Nadu,2025-12,2026-01,2,2
+Adani Total Gas Limited,Faridabad 2,Faridabad District,Haryana,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Gumla, Latehar, Lohardaga, Simdega, Garhwa and Khunti districts",Garhwa District,Jharkhand,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Gumla, Latehar, Lohardaga, Simdega, Garhwa and Khunti districts",Gumla District,Jharkhand,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Gumla, Latehar, Lohardaga, Simdega, Garhwa and Khunti districts",Khunti District,Jharkhand,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Gumla, Latehar, Lohardaga, Simdega, Garhwa and Khunti districts",Latehar District,Jharkhand,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Gumla, Latehar, Lohardaga, Simdega, Garhwa and Khunti districts",Lohardaga District,Jharkhand,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Gumla, Latehar, Lohardaga, Simdega, Garhwa and Khunti districts",Simdega District,Jharkhand,2025-12,2026-01,2,2
+Adani Total Gas Limited,Jalandhar,Jalandhar District,Punjab,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Jashpur, Raigarh, Janjgir-Champa and Mahasamund districts",Mahasamund District,Chhattisgarh,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Jhansi (EAAA) District, Bhind, Jalaun, Lalitpur and Datia Districts",Bhind District,Madhya Pradesh,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Jhansi (EAAA) District, Bhind, Jalaun, Lalitpur and Datia Districts",Datia District,Madhya Pradesh,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Jhansi (EAAA) District, Bhind, Jalaun, Lalitpur and Datia Districts",Jalaun District,Uttar Pradesh,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Jhansi (EAAA) District, Bhind, Jalaun, Lalitpur and Datia Districts",Jhansi District,Uttar Pradesh,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Jhansi (EAAA) District, Bhind, Jalaun, Lalitpur and Datia Districts",Lalitpur District,Uttar Pradesh,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Kabirdham, Raj Nandgaon and Kanker districts",Raj Nandgaon District,Chhattisgarh,2025-12,2026-01,2,2
+Adani Total Gas Limited,Kheda District (EAAA) & Mahisagar District,Kheda District,Gujarat,2025-12,2026-01,2,2
+Adani Total Gas Limited,Kheda District (EAAA) & Mahisagar District,Mahisagar District,Gujarat,2025-12,2026-01,2,2
+Adani Total Gas Limited,Khurja,Bulandshahr District,Uttar Pradesh,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Kokrajhar, Dhubri, South Salmara-Mankachar and Goalpara districts",Kokrajhar District,Assam,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Koraput, Malkangiri, and Nabarangpur districts",Koraput District,Odisha,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Koraput, Malkangiri, and Nabarangpur districts",Nabarangpur District,Odisha,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Mungeli, Bemetara, Durg, Balod and Dhamtari districts",Durg District,Chhattisgarh,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Mungeli, Bemetara, Durg, Balod and Dhamtari districts",Mungeli District,Chhattisgarh,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Nagaon, Morigaon, Hojai, Karbi Anglong, West Karbi Anglong and Dima Hasao districts",Nagaon District,Assam,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Navsari District (EAAA), Surat District (EAAA), Tapi District (EAAA) & the Dangs District",Dangs District,Gujarat,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Navsari District (EAAA), Surat District (EAAA), Tapi District (EAAA) & the Dangs District",Navsari District,Gujarat,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Navsari District (EAAA), Surat District (EAAA), Tapi District (EAAA) & the Dangs District",Surat District,Gujarat,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Navsari District (EAAA), Surat District (EAAA), Tapi District (EAAA) & the Dangs District",Tapi District,Gujarat,2025-12,2026-01,2,2
+Adani Total Gas Limited,Nuh & Palwal Districts,Nuh District,Haryana,2025-12,2026-01,2,2
+Adani Total Gas Limited,Nuh & Palwal Districts,Palwal District,Haryana,2025-12,2026-01,2,2
+Adani Total Gas Limited,Porbandar District,Porbandar District,Gujarat,2025-12,2026-01,2,2
+Adani Total Gas Limited,Surendranagar District (EAAA) & Morbi District (EAAA),Morbi District,Gujarat,2025-12,2026-01,2,2
+Adani Total Gas Limited,Surendranagar District (EAAA) & Morbi District (EAAA),Surendranagar District,Gujarat,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Tikamgarh, Niwari, Chattarpur and Panna districts",Chattarpur District,Madhya Pradesh,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Tikamgarh, Niwari, Chattarpur and Panna districts",Panna District,Madhya Pradesh,2025-12,2026-01,2,2
+Adani Total Gas Limited,"Tikamgarh, Niwari, Chattarpur and Panna districts",Tikamgarh District,Madhya Pradesh,2025-12,2026-01,2,2
+Adani Total Gas Limited,Tiruppur District,Tiruppur District,Tamil Nadu,2025-12,2026-01,2,2
+Adani Total Gas Limited,Udupi District,Udupi District,Karnataka,2025-12,2026-01,2,2
+Adani Total Gas Limited,Vadodara,Vadodara District,Gujarat,2025-12,2026-01,2,2
+Assam Gas Company Limited,Upper Assam,Dibrugarh District,Assam,2025-12,2026-01,2,2
+Assam Gas Company Limited,Upper Assam,Golaghat District,Assam,2025-12,2026-01,2,2
+Assam Gas Company Limited,Upper Assam,Jorhat District,Assam,2025-12,2026-01,2,2
+Assam Gas Company Limited,Upper Assam,Sivasagar District,Assam,2025-12,2026-01,2,2
+Assam Gas Company Limited,Upper Assam,Tinsukia District,Assam,2025-12,2026-01,2,2
+Bagpat Green Energy Private Limited,Bagpat District,Bagpat District,Uttar Pradesh,2025-12,2026-01,2,2
+Bengal Gas Company Limited,Kolkata Municipal Corporation and Parts of adjoining Districts,Hoogly District,West Bengal,2025-12,2026-01,2,2
+Bengal Gas Company Limited,Kolkata Municipal Corporation and Parts of adjoining Districts,Howrah District,West Bengal,2025-12,2026-01,2,2
+Bengal Gas Company Limited,Kolkata Municipal Corporation and Parts of adjoining Districts,Kolkata District,West Bengal,2025-12,2026-01,2,2
+Bengal Gas Company Limited,Kolkata Municipal Corporation and Parts of adjoining Districts,Nadia District,West Bengal,2025-12,2026-01,2,2
+Bengal Gas Company Limited,Kolkata Municipal Corporation and Parts of adjoining Districts,North 24 Parganas District,West Bengal,2025-12,2026-01,2,2
+Bengal Gas Company Limited,Kolkata Municipal Corporation and Parts of adjoining Districts,South 24 Parganas District,West Bengal,2025-12,2026-01,2,2
+Bhagyanagar Gas Limited,Hyderabad,Hyderabad District,Telangana,2025-12,2026-01,2,2
+Bhagyanagar Gas Limited,Hyderabad,Medak District,Telangana,2025-12,2026-01,2,2
+Bhagyanagar Gas Limited,Hyderabad,Medchal-Malkajgiri District,Telangana,2025-12,2026-01,2,2
+Bhagyanagar Gas Limited,Hyderabad,Ranga Reddy District,Telangana,2025-12,2026-01,2,2
+Bhagyanagar Gas Limited,Hyderabad,Sangareddy District,Telangana,2025-12,2026-01,2,2
+Bhagyanagar Gas Limited,Kakinada,East Godavari District,Andhra Pradesh,2025-12,2026-01,2,2
+Bhagyanagar Gas Limited,Vijaywada,Krishna District,Andhra Pradesh,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,Ahmednagar & Aurangabad Districts,Ahmednagar District,Maharashtra,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,Ahmednagar & Aurangabad Districts,Aurangabad District,Maharashtra,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,Alipurduar and Koch Bihar,Alipurduar District,West Bengal,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,Alipurduar and Koch Bihar,Koch Bihar District,West Bengal,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,"Amethi, Pratapgarh & Raebareli Districts",Amethi District,Uttar Pradesh,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,"Amethi, Pratapgarh & Raebareli Districts",Pratapgarh District,Uttar Pradesh,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,"Amethi, Pratapgarh & Raebareli Districts",Rai Bareli District,Uttar Pradesh,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,Angul & Dhekanal Districts,Angul District,Odisha,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,Angul & Dhekanal Districts,Dhekanal District,Odisha,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,Ballari & Gadag Districts,Balliari District,Karnataka,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,Ballari & Gadag Districts,Gadag District,Karnataka,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,"Bargarh, Debagarh & Sambalpur Districts",Bargarh District,Odisha,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,"Bargarh, Debagarh & Sambalpur Districts",Debagarh District,Odisha,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,"Bargarh, Debagarh & Sambalpur Districts",Sambalpur District,Odisha,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,Bidar District,Bidar District,Karnataka,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,"Bilaspur, Hamirpur & Una Districts",Bilaspur District,Chhattisgarh,2026-01,2026-01,1,1
+Bharat Petroleum Corporation Limited,"Bilaspur, Hamirpur & Una Districts",Bilaspur District,Himachal Pradesh,2025-12,2025-12,1,1
+Bharat Petroleum Corporation Limited,"Bilaspur, Hamirpur & Una Districts",Hamirpur District,Himachal Pradesh,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,"Bilaspur, Hamirpur & Una Districts",Una District,Himachal Pradesh,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,Chatra and Palamu Districts,Chatra District,Jharkhand,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,Chatra and Palamu Districts,Palamu District,Jharkhand,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,"Darbhanga, Madhubani, Supaul, Sitamarhi and Sheohar districts",Darbhanga District,Bihar,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,"Darbhanga, Madhubani, Supaul, Sitamarhi and Sheohar districts",Madhubani District,Bihar,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,"Darbhanga, Madhubani, Supaul, Sitamarhi and Sheohar districts",Sheohar District,Bihar,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,"Darbhanga, Madhubani, Supaul, Sitamarhi and Sheohar districts",Sitamarhi District,Bihar,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,"Darbhanga, Madhubani, Supaul, Sitamarhi and Sheohar districts",Supaul District,Bihar,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,"Fazilka (except area already authorized), Ganganagar and Hanumangarh districts",Fazilka (except area already authorized) District,Punjab,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,"Fazilka (except area already authorized), Ganganagar and Hanumangarh districts",Ganganagar District,Rajasthan,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,"Fazilka (except area already authorized), Ganganagar and Hanumangarh districts",Hanumangarh District,Rajasthan,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,"Gopalganj, Siwan, West Champaran, East Champaran and Deoria districts",Deoria District,Uttar Pradesh,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,"Gopalganj, Siwan, West Champaran, East Champaran and Deoria districts",East Champaran District,Bihar,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,"Gopalganj, Siwan, West Champaran, East Champaran and Deoria districts",Gopalganj District,Bihar,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,"Gopalganj, Siwan, West Champaran, East Champaran and Deoria districts",Siwan District,Bihar,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,"Gopalganj, Siwan, West Champaran, East Champaran and Deoria districts",West Champaran District,Bihar,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,Jagatsinghpur & Kendrapara Districts,Jagatsinghpur District,Odisha,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,Jagatsinghpur & Kendrapara Districts,Kendrapara District,Odisha,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,Jajpur & Kendujhar Districts,Jajpur District,Odisha,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,Jajpur & Kendujhar Districts,Kendujhar District,Odisha,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,"Koriya, Surajpur, Balrampur and Surguja Districts",Balrampur,Chhattisgarh,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,"Koriya, Surajpur, Balrampur and Surguja Districts",Koriya,Chhattisgarh,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,"Koriya, Surajpur, Balrampur and Surguja Districts",Surajpur,Chhattisgarh,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,"Koriya, Surajpur, Balrampur and Surguja Districts",Surguja,Chhattisgarh,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,"Lakhimpur Kheri, Sitapur, Bahraich, Shrawasti, Balrampur, Siddharth Nagar & Maharajganj Districts",Bahraich,Uttar Pradesh,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,"Lakhimpur Kheri, Sitapur, Bahraich, Shrawasti, Balrampur, Siddharth Nagar & Maharajganj Districts",Balrampur,Uttar Pradesh,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,"Lakhimpur Kheri, Sitapur, Bahraich, Shrawasti, Balrampur, Siddharth Nagar & Maharajganj Districts",Lakhimpur Kheri,Uttar Pradesh,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,"Lakhimpur Kheri, Sitapur, Bahraich, Shrawasti, Balrampur, Siddharth Nagar & Maharajganj Districts",Maharajganj,Uttar Pradesh,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,"Lakhimpur Kheri, Sitapur, Bahraich, Shrawasti, Balrampur, Siddharth Nagar & Maharajganj Districts",Shrawasti,Uttar Pradesh,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,"Lakhimpur Kheri, Sitapur, Bahraich, Shrawasti, Balrampur, Siddharth Nagar & Maharajganj Districts",Siddharth Nagar,Uttar Pradesh,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,"Lakhimpur Kheri, Sitapur, Bahraich, Shrawasti, Balrampur, Siddharth Nagar & Maharajganj Districts",Sitapur,Uttar Pradesh,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,Purulia and Bankura districts,Bankura District,West Bengal,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,Purulia and Bankura districts,Purulia District,West Bengal,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,Rohtak District,Rohtak District,Haryana,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,Rupnagar District,Rupnagar District,Punjab,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,Saharanpur District,Saharanpur District,Uttar Pradesh,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,Sangli & Satara Districts,Sangli District,Maharashtra,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,Sangli & Satara Districts,Satara District,Maharashtra,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,Satna & Shahdol Districts,Satna District,Madhya Pradesh,2025-12,2025-12,1,1
+Bharat Petroleum Corporation Limited,Satna & Shahdol Districts,Shahdol District,Madhya Pradesh,2025-12,2025-12,1,1
+Bharat Petroleum Corporation Limited,Satna & Shandol Districts,Satna District,Madhya Pradesh,2026-01,2026-01,1,1
+Bharat Petroleum Corporation Limited,Satna & Shandol Districts,Shahdol District,Madhya Pradesh,2026-01,2026-01,1,1
+Bharat Petroleum Corporation Limited,Sidhi and Singrauli Districts,Sidhi District,Madhya Pradesh,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,Sidhi and Singrauli Districts,Singrauli District,Madhya Pradesh,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,The Nilgiris and Erode districts,Erode District,Tamil Nadu,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,The Nilgiris and Erode districts,Nigiris District,Tamil Nadu,2025-12,2026-01,2,2
+Bharat Petroleum Corporation Limited,Yamunanagar District,Yamunanagar District,Haryana,2025-12,2026-01,2,2
+Central UP Gas Limited,Bareilly,Bareilly District,Uttar Pradesh,2025-12,2026-01,2,2
+Central UP Gas Limited,Jhansi,Jhansi District,Uttar Pradesh,2025-12,2026-01,2,2
+Central UP Gas Limited,Kanpur,Kanpur District,Uttar Pradesh,2025-12,2026-01,2,2
+Charotar Gas Sahakari Mandali Limited,Anand area including Kanjari & Vadtal Villages (in Kheda District),Anand District,Gujarat,2025-12,2026-01,2,2
+Charotar Gas Sahakari Mandali Limited,Anand area including Kanjari & Vadtal Villages (in Kheda District),Kheda District,Gujarat,2025-12,2026-01,2,2
+Dholpur CGD Private Limited,Dholpur District,Dholpur District,Rajasthan,2025-12,2026-01,2,2
+East Coast Natural Gas Distribution Private Limited,Puducherry District,Puducherry District,Puducherry (UT),2025-12,2026-01,2,2
+GAIL (India) Limited,Cuttack District,Cuttack District,Odisha,2025-12,2026-01,2,2
+GAIL (India) Limited,East Singhbhum District,East Singhbhum District,Jharkhand,2025-12,2026-01,2,2
+GAIL (India) Limited,Khordha District,Khordha District,Odisha,2025-12,2026-01,2,2
+GAIL (India) Limited,Patna District,Patna District,Bihar,2025-12,2026-01,2,2
+GAIL (India) Limited,Ranchi District,Ranchi District,Jharkhand,2025-12,2026-01,2,2
+GAIL (India) Limited,Varanasi District,Varanasi District,Uttar Pradesh,2025-12,2026-01,2,2
+GAIL Gas Limited,Bengaluru Rural and Urban Districts,Bengaluru Rural District,Karnataka,2025-12,2026-01,2,2
+GAIL Gas Limited,Bengaluru Rural and Urban Districts,Bengaluru Urban District,Karnataka,2025-12,2026-01,2,2
+GAIL Gas Limited,Dakshina Kannada District,Dakshina Kannada District,Karnataka,2025-12,2026-01,2,2
+GAIL Gas Limited,Dehradun District,Dehradun District,Uttarakhand,2025-12,2026-01,2,2
+GAIL Gas Limited,Dewas,Dewas District,Madhya Pradesh,2025-12,2026-01,2,2
+GAIL Gas Limited,Firozabad (Taj Trapezium Zone),Bharatpur District,Rajasthan,2025-12,2026-01,2,2
+GAIL Gas Limited,Firozabad (Taj Trapezium Zone),Firozabad District,Uttar Pradesh,2025-12,2026-01,2,2
+GAIL Gas Limited,Firozabad (Taj Trapezium Zone),Hathras District,Uttar Pradesh,2025-12,2025-12,1,1
+GAIL Gas Limited,Firozabad (Taj Trapezium Zone),Mathura District,Uttar Pradesh,2025-12,2025-12,1,1
+GAIL Gas Limited,"Gajapati, Kandhamal, Boudh and Sonepur districts",Gajapati District,Odisha,2025-12,2026-01,2,2
+GAIL Gas Limited,"Ganjam, Nayagarh & Puri Districts",Ganjam District,Odisha,2025-12,2026-01,2,2
+GAIL Gas Limited,"Ganjam, Nayagarh & Puri Districts",Nayagarh District,Odisha,2025-12,2026-01,2,2
+GAIL Gas Limited,"Ganjam, Nayagarh & Puri Districts",Puri District,Odisha,2025-12,2026-01,2,2
+GAIL Gas Limited,Giridih & Dhanbad Districts,Dhanbad District,Jharkhand,2025-12,2026-01,2,2
+GAIL Gas Limited,Giridih & Dhanbad Districts,Giridih District,Jharkhand,2025-12,2026-01,2,2
+GAIL Gas Limited,"Kondagaon, Bastar, Sukma, Narayanpur, Bijapur and Dantewada Districts",Bastar,Chhattisgarh,2025-12,2026-01,2,2
+GAIL Gas Limited,"Kondagaon, Bastar, Sukma, Narayanpur, Bijapur and Dantewada Districts",Kondagaon,Chhattisgarh,2025-12,2026-01,2,2
+GAIL Gas Limited,Meerut,MeerutDistrict,Uttar Pradesh,2025-12,2026-01,2,2
+GAIL Gas Limited,"Mirzapur, Chandauli and Sonbhadra Districts",Chandauli District,Uttar Pradesh,2025-12,2026-01,2,2
+GAIL Gas Limited,"Mirzapur, Chandauli and Sonbhadra Districts",Mirzapur District,Uttar Pradesh,2025-12,2026-01,2,2
+GAIL Gas Limited,"Mirzapur, Chandauli and Sonbhadra Districts",Sonbhadra District,Uttar Pradesh,2025-12,2026-01,2,2
+GAIL Gas Limited,"Raisen, Shajapur and Sehore Districts",Raisen District,Madhya Pradesh,2025-12,2026-01,2,2
+GAIL Gas Limited,"Raisen, Shajapur and Sehore Districts",Sehore District,Madhya Pradesh,2025-12,2026-01,2,2
+GAIL Gas Limited,"Raisen, Shajapur and Sehore Districts",Shajapur District,Madhya Pradesh,2025-12,2026-01,2,2
+GAIL Gas Limited,Seraikela-Kharsawan District,Seraikela-Kharsawan District,Jharkhand,2025-12,2026-01,2,2
+GAIL Gas Limited,Sonipat,Sonipat District,Haryana,2025-12,2026-01,2,2
+GAIL Gas Limited,Sundargarh & Jharsuguda Districts,Jharsuguda District,Odisha,2025-12,2026-01,2,2
+GAIL Gas Limited,Sundargarh & Jharsuguda Districts,Sundargarh District,Odisha,2025-12,2026-01,2,2
+GAIL Gas Limited,West Singhbhum District,West Singhbhum District,Jharkhand,2025-12,2026-01,2,2
+Gasonet Services (HP) Limited,"Mandi, Kullu, Kinnaur and Lahaul & Spiti districts",Kullu District,Himachal Pradesh,2025-12,2026-01,2,2
+Gasonet Services (HP) Limited,"Mandi, Kullu, Kinnaur and Lahaul & Spiti districts",Mandi District,Himachal Pradesh,2025-12,2026-01,2,2
+Gasonet Services (RJ) Limited,Bikaner and Churu districts,Bikaner District,Rajasthan,2025-12,2026-01,2,2
+Gasonet Services (RJ) Limited,Bikaner and Churu districts,Churu District,Rajasthan,2025-12,2026-01,2,2
+Gasonet Services (UK) Limited,"Pauri Garhwal, Uttarkashi, Rudraprayag and Tehri Garhwal districts",Pauri Garhwal District,Uttarakhand,2025-12,2026-01,2,2
+Gasonet Services (UK) Limited,"Pauri Garhwal, Uttarkashi, Rudraprayag and Tehri Garhwal districts",Tehri Garwal District,Uttarakhand,2025-12,2026-01,2,2
+Gasonet Services (UK) Limited,"Pithoragarh, Champawat, Almora, Chamoli and Bageshwar districts",Chmpawat District,Uttarakhand,2025-12,2026-01,2,2
+Goa Natural Gas Private Limited,North Goa District,North Goa District,Goa,2025-12,2026-01,2,2
+Godavari Gas Private Limited,East Godavari District (EAAA),East Godavari District,Andhra Pradesh,2025-12,2026-01,2,2
+Godavari Gas Private Limited,West Godavari District,West Godavari District,Andhra Pradesh,2025-12,2026-01,2,2
+Green Gas Limited,Agra,Agra District,Uttar Pradesh,2025-12,2026-01,2,2
+Green Gas Limited,Faizabad & Sultanpur Districts,Faizabad District,Uttar Pradesh,2025-12,2026-01,2,2
+Green Gas Limited,Faizabad & Sultanpur Districts,Sultanpur District,Uttar Pradesh,2025-12,2026-01,2,2
+Green Gas Limited,Lucknow,Lucknow District,Uttar Pradesh,2025-12,2026-01,2,2
+Green Gas Limited,Unnao (EAAA) District,Unnao District,Uttar Pradesh,2025-12,2026-01,2,2
+Gujarat Gas Limited,Ahmedabad District (EAAA),Ahmedabad District,Gujarat,2025-12,2026-01,2,2
+Gujarat Gas Limited,Amreli District,Amreli District,Gujarat,2025-12,2026-01,2,2
+Gujarat Gas Limited,Amritsar District,Amritsar District,Punjab,2025-12,2026-01,2,2
+Gujarat Gas Limited,Anand District (EAAA),Anand District,Gujarat,2025-12,2026-01,2,2
+Gujarat Gas Limited,Bhatinda District,Bhatinda District,Punjab,2025-12,2026-01,2,2
+Gujarat Gas Limited,Bhavnagar,Bhavnagar District,Gujarat,2025-12,2026-01,2,2
+Gujarat Gas Limited,Bhavnagar,Botad Districts,Gujarat,2025-12,2026-01,2,2
+Gujarat Gas Limited,Dahej Vagra Taluka,Bharuch District,Gujarat,2025-12,2026-01,2,2
+Gujarat Gas Limited,Dahod District,Dahod District,Gujarat,2025-12,2026-01,2,2
+Gujarat Gas Limited,"Ferozepur, Faridkot and Sri Muktsar Sahib Districts",Faridkot District,Punjab,2025-12,2026-01,2,2
+Gujarat Gas Limited,"Ferozepur, Faridkot and Sri Muktsar Sahib Districts",Fazilka District,Punjab,2025-12,2026-01,2,2
+Gujarat Gas Limited,"Ferozepur, Faridkot and Sri Muktsar Sahib Districts",Ferozepur District,Punjab,2025-12,2026-01,2,2
+Gujarat Gas Limited,"Ferozepur, Faridkot and Sri Muktsar Sahib Districts",Sri Muktsar Sahib Districts,Punjab,2025-12,2026-01,2,2
+Gujarat Gas Limited,Gandinagar (Part) District,Ahmedabad District,Gujarat,2025-12,2026-01,2,2
+Gujarat Gas Limited,Gandinagar (Part) District,Gandhinagar District,Gujarat,2025-12,2026-01,2,2
+Gujarat Gas Limited,Hazira,Surat District,Gujarat,2025-12,2026-01,2,2
+Gujarat Gas Limited,Hoshiarpur and Gurdaspur Districts,Gurdaspur District,Punjab,2025-12,2026-01,2,2
+Gujarat Gas Limited,Hoshiarpur and Gurdaspur Districts,Hoshiarpur District,Punjab,2025-12,2026-01,2,2
+Gujarat Gas Limited,Jalore and Sirohi Districts,Jalore District,Rajasthan,2025-12,2026-01,2,2
+Gujarat Gas Limited,Jalore and Sirohi Districts,Sirohi District,Rajasthan,2025-12,2026-01,2,2
+Gujarat Gas Limited,Jamnagar,Devbhoomi Dwarka District,Gujarat,2025-12,2026-01,2,2
+Gujarat Gas Limited,Jamnagar,Jamnagar Districts,Gujarat,2025-12,2026-01,2,2
+Gujarat Gas Limited,"Jhabua, Banswara, Ratlam and Dungarpur Districts",Banswara District,Rajasthan,2025-12,2026-01,2,2
+Gujarat Gas Limited,"Jhabua, Banswara, Ratlam and Dungarpur Districts",Dungarpur District,Rajasthan,2025-12,2026-01,2,2
+Gujarat Gas Limited,"Jhabua, Banswara, Ratlam and Dungarpur Districts",Jhabua District,Madhya Pradesh,2025-12,2026-01,2,2
+Gujarat Gas Limited,"Jhabua, Banswara, Ratlam and Dungarpur Districts",Ratlam District,Madhya Pradesh,2025-12,2026-01,2,2
+Gujarat Gas Limited,Kutch West,Kutch District,Gujarat,2025-12,2026-01,2,2
+Gujarat Gas Limited,Nadiad,Kheda District,Gujarat,2025-12,2026-01,2,2
+Gujarat Gas Limited,Narmada (Rajpipla) District,Narmada (Rajpipla) District,Gujarat,2025-12,2026-01,2,2
+Gujarat Gas Limited,Navsari,Navsari District,Gujarat,2025-12,2026-01,2,2
+Gujarat Gas Limited,Palghar District and Thane Rural,Palghar District,Maharashtra,2025-12,2026-01,2,2
+Gujarat Gas Limited,Palghar District and Thane Rural,Thane District,Maharashtra,2025-12,2026-01,2,2
+Gujarat Gas Limited,Panchmahal District,Panchmahal District,Gujarat,2025-12,2026-01,2,2
+Gujarat Gas Limited,Rajkot,Morbi District,Gujarat,2025-12,2026-01,2,2
+Gujarat Gas Limited,Rajkot,Rajkot District,Gujarat,2025-12,2026-01,2,2
+Gujarat Gas Limited,"Sirsa, Fatehabad and Mansa (Punjab) Districts",Fatehabad District,Haryana,2025-12,2026-01,2,2
+Gujarat Gas Limited,"Sirsa, Fatehabad and Mansa (Punjab) Districts",Mansa District,Punjab,2025-12,2026-01,2,2
+Gujarat Gas Limited,"Sirsa, Fatehabad and Mansa (Punjab) Districts",Sirsa District,Haryana,2025-12,2026-01,2,2
+Gujarat Gas Limited,"Surat, Bharuch, Ankleshwar",Bharuch District,Gujarat,2025-12,2026-01,2,2
+Gujarat Gas Limited,"Surat, Bharuch, Ankleshwar",Surat District,Gujarat,2025-12,2026-01,2,2
+Gujarat Gas Limited,"Surat, Bharuch, Ankleshwar",Tapi District,Gujarat,2025-12,2026-01,2,2
+Gujarat Gas Limited,Surendranagar,Surendranagar District,Gujarat,2025-12,2026-01,2,2
+Gujarat Gas Limited,UT of Dadra & Nagar Haveli,Dadra & Nagar Haveli District,UT of Dadra & Nagra Haveli and Daman & Diu,2025-12,2026-01,2,2
+Gujarat Gas Limited,"Ujjain (EAAA) District, Dewas (EAAA) District and Indore (EAAA) District",Dewas District,Madhya Pradesh,2025-12,2026-01,2,2
+Gujarat Gas Limited,"Ujjain (EAAA) District, Dewas (EAAA) District and Indore (EAAA) District",Indore District,Madhya Pradesh,2025-12,2026-01,2,2
+Gujarat Gas Limited,"Ujjain (EAAA) District, Dewas (EAAA) District and Indore (EAAA) District",Ujjain District,Madhya Pradesh,2025-12,2026-01,2,2
+Gujarat Gas Limited,Valsad,Valsad District,Gujarat,2025-12,2026-01,2,2
+HCG (KCE) Private Limited,Hisar District,Hisar District,Haryana,2025-12,2026-01,2,2
+HCG Nagpur Pvt. Ltd.,Nagpur district,Nagpur District,Maharashtra,2025-12,2026-01,2,2
+HCG Raipur Pvt Ltd,"Baloda Bazar, Gariyaband and Raipur districts",Baloda Bazar District,Chhattisgarh,2025-12,2026-01,2,2
+HPOIL Gas Private Limited,Ambala and Kurukshetra Districts,Ambala District,Haryana,2025-12,2026-01,2,2
+HPOIL Gas Private Limited,Ambala and Kurukshetra Districts,Kurukshetra District,Haryana,2025-12,2026-01,2,2
+HPOIL Gas Private Limited,Kolhapur District,Kolhapur District,Maharashtra,2025-12,2026-01,2,2
+Haridwar Natural Gas Private Limited,Haridwar District,Haridwar District,Uttarakhand,2025-12,2026-01,2,2
+Haryana City Gas (KCE) Private Limited,Jhajjar District,Jhajjar District,Haryana,2025-12,2026-01,2,2
+Haryana City Gas Distribution (Bhiwadi) Limited,Bhiwadi (in Alwar District),Alwar District,Rajasthan,2025-12,2026-01,2,2
+Haryana City Gas Distribution Limited,Gurugram-2,Gurugram District,Haryana,2025-12,2026-01,2,2
+Hindustan Petroleum Corporation Limited,Ahmedabad City (Only CNG),Ahmedabad District,Gujarat,2025-12,2026-01,2,2
+Hindustan Petroleum Corporation Limited,"Banka (Bihar), Dumka, Godda, Jamtara, Pakur & Sahibganj Districts",Banka,Bihar,2025-12,2026-01,2,2
+Hindustan Petroleum Corporation Limited,"Banka (Bihar), Dumka, Godda, Jamtara, Pakur & Sahibganj Districts",Dumka,Jharkhand,2025-12,2026-01,2,2
+Hindustan Petroleum Corporation Limited,"Banka (Bihar), Dumka, Godda, Jamtara, Pakur & Sahibganj Districts",Godda,Jharkhand,2025-12,2026-01,2,2
+Hindustan Petroleum Corporation Limited,"Banka (Bihar), Dumka, Godda, Jamtara, Pakur & Sahibganj Districts",Jamtara,Jharkhand,2025-12,2026-01,2,2
+Hindustan Petroleum Corporation Limited,"Banka (Bihar), Dumka, Godda, Jamtara, Pakur & Sahibganj Districts",Pakur,Jharkhand,2025-12,2026-01,2,2
+Hindustan Petroleum Corporation Limited,"Banka (Bihar), Dumka, Godda, Jamtara, Pakur & Sahibganj Districts",Sahibganj,Jharkhand,2025-12,2026-01,2,2
+Hindustan Petroleum Corporation Limited,"Bareilly (EAAA) District, Pilibhit and Rampur Districts",Bareilly District,Uttar Pradesh,2025-12,2026-01,2,2
+Hindustan Petroleum Corporation Limited,"Bareilly (EAAA) District, Pilibhit and Rampur Districts",Pilibhit District,Uttar Pradesh,2025-12,2026-01,2,2
+Hindustan Petroleum Corporation Limited,"Bareilly (EAAA) District, Pilibhit and Rampur Districts",Rampur District,Uttar Pradesh,2025-12,2026-01,2,2
+Hindustan Petroleum Corporation Limited,Bijnor and Nainital Districts,Bijnor District,Uttar Pradesh,2025-12,2026-01,2,2
+Hindustan Petroleum Corporation Limited,Bijnor and Nainital Districts,Nainital District,Uttarakhand,2025-12,2026-01,2,2
+Hindustan Petroleum Corporation Limited,"Birbhum, Murshidabad, Maldah & Dakshin Dinajpur Districts",Birbhum,West Bengal,2025-12,2026-01,2,2
+Hindustan Petroleum Corporation Limited,"Birbhum, Murshidabad, Maldah & Dakshin Dinajpur Districts",Dakshin Dinajpur,West Bengal,2025-12,2026-01,2,2
+Hindustan Petroleum Corporation Limited,"Birbhum, Murshidabad, Maldah & Dakshin Dinajpur Districts",Maldah,West Bengal,2025-12,2026-01,2,2
+Hindustan Petroleum Corporation Limited,"Birbhum, Murshidabad, Maldah & Dakshin Dinajpur Districts",Murshidabad,West Bengal,2025-12,2026-01,2,2
+Hindustan Petroleum Corporation Limited,"Darjeeling, Jalpaiguri and Uttar Dinajpur Districts",Darjeeling District,West Bengal,2025-12,2026-01,2,2
+Hindustan Petroleum Corporation Limited,"Darjeeling, Jalpaiguri and Uttar Dinajpur Districts",Jalpaiguri District,West Bengal,2025-12,2026-01,2,2
+Hindustan Petroleum Corporation Limited,"Darjeeling, Jalpaiguri and Uttar Dinajpur Districts",Uttar Dinajpur District,West Bengal,2025-12,2026-01,2,2
+Hindustan Petroleum Corporation Limited,"Dausa, Karauli, Sawai Madhopur and Tonk districts",Dausa District,Rajasthan,2025-12,2026-01,2,2
+Hindustan Petroleum Corporation Limited,"Dausa, Karauli, Sawai Madhopur and Tonk districts",Karauli District,Rajasthan,2025-12,2026-01,2,2
+Hindustan Petroleum Corporation Limited,"Dausa, Karauli, Sawai Madhopur and Tonk districts",Sawai Madhopur District,Rajasthan,2025-12,2026-01,2,2
+Hindustan Petroleum Corporation Limited,"Dausa, Karauli, Sawai Madhopur and Tonk districts",Tonk District,Rajasthan,2025-12,2026-01,2,2
+Hindustan Petroleum Corporation Limited,"Farrukhabad, Etah and Hardoi Districts",Etah District,Uttar Pradesh,2025-12,2026-01,2,2
+Hindustan Petroleum Corporation Limited,"Farrukhabad, Etah and Hardoi Districts",Farrukhabad District,Uttar Pradesh,2025-12,2026-01,2,2
+Hindustan Petroleum Corporation Limited,"Farrukhabad, Etah and Hardoi Districts",Hardoi District,Uttar Pradesh,2025-12,2026-01,2,2
+Hindustan Petroleum Corporation Limited,Howrah (EAAA) District and Hooghly (EAAA) District,Hoogly District,West Bengal,2026-01,2026-01,1,1
+Hindustan Petroleum Corporation Limited,Howrah (EAAA) District and Hooghly (EAAA) District,Howrah District,West Bengal,2025-12,2026-01,2,2
+Hindustan Petroleum Corporation Limited,Mainpuri and Kannauj Districts,Kannauj District,Uttar Pradesh,2025-12,2026-01,2,2
+Hindustan Petroleum Corporation Limited,Mainpuri and Kannauj Districts,Mainpuri District,Uttar Pradesh,2025-12,2026-01,2,2
+Hindustan Petroleum Corporation Limited,Nadia (EAAA) District and North 24 Parganas (EAAA) District,Nadia District,West Bengal,2025-12,2026-01,2,2
+Hindustan Petroleum Corporation Limited,Nadia (EAAA) District and North 24 Parganas (EAAA) District,North 24 Parganas District,West Bengal,2025-12,2026-01,2,2
+Hindustan Petroleum Corporation Limited,Shahjahanpur and Budaun Districts,Budaun District,Uttar Pradesh,2025-12,2026-01,2,2
+Hindustan Petroleum Corporation Limited,Shahjahanpur and Budaun Districts,Shahjahanpur District,Uttar Pradesh,2025-12,2026-01,2,2
+Hindustan Petroleum Corporation Limited,Sonipat District (EAAA) & Jind District,Jind District,Haryana,2025-12,2026-01,2,2
+Hindustan Petroleum Corporation Limited,Sonipat District (EAAA) & Jind District,Sonipat District,Haryana,2025-12,2026-01,2,2
+Hindustan Petroleum Corporation Limited,South 24 Parganas (EAAA) District,South 24 Parganas District,West Bengal,2025-12,2026-01,2,2
+IRM Energy Limited,Banaskantha District,Banaskantha District,Gujarat,2025-12,2026-01,2,2
+IRM Energy Limited,Diu & Gir Somnath Districts,Diu District,UT of Dadra & Nagra Haveli and Daman & Diu,2025-12,2026-01,2,2
+IRM Energy Limited,Diu & Gir Somnath Districts,Gir Somnath District,Gujarat,2025-12,2026-01,2,2
+IRM Energy Limited,Fatehgarh Sahib District,Fatehgarh Sahib District,Punjab,2025-12,2026-01,2,2
+IRM Energy Limited,Namakkal and Tiruchirapalli districts,Namakkal District,Tamil Nadu,2025-12,2026-01,2,2
+IRM Energy Limited,Namakkal and Tiruchirapalli districts,Tiruchirapalli District,Tamil Nadu,2025-12,2026-01,2,2
+Indian Oil Adani Gas Private Limited,Allahabad,Allahabad District,Uttar Pradesh,2025-12,2026-01,2,2
+Indian Oil Adani Gas Private Limited,"Allahabad District (EAAA), Bhadohi & Kaushambi Districts",Allahabad District,Uttar Pradesh,2025-12,2026-01,2,2
+Indian Oil Adani Gas Private Limited,"Allahabad District (EAAA), Bhadohi & Kaushambi Districts",Bhadohi District,Uttar Pradesh,2025-12,2026-01,2,2
+Indian Oil Adani Gas Private Limited,"Allahabad District (EAAA), Bhadohi & Kaushambi Districts",Kausambi District,Uttar Pradesh,2025-12,2026-01,2,2
+Indian Oil Adani Gas Private Limited,Bulandshahr (part) District,Bulandshahr District,Uttar Pradesh,2025-12,2026-01,2,2
+Indian Oil Adani Gas Private Limited,"Bulandshahr District (EAAA), Aligarh & Hathras Districts",Aligarh District,Uttar Pradesh,2025-12,2026-01,2,2
+Indian Oil Adani Gas Private Limited,"Bulandshahr District (EAAA), Aligarh & Hathras Districts",Bulandshahr District,Uttar Pradesh,2025-12,2026-01,2,2
+Indian Oil Adani Gas Private Limited,"Bulandshahr District (EAAA), Aligarh & Hathras Districts",Hathras District,Uttar Pradesh,2025-12,2026-01,2,2
+Indian Oil Adani Gas Private Limited,Burdwan District,Burdwan District,West Bengal,2025-12,2026-01,2,2
+Indian Oil Adani Gas Private Limited,Chandigarh,Chandigarh District,Chandigarh,2025-12,2026-01,2,2
+Indian Oil Adani Gas Private Limited,Chandigarh,Panchkula District,Haryana,2025-12,2026-01,2,2
+Indian Oil Adani Gas Private Limited,Chandigarh,SAS Nagar District,Punjab,2025-12,2026-01,2,2
+Indian Oil Adani Gas Private Limited,Chandigarh,Solan District,Himachal Pradesh,2025-12,2026-01,2,2
+Indian Oil Adani Gas Private Limited,Dharwad District,Dharwad District,Karnataka,2025-12,2026-01,2,2
+Indian Oil Adani Gas Private Limited,Ernakulam District,Ernakulam District,Kerala,2025-12,2026-01,2,2
+Indian Oil Adani Gas Private Limited,Gaya & Nalanda Districts,Gaya District,Bihar,2025-12,2026-01,2,2
+Indian Oil Adani Gas Private Limited,Gaya & Nalanda Districts,Nalanda District,Bihar,2025-12,2026-01,2,2
+Indian Oil Adani Gas Private Limited,Jaunpur and Ghazipur Districts,Ghazipur District,Uttar Pradesh,2025-12,2026-01,2,2
+Indian Oil Adani Gas Private Limited,Jaunpur and Ghazipur Districts,Jaunpur District,Uttar Pradesh,2025-12,2026-01,2,2
+Indian Oil Adani Gas Private Limited,"Kannur, Kasaragod & Mahe Districts",Kannur District,Kerala,2025-12,2026-01,2,2
+Indian Oil Adani Gas Private Limited,"Kannur, Kasaragod & Mahe Districts",Kasargod District,Kerala,2025-12,2026-01,2,2
+Indian Oil Adani Gas Private Limited,"Kannur, Kasaragod & Mahe Districts",Mahe District,Puducherry (UT),2025-12,2026-01,2,2
+Indian Oil Adani Gas Private Limited,Kozhikode & Wayanad Districts,Kozhikode District,Kerala,2025-12,2026-01,2,2
+Indian Oil Adani Gas Private Limited,Kozhikode & Wayanad Districts,Wayanad District,Kerala,2025-12,2026-01,2,2
+Indian Oil Adani Gas Private Limited,Malappuram District,Malappuram District,Kerala,2025-12,2026-01,2,2
+Indian Oil Adani Gas Private Limited,Palakkad & Thrissur Districts,Palakkad District,Kerala,2025-12,2026-01,2,2
+Indian Oil Adani Gas Private Limited,Palakkad & Thrissur Districts,Thrissur Districts,Kerala,2025-12,2026-01,2,2
+Indian Oil Adani Gas Private Limited,"Panchkula District (EAAA), Sirmaur, Shimla & Solan (EAAA) Districts",Panchkula District,Haryana,2025-12,2026-01,2,2
+Indian Oil Adani Gas Private Limited,"Panchkula District (EAAA), Sirmaur, Shimla & Solan (EAAA) Districts",Sirmaur District,Himachal Pradesh,2025-12,2026-01,2,2
+Indian Oil Adani Gas Private Limited,"Panchkula District (EAAA), Sirmaur, Shimla & Solan (EAAA) Districts",Solan District,Himachal Pradesh,2025-12,2026-01,2,2
+Indian Oil Adani Gas Private Limited,Panipat District,Panipat District,Haryana,2025-12,2026-01,2,2
+Indian Oil Adani Gas Private Limited,South Goa District,South Goa District,Goa,2025-12,2026-01,2,2
+Indian Oil Adani Gas Private Limited,UT of Daman,Daman District,UT of Dadra & Nagra Haveli and Daman & Diu,2025-12,2026-01,2,2
+Indian Oil Adani Gas Private Limited,Udham Singh Nagar District,Udham Singh Nagar District,Uttarakhand,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Araria, Purnia, Katihar and Kishanganj Districts",Araria District,Bihar,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Araria, Purnia, Katihar and Kishanganj Districts",Katihar District,Bihar,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Araria, Purnia, Katihar and Kishanganj Districts",Kishanganj District,Bihar,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Araria, Purnia, Katihar and Kishanganj Districts",Purnia District,Bihar,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Arwal, Jehanabad, Bhojpur and Buxar Districts",Arwal District,Bihar,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Arwal, Jehanabad, Bhojpur and Buxar Districts",Bhojpur District,Bihar,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Arwal, Jehanabad, Bhojpur and Buxar Districts",Buxar District,Bihar,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Arwal, Jehanabad, Bhojpur and Buxar Districts",Jehanabad District,Bihar,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,Ashoknagar District,Ashoknagar District,Madhya Pradesh,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Aurangabad, Kaimur & Rohtas Districts",Aurangabad District,Bihar,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Aurangabad, Kaimur & Rohtas Districts",Kaimur District,Bihar,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Aurangabad, Kaimur & Rohtas Districts",Rohtas District,Bihar,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Beed, Jalgaon and Jalna districts",Beed District,Maharashtra,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Beed, Jalgaon and Jalna districts",Jalgaon District,Maharashtra,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Beed, Jalgaon and Jalna districts",Jalna District,Maharashtra,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Bokaro, Hazaribagh & Ramgarh Districts",Bokaro District,Jharkhand,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Bokaro, Hazaribagh & Ramgarh Districts",Hazaribagh District,Jharkhand,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Bokaro, Hazaribagh & Ramgarh Districts",Ramgarh District,Jharkhand,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,Coimbatore District,Coimbatore District,Tamil Nadu,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,Dharmapuri and Krishnagiri districts,Dharmapuri District,Tamil Nadu,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,Dharmapuri and Krishnagiri districts,Krishnagiri District,Tamil Nadu,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"East Mednipore, West Mednipore and Jhargram districts",East Mednipore District,West Bengal,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"East Mednipore, West Mednipore and Jhargram districts",Jhargram District,West Bengal,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"East Mednipore, West Mednipore and Jhargram districts",West Mednipore District,West Bengal,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,Guna District,Guna District,Madhya Pradesh,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Jagtial, Peddapalli, Karimnagar & Rajanna Sircilla Districts",Jagtial District,Telangana,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Jagtial, Peddapalli, Karimnagar & Rajanna Sircilla Districts",Karimnagar District,Telangana,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Jagtial, Peddapalli, Karimnagar & Rajanna Sircilla Districts",Peddapalle District,Telangana,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Jagtial, Peddapalli, Karimnagar & Rajanna Sircilla Districts",Rajanna Sircilla District,Telangana,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Jammu, Udhampur, Reasi, Samba and Kathua districts",Jammu District,UT of Jammu and Kashmir,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Jammu, Udhampur, Reasi, Samba and Kathua districts",Kathua District,UT of Jammu and Kashmir,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Jammu, Udhampur, Reasi, Samba and Kathua districts",Reasi District,UT of Jammu and Kashmir,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Jammu, Udhampur, Reasi, Samba and Kathua districts",Samba District,UT of Jammu and Kashmir,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Jammu, Udhampur, Reasi, Samba and Kathua districts",Udhampur District,UT of Jammu and Kashmir,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Jhunjhunu, Sikar and Nagaur districts",Jhunjunu District,Rajasthan,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Jhunjhunu, Sikar and Nagaur districts",Nagaur District,Rajasthan,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Jhunjhunu, Sikar and Nagaur districts",Sikar District,Rajasthan,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Kanyakumari, Thoothukudi, Tiruneveli Kattabo and Tenkasi districts",Kanyakumari District,Tamil Nadu,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Kanyakumari, Thoothukudi, Tiruneveli Kattabo and Tenkasi districts",Tenkasi District,Tamil Nadu,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Kanyakumari, Thoothukudi, Tiruneveli Kattabo and Tenkasi districts",Thoothukudi District,Tamil Nadu,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Kanyakumari, Thoothukudi, Tiruneveli Kattabo and Tenkasi districts",Tiruneveli District,Tamil Nadu,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Khagaria, Saharsa and Madhepura Districts",Khagaria District,Bihar,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Khagaria, Saharsa and Madhepura Districts",Madhepura Districts,Bihar,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Khagaria, Saharsa and Madhepura Districts",Saharsa District,Bihar,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Kurnool, Guntur, and Prakasam districts",Guntur District,Andhra Pradesh,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Kurnool, Guntur, and Prakasam districts",Kurnool District,Andhra Pradesh,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Kurnool, Guntur, and Prakasam districts",Prakasam District,Andhra Pradesh,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Lakhisarai, Munger and Bhagalpur Districts",Bhagalpur Districts,Bihar,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Lakhisarai, Munger and Bhagalpur Districts",Lakhisarai District,Bihar,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Lakhisarai, Munger and Bhagalpur Districts",Munger District,Bihar,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Madurai, Theni and Virudhnagar districts",Madurai District,Tamil Nadu,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Madurai, Theni and Virudhnagar districts",Theni District,Tamil Nadu,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Madurai, Theni and Virudhnagar districts",Virudhnagar District,Tamil Nadu,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,Morena District,Morena District,Madhya Pradesh,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Muzaffarpur, Vaishali, Saran and Samastipur Districts",Muzaffarpur District,Bihar,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Muzaffarpur, Vaishali, Saran and Samastipur Districts",Samastipur Districts,Bihar,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Muzaffarpur, Vaishali, Saran and Samastipur Districts",Saran District,Bihar,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Muzaffarpur, Vaishali, Saran and Samastipur Districts",Vaishali District,Bihar,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,Nawada and Koderma Districts,Koderma District,Jharkhand,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,Nawada and Koderma Districts,Nawada District,Bihar,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,Pathankot district,Pathankot District,Punjab,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,Rewa District,Rewa District,Madhya Pradesh,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,Salem District,Salem District,Tamil Nadu,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Sheikhpura, Jamui and Deoghar Districts",Deoghar Districts,Jharkhand,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Sheikhpura, Jamui and Deoghar Districts",Jamui District,Bihar,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Sheikhpura, Jamui and Deoghar Districts",Sheikhpura District,Bihar,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Srikakulam, Visakhapatnam & Vizianagaram Districts",Srikakulam District,Andhra Pradesh,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Srikakulam, Visakhapatnam & Vizianagaram Districts",Visakhapatnam District,Andhra Pradesh,2025-12,2026-01,2,2
+Indian Oil Corporation Limited,"Srikakulam, Visakhapatnam & Vizianagaram Districts",Vizianagarm District,Andhra Pradesh,2025-12,2026-01,2,2
+Indraprastha Gas Limited,"Ajmer, Pali and Rajsamand Districts",Ajmer District,Rajasthan,2025-12,2026-01,2,2
+Indraprastha Gas Limited,"Ajmer, Pali and Rajsamand Districts",Pali District,Rajasthan,2025-12,2026-01,2,2
+Indraprastha Gas Limited,"Ajmer, Pali and Rajsamand Districts",Rajsamand District,Rajasthan,2025-12,2026-01,2,2
+Indraprastha Gas Limited,"Banda, Chitrakoot and Mahoba",Banda District,Uttar Pradesh,2025-12,2026-01,2,2
+Indraprastha Gas Limited,"Banda, Chitrakoot and Mahoba",Chitrakoot District,Uttar Pradesh,2025-12,2026-01,2,2
+Indraprastha Gas Limited,"Banda, Chitrakoot and Mahoba",Mahoba District,Uttar Pradesh,2025-12,2026-01,2,2
+Indraprastha Gas Limited,Ghaziabad & Hapur Districts,Ghaziabad Districts,Uttar Pradesh,2025-12,2026-01,2,2
+Indraprastha Gas Limited,Ghaziabad & Hapur Districts,Hapud District,Uttar Pradesh,2025-12,2026-01,2,2
+Indraprastha Gas Limited,Gurugram (Part) District,Gurugram District,Haryana,2025-12,2026-01,2,2
+Indraprastha Gas Limited,Kaithal District,Kaithal District,Haryana,2025-12,2026-01,2,2
+Indraprastha Gas Limited,"Kanpur (EAAA) District, Fatehpur and Hamirpur Districts",Fatehpur District,Uttar Pradesh,2025-12,2026-01,2,2
+Indraprastha Gas Limited,"Kanpur (EAAA) District, Fatehpur and Hamirpur Districts",Hamirpur District,Himachal Pradesh,2025-12,2026-01,2,2
+Indraprastha Gas Limited,"Kanpur (EAAA) District, Fatehpur and Hamirpur Districts",Kanpur District,Uttar Pradesh,2025-12,2026-01,2,2
+Indraprastha Gas Limited,Karnal District,Karnal District,Haryana,2025-12,2026-01,2,2
+Indraprastha Gas Limited,"Meerut District (EAAA), Muzaffarnagar & Shamli Districts",Meerut District,Uttar Pradesh,2025-12,2026-01,2,2
+Indraprastha Gas Limited,"Meerut District (EAAA), Muzaffarnagar & Shamli Districts",Muzaffarnagar District,Uttar Pradesh,2025-12,2026-01,2,2
+Indraprastha Gas Limited,"Meerut District (EAAA), Muzaffarnagar & Shamli Districts",Shamali District,Uttar Pradesh,2025-12,2026-01,2,2
+Indraprastha Gas Limited,NCT of Delhi,NCT of Delhi,Delhi,2025-12,2026-01,2,2
+Indraprastha Gas Limited,Noida(Including Greater Noida),Goutam Buddh Nagar District,Uttar Pradesh,2025-12,2026-01,2,2
+Indraprastha Gas Limited,Rewari District,Rewari District,Haryana,2025-12,2026-01,2,2
+Mahanagar Gas Limited,Mumbai & Greater Mumbai,Mumbai City District,Maharashtra,2025-12,2026-01,2,2
+Mahanagar Gas Limited,Mumbai & Greater Mumbai,Mumbai sub-urban District,Maharashtra,2025-12,2026-01,2,2
+Mahanagar Gas Limited,Raigarh District (EAAA),Raigarh District,Maharashtra,2025-12,2026-01,2,2
+Mahanagar Gas Limited,Thane Urban and adjoining municipalities,Raigarh District,Maharashtra,2025-12,2026-01,2,2
+Mahanagar Gas Limited,Thane Urban and adjoining municipalities,Thane District,Maharashtra,2025-12,2026-01,2,2
+Maharashtra Natural Gas Limited,"Buldana, Nanded and Parbhani districts",Nanded District,Maharashtra,2025-12,2026-01,2,2
+Maharashtra Natural Gas Limited,"Buldana, Nanded and Parbhani districts",Parbhani District,Maharashtra,2025-12,2026-01,2,2
+Maharashtra Natural Gas Limited,"Nizamabad, Adilabad, Nirmal, Mancherial Kumuram Bheem Asifabad and Kamareddy districts",Adilabad District,Telangana,2025-12,2026-01,2,2
+Maharashtra Natural Gas Limited,"Nizamabad, Adilabad, Nirmal, Mancherial Kumuram Bheem Asifabad and Kamareddy districts",Kamareddy District,Telangana,2025-12,2026-01,2,2
+Maharashtra Natural Gas Limited,"Nizamabad, Adilabad, Nirmal, Mancherial Kumuram Bheem Asifabad and Kamareddy districts",Kumuram Bheem Asifabad District,Telangana,2025-12,2026-01,2,2
+Maharashtra Natural Gas Limited,"Nizamabad, Adilabad, Nirmal, Mancherial Kumuram Bheem Asifabad and Kamareddy districts",Mancherial District,Telangana,2025-12,2026-01,2,2
+Maharashtra Natural Gas Limited,"Nizamabad, Adilabad, Nirmal, Mancherial Kumuram Bheem Asifabad and Kamareddy districts",Nirmal District,Telangana,2025-12,2026-01,2,2
+Maharashtra Natural Gas Limited,"Nizamabad, Adilabad, Nirmal, Mancherial Kumuram Bheem Asifabad and Kamareddy districts",Nizamabad District,Telangana,2025-12,2026-01,2,2
+Maharashtra Natural Gas Limited,"Pune City including Pimpri-Chiechwad& adjoining contiguous areas Hinjewadi, Chakan, Talegaon",Pune District,Maharashtra,2025-12,2026-01,2,2
+Maharashtra Natural Gas Limited,Ramanagara District,Ramanagara District,Karnataka,2025-12,2026-01,2,2
+Maharashtra Natural Gas Limited,Sindhudurg District,Sindhudurg District,Maharashtra,2025-12,2026-01,2,2
+Maharashtra Natural Gas Limited,"Valsad (EAAA), Dhule & Nashik Districts",Dhule District,Maharashtra,2025-12,2026-01,2,2
+Maharashtra Natural Gas Limited,"Valsad (EAAA), Dhule & Nashik Districts",Nashik District,Maharashtra,2025-12,2026-01,2,2
+Maharashtra Natural Gas Limited,"Valsad (EAAA), Dhule & Nashik Districts",Valsad District,Gujarat,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,"Agar Malwa, Neemuch, Mandsaur and Jhalawar districts",Agar Malwa District,Madhya Pradesh,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,"Agar Malwa, Neemuch, Mandsaur and Jhalawar districts",Jhalawar District,Rajasthan,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,"Agar Malwa, Neemuch, Mandsaur and Jhalawar districts",Mandsaur District,Madhya Pradesh,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,"Agar Malwa, Neemuch, Mandsaur and Jhalawar districts",Neemuch District,Madhya Pradesh,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,Amroha (except area already authorized) & Sambhal (except area already authorized) districts,Amroha District,Uttar Pradesh,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,Amroha (except area already authorized) & Sambhal (except area already authorized) districts,Sambhal (except area already authorized) District,Uttar Pradesh,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,Ariyalur and Perambalur districts,Perambalur District,Tamil Nadu,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,Belgaum District,Belgaum District,Karnataka,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,"Betul, Chhindwara, Seoni and Balaghat districts",Balaghat District,Madhya Pradesh,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,"Betul, Chhindwara, Seoni and Balaghat districts",Betul District,Madhya Pradesh,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,"Betul, Chhindwara, Seoni and Balaghat districts",Chhindwara District,Madhya Pradesh,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,Bhadradri Kothagudem & Khamman Districts,Bhadradri Kothagudem District,Telangana,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,Bhadradri Kothagudem & Khamman Districts,Khammam District,Telangana,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,Chandrapur and Wardha districts,Chandrapur District,Maharashtra,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,Chandrapur and Wardha districts,Wardha District,Maharashtra,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,Chikkaballapur district,Chikkaballapur District,Karnataka,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,"Damoh, Jabalpur, Katni, Mandla, Umaria and Dindori districts",Jabalpur District,Madhya Pradesh,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,"Damoh, Jabalpur, Katni, Mandla, Umaria and Dindori districts",Mandla District,Madhya Pradesh,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,Dindigul and Karur districts,Dindigul District,Tamil Nadu,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,Dindigul and Karur districts,Karur District,Tamil Nadu,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,"Hoshangabad, Narsinghpur, Sagar and Vidisha districts",Narsinghpur District,Madhya Pradesh,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,"Hoshangabad, Narsinghpur, Sagar and Vidisha districts",Sagar District,Madhya Pradesh,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,"Hoshangabad, Narsinghpur, Sagar and Vidisha districts",Vidisha District,Madhya Pradesh,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,"Jangaon, Jayashankar Bhupalpally, Mahabubabad, Warangal Urban & Warangal Rural Districts",Jangaon District,Telangana,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,"Jangaon, Jayashankar Bhupalpally, Mahabubabad, Warangal Urban & Warangal Rural Districts",Jayashankar Boopalpally District,Telangana,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,"Jangaon, Jayashankar Bhupalpally, Mahabubabad, Warangal Urban & Warangal Rural Districts",Mahbubabad District,Telangana,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,"Jangaon, Jayashankar Bhupalpally, Mahabubabad, Warangal Urban & Warangal Rural Districts",Warangal Rural District,Telangana,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,"Jangaon, Jayashankar Bhupalpally, Mahabubabad, Warangal Urban & Warangal Rural Districts",Warangal Urban District,Telangana,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,"Jogulamba Gadwal, Nagarkurnool, Mahabubnagar, Narayanpet, Wanaparthy and Yadgir districts",Jogulamba Gadwal District,Telangana,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,"Jogulamba Gadwal, Nagarkurnool, Mahabubnagar, Narayanpet, Wanaparthy and Yadgir districts",Mahabubnagar District,Telangana,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,"Jogulamba Gadwal, Nagarkurnool, Mahabubnagar, Narayanpet, Wanaparthy and Yadgir districts",Nagarkurnool District,Telangana,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,"Jogulamba Gadwal, Nagarkurnool, Mahabubnagar, Narayanpet, Wanaparthy and Yadgir districts",Narayanpet District,Telangana,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,"Jogulamba Gadwal, Nagarkurnool, Mahabubnagar, Narayanpet, Wanaparthy and Yadgir districts",Wanaparthy District,Telangana,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,"Jogulamba Gadwal, Nagarkurnool, Mahabubnagar, Narayanpet, Wanaparthy and Yadgir districts",Yadgir District,Karnataka,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,Kasganj district,Kasganj District,Uttar Pradesh,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,Krishna District (EAAA),Krishna District,Andhra Pradesh,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,"Medchal-Malkajgiri, Ranga Reddy & Vikarabad Districts",Medchal Malkajgiri district,Telangana,2026-01,2026-01,1,1
+Megha City Gas Distribution Private Limited,"Medchal-Malkajgiri, Ranga Reddy & Vikarabad Districts",Medchal-Malkajgiri district,Telangana,2025-12,2025-12,1,1
+Megha City Gas Distribution Private Limited,"Medchal-Malkajgiri, Ranga Reddy & Vikarabad Districts",Rangareddy District,Telangana,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,"Medchal-Malkajgiri, Ranga Reddy & Vikarabad Districts",Vikarabad District,Telangana,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,Nalgonda Suryapet & Yadadri Bhuvanagiri Districts,Nalgonda District,Telangana,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,Nalgonda Suryapet & Yadadri Bhuvanagiri Districts,Suryapet District,Telangana,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,Nalgonda Suryapet & Yadadri Bhuvanagiri Districts,Yadadri Bhuvanagiri District,Telangana,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,"Pudukottai, Sivaganga and Thanjavur districts",Pudukottai District,Tamil Nadu,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,"Pudukottai, Sivaganga and Thanjavur districts",Sivaganga District,Tamil Nadu,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,"Pudukottai, Sivaganga and Thanjavur districts",Thanjavur District,Tamil Nadu,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,"Rayagada, Kalahandi, Bolangir and Nuapada districts",Bolangir District,Odisha,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,"Rayagada, Kalahandi, Bolangir and Nuapada districts",Kalahandi District,Odisha,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,"Rayagada, Kalahandi, Bolangir and Nuapada districts",Nuapada District,Odisha,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,Tarn Taran district,Tarn Taran District,Punjab,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,"Tiruvannamalai, Villupuram and Kallakkurichi districts",Kallakkurichi District,Tamil Nadu,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,"Tiruvannamalai, Villupuram and Kallakkurichi districts",Tiruvannamalai District,Tamil Nadu,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,"Tiruvannamalai, Villupuram and Kallakkurichi districts",Villupuram District,Tamil Nadu,2025-12,2026-01,2,2
+Megha City Gas Distribution Private Limited,Tumkur District,Tumkur District,Karnataka,2025-12,2026-01,2,2
+Naveriya Gas Private Limited,Dhar District,Dhar District,Madhya Pradesh,2025-12,2026-01,2,2
+North East Gas Distribution Company Limited,"Dhalai, North Tripura, Unakoti and Khowai",Dhalai District,Tripura,2025-12,2026-01,2,2
+North East Gas Distribution Company Limited,"Dhalai, North Tripura, Unakoti and Khowai",Khowai District,Tripura,2025-12,2026-01,2,2
+North East Gas Distribution Company Limited,"Lakhimpur, Dhemaji , Darrang, Udalgiri, Sonitpur and Biswanath Chariali districts",Dhemaji District,Assam,2025-12,2026-01,2,2
+North East Gas Distribution Company Limited,"Lakhimpur, Dhemaji , Darrang, Udalgiri, Sonitpur and Biswanath Chariali districts",Lakhimpur District,Assam,2025-12,2026-01,2,2
+North East Gas Distribution Company Limited,South Tripura and Sepahijala district,Sepahijala District,Tripura,2025-12,2026-01,2,2
+North East Gas Distribution Company Limited,South Tripura and Sepahijala district,South Tripura District,Tripura,2025-12,2026-01,2,2
+Purba Bharati Gas Private Limited,"Cachar, Hailakandi & Karimganj Districts",Cachar District,Assam,2025-12,2026-01,2,2
+Purba Bharati Gas Private Limited,Kamrup & Kamrup Metropolitan Districts,Kamrup Metropolitan District,Assam,2025-12,2026-01,2,2
+Rajasthan State Gas Limited,Gwalior (EAAA) District and Sheopur District,Gwalior District,Madhya Pradesh,2025-12,2026-01,2,2
+Rajasthan State Gas Limited,Gwalior (EAAA) District and Sheopur District,Sheopur District,Madhya Pradesh,2025-12,2025-12,1,1
+Rajasthan State Gas Limited,Kota,Kota District,Rajasthan,2025-12,2026-01,2,2
+Sabarmati Gas Limited,"Gandhinagar, Mehsana, Sabarkantha",Aravali District,Gujarat,2025-12,2026-01,2,2
+Sabarmati Gas Limited,"Gandhinagar, Mehsana, Sabarkantha",Gandhinagar District,Gujarat,2025-12,2026-01,2,2
+Sabarmati Gas Limited,"Gandhinagar, Mehsana, Sabarkantha",Mehsana District,Gujarat,2025-12,2026-01,2,2
+Sabarmati Gas Limited,"Gandhinagar, Mehsana, Sabarkantha",Sabarkantha District,Gujarat,2025-12,2026-01,2,2
+Sabarmati Gas Limited,Patan District,Patan District,Gujarat,2025-12,2026-01,2,2
+THINK Gas Begusarai Private Limited,Begusarai District,Begusarai District,Bihar,2025-12,2026-01,2,2
+THINK Gas Bhopal Private Limited,Bhopal & Rajgarh Districts,Bhopal District,Madhya Pradesh,2025-12,2026-01,2,2
+THINK Gas Bhopal Private Limited,Bhopal & Rajgarh Districts,Rajgarh District,Madhya Pradesh,2025-12,2026-01,2,2
+THINK Gas Bhopal Private Limited,Shivpuri District,Shivpuri District,Madhya Pradesh,2025-12,2026-01,2,2
+THINK Gas Ludhiana Private Limited,"Jalandhar District (EAAA), Kapurthala & SBS Nagar Districts",Jalandhar District,Punjab,2025-12,2026-01,2,2
+THINK Gas Ludhiana Private Limited,"Jalandhar District (EAAA), Kapurthala & SBS Nagar Districts",Kapurthala District,Punjab,2025-12,2026-01,2,2
+THINK Gas Ludhiana Private Limited,"Jalandhar District (EAAA), Kapurthala & SBS Nagar Districts",SBS Nagar District,Punjab,2025-12,2026-01,2,2
+THINK Gas Ludhiana Private Limited,"Ludhiana District (EAAA), Barnala & Moga Districts",Barnala District,Punjab,2025-12,2026-01,2,2
+THINK Gas Ludhiana Private Limited,"Ludhiana District (EAAA), Barnala & Moga Districts",Ludhiana District,Punjab,2025-12,2026-01,2,2
+THINK Gas Ludhiana Private Limited,"Ludhiana District (EAAA), Barnala & Moga Districts",Moga District,Punjab,2025-12,2026-01,2,2
+Think Gas Himachal Private Limited,Kangra and Chamba districts,Kangra District,Himachal Pradesh,2025-12,2026-01,2,2
+Torrent Gas Chennai Private Limited,Chennai & Tiruvallur Districts,Chennai District,Tamil Nadu,2025-12,2026-01,2,2
+Torrent Gas Chennai Private Limited,Chennai & Tiruvallur Districts,Tiruvallur District,Tamil Nadu,2025-12,2026-01,2,2
+Torrent Gas Jaipur Private Limited,Alwar (Other than Bhiwadi) & Jaipur Districts,Alwar District,Rajasthan,2025-12,2026-01,2,2
+Torrent Gas Jaipur Private Limited,Alwar (Other than Bhiwadi) & Jaipur Districts,Jaipur District,Rajasthan,2025-12,2026-01,2,2
+Torrent Gas Limited,"Auraiya, Kanpur Dehat & Etawah Districts",Auraiya District,Uttar Pradesh,2025-12,2026-01,2,2
+Torrent Gas Limited,"Auraiya, Kanpur Dehat & Etawah Districts",Etawah District,Uttar Pradesh,2025-12,2026-01,2,2
+Torrent Gas Limited,"Auraiya, Kanpur Dehat & Etawah Districts",Kanpur Dehat District,Uttar Pradesh,2025-12,2026-01,2,2
+Torrent Gas Limited,"Azamgarh, Mau and Ballia Districts",Azamgarh District,Uttar Pradesh,2025-12,2026-01,2,2
+Torrent Gas Limited,"Azamgarh, Mau and Ballia Districts",Ballia District,Uttar Pradesh,2025-12,2026-01,2,2
+Torrent Gas Limited,"Azamgarh, Mau and Ballia Districts",Mau District,Uttar Pradesh,2025-12,2026-01,2,2
+Torrent Gas Limited,Basti and Ambedkarnagar Districts,Ambedkarnagar District,Uttar Pradesh,2025-12,2026-01,2,2
+Torrent Gas Limited,Basti and Ambedkarnagar Districts,Basti District,Uttar Pradesh,2025-12,2026-01,2,2
+Torrent Gas Limited,Gonda and Barabanki Districts,Barabanki District,Uttar Pradesh,2025-12,2026-01,2,2
+Torrent Gas Limited,Gonda and Barabanki Districts,Gonda District,Uttar Pradesh,2025-12,2026-01,2,2
+Torrent Gas Limited,"Gorakhpur, Sant Kabir Nagar & Kushinagar Districts",Gorakhpur District,Uttar Pradesh,2025-12,2026-01,2,2
+Torrent Gas Limited,"Gorakhpur, Sant Kabir Nagar & Kushinagar Districts",Kushinagar District,Uttar Pradesh,2025-12,2026-01,2,2
+Torrent Gas Limited,"Gorakhpur, Sant Kabir Nagar & Kushinagar Districts",Sant Kabir Nagar District,Uttar Pradesh,2025-12,2026-01,2,2
+Torrent Gas Limited,Junagadh District,Junagadh District,Gujarat,2025-12,2026-01,2,2
+Torrent Gas Limited,Karaikal & Nagapattinam Districts,Karaikal District,Puducherry (UT),2025-12,2026-01,2,2
+Torrent Gas Limited,Karaikal & Nagapattinam Districts,Nagapattinam District,Tamil Nadu,2025-12,2026-01,2,2
+Torrent Gas Limited,"Kota District (EAAA), Baran & Chittorgarh (Only Rawatbhata Taluka) Districts",Baran District,Rajasthan,2025-12,2026-01,2,2
+Torrent Gas Limited,"Kota District (EAAA), Baran & Chittorgarh (Only Rawatbhata Taluka) Districts",Chittorgarh District,Rajasthan,2025-12,2026-01,2,2
+Torrent Gas Limited,"Kota District (EAAA), Baran & Chittorgarh (Only Rawatbhata Taluka) Districts",Kota District,Rajasthan,2025-12,2026-01,2,2
+Torrent Gas Limited,Mathura,Mathura District,Uttar Pradesh,2025-12,2026-01,2,2
+Torrent Gas Limited,"Medak, Siddipet & Sangareddy Districts",Medak District,Telangana,2025-12,2026-01,2,2
+Torrent Gas Limited,"Medak, Siddipet & Sangareddy Districts",Sangareddy District,Telangana,2025-12,2026-01,2,2
+Torrent Gas Limited,"Medak, Siddipet & Sangareddy Districts",Siddipet District,Telangana,2025-12,2026-01,2,2
+Torrent Gas Limited,Moradabad,Moradabad District,Uttar Pradesh,2025-12,2026-01,2,2
+Torrent Gas Limited,Moradabad (EAAA) District,Moradabad District,Uttar Pradesh,2025-12,2026-01,2,2
+Torrent Gas Limited,Pune District (EAAA),Pune District,Maharashtra,2025-12,2026-01,2,2
+Torrent Gas Limited,"SAS Nagar District (EAAA), Patiala & Sangrur Districts",Patiala District,Punjab,2025-12,2026-01,2,2
+Torrent Gas Limited,"SAS Nagar District (EAAA), Patiala & Sangrur Districts",SAS Nagar District,Punjab,2025-12,2026-01,2,2
+Torrent Gas Limited,"SAS Nagar District (EAAA), Patiala & Sangrur Districts",Sangrur District,Punjab,2025-12,2026-01,2,2
+Tripura Natural Gas Company Limited,Agartala,West Tripura District,Tripura,2025-12,2026-01,2,2
+Tripura Natural Gas Company Limited,Gomati District,Gomati District,Tripura,2025-12,2026-01,2,2
+Tripura Natural Gas Company Limited,West Tripura (EAAA) District,West Tripura District,Tripura,2025-12,2026-01,2,2
+Unison Enviro Private Limited,Chitradurga & Davanagere Districts,Chitradurga District,Karnataka,2025-12,2026-01,2,2
+Unison Enviro Private Limited,Chitradurga & Davanagere Districts,Devangere District,Karnataka,2025-12,2026-01,2,2
+Unison Enviro Private Limited,Latur & Osmanabad Districts,Latur District,Maharashtra,2025-12,2026-01,2,2
+Unison Enviro Private Limited,Latur & Osmanabad Districts,Osamanabad District,Maharashtra,2025-12,2026-01,2,2
+Unison Enviro Private Limited,Ratnagiri District,Ratnagiri District,Maharashtra,2025-12,2026-01,2,2
+Vadodara Gas Limited,Vadodara,Vadodara District,Gujarat,2025-12,2026-01,2,2
+,Adani Total Gas Limited,Vadodara,Vadodara District,2025-03,2026-08,15,15
+,Gujarat Energy Limited,Gandhinagar (Part) District,Gandhinagar District,2026-07,2026-08,2,2
+,Gujarat Gas Limited,Gandhinagar (Part) District,Ahmedabad District,2025-08,2026-02,2,2
+,Gujarat Gas Limited,Gandhinagar (Part) District,Gandhinagar District,2025-08,2026-06,4,4
+,Gujarat Gas Limited,Gandinagar (Part) District,Ahmedabad District,2025-07,2025-11,4,4
+,Gujarat Gas Limited,Gandinagar (Part) District,Gandhinagar District,2025-06,2026-04,7,7
+,Hindustan Petroleum Corporation Limited,Ahmedabad City (Only CNG),Ahmedabad District,2025-03,2026-07,14,14
+,Indraprastha Gas Limited,Gurugram (Part) District,Gurugram District,2025-03,2026-06,13,13

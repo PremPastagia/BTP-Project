@@ -1,0 +1,113 @@
+{
+  "run_timestamp": "2026-11-06T02:45:10.202716+00:00",
+  "stage": 3,
+  "stage3_complete": false,
+  "stage4_authorized": false,
+  "model_ready_validated": false,
+  "checks": [
+    {
+      "check": "original_bytes_preserved",
+      "status": "pass",
+      "detail": {
+        "files": 46,
+        "mismatches": []
+      }
+    },
+    {
+      "check": "observations_match_raw_source_pairs",
+      "status": "pass",
+      "detail": []
+    },
+    {
+      "check": "unverified_dates_not_claimed_verified",
+      "status": "pass",
+      "detail": {
+        "records": 2293
+      }
+    },
+    {
+      "check": "incomplete_month_excluded",
+      "status": "pass",
+      "detail": {
+        "target_rows": 0
+      }
+    },
+    {
+      "check": "continuous_primary_target_paths_verified",
+      "status": "blocked",
+      "detail": "Primary effective-date histories remain incomplete."
+    },
+    {
+      "check": "synthetic_vehicle_values_removed",
+      "status": "pass",
+      "detail": {
+        "missing_observed_records": 1521
+      }
+    },
+    {
+      "check": "acquired_file_checksums",
+      "status": "pass",
+      "detail": {
+        "acquisitions": 542,
+        "mismatches": []
+      }
+    },
+    {
+      "check": "source_access_and_content",
+      "status": "blocked",
+      "detail": {
+        "failures": 69
+      }
+    },
+    {
+      "check": "PNGRB_component_arithmetic",
+      "status": "blocked",
+      "detail": {
+        "pass_tolerance_0.05": 9346,
+        "missing_components": 1208,
+        "conflict": 15
+      }
+    },
+    {
+      "check": "historical_public_release_timing_verified",
+      "status": "blocked",
+      "detail": "Monthly reporting periods, issue dates and revision dates are not public release timestamps."
+    },
+    {
+      "check": "GDP_kept_annual",
+      "status": "pass",
+      "detail": {
+        "records": 66
+      }
+    },
+    {
+      "check": "all_groups_and_candidate_cities_catalogued",
+      "status": "pass",
+      "detail": {
+        "factors": 73,
+        "factor_city_rows": 730
+      }
+    },
+    {
+      "check": "corporate_documents_collected",
+      "status": "pass",
+      "detail": {
+        "records": 4
+      }
+    },
+    {
+      "check": "all_factor_collection_complete",
+      "status": "blocked",
+      "detail": "Manual exports, reviewed numeric tables, historical city price paths and H2 corpus remain incomplete."
+    },
+    {
+      "check": "CSV_Parquet_schema_row_parity",
+      "status": "pass",
+      "detail": []
+    }
+  ],
+  "check_status_counts": {
+    "pass": 10,
+    "blocked": 5
+  }
+}

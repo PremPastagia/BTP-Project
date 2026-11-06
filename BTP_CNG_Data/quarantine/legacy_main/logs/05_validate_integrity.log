@@ -1,0 +1,11 @@
+2026-11-05 14:32:51 [INFO] Starting comprehensive data integrity validation...
+2026-11-05 14:32:51 [INFO] Verified existence of: C:\Users\Prem Pastagia\Desktop\BTP\BTP_CNG_Data\structured\price_revisions\cng_monthly_panel.parquet
+2026-11-05 14:32:51 [INFO] Verified existence of: C:\Users\Prem Pastagia\Desktop\BTP\BTP_CNG_Data\structured\price_revisions\discrete_revisions.parquet
+2026-11-05 14:32:51 [INFO] Verified existence of: C:\Users\Prem Pastagia\Desktop\BTP\BTP_CNG_Data\structured\numerical_factors\external_shocks_monthly.parquet
+2026-11-05 14:32:51 [INFO] Verified existence of: C:\Users\Prem Pastagia\Desktop\BTP\BTP_CNG_Data\structured\numerical_factors\demand_factors_monthly.parquet
+2026-11-05 14:32:51 [INFO] Verified existence of: C:\Users\Prem Pastagia\Desktop\BTP\BTP_CNG_Data\structured\policy_events\regulatory_timeline.csv
+2026-11-05 14:32:51 [INFO] Verified existence of: C:\Users\Prem Pastagia\Desktop\BTP\BTP_CNG_Data\structured\news\news_archive_metadata.parquet
+2026-11-05 14:32:52 [INFO] Asserting zero missing calendar months for all cities...
+2026-11-05 14:32:52 [INFO] Saved city coverage matrix to C:\Users\Prem Pastagia\Desktop\BTP\BTP_CNG_Data\metadata\city_coverage_matrix.csv
+2026-11-05 14:32:52 [INFO] Asserting anti-lookahead lag alignment...
+2026-11-05 14:32:52 [INFO] All integrity assertions passed successfully with 100% compliance.

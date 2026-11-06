@@ -1,0 +1,14 @@
+{
+  "as_of_date": "2026-11-06",
+  "base_commit": "fd4e65ba762cb0acdc273ac9ad9e9f809e52e5b4",
+  "preserved_files": 46,
+  "source_observations": 2293,
+  "observation_types": {
+    "same_price_observation": 2018,
+    "candidate_price_change": 265,
+    "initial_observation": 10
+  },
+  "incomplete_target_rows": 10,
+  "finalized_targets": 0,
+  "stage3_complete": false
+}

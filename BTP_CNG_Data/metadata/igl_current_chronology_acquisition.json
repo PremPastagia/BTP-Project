@@ -1,0 +1,19 @@
+{
+  "source_id": "SRC-1a2511c5773ca448",
+  "source_url": "https://www.iglonline.net/uploads/files/IGL_CNG_Price_Chronology.xlsx",
+  "group": "cng_prices",
+  "context": "Current IGL price chronology linked by official CNG page",
+  "extraction_timestamp": "2026-11-06T02:48:46.354299+00:00",
+  "publication_timestamp": null,
+  "publication_status": "unknown",
+  "license_status": "public_access_reuse_terms_unverified",
+  "http_status": 200,
+  "final_url": "https://www.iglonline.net/uploads/files/IGL_CNG_Price_Chronology.xlsx",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "http_last_modified": "Wed, 14 Oct 2026 09:42:32 GMT",
+  "raw_file": "raw/cng_prices/SRC-1a2511c5773ca448_6518c2287034.xlsx",
+  "sha256": "6518c228703442e3c206e5445d181add0906ec11373ecf625361d6b537bd3067",
+  "bytes": 29003,
+  "kind": "spreadsheet",
+  "status": "downloaded"
+}

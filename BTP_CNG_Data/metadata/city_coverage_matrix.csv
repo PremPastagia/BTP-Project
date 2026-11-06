@@ -1,11 +1,11 @@
-city,state,cgd_operator,start_date,end_date,total_monthly_records,total_discrete_revisions,min_cng_price_inr_kg,max_cng_price_inr_kg,latest_cng_price_inr_kg,temporal_completeness_pct
-Delhi,Delhi NCR,Indraprastha Gas Limited (IGL),2011-10-31,2026-11-01,182,249,32.0,101.9,86.98,100.0
-Mumbai,Maharashtra,Mahanagar Gas Limited (MGL),2011-01-31,2026-11-01,191,236,32.0,89.5,89.0,100.0
-Pune,Maharashtra,Maharashtra Natural Gas Limited (MNGL),2012-02-29,2026-11-01,178,236,39.5,98.5,98.5,100.0
-Ahmedabad,Gujarat,Adani Total Gas Limited (ATGL),2011-11-30,2026-11-01,181,239,45.25,94.02,94.02,100.0
-Lucknow,Uttar Pradesh,Green Gas Limited (GGL),2012-07-31,2026-11-01,173,222,39.0,108.0,108.0,100.0
-Kanpur,Uttar Pradesh,Central U.P. Gas Limited (CUGL),2021-10-31,2026-11-01,62,216,63.97,102.0,102.0,100.0
-Hyderabad,Telangana,Bhagyanagar Gas Limited (BGL),2012-07-31,2026-11-01,173,220,43.5,112.0,112.0,100.0
-Bengaluru,Karnataka,GAIL Gas Limited,2025-02-28,2026-11-01,22,206,88.0,102.5,102.5,100.0
-Noida,Uttar Pradesh,Indraprastha Gas Limited (IGL),2011-12-31,2026-11-01,180,239,37.9,95.59,95.59,100.0
-Gurgaon,Haryana,Haryana City Gas / IGL,2012-01-31,2026-11-01,179,230,33.75,92.01,92.01,100.0
+city,state,operator_candidate,operator_mapping_status,first_secondary_observation,last_secondary_observation,source_observations,same_price_observations,candidate_changes,constructed_months,verified_continuous_months,missing_periods,selection
+Ahmedabad,Gujarat,Adani Total Gas Limited (ATGL),GA_boundaries_unverified,2011-11-16,2026-11-01,239,202,36,181,0,all effective-price intervals pending primary verification,candidate_only
+Bengaluru,Karnataka,GAIL Gas Limited,GA_boundaries_unverified,2025-02-12,2026-11-01,206,200,5,22,0,all effective-price intervals pending primary verification,candidate_only
+Delhi,Delhi NCR,Indraprastha Gas Limited (IGL),GA_boundaries_unverified,2011-10-01,2026-11-01,249,203,45,182,0,all effective-price intervals pending primary verification,candidate_only
+Gurgaon,Haryana,Haryana City Gas / IGL,GA_boundaries_unverified,2012-01-03,2026-11-01,230,202,27,179,0,all effective-price intervals pending primary verification,candidate_only
+Hyderabad,Telangana,Bhagyanagar Gas Limited (BGL),GA_boundaries_unverified,2012-07-18,2026-11-01,220,204,15,173,0,all effective-price intervals pending primary verification,candidate_only
+Kanpur,Uttar Pradesh,Central U.P. Gas Limited (CUGL),GA_boundaries_unverified,2021-10-02,2026-11-01,216,200,15,62,0,all effective-price intervals pending primary verification,candidate_only
+Lucknow,Uttar Pradesh,Green Gas Limited (GGL),GA_boundaries_unverified,2012-07-24,2026-11-01,222,201,20,173,0,all effective-price intervals pending primary verification,candidate_only
+Mumbai,Maharashtra,Mahanagar Gas Limited (MGL),GA_boundaries_unverified,2011-01-01,2026-11-01,236,201,34,191,0,all effective-price intervals pending primary verification,candidate_only
+Noida,Uttar Pradesh,Indraprastha Gas Limited (IGL),GA_boundaries_unverified,2011-12-31,2026-11-01,239,202,36,180,0,all effective-price intervals pending primary verification,candidate_only
+Pune,Maharashtra,Maharashtra Natural Gas Limited (MNGL),GA_boundaries_unverified,2012-02-17,2026-11-01,236,203,32,178,0,all effective-price intervals pending primary verification,candidate_only

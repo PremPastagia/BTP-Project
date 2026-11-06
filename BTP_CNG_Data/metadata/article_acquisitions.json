@@ -1,0 +1,53 @@
+[
+  {
+    "source_id": "SRC-cce54ceb73d346c1",
+    "source_url": "https://www.moneycontrol.com/news/india/igl-reduces-cng-prices-in-delhi-by-rs-2-5kg-to-rs-74-09kg-12415511.html",
+    "group": "news",
+    "context": "independent publisher report: March 2024 IGL price change",
+    "extraction_timestamp": "2026-11-06T02:44:47.217427+00:00",
+    "publication_timestamp": null,
+    "publication_status": "unknown",
+    "license_status": "public_access_reuse_terms_unverified",
+    "http_status": 403,
+    "final_url": "https://www.moneycontrol.com/news/india/igl-reduces-cng-prices-in-delhi-by-rs-2-5kg-to-rs-74-09kg-12415511.html",
+    "content_type": "text/html",
+    "http_last_modified": null,
+    "status": "failed",
+    "error": "HTTP 403"
+  },
+  {
+    "source_id": "SRC-96ddc5ca73f261f0",
+    "source_url": "https://www.cnbctv18.com/market/igl-faces-20-cut-in-gas-allocation-in-november-impacting-profitability-19510295.htm",
+    "group": "news",
+    "context": "independent publisher report: November 2024 allocation cut",
+    "extraction_timestamp": "2026-11-06T02:44:47.219116+00:00",
+    "publication_timestamp": null,
+    "publication_status": "unknown",
+    "license_status": "public_access_reuse_terms_unverified",
+    "http_status": 403,
+    "final_url": "https://www.cnbctv18.com/market/igl-faces-20-cut-in-gas-allocation-in-november-impacting-profitability-19510295.htm",
+    "content_type": "text/html",
+    "http_last_modified": null,
+    "status": "failed",
+    "error": "HTTP 403"
+  },
+  {
+    "source_id": "SRC-b0c41a029376f6e9",
+    "source_url": "https://energy.economictimes.indiatimes.com/news/oil-and-gas/mgl-slashes-cng-price-by-rs-8/kg-png-by-rs-5/scm-in-mumbai/99329248",
+    "group": "news",
+    "context": "independent publisher: April 2023 MGL price reduction",
+    "extraction_timestamp": "2026-11-06T02:44:47.220445+00:00",
+    "publication_timestamp": null,
+    "publication_status": "unknown",
+    "license_status": "public_access_reuse_terms_unverified",
+    "http_status": 200,
+    "final_url": "https://energy.economictimes.indiatimes.com/news/oil-and-gas/mgl-slashes-cng-price-by-rs-8/kg-png-by-rs-5/scm-in-mumbai/99329248",
+    "content_type": "text/html; charset=UTF-8",
+    "http_last_modified": "Fri, 06 Nov 2026 02:44:53 GMT",
+    "raw_file": "raw/news/SRC-b0c41a029376f6e9_113fba2419c6.html",
+    "sha256": "113fba2419c69e1f66dc55fda629bc846cd2b37b5732714f162afa66269df882",
+    "bytes": 286315,
+    "kind": "html",
+    "status": "downloaded"
+  }
+]
