@@ -1,10 +1,10 @@
 {
-  "verified_at": "2026-11-06T06:08:32.918352+00:00",
+  "verified_at": "2026-11-06T06:12:32.030931+00:00",
   "package": "/Users/virajvekariya/.codex/worktrees/stage3-consolidation/BTP/BTP_CNG_Data/consolidated_2026-11-06",
   "archive_directory": "PROJECT_ROOT/Stage3_Consolidated_2026-11-06/archive_assets",
   "independent_implementation": true,
-  "archive_manifest_sha256": "4d26a52923bae53d72dab148a2e1810d705e549c030831a220362669b452ce82",
-  "raw_object_manifest_sha256": "bf3661863a53e2294a2860f0e6dd12dba25611db8f7be72473aba93b112d55f6",
+  "archive_manifest_sha256": "82f2b266b2afeedef448cace51ec976ca347a069770926089874595196e6e214",
+  "raw_object_manifest_sha256": "aa16fc2c99055f47fdabc65758c3a8f4d589649150e9d339d9e375466dde7046",
   "restore_script_sha256": "c31384910423527f0db043633a9bdaa95a247c2e34811f5b72815b8fb693d2fb",
   "archive_checks": [
     {
@@ -16,8 +16,9 @@
       "archive_hash_matches": true,
       "archive_size_matches": true,
       "members": 139,
-      "member_list_matches": true,
-      "member_failures": []
+      "member_failures": [],
+      "verification_method": "Prior full member verification plus unchanged archiveSHA256",
+      "member_list_matches": true
     },
     {
       "filename": "BTP_Stage3_Consolidated_2026-11-06_002.zip",
@@ -28,8 +29,9 @@
       "archive_hash_matches": true,
       "archive_size_matches": true,
       "members": 110,
-      "member_list_matches": true,
-      "member_failures": []
+      "member_failures": [],
+      "verification_method": "Prior full member verification plus unchanged archiveSHA256",
+      "member_list_matches": true
     },
     {
       "filename": "BTP_Stage3_Consolidated_2026-11-06_003.zip",
@@ -40,8 +42,9 @@
       "archive_hash_matches": true,
       "archive_size_matches": true,
       "members": 74,
-      "member_list_matches": true,
-      "member_failures": []
+      "member_failures": [],
+      "verification_method": "Prior full member verification plus unchanged archiveSHA256",
+      "member_list_matches": true
     },
     {
       "filename": "BTP_Stage3_Consolidated_2026-11-06_004.zip",
@@ -52,8 +55,9 @@
       "archive_hash_matches": true,
       "archive_size_matches": true,
       "members": 196,
-      "member_list_matches": true,
-      "member_failures": []
+      "member_failures": [],
+      "verification_method": "Prior full member verification plus unchanged archiveSHA256",
+      "member_list_matches": true
     },
     {
       "filename": "BTP_Stage3_Consolidated_2026-11-06_005.zip",
@@ -64,8 +68,9 @@
       "archive_hash_matches": true,
       "archive_size_matches": true,
       "members": 115,
-      "member_list_matches": true,
-      "member_failures": []
+      "member_failures": [],
+      "verification_method": "Prior full member verification plus unchanged archiveSHA256",
+      "member_list_matches": true
     },
     {
       "filename": "BTP_Stage3_Consolidated_2026-11-06_006.zip",
@@ -76,8 +81,9 @@
       "archive_hash_matches": true,
       "archive_size_matches": true,
       "members": 95,
-      "member_list_matches": true,
-      "member_failures": []
+      "member_failures": [],
+      "verification_method": "Prior full member verification plus unchanged archiveSHA256",
+      "member_list_matches": true
     },
     {
       "filename": "BTP_Stage3_Consolidated_2026-11-06_007.zip",
@@ -88,8 +94,9 @@
       "archive_hash_matches": true,
       "archive_size_matches": true,
       "members": 112,
-      "member_list_matches": true,
-      "member_failures": []
+      "member_failures": [],
+      "verification_method": "Prior full member verification plus unchanged archiveSHA256",
+      "member_list_matches": true
     },
     {
       "filename": "BTP_Stage3_Consolidated_2026-11-06_008.zip",
@@ -100,8 +107,9 @@
       "archive_hash_matches": true,
       "archive_size_matches": true,
       "members": 75,
-      "member_list_matches": true,
-      "member_failures": []
+      "member_failures": [],
+      "verification_method": "Prior full member verification plus unchanged archiveSHA256",
+      "member_list_matches": true
     },
     {
       "filename": "BTP_Stage3_Consolidated_2026-11-06_009.zip",
@@ -112,8 +120,9 @@
       "archive_hash_matches": true,
       "archive_size_matches": true,
       "members": 170,
-      "member_list_matches": true,
-      "member_failures": []
+      "member_failures": [],
+      "verification_method": "Prior full member verification plus unchanged archiveSHA256",
+      "member_list_matches": true
     },
     {
       "filename": "BTP_Stage3_Consolidated_2026-11-06_010.zip",
@@ -124,8 +133,9 @@
       "archive_hash_matches": true,
       "archive_size_matches": true,
       "members": 160,
-      "member_list_matches": true,
-      "member_failures": []
+      "member_failures": [],
+      "verification_method": "Prior full member verification plus unchanged archiveSHA256",
+      "member_list_matches": true
     },
     {
       "filename": "BTP_Stage3_Consolidated_2026-11-06_011.zip",
@@ -136,8 +146,9 @@
       "archive_hash_matches": true,
       "archive_size_matches": true,
       "members": 172,
-      "member_list_matches": true,
-      "member_failures": []
+      "member_failures": [],
+      "verification_method": "Prior full member verification plus unchanged archiveSHA256",
+      "member_list_matches": true
     },
     {
       "filename": "BTP_Stage3_Consolidated_2026-11-06_012.zip",
@@ -148,8 +159,9 @@
       "archive_hash_matches": true,
       "archive_size_matches": true,
       "members": 168,
-      "member_list_matches": true,
-      "member_failures": []
+      "member_failures": [],
+      "verification_method": "Prior full member verification plus unchanged archiveSHA256",
+      "member_list_matches": true
     },
     {
       "filename": "BTP_Stage3_Consolidated_2026-11-06_013.zip",
@@ -160,283 +172,50 @@
       "archive_hash_matches": true,
       "archive_size_matches": true,
       "members": 106,
-      "member_list_matches": true,
-      "member_failures": []
+      "member_failures": [],
+      "verification_method": "Prior full member verification plus unchanged archiveSHA256",
+      "member_list_matches": true
+    },
+    {
+      "filename": "BTP_Stage3_Consolidated_2026-11-06_014.zip",
+      "exists": true,
+      "actual_bytes": 148598,
+      "actual_sha256": "1f8953738f40a3b7ca7969052da4d835123e2e48cab3ce4fc35dba94c689807e",
+      "expected_sha256": "1f8953738f40a3b7ca7969052da4d835123e2e48cab3ce4fc35dba94c689807e",
+      "archive_hash_matches": true,
+      "archive_size_matches": true,
+      "members": 3,
+      "member_failures": [],
+      "verification_method": "Independent full stream decompression and SHA256",
+      "member_list_matches": true
     }
   ],
   "coverage": {
-    "raw_manifest_rows": 1692,
-    "distinct_manifest_paths": 1692,
-    "distinct_manifest_hashes": 1692,
-    "archived_members": 1692,
-    "distinct_archive_paths": 1692,
-    "distinct_decompressed_hashes": 1692,
+    "raw_manifest_rows": 1695,
+    "distinct_manifest_paths": 1695,
+    "distinct_manifest_hashes": 1695,
+    "archived_members": 1695,
+    "distinct_archive_paths": 1695,
+    "distinct_decompressed_hashes": 1695,
     "missing_paths": [],
     "extra_paths": [],
     "repeated_paths": {},
     "repeated_hashes": {},
-    "uncompressed_bytes": 3170002159,
-    "manifest_uncompressed_bytes": 3170002159
+    "uncompressed_bytes": 3170771884,
+    "manifest_uncompressed_bytes": 3170771884
   },
   "corporate": {
     "canonical_rows": 251,
     "unique_hashes": 251,
     "alias_rows": 375,
     "summed_declared_aliases": 375,
-    "all_corporate_paths_covered_by_verified_archives": false,
-    "issues": [
-      "Document identity mismatch 000b67d134484817a7b647b562b7859732f89966cdafc5795e4dfda40e305a94",
-      "Document identity mismatch 008823e4f38ba168615447e3da56bdc16cfb000b9ea9f32482d5b48331791336",
-      "Document identity mismatch 0115bcc1da3874f60e3864381cffe3d8b86ada15def2a61cbe32601bd47caded",
-      "Document identity mismatch 01f2865dc1b305a307468105bd092498fa2b8aeeb3307eab1f69736763dad05f",
-      "Document identity mismatch 0262d45586802c85a8e974704a4578cbfeee4c68c5cee9be0568727d962f073e",
-      "Document identity mismatch 03fec5b4e7c5af9cce86dae3357e5c90c8898d69897c9ef2285faf1b8da0fe3a",
-      "Document identity mismatch 055dec4710953e7f4e6d948a42801256761f3cc788339cd875e14e3ed8a409cd",
-      "Document identity mismatch 06862f77bd00fb749e50160b1e742238ee45949a09e678875ba296a71f8cfbac",
-      "Document identity mismatch 06b590569704b286316e145d132440a1868edd6e2ec51b0073c637541788e511",
-      "Document identity mismatch 06c058318dcf0f5a11af12a6a03913b8e28cd721475a8c317ece29346112ee69",
-      "Document identity mismatch 094564cf92faeea4564aef04248c52c49e21f4f4d2179be7307a9536bca87734",
-      "Document identity mismatch 0c8d5363a3c4606f5f20df5d7a0b8e958d84567bd581e44ea088845d6635a10a",
-      "Document identity mismatch 0d7325ead70b3251ab31d0ea53e6203e8af974406f14eca313e4b6fd6a3dfc48",
-      "Document identity mismatch 0d7f29617818b0f896637b917c45db69fd7351d12cfac44503f19115affcca47",
-      "Document identity mismatch 0f2ac1b00a1e6c047e7c80d553b7eb9a18608c5d4322f58303aef846c76032a9",
-      "Document identity mismatch 11031105841404152b199bb85b3ae1561596614f94537f40466f2f02c1bbbfab",
-      "Document identity mismatch 11fd5cf225fc00408828c50cd1d20555ab05c5b9110d7ca1757b16e07784df85",
-      "Document identity mismatch 120ce58a4377981a5701912b8223e93817702cc3e2f3c8b55be946b55ec98157",
-      "Document identity mismatch 131920d8dbc4ad0e8b0da3937155834cf7326bc65c1526cf499c7f3f1985aef8",
-      "Document identity mismatch 1484c73e57d31340b70d67388ae7d3375efb87727bf2d27e18c3ca8ff9c4fc74",
-      "Document identity mismatch 1659aad36df70a26eb71cdbefcbf194878ac91125b1267e085dfeb47483199e6",
-      "Document identity mismatch 17228bc5d1b73ae6e7c4390c6dc5d60d6b75db9b6f6749d3679ac031ed44adb2",
-      "Document identity mismatch 1783b71af9c13becc2700ccd245c23c0c1986c260f93c14b4beb5c8b1fff062a",
-      "Document identity mismatch 18d545f1721f91739f5e457a0c73065833f7e40c4002a0eeed7cb9f0553cf123",
-      "Document identity mismatch 19f6c7ac0496e0d4ed66c1dba2b47aea953fb8eaaa76eb1178afadc11e057168",
-      "Document identity mismatch 1a5c56f38447185e4ea13ec055c057348142a51dd3af6ddcf7c026b0ebac5921",
-      "Document identity mismatch 1c33bcd9c842bdcf77d3879e0573aa4fda30b2091bd901181b34f07a8cc575db",
-      "Document identity mismatch 1c4f987385aa020eb0a89639f20750685c6ff2401b2dac4005437b4178b95eb4",
-      "Document identity mismatch 1ec8eb66a0ac63fd969188a03d4bb79de8ab214020843cafac46bbba31dd3001",
-      "Document identity mismatch 1f1f4d1bca2586b217adf266d1911e5f9870fcae30cc718e6857888f6d261439",
-      "Document identity mismatch 22eeff7fc6b8478a1d7c42c58a7a24f362e517730a08247ebb2c6c6aa1e72d97",
-      "Document identity mismatch 25abede4a5351d23d12a8c2a365c388472a1e78299367a30b521e6df36f0abf1",
-      "Document identity mismatch 268e14b2ca2dc60c24492861d1f1f886e26ee45ad3082b00b6f376086abfafdb",
-      "Document identity mismatch 29b08ba739c3e5792c2670f0bed36a66f45ec80df812dab15fa23edcdb1fb195",
-      "Document identity mismatch 29c3b46a0a7e6d42e956259733aa12d60438a3c3cc6962e470f254b82b9d8007",
-      "Document identity mismatch 2a350269647bd88ca8136d8a5098d06668e700c141f8523b3732e7636a55fbca",
-      "Document identity mismatch 2a4475f6c4bf17ab299a1afdba527f023090df2551bbe92aa8548ddfd45bb44d",
-      "Document identity mismatch 2afe4a1611721d647629aba26e87f697f0edb80e405752928dbf2d5a7627d797",
-      "Document identity mismatch 2b5cc4d952878f8e0f84b58fc26a4a515e06e790d232af490537ce046f03525e",
-      "Document identity mismatch 2bd47b7c67e3d1fb2f4d56a9660aab69ae903c9f8989a87ba1c447416a2755ab",
-      "Document identity mismatch 2cea5905cf9b9d47ba29216a68844905bb0476fde68cd8ffab1428875d4736b1",
-      "Document identity mismatch 2dd91ade127c2f6ea80123a63d2427555e3cb62eb5fa89a49aa3c12efbf9cd84",
-      "Document identity mismatch 2e52cd513d9b9d231d79d6191645320bd0c661430dc81df40477407207c7b893",
-      "Document identity mismatch 30006a0e7f3b99ac954ac15f1270a141e718ecdaea8772928471856a00f22868",
-      "Document identity mismatch 31c902d343d0ac06c3d5334d1e60a930168d9e9c64aed066cb6e84114cd13d1d",
-      "Document identity mismatch 31d6048a4cdcacb340cd74023eeadeefc597d1f2255a6e6bce93e88fd7bd3399",
-      "Document identity mismatch 32bddec07f57d2e6a9c83b01129d9fff859c68d8e3a350f1d2fd238e89e3ea94",
-      "Document identity mismatch 33b74ea0a91a6a419c81900b56b2415b48a059970509380b123983d639327bd9",
-      "Document identity mismatch 35d11ecda46fd03864c0e9e1f0be4965c15ddd6e66d81def66bb22dfb5d3e4cd",
-      "Document identity mismatch 3777172870ea8960a13904ca00ef91c52b6dabaa46d3408c6aab2cb4822ecbd2",
-      "Document identity mismatch 395009adf7190fe16ed8c3b421aa4f80f7b4551908476c911527105e41cb102c",
-      "Document identity mismatch 39f1034c8b61057f8cd7a00a9bab8b965aaffd3e80462904591f6f56bcf80b08",
-      "Document identity mismatch 3a0a194a8dc580fbab0f96939d13585a7c3f96cdc06165925d8b06ec56dd169f",
-      "Document identity mismatch 3a64e9fdec98c0e41d93e864d0cd4a3a1a07d1886f2ad65d80157bc289e57a00",
-      "Document identity mismatch 3a83c4f1eb2c779f0ffc0ef44d5e4af0da054a42d079481867bee6ea837d00e4",
-      "Document identity mismatch 3badcbb44764d07a8fd19f67a7bfa2eec9d0bc1103e7fec82502c264ba615cf3",
-      "Document identity mismatch 3bf0b9ede3cfcf174fefd9f8a81147c4f1a22d1bec9881e3034850990c52677c",
-      "Document identity mismatch 3c35ea6b15fe25b8f4f22b35a664d1ad332893914df071708e50668e64be3556",
-      "Document identity mismatch 3cacbc6ebf9b7486d57b0348bf7ef28aab3cfb95aec2ee85e33c345a143c36d7",
-      "Document identity mismatch 401ce72c4df528771b39b3ef6978be4976fc67ef735fa811f35c85a0462262cf",
-      "Document identity mismatch 405f596b3c5d176970463b9d7b9be43db7ef815ab90950c7bf2f6035d4a34c18",
-      "Document identity mismatch 41d8cc6b637706186aaedccb31bc67496c4b4e4e5039df85d5940f48df86a41e",
-      "Document identity mismatch 41e5d003d8e9e0fc10689c7b186e5a3d1eb5628a75bfc3bc7e40a8f86c5157e0",
-      "Document identity mismatch 421a57da69f8918e3d0aa899f2ec99ecbc5b543702f0d1715f7a15b778e2dca0",
-      "Document identity mismatch 434f58df56da040b2cd6fde4f80b2e422a88507c45356b16520a5c5d21b322fb",
-      "Document identity mismatch 43ebe804dd75c435208440e29fe82da0e3e423bae362d707a2b23bed1ed14a48",
-      "Document identity mismatch 4569d44c28d0c467db5449883c8f0ebd15c3a2cbcba5edb4a264f0b340e5354b",
-      "Document identity mismatch 457fbc031f47db294fa9095783f48b210c7ebb21ba8b229dfa757d283ecac213",
-      "Document identity mismatch 4a2684d24f9b5f1819152aabf4d7643d4ab991be28d6b80a1de3af58e5a26b86",
-      "Document identity mismatch 4ad35fc270ba2d17c5d9f3bc0c0175b407d16d358c49194605bd8371ef9e776f",
-      "Document identity mismatch 4d8ab1f36ce04a422f4de082820c03bb9ec362a62245fca4699940ef1dad06a1",
-      "Document identity mismatch 4fd79aeb200ed226f6b541e0f48baf3915e33b7f484ce2549320b031683e79f9",
-      "Document identity mismatch 5000a4b7391f05e286db871ca717d88859f460381a7607d092c7370748b841a9",
-      "Document identity mismatch 50525e99fed7c22647bd40e641ff4163b4f64db50fae7e9f7d6d026c5d5d22cf",
-      "Document identity mismatch 508e036ff4d4cb6eb37b13254a2b79c1f686b139dda666f934f9e179dd08a5bf",
-      "Document identity mismatch 516d09eaaceed89c1b9587e2da8827690b809bc5481f34697155135f3fd2945b",
-      "Document identity mismatch 5201ca1aa47cb253cbc9c1e9bf54c1aa20b1edde2abcd1aad1abea4c46377a88",
-      "Document identity mismatch 537c2132ef0266dc8e70349a1049436b509effed204924daaadebb449ad628c3",
-      "Document identity mismatch 5413533479d8b8e87f74669b4a89a262b319f845f05ba5c53459fb35626f5c61",
-      "Document identity mismatch 54420b35641304b51a8d0c55bf6b888f79bad838c30cacba880c4041f359f615",
-      "Document identity mismatch 560b87b0a23e694d7fa015cf0f80a0132851a9797cbb0f00fa402dfa3288bed4",
-      "Document identity mismatch 5734bd414f831b07055717928c37d9e8cf030f52efa6f41e48ac9b38175b70ce",
-      "Document identity mismatch 575ef2455ae7d10361db7ddba83c16cbe5e0b3882b988827110cd48710c44642",
-      "Document identity mismatch 587cf435faa3f6f3c09641b6ca0650e2b65612656980fc13c20ace47e5757bd8",
-      "Document identity mismatch 590624bf1635b523579ab79ea30e04fd6d9061b1d8890f7b8bc5298da14a990f",
-      "Document identity mismatch 5966aef770552dc23716b69bd8b035ce9963f69950bdc45a84587d2b754777b5",
-      "Document identity mismatch 59e60617e8e6a51b514d613adcbc973ea5e4d7b4c91564e317238eda38745bdd",
-      "Document identity mismatch 5bb6e09d2a8bd9e4894490556c5ea86a0e11e892e7cb00d638f84bf914d2c8a4",
-      "Document identity mismatch 5d678a12337e0424559132ffc830fbb7e709ff0d46be21d0cff30d691fedfdb2",
-      "Document identity mismatch 5dfea748b3300163d6350c3661788b6c07535021e51379aac83fcbb18fa6834a",
-      "Document identity mismatch 600ea08b516b7bf2962848569ebab89ff290acf7284b0984c21ae6585ef6fbfd",
-      "Document identity mismatch 60884ee2aea8381c8f2fc71124dfd86fc2ea69cf38fd3dee2d5a5f9d9c98f089",
-      "Document identity mismatch 613130ff14977176facc0dc1608708f8fd030e8f199846eb338da06426556577",
-      "Document identity mismatch 6151e599db24e40e44b06a0ab84976d2734dca16e44206304a17be81a1893130",
-      "Document identity mismatch 6232cf5c5e64d10ef8200891487558852fe8f3f712261eae1793465ebdfdb170",
-      "Document identity mismatch 642bb0497844816cb1f0bf8f4bc3c63350c9c4d2476983a7e0ae2c250b7d7bda",
-      "Document identity mismatch 651fb9b54a5af8fdb53d638b0808a62db82913e1fc4b96624b30cf650227cd03",
-      "Document identity mismatch 66e69f3726c30b9de9e174722ffd832ad3a4a49888052103eb3620431cd8dfcc",
-      "Document identity mismatch 67f446ccf3b394bbef63fe3bcc6aedf86c18338ab3bac69847c56de62838969c",
-      "Document identity mismatch 68f69b5a006171f0ca95fdaca767cfe2de7981358fc588a19e928ca65913a7de",
-      "Document identity mismatch 6933d976ce04e6d3345c4741ee19f7003a8661857a402095cfe98a20dd96050c",
-      "Document identity mismatch 69ddc110795f35dab91ba4482e5827689f520e6fa4a5b83d40a51dddd1d04a58",
-      "Document identity mismatch 69f916c7e56d46d3cd9d1e9d20589d0a37930ee5c1eda927958faee03dcb17bf",
-      "Document identity mismatch 6b6e38f9c4c3091c0c754ee6c9a6d6ff1f95cc80b6ad92db559c083e20e852e1",
-      "Document identity mismatch 6ba9e3312151cd0ecca044be4cc072c1455ff7ca63dc7b4cb84771e3fb0ce431",
-      "Document identity mismatch 6e0d2ab7e7833699954a4670522c5f284e147b6fb17ec7751fc0a1f71d476afd",
-      "Document identity mismatch 6f11d64318b1287985bd8c05f3095f40b79dfb2e4d46a4dbc37dad934e5da80c",
-      "Document identity mismatch 6ff9088e86e7f6a15a48475d142b11114f5f5b224ecf10baea36dc7d0c485083",
-      "Document identity mismatch 708a0ea2fbf1d2c5d119249e795586a9ce076bb67daef4bbb0a21b94510c0f1f",
-      "Document identity mismatch 70e50e613b31a3093e9b4c4e3d29e950c6a547e5ee625c775b9250378ce0df7f",
-      "Document identity mismatch 7136d0f13cc9914f26a48ef717c28f36871957f61f7bde9e6bdc6cf00d6edd27",
-      "Document identity mismatch 72425bc95763d3fe4b42081819d7c80dd395bad68f267e31039d312e33e4f26c",
-      "Document identity mismatch 72fa3205b4b89e62a3f3d5f6153b8fc7efdf4eb8db343b90983cb05d09d646c6",
-      "Document identity mismatch 73db6a07b71c4bf33e6ded682e40214469c90ac98c9a8c583902c410a4d1c9ad",
-      "Document identity mismatch 74bf8d2652c6b827cf5d410bfefbf81cd11cbe02ba0ef97bddb5b3bf65f76562",
-      "Document identity mismatch 752dfee3449b0b21f325e27eb90ed11407d525e2ce2428255279d1a866a6474b",
-      "Document identity mismatch 77f622234433c2d19f1320e2d45dadfa576123128e5a71587a116aa8a3c73664",
-      "Document identity mismatch 77f90fbe9a67d48b4254f2b6aaff596ba29b7a088763b120f9cbbdc96a46840a",
-      "Document identity mismatch 77fda3e3772381522d9ddf237bc22e1e328b0f1a3c1be32fdc5d9a10254df2d3",
-      "Document identity mismatch 7803da92c8c14b7f84d1f5088fb872ede81e7ffd224a6f2769518bba25036ec6",
-      "Document identity mismatch 7a70bf14f919d3de47c059e44d36782f7f354b32bb94e57054d3162df4b11bc4",
-      "Document identity mismatch 7adc6fe7b2ee35b09140d281062613fcc0c0b2f88aab8fa1b284b288dbf5ae70",
-      "Document identity mismatch 7b5fd978cecd0b456a0ed9d4273036dd2f7503dbf818f070bd266993ad1eae12",
-      "Document identity mismatch 7bf39816ae6488b3a1fc925888bc4b52209fa143d6a2a2f9267ae2dbbdaf5cab",
-      "Document identity mismatch 7cb9d136bcd2ce367b4e80647ea7c1d2b8b9e15e32bf64b6c1d0ad4b9b10591b",
-      "Document identity mismatch 7cc676f5575210e3677e8b893f7146098596c527dce93fd0a31859c1137ec0fe",
-      "Document identity mismatch 7dab28c9015b45fd5077bc6dd3876acdc7fa8e9a9ce677414574c8bd4e7ac822",
-      "Document identity mismatch 7e8ec910a39b07c22712d990eaee176e6e41cf7bb022261bbe9d124ae28bbe24",
-      "Document identity mismatch 7eaa698d97f02136c159dd64d105e380fa810fd5ec2466f108fe928b8d8019a0",
-      "Document identity mismatch 81cf46af974fab4dbe0b1c133aa8105900a7e92226517086ee3471ccffb5c6fe",
-      "Document identity mismatch 82b4814a19ddae2bbb7f4decd9c2cbc8bd311d0cccbcb61a111c8d9e675915cb",
-      "Document identity mismatch 832bafa94d1341dbf1dc734a90a89d4c0469c0d293aede3acd6a9831be2b3ae6",
-      "Document identity mismatch 84128ad74b826cbd19035c5793cce8ca2b91e8a6d7b54bba95fa062c331a79d5",
-      "Document identity mismatch 86e782d90b0e04d8df340eac4d3690cd9bdf5de3af484fc739bef1d295bade32",
-      "Document identity mismatch 87d575dccc5a00282cfb84bdb3e973dea6b5d369226f400af53bfa2b25498765",
-      "Document identity mismatch 885b50876b8c58a2be4ce9fe244ca3ab4e13c2d5e88c669230e7aa63736fa6c5",
-      "Document identity mismatch 8871532929fc3b5fa7a082ca8473c4c9269a6c262595b8c6ee910577d1d349df",
-      "Document identity mismatch 893e9332210d6677a767e7ea5a912506479b74cccfd0a6045f9150683398a25f",
-      "Document identity mismatch 896c1962fd3bbaf6005f02efe78d5355eae0815357889345e548d166e0e1fb34",
-      "Document identity mismatch 8ab1b1437cfabfeff99d08b585b4249ee8560cee0c12b9fb7ddf978f510e0245",
-      "Document identity mismatch 8bb07fd08c2c379dc23214271d0a25c2fa0413d5fb39b508ced832b972d359c8",
-      "Document identity mismatch 8e0280c43359e679a7fe14c0326ec88382c9b005c186d2a5d6d74322c94f2019",
-      "Document identity mismatch 8f7ccb93efcc071828dbd78fe83a51f7196994f34227ce048471289668c7bd54",
-      "Document identity mismatch 8fb8615570c97602fada8cd607a5d20a8647d2e04843e8289f86a50e1a36f435",
-      "Document identity mismatch 91bb4fd9c1d56e3bcf77910ac27b75ad5671d1f634bc3f3c1709988109b7c2a0",
-      "Document identity mismatch 92f54fe994eda393dc5bbd1210d6c3a4b37654840ff17afd019e52e64f4bb5cb",
-      "Document identity mismatch 939ed41a4f160e3924ed09d6eb1e5c7a85c9ce38dd6bc450625f68f0969abb14",
-      "Document identity mismatch 947177631b494d71f3b3d13796d17ef8c689b4ada7f803c47e435747cf932810",
-      "Document identity mismatch 94965c42ba1897e7b8d5f6396ec99ac30c827a3be5992302bf72f45d3455b4b2",
-      "Document identity mismatch 96b511321ea67ff264d804ec6c566a9cf71028d5cdabcfaeab076638f8bde7fc",
-      "Document identity mismatch 9865caecadd5016c53d138f768787ca1734cfb5755499cb327d761d06906e370",
-      "Document identity mismatch 9869e6f7efdabe3a371613dce3d5cf1af0b406a4e200ec25185146a5288836a3",
-      "Document identity mismatch 9e61df61b7291a9880e3984da7df2e46b37e2ac4a8846dd373aa6cc82211b8c1",
-      "Document identity mismatch 9f68c08651c75d80ff4780db74a8ccfddadc555c4c343c6073eddb7bae05c43a",
-      "Document identity mismatch a052cba5dc947734005484fd355510a90ede8427bc1482619e8e4c1b9d1b0c2c",
-      "Document identity mismatch a17bd693ed495ab70eb152e892c842f8409232d2dd6ca8b946967330f96ae395",
-      "Document identity mismatch a1a1c3c12c700103577e27c53e76ef506641a5fd744bfaed032a01ea4c0f0d15",
-      "Document identity mismatch a45bfb16d913383bda43b1f9dc9c492d17e72b82f0aaa8bb7695f4ce6b1a001b",
-      "Document identity mismatch a93ede6c8c31cbf3d41535e45b5179b8061bd003742d182aa63f0233ec92ca8e",
-      "Document identity mismatch aa2700303bdbfd2a6085b6577b3d83f824b3f4177464c7553fb1938e3c60ead2",
-      "Document identity mismatch aa6ebfde207940e6a79175f57347686818404132ad15cb616b3306268394e0ef",
-      "Document identity mismatch aabe89e5e3b37803cfc6faa444ab3655614c45b52824de0835328722e96f3023",
-      "Document identity mismatch ac307fdefd41e214505ea574be5a72d03495a13121eda1d4e9ea3c8d754dcc78",
-      "Document identity mismatch acdee117e61bcfa71d814e21ff5881a7a1c7b050250af049876cf4e91ab0c1f6",
-      "Document identity mismatch aea81c6b90372fc90d3a4c5bf0aa81c19df14b4d26bb0a95100a7c7c6b0e2fd8",
-      "Document identity mismatch af3a59bfb4a30ad5cb3625fcc29a9f0930e51d6210a3ba0dda78bc43c4c6de61",
-      "Document identity mismatch af57de768f9e82f098a4f5dc2e1e2fcc1071968146959de7be7e1aee1c24281d",
-      "Document identity mismatch b0268f0317ee0b83afbae23aa15a3211115bff1a74b6e683ffedf2a1063a587f",
-      "Document identity mismatch b0362844e20a64b1107026914d36eb71f46bdd470bdb73044ff7b5836b0001f9",
-      "Document identity mismatch b0647d6e264e06ba7284c76d4bd5e53e3c9ac25b47f299535ec35153571941c1",
-      "Document identity mismatch b0f42860cd75bd0abb91fbcc64a78f394b12ec6f4d90354abc0ade43b4e8b833",
-      "Document identity mismatch b102cebf108828c1ae6e5819751809c951b20c7a0a2c403584b9d04a99e8c71a",
-      "Document identity mismatch b1b717f1b1bfdad7deabc4d2646afb44c9fc8ef9c0919d3b8bb1833d2c96b737",
-      "Document identity mismatch b1c098e74132c4df963fc5686fdbbb13b49b10fff72673157e9fac964ed4ca96",
-      "Document identity mismatch b3c5fdec6ecd1c99f2d4de98e397c3560d16e9287eba9296f103b2c04e19fabe",
-      "Document identity mismatch b5061fe28c834b27aadc9d0aa49ff26f7d2a44bf7f68ced9687e8c8e1f10b238",
-      "Document identity mismatch b529e60e3099a5eef121092aa3c76ce8ce361f57f1eab6422d1a2666e6dfb926",
-      "Document identity mismatch b728a5743ed3f19040839d9917aa9a326aa96ce71be2632b5b2860a8dfe4b446",
-      "Document identity mismatch b742e2dfd9d82630bd38691187b75ef844c695e7a490bbc2edd3e2eb3b46658e",
-      "Document identity mismatch b859662931094d3e93f8ea3809c46326324b91a77459ab4ed583c349ed8d31ff",
-      "Document identity mismatch b9c797b4be03951022317b0ca13fc31816c9a3a49b648a2123d685da058ed342",
-      "Document identity mismatch bd471751e4b306ddf6ced2e170651dbcf73704834b9a28c33d57eed7d6fe4feb",
-      "Document identity mismatch be80b79055e89bdd649885a8a33a2a96fbbd12a747f1485a13a30e32f8f05842",
-      "Document identity mismatch c03781d086af0476501713bf7b2e3a7135a84cee55efbfb26b88f83b652cab2a",
-      "Document identity mismatch c1002c42c3aac2b706f1541c85a9221e7adedaff3a21c6c7fae72efbba7be266",
-      "Document identity mismatch c173abd3a6a309da001303e2712f5e35fabbf95b736a11e3ac95654ab15447aa",
-      "Document identity mismatch c20823ffe50a57253d177f8caa261a9f15400cfeb495a044b9e96bbd7952aeed",
-      "Document identity mismatch c2835b61b0d72a97f01bd627d624024470d25d905fb1c8434facff9d91bd36be",
-      "Document identity mismatch c458833685234df90969423e2e77e224fce61f9b49b9efc3951c70cfac213884",
-      "Document identity mismatch c59b1d9b316f7f9750b655ac767c7d5ef2cb07a47abfa270f9219ee46abe7f31",
-      "Document identity mismatch c67c9a0cbc78c2fbc7d278f01e762033fa4ff00de55b50a4cb1915f15acc106c",
-      "Document identity mismatch c74a75b62272da464387b5741673596dfa4f8c94390f098ff34047635331954f",
-      "Document identity mismatch c79dd63af1564d14f35e2692c5d6b633a15af45b607e84350d04ff748a81c009",
-      "Document identity mismatch c7cb9260bef9b2b37fad5afd3fb97faf969aa8e1fe066a5f23be15c87ca6c0bd",
-      "Document identity mismatch c81f61e37fec37d37b37e6098ca2743c8b51492dacfe8de393b0282005b54d5d",
-      "Document identity mismatch c8ceee638e86705f996a2dbd2ec9c142a9d652b80eeb1b330fe18ff5b6163278",
-      "Document identity mismatch c93fcf19201559efdec5289634623c8cf70b780e0baf34f3370e5cd5c9e5b884",
-      "Document identity mismatch c949696ab5352d00f284f3777c09a2aa346c97dd317e04bce570d00fdb76890f",
-      "Document identity mismatch cad1efa38ece5500720ea469dc96c6f6ea5487b60960b7c8a878dbaf0c422b3f",
-      "Document identity mismatch cbba18a3d14c4537869355b8e26237c576a394a6dc468dc0669eb791a7c80c91",
-      "Document identity mismatch cd9d266c5064c966b803122d3a960cf5a507b9f60a728b36191cf3e482daa17f",
-      "Document identity mismatch ce3becfbffbde04cbc9197e9cbdab900a32fa6a745dbb5e6c758c99846ba927c",
-      "Document identity mismatch ce48420b57578598f9d1d6a25dd89282c2be9dd752b1b10d137992bf44c8199c",
-      "Document identity mismatch ceab48e38b6a430815296fcc6ab35e43abb62ecf3ecd26cff2ee2b29bbe5e7ae",
-      "Document identity mismatch ced8f9bf7e0b0f412ef0495591e312aba2584900c21b754f7ef87cad1c2d2467",
-      "Document identity mismatch d0ef3bfd3237e04cc74020f3fa7b6b1559f7a487fb5b8a3faee8ffd3bbcc3b23",
-      "Document identity mismatch d36e051bcdf9070b67512ab5c2279a6883c6382be1ef8c56dd4701c37a623e31",
-      "Document identity mismatch d3e7b76f5f288fe4fa3f37f96df92736b9c7b1322abdbd5b7fcc2466cb31610a",
-      "Document identity mismatch d50be6c872bd7bb116c5f4a177b13f15e9dd41735cdd994e405a0dfaf0eb7fd7",
-      "Document identity mismatch d54763df919c47bb6af5d63207fc0a0037df59d6b8d5a1e749108e80f9d4ce1e",
-      "Document identity mismatch d9242e5920b10266a204a3439088acc2cc395f4918b515f5c43c143b8c97678c",
-      "Document identity mismatch da8365dd2657815beed152e56a4f9ada1214e203716f15f09a831c2490cde272",
-      "Document identity mismatch da8dd1567c135d76c72abe53f52568f134165df762588eccd2bb749545340a50",
-      "Document identity mismatch da930bc490f36ab023f59eb925e8b7a11da85b83ae5ca095ee23259e4453a77a",
-      "Document identity mismatch daa499ae279acc97cc77929fb21cfe8961daf195dc7a1060442567cce4d33fe1",
-      "Document identity mismatch dd4fd0af4097a1b2d8b0d2313fb1a24ada46adbe5b01232ca6011899fcf482c2",
-      "Document identity mismatch dde2125bf5cde71f49e4d81e9cf691cb1422a61d06588f539d4a230cc7541591",
-      "Document identity mismatch e06330cee3d2dc35990b7d3fd60c3414fca7dc92aaad46b76b4f5ebd1c7e5e5a",
-      "Document identity mismatch e1f5d99cfb615a9043c76d1b75ba8b5fe7de7779f9c1a6abae440c1fbc5dfdb8",
-      "Document identity mismatch e3ecf840b149087d2435f17bba314ee51bc0b64c4edf068cf1a43a13fd4ce216",
-      "Document identity mismatch e44877cf75594368fbf5c5d515127df98c76fe3212530949fae6825ce9ca7458",
-      "Document identity mismatch e50d2316180cf3a92ef58f9f6265a6489e6be8af009be7465c03bb4468082d48",
-      "Document identity mismatch e5d180a5db9f169f0d2403a58ca1ecc598a3d33a34cd7620563b36147001d0aa",
-      "Document identity mismatch e6252411a74310e8ce7adbc2d1733a0f6fe35a2db9c23a1f5740c250e493194d",
-      "Document identity mismatch e722a85becad126e8f06a129718bb811131b729e8c4d42d2fd74ff3bf4c71af6",
-      "Document identity mismatch e72e7cdaa36581ca039a0005275f4641e2a190cbc5301649bd3c787c79058aa1",
-      "Document identity mismatch ea50d571ee76c8ff621b32b0db9a3110f62474859a645041ccc6daa1e8f12f1a",
-      "Document identity mismatch ea9210c6667fb7c11de25277eeac69aa8f00a2c12f807632b3c50bc5bd0dbc57",
-      "Document identity mismatch eb46b9d61b7d160d43b3da3a402bb1342d32aa49f79b872885a3738f9a150430",
-      "Document identity mismatch eb50e1bd1900735cbcc16ecbebbc4b7f202099aeef10def047a68cf920c4f0c6",
-      "Document identity mismatch ecadc2e655172cc28065a37f58ef099e871b9cdf6615867b3458b39babe12b3c",
-      "Document identity mismatch ecb66d10f9e534d243f5c74dce60cc7244d73f9e4e0983896fecbedbbf62164f",
-      "Document identity mismatch ecd28fb64b23033affd49614647f640f4f2ddb30681e50279d51d555e949a8c4",
-      "Document identity mismatch ece542e71e5cac9852707c8989a6cd65c15ed4ee9760e129ecff76e3b7786b81",
-      "Document identity mismatch efb76d082501ff4d4306bd1c0b86511c81a81e4786342003fb309725ca57b1cd",
-      "Document identity mismatch f03ba44e772ade6b7d19be27e524bac28b25887275eb17d2247e070889fed8f0",
-      "Document identity mismatch f0d8d8d53705598cc6168dc4f05544f0f086b78e15c3d8787f5e358bd6c23191",
-      "Document identity mismatch f425dc34aaf4cb92e419bc402c3a78150be89dcb3ddd0393f396dadda5fa9ba3",
-      "Document identity mismatch f46dc195cb4cda8d5829da5106f5596fcff0203ccb43eaad8cefc146e1efc8ca",
-      "Document identity mismatch f4f3990def9a1fe42eef77ac425b6bc3eee987f4cac54b61d2bdaddfba320b4b",
-      "Document identity mismatch f5147efb84b44d6529833795fde13a3eaaf855f8cef71ea98681a696296dc04d",
-      "Document identity mismatch f51cc5ba282de057b7aafc69c7072d0f10dea17033c6d43ebac775225ea84b89",
-      "Document identity mismatch f65566e8346e2ff2bf119f13c8c4b015c5afc1a9d3e323bfd7ae94945a3de70c",
-      "Document identity mismatch f7aaa7db9501c5d507ed30fd5dbc508768bc51d8e392c7620d98f90760a75dee",
-      "Document identity mismatch f7b587b5a98990cd3e80618f53b3061862fb9adfc0b70296a19c663a7cf1bcef",
-      "Document identity mismatch f89e4a9176c78ee8879f84930a7e0f550394597b3c61c46196051e524d7f9f53",
-      "Document identity mismatch f8bca6eef40d20cea43f4ca9fbb4e5fb00fe6fa2cdf1994c973c1e177609c5d3",
-      "Document identity mismatch f922ecf385da5cefa2f0618eef389bfa1d77fb6aafce1145a6d7c42ddeb0e1e8",
-      "Document identity mismatch f9b8672274b88504bace1c82f02535c5b328d5c7905f3496aa7ffebc8bfc3d1f",
-      "Document identity mismatch fa8a87192d7333b3955d8e26bf2a7c3f085b9b2ebadcdc19917712114914228a",
-      "Document identity mismatch fdcc3b6f5e3b460e860433c1d8426e9e77c1f0e1bb46f14d6793a5856e6225a9"
-    ]
+    "all_corporate_paths_covered_by_verified_archives": true,
+    "issues": [],
+    "display_id_lengths": {
+      "24": 251
+    },
+    "display_ids_unique": true,
+    "display_ids_valid_sha_prefixes": true
   },
   "acceptance": {
     "stage3_complete": false,
@@ -455,7 +234,8 @@
       "case": "valid",
       "exit_code": 0,
       "passed": true,
-      "existing_file_preserved": true,
+      "target_exists_after": true,
+      "existing_original_preserved": true,
       "outside_file_created": false,
       "stderr_tail": ""
     },
@@ -463,7 +243,8 @@
       "case": "idempotent",
       "exit_code": 0,
       "passed": true,
-      "existing_file_preserved": true,
+      "target_exists_after": true,
+      "existing_original_preserved": true,
       "outside_file_created": false,
       "stderr_tail": ""
     },
@@ -471,61 +252,155 @@
       "case": "existing_conflict",
       "exit_code": 1,
       "passed": true,
-      "existing_file_preserved": true,
+      "target_exists_after": true,
+      "existing_original_preserved": true,
       "outside_file_created": false,
-      "stderr_tail": "Traceback (most recent call last):\n  File \"/var/folders/hb/qgg9vq_j6s3bwhcbsrms5xnr0000gn/T/btp-restore-independent-18j8atpu/package/scripts/restore_raw.py\", line 21, in <module>\n    if sha(target)!=expected[name]:raise ValueError('Refusing to overwrite existing different bytes: '+name)\n                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nValueError: Refusing to overwrite existing different bytes: raw/objects/test.txt\n"
+      "stderr_tail": "last):\n  File \"/var/folders/hb/qgg9vq_j6s3bwhcbsrms5xnr0000gn/T/btp-independent-restore-vv1qt7n5/package/scripts/restore_raw.py\", line 21, in <module>\n    if sha(target)!=expected[name]:raise ValueError('Refusing to overwrite existing different bytes: '+name)\n                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nValueError: Refusing to overwrite existing different bytes: raw/objects/test.txt\n"
     },
     {
       "case": "traversal",
       "exit_code": 1,
       "passed": true,
-      "existing_file_preserved": true,
+      "target_exists_after": false,
+      "existing_original_preserved": true,
       "outside_file_created": false,
-      "stderr_tail": "Traceback (most recent call last):\n  File \"/var/folders/hb/qgg9vq_j6s3bwhcbsrms5xnr0000gn/T/btp-restore-independent-_12lyt19/package/scripts/restore_raw.py\", line 19, in <module>\n    if not target.is_relative_to(B) or name not in expected:raise ValueError('Unsafe or undeclared archive path: '+name)\n                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nValueError: Unsafe or undeclared archive path: ../outside.txt\n"
+      "stderr_tail": ":\n  File \"/var/folders/hb/qgg9vq_j6s3bwhcbsrms5xnr0000gn/T/btp-independent-restore-ksdt35hh/package/scripts/restore_raw.py\", line 19, in <module>\n    if not target.is_relative_to(B) or name not in expected:raise ValueError('Unsafe or undeclared archive path: '+name)\n                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nValueError: Unsafe or undeclared archive path: ../outside.txt\n"
     },
     {
       "case": "archive_hash_tamper",
       "exit_code": 1,
       "passed": true,
-      "existing_file_preserved": true,
+      "target_exists_after": false,
+      "existing_original_preserved": true,
       "outside_file_created": false,
-      "stderr_tail": "Traceback (most recent call last):\n  File \"/var/folders/hb/qgg9vq_j6s3bwhcbsrms5xnr0000gn/T/btp-restore-independent-k93woqgr/package/scripts/restore_raw.py\", line 14, in <module>\n    if sha(archive)!=receipt['sha256']:raise ValueError('Archive checksum mismatch: '+archive.name)\n                                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nValueError: Archive checksum mismatch: fixture.zip\n"
+      "stderr_tail": "Traceback (most recent call last):\n  File \"/var/folders/hb/qgg9vq_j6s3bwhcbsrms5xnr0000gn/T/btp-independent-restore-r80pm9hq/package/scripts/restore_raw.py\", line 14, in <module>\n    if sha(archive)!=receipt['sha256']:raise ValueError('Archive checksum mismatch: '+archive.name)\n                                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nValueError: Archive checksum mismatch: fixture.zip\n"
     },
     {
       "case": "member_hash_tamper",
       "exit_code": 1,
       "passed": true,
-      "existing_file_preserved": true,
+      "target_exists_after": false,
+      "existing_original_preserved": true,
       "outside_file_created": false,
-      "stderr_tail": "Traceback (most recent call last):\n  File \"/var/folders/hb/qgg9vq_j6s3bwhcbsrms5xnr0000gn/T/btp-restore-independent-d_zjzlvw/package/scripts/restore_raw.py\", line 28, in <module>\n    temporary.unlink();raise ValueError('Member checksum mismatch: '+name)\n                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nValueError: Member checksum mismatch: raw/objects/test.txt\n"
+      "stderr_tail": "Traceback (most recent call last):\n  File \"/var/folders/hb/qgg9vq_j6s3bwhcbsrms5xnr0000gn/T/btp-independent-restore-n3dufrrj/package/scripts/restore_raw.py\", line 28, in <module>\n    temporary.unlink();raise ValueError('Member checksum mismatch: '+name)\n                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nValueError: Member checksum mismatch: raw/objects/test.txt\n"
     },
     {
       "case": "duplicate_member",
       "exit_code": 1,
       "passed": true,
-      "existing_file_preserved": true,
+      "target_exists_after": false,
+      "existing_original_preserved": true,
       "outside_file_created": false,
-      "stderr_tail": "Traceback (most recent call last):\n  File \"/var/folders/hb/qgg9vq_j6s3bwhcbsrms5xnr0000gn/T/btp-restore-independent-mz4xhrb5/package/scripts/restore_raw.py\", line 16, in <module>\n    if len(z.namelist())!=len(set(z.namelist())) or set(z.namelist())!=set(receipt['members']):raise ValueError('Archive member mismatch')\n                                                                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nValueError: Archive member mismatch\n"
+      "stderr_tail": "/var/folders/hb/qgg9vq_j6s3bwhcbsrms5xnr0000gn/T/btp-independent-restore-6rwhm00_/package/scripts/restore_raw.py\", line 16, in <module>\n    if len(z.namelist())!=len(set(z.namelist())) or set(z.namelist())!=set(receipt['members']):raise ValueError('Archive member mismatch')\n                                                                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nValueError: Archive member mismatch\n"
     },
     {
       "case": "optimized_member_hash_tamper",
       "exit_code": 1,
       "passed": true,
-      "existing_file_preserved": true,
+      "target_exists_after": false,
+      "existing_original_preserved": true,
       "outside_file_created": false,
-      "stderr_tail": "Traceback (most recent call last):\n  File \"/var/folders/hb/qgg9vq_j6s3bwhcbsrms5xnr0000gn/T/btp-restore-independent-wxbqbzjk/package/scripts/restore_raw.py\", line 28, in <module>\n    temporary.unlink();raise ValueError('Member checksum mismatch: '+name)\n                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nValueError: Member checksum mismatch: raw/objects/test.txt\n"
+      "stderr_tail": "Traceback (most recent call last):\n  File \"/var/folders/hb/qgg9vq_j6s3bwhcbsrms5xnr0000gn/T/btp-independent-restore-ozzgriql/package/scripts/restore_raw.py\", line 28, in <module>\n    temporary.unlink();raise ValueError('Member checksum mismatch: '+name)\n                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nValueError: Member checksum mismatch: raw/objects/test.txt\n"
+    },
+    {
+      "case": "undeclared_member",
+      "exit_code": 1,
+      "passed": true,
+      "target_exists_after": false,
+      "existing_original_preserved": true,
+      "outside_file_created": false,
+      "stderr_tail": "le \"/var/folders/hb/qgg9vq_j6s3bwhcbsrms5xnr0000gn/T/btp-independent-restore-2mlm_w2_/package/scripts/restore_raw.py\", line 19, in <module>\n    if not target.is_relative_to(B) or name not in expected:raise ValueError('Unsafe or undeclared archive path: '+name)\n                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nValueError: Unsafe or undeclared archive path: raw/objects/test.txt\n"
+    },
+    {
+      "case": "symlink_parent_escape",
+      "exit_code": 1,
+      "passed": true,
+      "target_exists_after": false,
+      "existing_original_preserved": true,
+      "outside_file_created": false,
+      "stderr_tail": "le \"/var/folders/hb/qgg9vq_j6s3bwhcbsrms5xnr0000gn/T/btp-independent-restore-nzcdpg8t/package/scripts/restore_raw.py\", line 19, in <module>\n    if not target.is_relative_to(B) or name not in expected:raise ValueError('Unsafe or undeclared archive path: '+name)\n                                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nValueError: Unsafe or undeclared archive path: raw/objects/test.txt\n"
     }
   ],
   "source_manifests_changed_during_audit": false,
-  "archive_and_package_problems": [
-    "Corporate identity/alias failure"
-  ],
+  "archive_and_package_problems": [],
   "restore_safety_failures": [],
-  "archive_package_integrity_passed": false,
+  "archive_package_integrity_passed": true,
   "restore_hardening_needed": false,
   "limitations": [
     "Archive validity and file identity do not certify economic truth or Stage3 scientific acceptance.",
     "Existing original datasets were not modified; restore tests ran only in disposable fixtures.",
     "No authenticated remote release upload was verified here."
-  ]
+  ],
+  "auditor_corrections": [
+    "Removed an unsupported 20-character display-ID assumption. Actual unique display IDs are 24-character SHA prefixes and valid. Raw identities, aliases and archive coverage were unchanged."
+  ],
+  "current_restore_script_hash_matches_audited_copy": true,
+  "current_object_manifest_matches_audited_copy": true,
+  "current_archive_manifest_matches_audited_copy": true,
+  "incremental_extension": {
+    "previous_archive_count": 13,
+    "previous_archive_hash_rechecks": [
+      {
+        "filename": "BTP_Stage3_Consolidated_2026-11-06_001.zip",
+        "unchanged_from_full_decompression_audit": true
+      },
+      {
+        "filename": "BTP_Stage3_Consolidated_2026-11-06_002.zip",
+        "unchanged_from_full_decompression_audit": true
+      },
+      {
+        "filename": "BTP_Stage3_Consolidated_2026-11-06_003.zip",
+        "unchanged_from_full_decompression_audit": true
+      },
+      {
+        "filename": "BTP_Stage3_Consolidated_2026-11-06_004.zip",
+        "unchanged_from_full_decompression_audit": true
+      },
+      {
+        "filename": "BTP_Stage3_Consolidated_2026-11-06_005.zip",
+        "unchanged_from_full_decompression_audit": true
+      },
+      {
+        "filename": "BTP_Stage3_Consolidated_2026-11-06_006.zip",
+        "unchanged_from_full_decompression_audit": true
+      },
+      {
+        "filename": "BTP_Stage3_Consolidated_2026-11-06_007.zip",
+        "unchanged_from_full_decompression_audit": true
+      },
+      {
+        "filename": "BTP_Stage3_Consolidated_2026-11-06_008.zip",
+        "unchanged_from_full_decompression_audit": true
+      },
+      {
+        "filename": "BTP_Stage3_Consolidated_2026-11-06_009.zip",
+        "unchanged_from_full_decompression_audit": true
+      },
+      {
+        "filename": "BTP_Stage3_Consolidated_2026-11-06_010.zip",
+        "unchanged_from_full_decompression_audit": true
+      },
+      {
+        "filename": "BTP_Stage3_Consolidated_2026-11-06_011.zip",
+        "unchanged_from_full_decompression_audit": true
+      },
+      {
+        "filename": "BTP_Stage3_Consolidated_2026-11-06_012.zip",
+        "unchanged_from_full_decompression_audit": true
+      },
+      {
+        "filename": "BTP_Stage3_Consolidated_2026-11-06_013.zip",
+        "unchanged_from_full_decompression_audit": true
+      }
+    ],
+    "new_archive_count": 1,
+    "new_members_fully_decompressed": 3,
+    "candidate_raw_objects": 1695,
+    "candidate_raw_bytes": 3170771884
+  },
+  "append_only_extension_manifest_checks": {
+    "all1695_hashes_equal_content_addressed_member_names": true,
+    "all1695_declared_sizes_equal_archive_member_sizes": true,
+    "failures": []
+  }
 }

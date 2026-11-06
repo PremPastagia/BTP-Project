@@ -61,8 +61,8 @@
   },
   {
     "path": "metadata/github_delivery.json",
-    "bytes": 262,
-    "sha256": "10ff89d9373b4e4e406990a6a0f47ccb71c129549bd48cddbe3af79002e45661"
+    "bytes": 8233,
+    "sha256": "b7c866af2f7bdd2dd965aa8b6e6b6f226cea014e5caa4b752d23f3b450deea3f"
   },
   {
     "path": "metadata/raw_objects.csv",
@@ -326,13 +326,13 @@
   },
   {
     "path": "metadata/reviews/independent_review/package_archive_audit.json",
-    "bytes": 37939,
-    "sha256": "8e98ee6dde8135b7cb5e2f23c41aae552a6cd7a336216236fe0ef09103de645d"
+    "bytes": 18661,
+    "sha256": "56b0f992eb163a9f33f4db14ef4e3324f912f67e2a48334870c3b32944ea1c3d"
   },
   {
     "path": "metadata/reviews/independent_review/package_archive_audit.txt",
-    "bytes": 935,
-    "sha256": "714d933086bb7398fd330a457c2dbf1d37d913a543c4317c4fbb2c1c9af95d5a"
+    "bytes": 1229,
+    "sha256": "a3c151b77003e0e4d6808a6d6c30ffd5340b1d939fb71921b64f432389451074"
   },
   {
     "path": "metadata/reviews/independent_review/run.log",

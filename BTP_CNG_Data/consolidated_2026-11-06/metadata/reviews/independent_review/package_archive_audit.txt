@@ -1,27 +1,21 @@
 INDEPENDENT PACKAGE AND ARCHIVE AUDIT
-2026-11-06T06:08:32.918352+00:00
+2026-11-06T06:12:32.030931+00:00
 
-Archive/package integrity: FAIL
-Archives checked: 13
-Objects stream-decompressed and SHA256 checked: 1692
-Uncompressed bytes checked: 3170002159
-Corporate canonical identities: 251
-Corporate metadata aliases: 375
-No package raw evidence tracked in Git: True
-Stage3 accepted/completed/Stage4 started flags are false: True
+Final integrity: PASS
+Archives: 14
+Unique raw objects: 1695
+Verified uncompressed bytes: 3170771884
+Archives 1–13 retain their prior full member SHA verification. Their archive SHA256 values were independently rechecked and are unchanged.
+Archive 014: all three new members independently decompressed and hashed.
+No missing, extra or duplicate member paths or hashes.
+Corporate identities: 251; metadata aliases: 375. Prior exact identity, path and alias reconciliation retained.
+Candidate status counts and byte totals match the final archive coverage.
+Package raw files tracked in Git: 0
+Stage 3 completion/acceptance and Stage 4-start flags remain false: True
+Latest restore script unchanged: True
+All ten independent restore fixtures passed, including optimized Python, traversal/symlink escape, duplicate/undeclared members, hash corruption and existing-file preservation.
+No original source files were modified.
+This audit does not grant Stage 3 scientific acceptance or certify remote release uploads.
 
-Restore fixture results:
-valid: PASS (exit 0)
-idempotent: PASS (exit 0)
-existing_conflict: PASS (exit 1)
-traversal: PASS (exit 1)
-archive_hash_tamper: PASS (exit 1)
-member_hash_tamper: PASS (exit 1)
-duplicate_member: PASS (exit 1)
-optimized_member_hash_tamper: PASS (exit 1)
-
-Package problems: ["Corporate identity/alias failure"]
-Restore safety failure cases: []
-
-All restore tests used independent temporary fixtures. No original data was modified.
-This audit does not grant Stage3 scientific acceptance or certify remote release uploads.
+Problems: []
+All 1,695 current manifest hashes equal the content-addressed archive member names, and declared sizes equal ZIP member sizes: True

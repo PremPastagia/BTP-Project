@@ -2,7 +2,155 @@
   "repository": "PremPastagia/BTP-Project",
   "branch": "codex/stage3-consolidation-2026-11-06",
   "release_tag": "stage3-candidate-2026-11-06",
-  "raw_assets_release_state": "draft_authenticated_access",
+  "release_id": 436165082,
+  "release_url": "https://github.com/PremPastagia/BTP-Project/releases/tag/untagged-94b604b0bf72db2e07c1",
+  "draft": true,
+  "raw_assets_publicly_released": false,
+  "asset_count": 14,
+  "all_sizes_and_states_match": true,
+  "server_sha256_checks_available": 14,
+  "assets": [
+    {
+      "filename": "BTP_Stage3_Consolidated_2026-11-06_001.zip",
+      "asset_id": 716122760,
+      "state": "uploaded",
+      "bytes": 131148214,
+      "expected_bytes": 131148214,
+      "server_digest": "sha256:239e46f31a47b5ca4e3cbdece19a361c19aaa9ff21885f5c5a7f4fbf498fce2e",
+      "expected_sha256": "239e46f31a47b5ca4e3cbdece19a361c19aaa9ff21885f5c5a7f4fbf498fce2e",
+      "browser_download_url": "https://github.com/PremPastagia/BTP-Project/releases/download/untagged-94b604b0bf72db2e07c1/BTP_Stage3_Consolidated_2026-11-06_001.zip"
+    },
+    {
+      "filename": "BTP_Stage3_Consolidated_2026-11-06_002.zip",
+      "asset_id": 716122759,
+      "state": "uploaded",
+      "bytes": 225295444,
+      "expected_bytes": 225295444,
+      "server_digest": "sha256:a3804cc189b6e157d0a82d51e4a67df5ff934d605516bdd52256ce60e40d3927",
+      "expected_sha256": "a3804cc189b6e157d0a82d51e4a67df5ff934d605516bdd52256ce60e40d3927",
+      "browser_download_url": "https://github.com/PremPastagia/BTP-Project/releases/download/untagged-94b604b0bf72db2e07c1/BTP_Stage3_Consolidated_2026-11-06_002.zip"
+    },
+    {
+      "filename": "BTP_Stage3_Consolidated_2026-11-06_003.zip",
+      "asset_id": 716122753,
+      "state": "uploaded",
+      "bytes": 240474551,
+      "expected_bytes": 240474551,
+      "server_digest": "sha256:0414ce6ff3ac20c934daabaf7b9367d4b3acb45fd6df66db12b2767437d23eee",
+      "expected_sha256": "0414ce6ff3ac20c934daabaf7b9367d4b3acb45fd6df66db12b2767437d23eee",
+      "browser_download_url": "https://github.com/PremPastagia/BTP-Project/releases/download/untagged-94b604b0bf72db2e07c1/BTP_Stage3_Consolidated_2026-11-06_003.zip"
+    },
+    {
+      "filename": "BTP_Stage3_Consolidated_2026-11-06_004.zip",
+      "asset_id": 716122767,
+      "state": "uploaded",
+      "bytes": 210713865,
+      "expected_bytes": 210713865,
+      "server_digest": "sha256:1ddcf54b738fd40287e9281d41b525f5fc2f8955e7b28267c4eb0202ed9de3ae",
+      "expected_sha256": "1ddcf54b738fd40287e9281d41b525f5fc2f8955e7b28267c4eb0202ed9de3ae",
+      "browser_download_url": "https://github.com/PremPastagia/BTP-Project/releases/download/untagged-94b604b0bf72db2e07c1/BTP_Stage3_Consolidated_2026-11-06_004.zip"
+    },
+    {
+      "filename": "BTP_Stage3_Consolidated_2026-11-06_005.zip",
+      "asset_id": 716122754,
+      "state": "uploaded",
+      "bytes": 208356416,
+      "expected_bytes": 208356416,
+      "server_digest": "sha256:7770ef5a5cd472153c53816ac09499c86cbedb96395fdbacdb275cadaf8bd484",
+      "expected_sha256": "7770ef5a5cd472153c53816ac09499c86cbedb96395fdbacdb275cadaf8bd484",
+      "browser_download_url": "https://github.com/PremPastagia/BTP-Project/releases/download/untagged-94b604b0bf72db2e07c1/BTP_Stage3_Consolidated_2026-11-06_005.zip"
+    },
+    {
+      "filename": "BTP_Stage3_Consolidated_2026-11-06_006.zip",
+      "asset_id": 716124289,
+      "state": "uploaded",
+      "bytes": 227164172,
+      "expected_bytes": 227164172,
+      "server_digest": "sha256:c53659b503483620aba39f670d824ffb1411a8db8b51738ef34dc0c7829570bc",
+      "expected_sha256": "c53659b503483620aba39f670d824ffb1411a8db8b51738ef34dc0c7829570bc",
+      "browser_download_url": "https://github.com/PremPastagia/BTP-Project/releases/download/untagged-94b604b0bf72db2e07c1/BTP_Stage3_Consolidated_2026-11-06_006.zip"
+    },
+    {
+      "filename": "BTP_Stage3_Consolidated_2026-11-06_007.zip",
+      "asset_id": 716124915,
+      "state": "uploaded",
+      "bytes": 196611461,
+      "expected_bytes": 196611461,
+      "server_digest": "sha256:8ac38fa9db8344e55a51e07f26b6587f03829ae57230b17a3888042ec20cb731",
+      "expected_sha256": "8ac38fa9db8344e55a51e07f26b6587f03829ae57230b17a3888042ec20cb731",
+      "browser_download_url": "https://github.com/PremPastagia/BTP-Project/releases/download/untagged-94b604b0bf72db2e07c1/BTP_Stage3_Consolidated_2026-11-06_007.zip"
+    },
+    {
+      "filename": "BTP_Stage3_Consolidated_2026-11-06_008.zip",
+      "asset_id": 716124920,
+      "state": "uploaded",
+      "bytes": 237069654,
+      "expected_bytes": 237069654,
+      "server_digest": "sha256:98c95d31edf579747d09f9a6a750ed43e5db16cc91ce45fa5982d689ab6b9c32",
+      "expected_sha256": "98c95d31edf579747d09f9a6a750ed43e5db16cc91ce45fa5982d689ab6b9c32",
+      "browser_download_url": "https://github.com/PremPastagia/BTP-Project/releases/download/untagged-94b604b0bf72db2e07c1/BTP_Stage3_Consolidated_2026-11-06_008.zip"
+    },
+    {
+      "filename": "BTP_Stage3_Consolidated_2026-11-06_009.zip",
+      "asset_id": 716125000,
+      "state": "uploaded",
+      "bytes": 217961023,
+      "expected_bytes": 217961023,
+      "server_digest": "sha256:1df43ad51592a491b2576121f7cff6f9c00f9e270f135db94abfc13376f18278",
+      "expected_sha256": "1df43ad51592a491b2576121f7cff6f9c00f9e270f135db94abfc13376f18278",
+      "browser_download_url": "https://github.com/PremPastagia/BTP-Project/releases/download/untagged-94b604b0bf72db2e07c1/BTP_Stage3_Consolidated_2026-11-06_009.zip"
+    },
+    {
+      "filename": "BTP_Stage3_Consolidated_2026-11-06_010.zip",
+      "asset_id": 716125149,
+      "state": "uploaded",
+      "bytes": 215877535,
+      "expected_bytes": 215877535,
+      "server_digest": "sha256:a4b14854018014c935e96442c2137f8e9f3ef4282148df8b2191878e92092c9a",
+      "expected_sha256": "a4b14854018014c935e96442c2137f8e9f3ef4282148df8b2191878e92092c9a",
+      "browser_download_url": "https://github.com/PremPastagia/BTP-Project/releases/download/untagged-94b604b0bf72db2e07c1/BTP_Stage3_Consolidated_2026-11-06_010.zip"
+    },
+    {
+      "filename": "BTP_Stage3_Consolidated_2026-11-06_011.zip",
+      "asset_id": 716125427,
+      "state": "uploaded",
+      "bytes": 229680800,
+      "expected_bytes": 229680800,
+      "server_digest": "sha256:511271109870316edcbef7b47ef1ff06d78e5bf2d3aefcc3c249a8e695c20bd3",
+      "expected_sha256": "511271109870316edcbef7b47ef1ff06d78e5bf2d3aefcc3c249a8e695c20bd3",
+      "browser_download_url": "https://github.com/PremPastagia/BTP-Project/releases/download/untagged-94b604b0bf72db2e07c1/BTP_Stage3_Consolidated_2026-11-06_011.zip"
+    },
+    {
+      "filename": "BTP_Stage3_Consolidated_2026-11-06_012.zip",
+      "asset_id": 716126744,
+      "state": "uploaded",
+      "bytes": 190196339,
+      "expected_bytes": 190196339,
+      "server_digest": "sha256:d0f92ca6fdef05a6cfe601117910875ddf6022dd2d7da8c2692ffccd6ba80c56",
+      "expected_sha256": "d0f92ca6fdef05a6cfe601117910875ddf6022dd2d7da8c2692ffccd6ba80c56",
+      "browser_download_url": "https://github.com/PremPastagia/BTP-Project/releases/download/untagged-94b604b0bf72db2e07c1/BTP_Stage3_Consolidated_2026-11-06_012.zip"
+    },
+    {
+      "filename": "BTP_Stage3_Consolidated_2026-11-06_013.zip",
+      "asset_id": 716127132,
+      "state": "uploaded",
+      "bytes": 151410227,
+      "expected_bytes": 151410227,
+      "server_digest": "sha256:315d091e36fbe2dc5ca241d2b0a182f17fdde483bd3b2f4413c24152db961db5",
+      "expected_sha256": "315d091e36fbe2dc5ca241d2b0a182f17fdde483bd3b2f4413c24152db961db5",
+      "browser_download_url": "https://github.com/PremPastagia/BTP-Project/releases/download/untagged-94b604b0bf72db2e07c1/BTP_Stage3_Consolidated_2026-11-06_013.zip"
+    },
+    {
+      "filename": "BTP_Stage3_Consolidated_2026-11-06_014.zip",
+      "asset_id": 716127369,
+      "state": "uploaded",
+      "bytes": 148598,
+      "expected_bytes": 148598,
+      "server_digest": "sha256:1f8953738f40a3b7ca7969052da4d835123e2e48cab3ce4fc35dba94c689807e",
+      "expected_sha256": "1f8953738f40a3b7ca7969052da4d835123e2e48cab3ce4fc35dba94c689807e",
+      "browser_download_url": "https://github.com/PremPastagia/BTP-Project/releases/download/untagged-94b604b0bf72db2e07c1/BTP_Stage3_Consolidated_2026-11-06_014.zip"
+    }
+  ],
   "stage3_complete": false,
   "stage4_started": false
 }
