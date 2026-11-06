@@ -1,0 +1,15 @@
+{
+  "revision_id": "S4-EDA-VISUAL-002",
+  "timestamp": "2026-11-06T06:33:34.291427+00:00",
+  "classification": "minor_artifact_retention_deviation",
+  "original_pre_fix_visual_archived": false,
+  "original_pre_fix_code_archived": false,
+  "reconstruction_in_final_deliverables": false,
+  "prior_reconstruction_removed": "Parent requested an honest retention record rather than reconstructing a historical artifact; only current fixed code/figures and original unchanged analysis specification are retained.",
+  "correction": "Shared x-axis sample-count labels changed to independent axes. Numeric tables and statistical definitions unchanged.",
+  "calendar_table_sha256": "b66432c1d11aa2686175b5558fcdb3555e13d5c9947a50c2f17229f46602ec11",
+  "fixed_code_sha256": "61234454391c50302549518a9fca7e49cdbdf1daa58a5d439312cc196265df1a",
+  "analysis_specification_sha256": "b4508c3780e5cacadf375f6dbe6e34600f0807eeca2e76fc5b14abe7893add27",
+  "data_or_statistical_results_altered": false,
+  "reserved_values_used": false
+}

@@ -1,0 +1,6 @@
+market,operator,exploratory_start_intervals,contiguous_accepted_boundaries,nonzero_price_changes_at_contiguous_boundaries,same_price_boundaries,noncontiguous_boundaries_excluded,interpretation
+Delhi,Indraprastha Gas Limited,87,82,70,12,4,source_supported_boundaries_not_exhaustive_revision_history
+Noida,Indraprastha Gas Limited,78,74,68,6,3,source_supported_boundaries_not_exhaustive_revision_history
+Lucknow,Green Gas Limited,27,25,23,2,1,source_supported_boundaries_not_exhaustive_revision_history
+Agra,Green Gas Limited,27,25,23,2,1,source_supported_boundaries_not_exhaustive_revision_history
+Unnao,Green Gas Limited,20,18,14,4,1,source_supported_boundaries_not_exhaustive_revision_history

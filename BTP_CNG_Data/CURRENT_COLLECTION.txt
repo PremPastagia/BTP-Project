@@ -1,5 +1,10 @@
-The root structured tables and older reports are preserved legacy artifacts.
-They must not be interpreted as accepted or model-ready data.
-The current reviewed repair candidate is consolidated_2026-11-06/.
-Read its STAGE3_CHECKPOINT_REPORT.txt and acceptance gates before proceeding.
-Stage3 is not accepted; Stage4 has not begun.
+CURRENT RESEARCH STATUS — 6 NOVEMBER 2026
+
+Restricted Stage 3 snapshot accepted explicitly by researcher: accepted_stage3_2026-11-06_restricted_v1/.
+Stage 4 completed and independently checked; researcher checkpoint review pending.
+Read stage4_2026-11-06/STAGE4_CHECKPOINT_REPORT.txt.
+Stage 5 has not started. Broader collection/vintage gaps remain documented.
+
+consolidated_2026-11-06/ is the preserved earlier review candidate, not the current
+acceptance state. Its historical flags remain unchanged deliberately.
+Root legacy tables are preserved artifacts, not accepted/model-ready data.

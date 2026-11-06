@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-11-06T06:27:21.761439+00:00",
+  "forecast_origins": 566,
+  "market_count": 5,
+  "eligible_native_factor_rows": 92,
+  "eligible_namespaces": 6,
+  "asof_rows": 124,
+  "origins_with_any_known_factor": 24,
+  "reserved_origin_rows": 54,
+  "excluded_records": 48440,
+  "exclusion_reasons": {
+    "unknown_publication_date_no_assumed_lag": 47766,
+    "station_flow_stock_or_nonCNG_definition_unresolved": 28,
+    "unverified_PPAC_transcription_excluded_from_historical_inputs": 395,
+    "corporate_publication_availability_unverified_no_historical_input": 251
+  },
+  "asof_conflicts": 0,
+  "news_records": 24,
+  "news_timestamp_claims_parseable": 22,
+  "news_metadata_asof_rows": 5820,
+  "corporate_historical_inputs": 0,
+  "price_lag_availability_certified": false,
+  "synthetic_research_observations_created": false,
+  "annual_or_quarterly_values_disaggregated": false,
+  "sentiment_features_computed": false,
+  "models_trained": false,
+  "stationarity_tests_run": false,
+  "stage5_started": false,
+  "reserved_outcomes_used_for_EDA_or_selection": false,
+  "limits": [
+    "Sparse dated-factor coverage does not establish H1 or H2 forecasting feasibility.",
+    "Held known values are information-state records, never new monthly measurements.",
+    "Retrospective target acceptance does not certify historical price predictor publication.",
+    "Publisher timestamp metadata is not independent historical archive verification."
+  ]
+}

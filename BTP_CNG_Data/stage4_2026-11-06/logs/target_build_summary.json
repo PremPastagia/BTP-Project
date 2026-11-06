@@ -1,0 +1,10 @@
+{
+  "snapshot_id": "stage3-restricted-2026-11-06-v1",
+  "calendar_coverage_rows": 645,
+  "month_end_targets": 566,
+  "full_month_average_targets": 553,
+  "sensitivity_bounds_identified": 551,
+  "source_intervals": 275,
+  "synthetic_observations": 0,
+  "stage5_started": false
+}

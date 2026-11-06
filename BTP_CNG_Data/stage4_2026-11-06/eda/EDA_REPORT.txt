@@ -1,0 +1,60 @@
+STAGE 4 EXPLORATORY DATA REPORT
+2026-11-06T06:30:53.929007+00:00
+
+SCOPE AND RESERVATION
+Researcher-accepted restricted source paths: five named markets, two operators.
+Only exploration_eligible rows were converted to numerical targets.
+Provisional reserved months: November 2025–October 2026. Reserved rows: 56.
+Reserved values are absent from all price/change/correlation/calendar summaries and figures.
+The reservation is provisional; Stage 6 must confirm the final evaluation design.
+
+ACTUAL COUNTS
+All target calendar rows: 645. Exploratory rows: 589.
+Exploratory nonmissing month-end quotes: 512.
+Exploratory nonmissing calendar-day averages: 499.
+Full-coverage/month-end-only/missing counts and exact gap spans are in tables/.
+
+EXPLORATORY PRICE SUMMARIES
+Delhi: n=175; month-end range 27.50–79.56 INR/kg; mean 46.849; 116/170 adjacent valid pairs unchanged (68.2%).
+Noida: n=172; month-end range 30.60–85.70 INR/kg; mean 51.891; 111/168 adjacent valid pairs unchanged (66.1%).
+Lucknow: n=61; month-end range 59.50–97.75 INR/kg; mean 76.328; 41/59 adjacent valid pairs unchanged (69.5%).
+Agra: n=61; month-end range 59.50–97.75 INR/kg; mean 76.496; 41/59 adjacent valid pairs unchanged (69.5%).
+Unnao: n=43; month-end range 60.95–97.00 INR/kg; mean 81.586; 31/41 adjacent valid pairs unchanged (75.6%).
+
+PERSISTENCE AND REVISION INTERPRETATION
+Flat fractions use valid consecutive months only. Missing months are never bridged.
+Contiguous source-boundary counts distinguish unchanged quotes from nonzero changes.
+These are accepted-source observations, not proof that all real-world revisions were captured.
+
+CORRELATION AND CALENDAR INTERPRETATION
+All coefficients use exactly matched exploratory months, with pair counts reported.
+Level correlations can reflect common trends. Change correlations can reflect shared
+operator tariff decisions and common shocks. Neither establishes a causal relationship
+or additional forecasting value. No significance tests were performed.
+Calendar displays mix different years/regimes and availability patterns. They do not
+establish seasonality or justify a seasonal model. Five markets are not five independent
+units: Delhi/Noida share IGL; Lucknow/Agra/Unnao share Green Gas.
+
+EXPLORATORY FLAGS
+24 month-end change records satisfy the optional nonzero-change Tukey flag.
+Flags and largest changes remain in flagged_changes.csv. No rows were removed,
+winsorized, interpolated or treated as errors merely because a change was large.
+
+ESTIMAND AND VALIDITY LIMITS
+Calendar-day averages describe accepted day-end quotes. They are not identified
+continuous-time TWAPs. Supplied timing bounds are conditional sensitivity envelopes,
+not confidence or prediction intervals. Source chronology completeness and historical
+predictor availability remain qualified. No H1/H2 finding, formal power calculation,
+stationarity/break test, model fit or forecast was produced.
+
+INDEPENDENT VERIFICATION
+125 stdlib/Decimal/direct-arithmetic checks passed against pandas summaries.
+Input/output checksums and the consequential experiment record are in metadata/.
+Separate target reconstruction verification is performed by the independent target auditor.
+
+COMPARABILITY CAUTION
+Market means and ranges cover unequal years and source availability. They cannot
+be interpreted as regional price premia. Any comparative price-level statement would
+require matched months, compatible geography/definitions and qualified operator scope.
+Correlation figure labels are rounded; a displayed 1.00 does not imply identical
+series. The CSV retains the computed coefficient and exact matched-month count.

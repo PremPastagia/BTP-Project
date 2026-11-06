@@ -1,0 +1,84 @@
+{
+  "verified_at": "2026-11-06T11:58:39.185474+05:30",
+  "producer_helpers_imported": false,
+  "checks": [
+    {
+      "check": "all_asof_selections_independently_recomputed",
+      "passed": true,
+      "detail": {
+        "asof_rows": 124,
+        "expected_rows": 124,
+        "problems": {}
+      }
+    },
+    {
+      "check": "origins_exactly_observed_monthend_target_keys",
+      "passed": true,
+      "detail": 566
+    },
+    {
+      "check": "origin_calendar_and_reserved_boundary",
+      "passed": true,
+      "detail": {
+        "reserved_origins": 54,
+        "errors": 0
+      }
+    },
+    {
+      "check": "eligible_source_version_period_keys_unique",
+      "passed": true,
+      "detail": 92
+    },
+    {
+      "check": "eligible_original_source_hashes",
+      "passed": true,
+      "detail": 8
+    },
+    {
+      "check": "all_unknown_release_numerical_records_excluded",
+      "passed": true,
+      "detail": 47766
+    },
+    {
+      "check": "station_indicators_and_unverified_PPAC_absent",
+      "passed": true,
+      "detail": 92
+    },
+    {
+      "check": "all_corporate_metadata_excluded_as_historical_predictors",
+      "passed": true,
+      "detail": 251
+    },
+    {
+      "check": "deliberately_future_release_rejected",
+      "passed": true,
+      "detail": "In-memory audit fixture, not research data"
+    },
+    {
+      "check": "news_is_timestamp_claim_metadata_only_no_future_claims",
+      "passed": true,
+      "detail": {
+        "articles": 24,
+        "references": 5820
+      }
+    },
+    {
+      "check": "no_text_predictor_eligibility_claim",
+      "passed": true,
+      "detail": 24
+    },
+    {
+      "check": "accepted_manifest_and_target_hash_binding",
+      "passed": true,
+      "detail": "968d4ad2b34c444ab6e4c9da33eae5b0c9c14bde7c01d308084136874ce3cea3"
+    }
+  ],
+  "all_checks_passed": true,
+  "stage5_started": false,
+  "reserved_outcomes_used_for_statistical_selection": false,
+  "limitations": [
+    "Independent checks validate release-constrained integration calculations, not every economic source assertion.",
+    "Source-upload timestamp claims and publisher metadata do not independently certify historical archived bytes.",
+    "No H1/H2 result or forecasting model was produced."
+  ]
+}

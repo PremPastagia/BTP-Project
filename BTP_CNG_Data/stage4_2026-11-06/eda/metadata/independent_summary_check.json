@@ -1,0 +1,756 @@
+{
+  "checks": [
+    {
+      "check": "Delhi total coverage rows",
+      "passed": true,
+      "observed": 195,
+      "independent_expected": 195
+    },
+    {
+      "check": "Delhi month_end_price_inr_kg n",
+      "passed": true,
+      "observed": 175,
+      "independent_expected": 175
+    },
+    {
+      "check": "Delhi month_end_price_inr_kg mean",
+      "passed": true,
+      "observed": 46.84942857142858,
+      "independent_expected": "46.84942857142857142857142857"
+    },
+    {
+      "check": "Delhi month_end_price_inr_kg adjacent pairs",
+      "passed": true,
+      "observed": 170,
+      "independent_expected": 170
+    },
+    {
+      "check": "Delhi month_end_price_inr_kg flat pairs",
+      "passed": true,
+      "observed": 116,
+      "independent_expected": 116
+    },
+    {
+      "check": "Delhi day_weighted_day_end_average_inr_kg n",
+      "passed": true,
+      "observed": 170,
+      "independent_expected": 170
+    },
+    {
+      "check": "Delhi day_weighted_day_end_average_inr_kg mean",
+      "passed": true,
+      "observed": 46.44854780880095,
+      "independent_expected": "46.44854780880094705882352941"
+    },
+    {
+      "check": "Delhi day_weighted_day_end_average_inr_kg adjacent pairs",
+      "passed": true,
+      "observed": 166,
+      "independent_expected": 166
+    },
+    {
+      "check": "Delhi day_weighted_day_end_average_inr_kg flat pairs",
+      "passed": true,
+      "observed": 75,
+      "independent_expected": 75
+    },
+    {
+      "check": "Noida total coverage rows",
+      "passed": true,
+      "observed": 195,
+      "independent_expected": 195
+    },
+    {
+      "check": "Noida month_end_price_inr_kg n",
+      "passed": true,
+      "observed": 172,
+      "independent_expected": 172
+    },
+    {
+      "check": "Noida month_end_price_inr_kg mean",
+      "passed": true,
+      "observed": 51.89145348837209,
+      "independent_expected": "51.89145348837209302325581395"
+    },
+    {
+      "check": "Noida month_end_price_inr_kg adjacent pairs",
+      "passed": true,
+      "observed": 168,
+      "independent_expected": 168
+    },
+    {
+      "check": "Noida month_end_price_inr_kg flat pairs",
+      "passed": true,
+      "observed": 111,
+      "independent_expected": 111
+    },
+    {
+      "check": "Noida day_weighted_day_end_average_inr_kg n",
+      "passed": true,
+      "observed": 168,
+      "independent_expected": 168
+    },
+    {
+      "check": "Noida day_weighted_day_end_average_inr_kg mean",
+      "passed": true,
+      "observed": 51.50692649129545,
+      "independent_expected": "51.50692649129544642857142857"
+    },
+    {
+      "check": "Noida day_weighted_day_end_average_inr_kg adjacent pairs",
+      "passed": true,
+      "observed": 164,
+      "independent_expected": 164
+    },
+    {
+      "check": "Noida day_weighted_day_end_average_inr_kg flat pairs",
+      "passed": true,
+      "observed": 71,
+      "independent_expected": 71
+    },
+    {
+      "check": "Lucknow total coverage rows",
+      "passed": true,
+      "observed": 91,
+      "independent_expected": 91
+    },
+    {
+      "check": "Lucknow month_end_price_inr_kg n",
+      "passed": true,
+      "observed": 61,
+      "independent_expected": 61
+    },
+    {
+      "check": "Lucknow month_end_price_inr_kg mean",
+      "passed": true,
+      "observed": 76.32786885245902,
+      "independent_expected": "76.32786885245901639344262295"
+    },
+    {
+      "check": "Lucknow month_end_price_inr_kg adjacent pairs",
+      "passed": true,
+      "observed": 59,
+      "independent_expected": 59
+    },
+    {
+      "check": "Lucknow month_end_price_inr_kg flat pairs",
+      "passed": true,
+      "observed": 41,
+      "independent_expected": 41
+    },
+    {
+      "check": "Lucknow day_weighted_day_end_average_inr_kg n",
+      "passed": true,
+      "observed": 60,
+      "independent_expected": 60
+    },
+    {
+      "check": "Lucknow day_weighted_day_end_average_inr_kg mean",
+      "passed": true,
+      "observed": 75.92609498207885,
+      "independent_expected": "75.92609498207886666666666667"
+    },
+    {
+      "check": "Lucknow day_weighted_day_end_average_inr_kg adjacent pairs",
+      "passed": true,
+      "observed": 58,
+      "independent_expected": 58
+    },
+    {
+      "check": "Lucknow day_weighted_day_end_average_inr_kg flat pairs",
+      "passed": true,
+      "observed": 28,
+      "independent_expected": 28
+    },
+    {
+      "check": "Agra total coverage rows",
+      "passed": true,
+      "observed": 91,
+      "independent_expected": 91
+    },
+    {
+      "check": "Agra month_end_price_inr_kg n",
+      "passed": true,
+      "observed": 61,
+      "independent_expected": 61
+    },
+    {
+      "check": "Agra month_end_price_inr_kg mean",
+      "passed": true,
+      "observed": 76.49590163934427,
+      "independent_expected": "76.49590163934426229508196721"
+    },
+    {
+      "check": "Agra month_end_price_inr_kg adjacent pairs",
+      "passed": true,
+      "observed": 59,
+      "independent_expected": 59
+    },
+    {
+      "check": "Agra month_end_price_inr_kg flat pairs",
+      "passed": true,
+      "observed": 41,
+      "independent_expected": 41
+    },
+    {
+      "check": "Agra day_weighted_day_end_average_inr_kg n",
+      "passed": true,
+      "observed": 60,
+      "independent_expected": 60
+    },
+    {
+      "check": "Agra day_weighted_day_end_average_inr_kg mean",
+      "passed": true,
+      "observed": 76.1057670250896,
+      "independent_expected": "76.10576702508961666666666667"
+    },
+    {
+      "check": "Agra day_weighted_day_end_average_inr_kg adjacent pairs",
+      "passed": true,
+      "observed": 58,
+      "independent_expected": 58
+    },
+    {
+      "check": "Agra day_weighted_day_end_average_inr_kg flat pairs",
+      "passed": true,
+      "observed": 28,
+      "independent_expected": 28
+    },
+    {
+      "check": "Unnao total coverage rows",
+      "passed": true,
+      "observed": 73,
+      "independent_expected": 73
+    },
+    {
+      "check": "Unnao month_end_price_inr_kg n",
+      "passed": true,
+      "observed": 43,
+      "independent_expected": 43
+    },
+    {
+      "check": "Unnao month_end_price_inr_kg mean",
+      "passed": true,
+      "observed": 81.5860465116279,
+      "independent_expected": "81.58604651162790697674418605"
+    },
+    {
+      "check": "Unnao month_end_price_inr_kg adjacent pairs",
+      "passed": true,
+      "observed": 41,
+      "independent_expected": 41
+    },
+    {
+      "check": "Unnao month_end_price_inr_kg flat pairs",
+      "passed": true,
+      "observed": 31,
+      "independent_expected": 31
+    },
+    {
+      "check": "Unnao day_weighted_day_end_average_inr_kg n",
+      "passed": true,
+      "observed": 41,
+      "independent_expected": 41
+    },
+    {
+      "check": "Unnao day_weighted_day_end_average_inr_kg mean",
+      "passed": true,
+      "observed": 81.65535011801732,
+      "independent_expected": "81.65535011801731707317073171"
+    },
+    {
+      "check": "Unnao day_weighted_day_end_average_inr_kg adjacent pairs",
+      "passed": true,
+      "observed": 39,
+      "independent_expected": 39
+    },
+    {
+      "check": "Unnao day_weighted_day_end_average_inr_kg flat pairs",
+      "passed": true,
+      "observed": 23,
+      "independent_expected": 23
+    },
+    {
+      "check": "correlation matched rows {'target': 'month_end_price_inr_kg', 'kind': 'levels', 'market_a': 'Delhi', 'market_b': 'Noida', 'matched_months': 172, 'pearson': np.float64(0.9933709626878469), 'same_operator': True, 'overlap_warning': 'serial_dependence_and_common_shocks_reduce_information', 'interpretation': 'descriptive_noncausal_not_predictive_evidence'}",
+      "passed": true,
+      "observed": 172,
+      "independent_expected": 172
+    },
+    {
+      "check": "Pearson month_end_price_inr_kg levels Delhi/Noida",
+      "passed": true,
+      "observed": 0.9933709626878469,
+      "independent_expected": 0.9933709626878467
+    },
+    {
+      "check": "correlation matched rows {'target': 'month_end_price_inr_kg', 'kind': 'levels', 'market_a': 'Delhi', 'market_b': 'Lucknow', 'matched_months': 51, 'pearson': np.float64(0.9884242224436119), 'same_operator': False, 'overlap_warning': 'serial_dependence_and_common_shocks_reduce_information', 'interpretation': 'descriptive_noncausal_not_predictive_evidence'}",
+      "passed": true,
+      "observed": 51,
+      "independent_expected": 51
+    },
+    {
+      "check": "Pearson month_end_price_inr_kg levels Delhi/Lucknow",
+      "passed": true,
+      "observed": 0.9884242224436119,
+      "independent_expected": 0.9884242224436122
+    },
+    {
+      "check": "correlation matched rows {'target': 'month_end_price_inr_kg', 'kind': 'levels', 'market_a': 'Delhi', 'market_b': 'Agra', 'matched_months': 51, 'pearson': np.float64(0.992013122814291), 'same_operator': False, 'overlap_warning': 'serial_dependence_and_common_shocks_reduce_information', 'interpretation': 'descriptive_noncausal_not_predictive_evidence'}",
+      "passed": true,
+      "observed": 51,
+      "independent_expected": 51
+    },
+    {
+      "check": "Pearson month_end_price_inr_kg levels Delhi/Agra",
+      "passed": true,
+      "observed": 0.992013122814291,
+      "independent_expected": 0.9920131228142908
+    },
+    {
+      "check": "correlation matched rows {'target': 'month_end_price_inr_kg', 'kind': 'levels', 'market_a': 'Delhi', 'market_b': 'Unnao', 'matched_months': 33, 'pearson': np.float64(0.9903779615935282), 'same_operator': False, 'overlap_warning': 'serial_dependence_and_common_shocks_reduce_information', 'interpretation': 'descriptive_noncausal_not_predictive_evidence'}",
+      "passed": true,
+      "observed": 33,
+      "independent_expected": 33
+    },
+    {
+      "check": "Pearson month_end_price_inr_kg levels Delhi/Unnao",
+      "passed": true,
+      "observed": 0.9903779615935282,
+      "independent_expected": 0.9903779615935282
+    },
+    {
+      "check": "correlation matched rows {'target': 'month_end_price_inr_kg', 'kind': 'levels', 'market_a': 'Noida', 'market_b': 'Lucknow', 'matched_months': 48, 'pearson': np.float64(0.9945411383533785), 'same_operator': False, 'overlap_warning': 'serial_dependence_and_common_shocks_reduce_information', 'interpretation': 'descriptive_noncausal_not_predictive_evidence'}",
+      "passed": true,
+      "observed": 48,
+      "independent_expected": 48
+    },
+    {
+      "check": "Pearson month_end_price_inr_kg levels Noida/Lucknow",
+      "passed": true,
+      "observed": 0.9945411383533785,
+      "independent_expected": 0.9945411383533785
+    },
+    {
+      "check": "correlation matched rows {'target': 'month_end_price_inr_kg', 'kind': 'levels', 'market_a': 'Noida', 'market_b': 'Agra', 'matched_months': 48, 'pearson': np.float64(0.9953539971316585), 'same_operator': False, 'overlap_warning': 'serial_dependence_and_common_shocks_reduce_information', 'interpretation': 'descriptive_noncausal_not_predictive_evidence'}",
+      "passed": true,
+      "observed": 48,
+      "independent_expected": 48
+    },
+    {
+      "check": "Pearson month_end_price_inr_kg levels Noida/Agra",
+      "passed": true,
+      "observed": 0.9953539971316585,
+      "independent_expected": 0.9953539971316583
+    },
+    {
+      "check": "correlation matched rows {'target': 'month_end_price_inr_kg', 'kind': 'levels', 'market_a': 'Noida', 'market_b': 'Unnao', 'matched_months': 30, 'pearson': np.float64(0.9930658187751525), 'same_operator': False, 'overlap_warning': 'serial_dependence_and_common_shocks_reduce_information', 'interpretation': 'descriptive_noncausal_not_predictive_evidence'}",
+      "passed": true,
+      "observed": 30,
+      "independent_expected": 30
+    },
+    {
+      "check": "Pearson month_end_price_inr_kg levels Noida/Unnao",
+      "passed": true,
+      "observed": 0.9930658187751525,
+      "independent_expected": 0.9930658187751525
+    },
+    {
+      "check": "correlation matched rows {'target': 'month_end_price_inr_kg', 'kind': 'levels', 'market_a': 'Lucknow', 'market_b': 'Agra', 'matched_months': 61, 'pearson': np.float64(0.9994423323634404), 'same_operator': True, 'overlap_warning': 'serial_dependence_and_common_shocks_reduce_information', 'interpretation': 'descriptive_noncausal_not_predictive_evidence'}",
+      "passed": true,
+      "observed": 61,
+      "independent_expected": 61
+    },
+    {
+      "check": "Pearson month_end_price_inr_kg levels Lucknow/Agra",
+      "passed": true,
+      "observed": 0.9994423323634404,
+      "independent_expected": 0.9994423323634406
+    },
+    {
+      "check": "correlation matched rows {'target': 'month_end_price_inr_kg', 'kind': 'levels', 'market_a': 'Lucknow', 'market_b': 'Unnao', 'matched_months': 43, 'pearson': np.float64(0.9977915715597058), 'same_operator': True, 'overlap_warning': 'serial_dependence_and_common_shocks_reduce_information', 'interpretation': 'descriptive_noncausal_not_predictive_evidence'}",
+      "passed": true,
+      "observed": 43,
+      "independent_expected": 43
+    },
+    {
+      "check": "Pearson month_end_price_inr_kg levels Lucknow/Unnao",
+      "passed": true,
+      "observed": 0.9977915715597058,
+      "independent_expected": 0.9977915715597054
+    },
+    {
+      "check": "correlation matched rows {'target': 'month_end_price_inr_kg', 'kind': 'levels', 'market_a': 'Agra', 'market_b': 'Unnao', 'matched_months': 43, 'pearson': np.float64(0.9980613760506295), 'same_operator': True, 'overlap_warning': 'serial_dependence_and_common_shocks_reduce_information', 'interpretation': 'descriptive_noncausal_not_predictive_evidence'}",
+      "passed": true,
+      "observed": 43,
+      "independent_expected": 43
+    },
+    {
+      "check": "Pearson month_end_price_inr_kg levels Agra/Unnao",
+      "passed": true,
+      "observed": 0.9980613760506295,
+      "independent_expected": 0.998061376050629
+    },
+    {
+      "check": "correlation matched rows {'target': 'month_end_price_inr_kg', 'kind': 'adjacent_changes', 'market_a': 'Delhi', 'market_b': 'Noida', 'matched_months': 168, 'pearson': np.float64(0.9389942942977698), 'same_operator': True, 'overlap_warning': 'serial_dependence_and_common_shocks_reduce_information', 'interpretation': 'descriptive_noncausal_not_predictive_evidence'}",
+      "passed": true,
+      "observed": 168,
+      "independent_expected": 168
+    },
+    {
+      "check": "Pearson month_end_price_inr_kg adjacent_changes Delhi/Noida",
+      "passed": true,
+      "observed": 0.9389942942977698,
+      "independent_expected": 0.9389942942977697
+    },
+    {
+      "check": "correlation matched rows {'target': 'month_end_price_inr_kg', 'kind': 'adjacent_changes', 'market_a': 'Delhi', 'market_b': 'Lucknow', 'matched_months': 46, 'pearson': np.float64(0.8866595090031462), 'same_operator': False, 'overlap_warning': 'serial_dependence_and_common_shocks_reduce_information', 'interpretation': 'descriptive_noncausal_not_predictive_evidence'}",
+      "passed": true,
+      "observed": 46,
+      "independent_expected": 46
+    },
+    {
+      "check": "Pearson month_end_price_inr_kg adjacent_changes Delhi/Lucknow",
+      "passed": true,
+      "observed": 0.8866595090031462,
+      "independent_expected": 0.8866595090031464
+    },
+    {
+      "check": "correlation matched rows {'target': 'month_end_price_inr_kg', 'kind': 'adjacent_changes', 'market_a': 'Delhi', 'market_b': 'Agra', 'matched_months': 46, 'pearson': np.float64(0.912610617887383), 'same_operator': False, 'overlap_warning': 'serial_dependence_and_common_shocks_reduce_information', 'interpretation': 'descriptive_noncausal_not_predictive_evidence'}",
+      "passed": true,
+      "observed": 46,
+      "independent_expected": 46
+    },
+    {
+      "check": "Pearson month_end_price_inr_kg adjacent_changes Delhi/Agra",
+      "passed": true,
+      "observed": 0.912610617887383,
+      "independent_expected": 0.9126106178873827
+    },
+    {
+      "check": "correlation matched rows {'target': 'month_end_price_inr_kg', 'kind': 'adjacent_changes', 'market_a': 'Delhi', 'market_b': 'Unnao', 'matched_months': 28, 'pearson': np.float64(0.8809862562752835), 'same_operator': False, 'overlap_warning': 'serial_dependence_and_common_shocks_reduce_information', 'interpretation': 'descriptive_noncausal_not_predictive_evidence'}",
+      "passed": true,
+      "observed": 28,
+      "independent_expected": 28
+    },
+    {
+      "check": "Pearson month_end_price_inr_kg adjacent_changes Delhi/Unnao",
+      "passed": true,
+      "observed": 0.8809862562752835,
+      "independent_expected": 0.8809862562752833
+    },
+    {
+      "check": "correlation matched rows {'target': 'month_end_price_inr_kg', 'kind': 'adjacent_changes', 'market_a': 'Noida', 'market_b': 'Lucknow', 'matched_months': 44, 'pearson': np.float64(0.9181416931517027), 'same_operator': False, 'overlap_warning': 'serial_dependence_and_common_shocks_reduce_information', 'interpretation': 'descriptive_noncausal_not_predictive_evidence'}",
+      "passed": true,
+      "observed": 44,
+      "independent_expected": 44
+    },
+    {
+      "check": "Pearson month_end_price_inr_kg adjacent_changes Noida/Lucknow",
+      "passed": true,
+      "observed": 0.9181416931517027,
+      "independent_expected": 0.9181416931517028
+    },
+    {
+      "check": "correlation matched rows {'target': 'month_end_price_inr_kg', 'kind': 'adjacent_changes', 'market_a': 'Noida', 'market_b': 'Agra', 'matched_months': 44, 'pearson': np.float64(0.9401161113661547), 'same_operator': False, 'overlap_warning': 'serial_dependence_and_common_shocks_reduce_information', 'interpretation': 'descriptive_noncausal_not_predictive_evidence'}",
+      "passed": true,
+      "observed": 44,
+      "independent_expected": 44
+    },
+    {
+      "check": "Pearson month_end_price_inr_kg adjacent_changes Noida/Agra",
+      "passed": true,
+      "observed": 0.9401161113661547,
+      "independent_expected": 0.9401161113661548
+    },
+    {
+      "check": "correlation matched rows {'target': 'month_end_price_inr_kg', 'kind': 'adjacent_changes', 'market_a': 'Noida', 'market_b': 'Unnao', 'matched_months': 26, 'pearson': np.float64(0.918174002423338), 'same_operator': False, 'overlap_warning': 'serial_dependence_and_common_shocks_reduce_information', 'interpretation': 'descriptive_noncausal_not_predictive_evidence'}",
+      "passed": true,
+      "observed": 26,
+      "independent_expected": 26
+    },
+    {
+      "check": "Pearson month_end_price_inr_kg adjacent_changes Noida/Unnao",
+      "passed": true,
+      "observed": 0.918174002423338,
+      "independent_expected": 0.918174002423338
+    },
+    {
+      "check": "correlation matched rows {'target': 'month_end_price_inr_kg', 'kind': 'adjacent_changes', 'market_a': 'Lucknow', 'market_b': 'Agra', 'matched_months': 59, 'pearson': np.float64(0.9847429668308036), 'same_operator': True, 'overlap_warning': 'serial_dependence_and_common_shocks_reduce_information', 'interpretation': 'descriptive_noncausal_not_predictive_evidence'}",
+      "passed": true,
+      "observed": 59,
+      "independent_expected": 59
+    },
+    {
+      "check": "Pearson month_end_price_inr_kg adjacent_changes Lucknow/Agra",
+      "passed": true,
+      "observed": 0.9847429668308036,
+      "independent_expected": 0.9847429668308034
+    },
+    {
+      "check": "correlation matched rows {'target': 'month_end_price_inr_kg', 'kind': 'adjacent_changes', 'market_a': 'Lucknow', 'market_b': 'Unnao', 'matched_months': 41, 'pearson': np.float64(0.9773977238571971), 'same_operator': True, 'overlap_warning': 'serial_dependence_and_common_shocks_reduce_information', 'interpretation': 'descriptive_noncausal_not_predictive_evidence'}",
+      "passed": true,
+      "observed": 41,
+      "independent_expected": 41
+    },
+    {
+      "check": "Pearson month_end_price_inr_kg adjacent_changes Lucknow/Unnao",
+      "passed": true,
+      "observed": 0.9773977238571971,
+      "independent_expected": 0.9773977238571969
+    },
+    {
+      "check": "correlation matched rows {'target': 'month_end_price_inr_kg', 'kind': 'adjacent_changes', 'market_a': 'Agra', 'market_b': 'Unnao', 'matched_months': 41, 'pearson': np.float64(0.964355378334913), 'same_operator': True, 'overlap_warning': 'serial_dependence_and_common_shocks_reduce_information', 'interpretation': 'descriptive_noncausal_not_predictive_evidence'}",
+      "passed": true,
+      "observed": 41,
+      "independent_expected": 41
+    },
+    {
+      "check": "Pearson month_end_price_inr_kg adjacent_changes Agra/Unnao",
+      "passed": true,
+      "observed": 0.964355378334913,
+      "independent_expected": 0.9643553783349129
+    },
+    {
+      "check": "correlation matched rows {'target': 'day_weighted_day_end_average_inr_kg', 'kind': 'levels', 'market_a': 'Delhi', 'market_b': 'Noida', 'matched_months': 168, 'pearson': np.float64(0.9931937461018132), 'same_operator': True, 'overlap_warning': 'serial_dependence_and_common_shocks_reduce_information', 'interpretation': 'descriptive_noncausal_not_predictive_evidence'}",
+      "passed": true,
+      "observed": 168,
+      "independent_expected": 168
+    },
+    {
+      "check": "Pearson day_weighted_day_end_average_inr_kg levels Delhi/Noida",
+      "passed": true,
+      "observed": 0.9931937461018132,
+      "independent_expected": 0.9931937461018132
+    },
+    {
+      "check": "correlation matched rows {'target': 'day_weighted_day_end_average_inr_kg', 'kind': 'levels', 'market_a': 'Delhi', 'market_b': 'Lucknow', 'matched_months': 47, 'pearson': np.float64(0.9895382317369253), 'same_operator': False, 'overlap_warning': 'serial_dependence_and_common_shocks_reduce_information', 'interpretation': 'descriptive_noncausal_not_predictive_evidence'}",
+      "passed": true,
+      "observed": 47,
+      "independent_expected": 47
+    },
+    {
+      "check": "Pearson day_weighted_day_end_average_inr_kg levels Delhi/Lucknow",
+      "passed": true,
+      "observed": 0.9895382317369253,
+      "independent_expected": 0.9895382317369252
+    },
+    {
+      "check": "correlation matched rows {'target': 'day_weighted_day_end_average_inr_kg', 'kind': 'levels', 'market_a': 'Delhi', 'market_b': 'Agra', 'matched_months': 47, 'pearson': np.float64(0.9932612149068111), 'same_operator': False, 'overlap_warning': 'serial_dependence_and_common_shocks_reduce_information', 'interpretation': 'descriptive_noncausal_not_predictive_evidence'}",
+      "passed": true,
+      "observed": 47,
+      "independent_expected": 47
+    },
+    {
+      "check": "Pearson day_weighted_day_end_average_inr_kg levels Delhi/Agra",
+      "passed": true,
+      "observed": 0.9932612149068111,
+      "independent_expected": 0.9932612149068111
+    },
+    {
+      "check": "correlation matched rows {'target': 'day_weighted_day_end_average_inr_kg', 'kind': 'levels', 'market_a': 'Delhi', 'market_b': 'Unnao', 'matched_months': 28, 'pearson': np.float64(0.9911210217599926), 'same_operator': False, 'overlap_warning': 'serial_dependence_and_common_shocks_reduce_information', 'interpretation': 'descriptive_noncausal_not_predictive_evidence'}",
+      "passed": true,
+      "observed": 28,
+      "independent_expected": 28
+    },
+    {
+      "check": "Pearson day_weighted_day_end_average_inr_kg levels Delhi/Unnao",
+      "passed": true,
+      "observed": 0.9911210217599926,
+      "independent_expected": 0.9911210217599923
+    },
+    {
+      "check": "correlation matched rows {'target': 'day_weighted_day_end_average_inr_kg', 'kind': 'levels', 'market_a': 'Noida', 'market_b': 'Lucknow', 'matched_months': 45, 'pearson': np.float64(0.9938968836827656), 'same_operator': False, 'overlap_warning': 'serial_dependence_and_common_shocks_reduce_information', 'interpretation': 'descriptive_noncausal_not_predictive_evidence'}",
+      "passed": true,
+      "observed": 45,
+      "independent_expected": 45
+    },
+    {
+      "check": "Pearson day_weighted_day_end_average_inr_kg levels Noida/Lucknow",
+      "passed": true,
+      "observed": 0.9938968836827656,
+      "independent_expected": 0.9938968836827656
+    },
+    {
+      "check": "correlation matched rows {'target': 'day_weighted_day_end_average_inr_kg', 'kind': 'levels', 'market_a': 'Noida', 'market_b': 'Agra', 'matched_months': 45, 'pearson': np.float64(0.9946177464353233), 'same_operator': False, 'overlap_warning': 'serial_dependence_and_common_shocks_reduce_information', 'interpretation': 'descriptive_noncausal_not_predictive_evidence'}",
+      "passed": true,
+      "observed": 45,
+      "independent_expected": 45
+    },
+    {
+      "check": "Pearson day_weighted_day_end_average_inr_kg levels Noida/Agra",
+      "passed": true,
+      "observed": 0.9946177464353233,
+      "independent_expected": 0.9946177464353233
+    },
+    {
+      "check": "correlation matched rows {'target': 'day_weighted_day_end_average_inr_kg', 'kind': 'levels', 'market_a': 'Noida', 'market_b': 'Unnao', 'matched_months': 26, 'pearson': np.float64(0.9916959405939403), 'same_operator': False, 'overlap_warning': 'serial_dependence_and_common_shocks_reduce_information', 'interpretation': 'descriptive_noncausal_not_predictive_evidence'}",
+      "passed": true,
+      "observed": 26,
+      "independent_expected": 26
+    },
+    {
+      "check": "Pearson day_weighted_day_end_average_inr_kg levels Noida/Unnao",
+      "passed": true,
+      "observed": 0.9916959405939403,
+      "independent_expected": 0.9916959405939402
+    },
+    {
+      "check": "correlation matched rows {'target': 'day_weighted_day_end_average_inr_kg', 'kind': 'levels', 'market_a': 'Lucknow', 'market_b': 'Agra', 'matched_months': 60, 'pearson': np.float64(0.999359555432709), 'same_operator': True, 'overlap_warning': 'serial_dependence_and_common_shocks_reduce_information', 'interpretation': 'descriptive_noncausal_not_predictive_evidence'}",
+      "passed": true,
+      "observed": 60,
+      "independent_expected": 60
+    },
+    {
+      "check": "Pearson day_weighted_day_end_average_inr_kg levels Lucknow/Agra",
+      "passed": true,
+      "observed": 0.999359555432709,
+      "independent_expected": 0.999359555432709
+    },
+    {
+      "check": "correlation matched rows {'target': 'day_weighted_day_end_average_inr_kg', 'kind': 'levels', 'market_a': 'Lucknow', 'market_b': 'Unnao', 'matched_months': 41, 'pearson': np.float64(0.9978237141940947), 'same_operator': True, 'overlap_warning': 'serial_dependence_and_common_shocks_reduce_information', 'interpretation': 'descriptive_noncausal_not_predictive_evidence'}",
+      "passed": true,
+      "observed": 41,
+      "independent_expected": 41
+    },
+    {
+      "check": "Pearson day_weighted_day_end_average_inr_kg levels Lucknow/Unnao",
+      "passed": true,
+      "observed": 0.9978237141940947,
+      "independent_expected": 0.997823714194095
+    },
+    {
+      "check": "correlation matched rows {'target': 'day_weighted_day_end_average_inr_kg', 'kind': 'levels', 'market_a': 'Agra', 'market_b': 'Unnao', 'matched_months': 41, 'pearson': np.float64(0.9980270064527864), 'same_operator': True, 'overlap_warning': 'serial_dependence_and_common_shocks_reduce_information', 'interpretation': 'descriptive_noncausal_not_predictive_evidence'}",
+      "passed": true,
+      "observed": 41,
+      "independent_expected": 41
+    },
+    {
+      "check": "Pearson day_weighted_day_end_average_inr_kg levels Agra/Unnao",
+      "passed": true,
+      "observed": 0.9980270064527864,
+      "independent_expected": 0.9980270064527867
+    },
+    {
+      "check": "correlation matched rows {'target': 'day_weighted_day_end_average_inr_kg', 'kind': 'adjacent_changes', 'market_a': 'Delhi', 'market_b': 'Noida', 'matched_months': 164, 'pearson': np.float64(0.9199923585087851), 'same_operator': True, 'overlap_warning': 'serial_dependence_and_common_shocks_reduce_information', 'interpretation': 'descriptive_noncausal_not_predictive_evidence'}",
+      "passed": true,
+      "observed": 164,
+      "independent_expected": 164
+    },
+    {
+      "check": "Pearson day_weighted_day_end_average_inr_kg adjacent_changes Delhi/Noida",
+      "passed": true,
+      "observed": 0.9199923585087851,
+      "independent_expected": 0.9199923585087854
+    },
+    {
+      "check": "correlation matched rows {'target': 'day_weighted_day_end_average_inr_kg', 'kind': 'adjacent_changes', 'market_a': 'Delhi', 'market_b': 'Lucknow', 'matched_months': 43, 'pearson': np.float64(0.8430106377304352), 'same_operator': False, 'overlap_warning': 'serial_dependence_and_common_shocks_reduce_information', 'interpretation': 'descriptive_noncausal_not_predictive_evidence'}",
+      "passed": true,
+      "observed": 43,
+      "independent_expected": 43
+    },
+    {
+      "check": "Pearson day_weighted_day_end_average_inr_kg adjacent_changes Delhi/Lucknow",
+      "passed": true,
+      "observed": 0.8430106377304352,
+      "independent_expected": 0.8430106377304354
+    },
+    {
+      "check": "correlation matched rows {'target': 'day_weighted_day_end_average_inr_kg', 'kind': 'adjacent_changes', 'market_a': 'Delhi', 'market_b': 'Agra', 'matched_months': 43, 'pearson': np.float64(0.8932133542405549), 'same_operator': False, 'overlap_warning': 'serial_dependence_and_common_shocks_reduce_information', 'interpretation': 'descriptive_noncausal_not_predictive_evidence'}",
+      "passed": true,
+      "observed": 43,
+      "independent_expected": 43
+    },
+    {
+      "check": "Pearson day_weighted_day_end_average_inr_kg adjacent_changes Delhi/Agra",
+      "passed": true,
+      "observed": 0.8932133542405549,
+      "independent_expected": 0.8932133542405551
+    },
+    {
+      "check": "correlation matched rows {'target': 'day_weighted_day_end_average_inr_kg', 'kind': 'adjacent_changes', 'market_a': 'Delhi', 'market_b': 'Unnao', 'matched_months': 24, 'pearson': np.float64(0.8245815016083103), 'same_operator': False, 'overlap_warning': 'serial_dependence_and_common_shocks_reduce_information', 'interpretation': 'descriptive_noncausal_not_predictive_evidence'}",
+      "passed": true,
+      "observed": 24,
+      "independent_expected": 24
+    },
+    {
+      "check": "Pearson day_weighted_day_end_average_inr_kg adjacent_changes Delhi/Unnao",
+      "passed": true,
+      "observed": 0.8245815016083103,
+      "independent_expected": 0.8245815016083103
+    },
+    {
+      "check": "correlation matched rows {'target': 'day_weighted_day_end_average_inr_kg', 'kind': 'adjacent_changes', 'market_a': 'Noida', 'market_b': 'Lucknow', 'matched_months': 41, 'pearson': np.float64(0.71440074991574), 'same_operator': False, 'overlap_warning': 'serial_dependence_and_common_shocks_reduce_information', 'interpretation': 'descriptive_noncausal_not_predictive_evidence'}",
+      "passed": true,
+      "observed": 41,
+      "independent_expected": 41
+    },
+    {
+      "check": "Pearson day_weighted_day_end_average_inr_kg adjacent_changes Noida/Lucknow",
+      "passed": true,
+      "observed": 0.71440074991574,
+      "independent_expected": 0.71440074991574
+    },
+    {
+      "check": "correlation matched rows {'target': 'day_weighted_day_end_average_inr_kg', 'kind': 'adjacent_changes', 'market_a': 'Noida', 'market_b': 'Agra', 'matched_months': 41, 'pearson': np.float64(0.712615803444718), 'same_operator': False, 'overlap_warning': 'serial_dependence_and_common_shocks_reduce_information', 'interpretation': 'descriptive_noncausal_not_predictive_evidence'}",
+      "passed": true,
+      "observed": 41,
+      "independent_expected": 41
+    },
+    {
+      "check": "Pearson day_weighted_day_end_average_inr_kg adjacent_changes Noida/Agra",
+      "passed": true,
+      "observed": 0.712615803444718,
+      "independent_expected": 0.7126158034447181
+    },
+    {
+      "check": "correlation matched rows {'target': 'day_weighted_day_end_average_inr_kg', 'kind': 'adjacent_changes', 'market_a': 'Noida', 'market_b': 'Unnao', 'matched_months': 22, 'pearson': np.float64(0.6279807000519592), 'same_operator': False, 'overlap_warning': 'serial_dependence_and_common_shocks_reduce_information', 'interpretation': 'descriptive_noncausal_not_predictive_evidence'}",
+      "passed": true,
+      "observed": 22,
+      "independent_expected": 22
+    },
+    {
+      "check": "Pearson day_weighted_day_end_average_inr_kg adjacent_changes Noida/Unnao",
+      "passed": true,
+      "observed": 0.6279807000519592,
+      "independent_expected": 0.6279807000519585
+    },
+    {
+      "check": "correlation matched rows {'target': 'day_weighted_day_end_average_inr_kg', 'kind': 'adjacent_changes', 'market_a': 'Lucknow', 'market_b': 'Agra', 'matched_months': 58, 'pearson': np.float64(0.9809720142297309), 'same_operator': True, 'overlap_warning': 'serial_dependence_and_common_shocks_reduce_information', 'interpretation': 'descriptive_noncausal_not_predictive_evidence'}",
+      "passed": true,
+      "observed": 58,
+      "independent_expected": 58
+    },
+    {
+      "check": "Pearson day_weighted_day_end_average_inr_kg adjacent_changes Lucknow/Agra",
+      "passed": true,
+      "observed": 0.9809720142297309,
+      "independent_expected": 0.980972014229731
+    },
+    {
+      "check": "correlation matched rows {'target': 'day_weighted_day_end_average_inr_kg', 'kind': 'adjacent_changes', 'market_a': 'Lucknow', 'market_b': 'Unnao', 'matched_months': 39, 'pearson': np.float64(0.9852834464608096), 'same_operator': True, 'overlap_warning': 'serial_dependence_and_common_shocks_reduce_information', 'interpretation': 'descriptive_noncausal_not_predictive_evidence'}",
+      "passed": true,
+      "observed": 39,
+      "independent_expected": 39
+    },
+    {
+      "check": "Pearson day_weighted_day_end_average_inr_kg adjacent_changes Lucknow/Unnao",
+      "passed": true,
+      "observed": 0.9852834464608096,
+      "independent_expected": 0.9852834464608097
+    },
+    {
+      "check": "correlation matched rows {'target': 'day_weighted_day_end_average_inr_kg', 'kind': 'adjacent_changes', 'market_a': 'Agra', 'market_b': 'Unnao', 'matched_months': 39, 'pearson': np.float64(0.9654288530508519), 'same_operator': True, 'overlap_warning': 'serial_dependence_and_common_shocks_reduce_information', 'interpretation': 'descriptive_noncausal_not_predictive_evidence'}",
+      "passed": true,
+      "observed": 39,
+      "independent_expected": 39
+    },
+    {
+      "check": "Pearson day_weighted_day_end_average_inr_kg adjacent_changes Agra/Unnao",
+      "passed": true,
+      "observed": 0.9654288530508519,
+      "independent_expected": 0.9654288530508526
+    }
+  ],
+  "all_passed": true,
+  "implementation": "stdlib CSV/Decimal/direct Pearson arithmetic; no pandas summary helper reused"
+}

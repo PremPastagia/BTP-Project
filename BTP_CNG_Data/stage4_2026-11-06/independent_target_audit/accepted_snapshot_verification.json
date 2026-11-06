@@ -1,0 +1,70 @@
+{
+  "snapshot_manifest_sha256": "968d4ad2b34c444ab6e4c9da33eae5b0c9c14bde7c01d308084136874ce3cea3",
+  "manifest_files_checked": 9,
+  "all_manifest_entries_pass": true,
+  "files": [
+    {
+      "path": "README.txt",
+      "sha256": "fd8529b5f055f7e49e6d49eed2c483a08ef8b3e09e52709a2ab658b2d2d1e8d0",
+      "byte_count": 816,
+      "manifest_matches": true,
+      "mode": "0o444"
+    },
+    {
+      "path": "data/price_intervals.csv",
+      "sha256": "0a53065b6a816434d5ecc83a9cff4671fca7e74e75c4712a67f59cf59311a4c1",
+      "byte_count": 237875,
+      "manifest_matches": true,
+      "mode": "0o444"
+    },
+    {
+      "path": "metadata/acceptance.json",
+      "sha256": "9fd0510980a263085fafcdb10badfddf390711bf85cabe8d9023e934520226a7",
+      "byte_count": 2977,
+      "manifest_matches": true,
+      "mode": "0o444"
+    },
+    {
+      "path": "metadata/excluded_price_intervals.csv",
+      "sha256": "cd54f380ac90179ccbf2a79029348c3b1d568c4d2ae8253e81fad07ea4788a93",
+      "byte_count": 9441,
+      "manifest_matches": true,
+      "mode": "0o444"
+    },
+    {
+      "path": "metadata/source_object_refs.csv",
+      "sha256": "ef33e2eb0299d03e33d145864f45e982bfa0f6ac10b330d5e36f96ee4a4f8029",
+      "byte_count": 109904,
+      "manifest_matches": true,
+      "mode": "0o444"
+    },
+    {
+      "path": "reference/cng_reported_native.csv",
+      "sha256": "512c31c7dc123adfa2ae13b86d3e79b435e47c9ad79927efaf5be0011772923a",
+      "byte_count": 36211,
+      "manifest_matches": true,
+      "mode": "0o444"
+    },
+    {
+      "path": "reference/corporate_document_metadata.csv",
+      "sha256": "a7f7557a5024813459ebc4c36e26638bb383d008976d478c1e066fdbd8c55295",
+      "byte_count": 114512,
+      "manifest_matches": true,
+      "mode": "0o444"
+    },
+    {
+      "path": "reference/native_numerical_observations.csv",
+      "sha256": "db349a705f1a7d885240b533435c2fc0071eca40fd4da17f7d4839acc974a4f9",
+      "byte_count": 49505374,
+      "manifest_matches": true,
+      "mode": "0o444"
+    },
+    {
+      "path": "reference/news_metadata.csv",
+      "sha256": "118b71e94a81f0b780ca84f033615a9ddcab594ae180d70599f29bb22d192d44",
+      "byte_count": 18504,
+      "manifest_matches": true,
+      "mode": "0o444"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "accepted_snapshot": "BTP_CNG_Data/accepted_stage3_2026-11-06_restricted_v1",
+  "accepted_manifest_sha256": "968d4ad2b34c444ab6e4c9da33eae5b0c9c14bde7c01d308084136874ce3cea3",
+  "approval_record": "BTP_CNG_Data/accepted_stage3_2026-11-06_restricted_v1/metadata/acceptance.json",
+  "approval_record_sha256": "9fd0510980a263085fafcdb10badfddf390711bf85cabe8d9023e934520226a7",
+  "targets": "BTP_CNG_Data/stage4_2026-11-06/targets/monthly_targets.csv",
+  "targets_sha256": "8a86c4d32fb9374b92e6fd651299bf7ace9974cf7a43ac827b385487de157910",
+  "candidate_manifest_sha256": "706d47a615d1a9a4bd95c5a03d6c2c6c80cbd60e134107e1d5194c866410030f",
+  "input_tables": {
+    "native": {
+      "path": "BTP_CNG_Data/accepted_stage3_2026-11-06_restricted_v1/reference/native_numerical_observations.csv",
+      "sha256": "db349a705f1a7d885240b533435c2fc0071eca40fd4da17f7d4839acc974a4f9"
+    },
+    "demand": {
+      "path": "BTP_CNG_Data/accepted_stage3_2026-11-06_restricted_v1/reference/cng_reported_native.csv",
+      "sha256": "512c31c7dc123adfa2ae13b86d3e79b435e47c9ad79927efaf5be0011772923a"
+    },
+    "candidates": {
+      "path": "BTP_CNG_Data/consolidated_2026-11-06/structured/numerical_factors/unverified_transcription_candidates.csv",
+      "sha256": "5f97dde80d75ec08979f6084b0b79dcc318eea6779dfafa2fa7623c11aa34111"
+    },
+    "news": {
+      "path": "BTP_CNG_Data/accepted_stage3_2026-11-06_restricted_v1/reference/news_metadata.csv",
+      "sha256": "118b71e94a81f0b780ca84f033615a9ddcab594ae180d70599f29bb22d192d44"
+    },
+    "corporate": {
+      "path": "BTP_CNG_Data/accepted_stage3_2026-11-06_restricted_v1/reference/corporate_document_metadata.csv",
+      "sha256": "a7f7557a5024813459ebc4c36e26638bb383d008976d478c1e066fdbd8c55295"
+    }
+  },
+  "source_release_verification_sha256": "2c6792688016a30cf6bccfe6b3f31a88c8bb0b57ed5be25cfcb34abf22af19ee"
+}

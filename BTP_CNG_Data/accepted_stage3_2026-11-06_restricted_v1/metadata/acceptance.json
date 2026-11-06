@@ -1,0 +1,64 @@
+{
+  "snapshot_id": "stage3-restricted-2026-11-06-v1",
+  "accepted_at_utc": "2026-11-06T06:24:01.437755+00:00",
+  "timezone": "Asia/Kolkata",
+  "authorization": "explicit_researcher_response",
+  "question_reference": "call_c931f606c9f54678b49a34fbded883bc",
+  "researcher_answer": "Accept this restricted Stage 3 scope and begin Stage 4",
+  "candidate_commit": "c8d5936605bfdc8806fabb68905e8f661c9f6d84",
+  "candidate_manifest_sha256": "706d47a615d1a9a4bd95c5a03d6c2c6c80cbd60e134107e1d5194c866410030f",
+  "restricted_stage3_accepted": true,
+  "unrestricted_stage3_complete": false,
+  "stage4_authorized": true,
+  "scope": {
+    "markets": [
+      "Agra",
+      "Delhi",
+      "Lucknow",
+      "Noida",
+      "Unnao"
+    ],
+    "operators": [
+      "Green Gas Limited",
+      "Indraprastha Gas Limited"
+    ],
+    "accepted_source_intervals": 275,
+    "excluded_disputed_intervals": 12,
+    "target_definition": "calendar-day-weighted mean of day-end quotes; month-end price from final calendar day",
+    "timing": "Preserve date-only precision; quantify continuous-time uncertainty when supported, do not infer midnight changes",
+    "predictors": "Unknown publication dates excluded from historical forecast inputs; retrospective prices do not certify predictor availability",
+    "H2": "Text-model feasibility unproven; selected corpus and undated corporate records have explicit limitations"
+  },
+  "inputs": [
+    {
+      "candidate_path": "structured/numerical_factors/native_numerical_observations.csv",
+      "sha256": "db349a705f1a7d885240b533435c2fc0071eca40fd4da17f7d4839acc974a4f9",
+      "snapshot_path": "reference/native_numerical_observations.csv",
+      "role": "native_reference_only_publication_filter_required"
+    },
+    {
+      "candidate_path": "structured/numerical_factors/cng_reported_native.csv",
+      "sha256": "512c31c7dc123adfa2ae13b86d3e79b435e47c9ad79927efaf5be0011772923a",
+      "snapshot_path": "reference/cng_reported_native.csv",
+      "role": "native_reference_only_source_meaning_and_release_checks_required"
+    },
+    {
+      "candidate_path": "structured/news/news_metadata.csv",
+      "sha256": "118b71e94a81f0b780ca84f033615a9ddcab594ae180d70599f29bb22d192d44",
+      "snapshot_path": "reference/news_metadata.csv",
+      "role": "selected_article_metadata_only_not_representative_news_volume"
+    },
+    {
+      "candidate_path": "structured/corporate_disclosures/corporate_document_metadata.csv",
+      "sha256": "a7f7557a5024813459ebc4c36e26638bb383d008976d478c1e066fdbd8c55295",
+      "snapshot_path": "reference/corporate_document_metadata.csv",
+      "role": "document_metadata_only_undated_historical_predictors_ineligible"
+    },
+    {
+      "candidate_path": "metadata/reviews/prices/bounded_path_review_intervals.csv",
+      "sha256": "686b8c6c5d3d32d1465d3b7540b6bcf469a2f70615bb5f05814ec88f455f368c",
+      "snapshot_path": "data/price_intervals.csv",
+      "role": "275_selected_source_intervals_12_excluded"
+    }
+  ]
+}

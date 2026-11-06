@@ -1,0 +1,140 @@
+STAGE 4 RELEASE-CONSTRAINED INTEGRATION
+
+Accepted input
+Researcher-accepted restricted Stage 3 snapshot:
+accepted_stage3_2026-11-06_restricted_v1
+Snapshot manifest SHA-256:
+968d4ad2b34c444ab6e4c9da33eae5b0c9c14bde7c01d308084136874ce3cea3
+This approval covers qualified retrospective outcomes, not automatic historical
+eligibility for numerical, text or lagged-price predictors.
+
+Actual integration
+- 566 market-month origins have an observed month-end target, across five markets.
+- 54 origins are provisionally reserved for final evaluation; 512 are exploratory.
+- 92 native records satisfy the implemented documented-release/source checks:
+  64 quarterly GDP/PFCE records and 28 CNG-only national sales records.
+- Six distinct semantic namespaces remain: constant/current GDP and PFCE, monthly
+  CNG sales totals, and financial-year-to-date CNG sales totals.
+- 124 as-of ledger rows reference 12 distinct native source observations across
+  24 market-month origins. These are shared national factors, not 124 independent
+  national measurements or city-specific demand observations.
+- All 24 origins with any eligible numerical factor are in the reserved period
+  (May–October 2026). ZERO of the 512 exploratory origins has a dated numerical
+  factor under the present rules. The current information set therefore does
+  not establish feasibility for an H1 comparison trained on exploratory history.
+
+Exclusions
+- 47,766 native numerical records have no publication date and were excluded.
+  No one-month lag, annual-to-monthly expansion or retrieval-date substitution
+  was used to manufacture historical availability.
+- 28 station indicators remain excluded because flow versus operating stock is
+  unresolved; station additions cannot be treated as station population.
+- 395 unverified PPAC OCR/text transcriptions remain excluded.
+- All 251 corporate metadata records remain ineligible as historical predictors.
+  Exact raw-document bytes and fiscal/letter dates do not supply publication time.
+- Retrospective retail target acceptance does not certify historical availability
+  of lagged price inputs; the origin register explicitly retains this limitation.
+
+As-of selection policy
+1. Origin is the final instant of an Indian calendar month, only where an accepted
+   observed month-end outcome exists. Missing targets do not create origins.
+2. A native observation must have a documented release bound no later than the
+   origin and a reference-period end no later than the origin date.
+3. Group by semantic series, geography, native frequency and unit. Preserve
+   constant/current-price definitions, fiscal-year-to-date versus monthly flow,
+   and source vintages separately. Deduplicate exact source/version/native-period
+   values using exact Decimal equality; preserve aliases and conflicting claims.
+4. For each semantic group, select the latest eligible reference-period end,
+   then the latest released version for that same reference period. Exclude tied
+   versions with differing values. No conflicting ties occurred in this run.
+5. Retain the original period, source hash, release basis and reference/release
+   age. A held last-known value is a forecast information-state record, NEVER
+   an invented monthly measurement. No national value is allocated to a city.
+
+Publication evidence and qualification
+The national-accounts PDF explicitly prohibits publication, telecast or internet
+circulation until 4:00 PM on 5 June 2026. An independent Poppler extraction checked
+all 64 GDP/PFCE cells against native table pages 15 and 17, the quarter/year layout
+and crore units. This validates the particular release vintage; it does not make
+the revised historical quarters available before June 2026.
+
+CNG sales use documented PNGRB index upload dates, conservatively bounded by the
+end of the listed Indian publication day. This is source-upload-date evidence,
+not independent archived proof that identical bytes existed on that day. Every
+as-of row exposes historical_vintage_status and publication_basis. Source-content
+or upload-date revisions would require reopening the affected source eligibility.
+
+H2 metadata feasibility
+All 24 selected article records are retained in a timestamp-claim inventory.
+22 have parseable timezone-aware publisher timestamp claims; one lacks a date
+and another cannot be placed on the time axis unambiguously under these rules.
+There are 5,820 origin/article metadata references whose timestamp claim precedes
+the origin. This is NOT article-volume, sentiment, uncertainty or linguistic
+feature engineering. Market relevance, syndication and full-text licence remain
+unverified; all records say predictor_eligible=False. The corpus was selected for
+research discovery and does not establish representative historical news coverage.
+No corporate or text-based forecasting inputs were admitted.
+
+Reserved evaluation protection
+Mechanical integration covers all observed origins and explicitly marks the
+provisional November 2025–October 2026 reservation. Only target presence/calendar
+keys were used; no reserved outcome distributions, correlations, accuracy scores
+or favorable model choices were calculated. No statistical tests or models ran.
+Future evaluation design must account for sparse origins and information sets.
+
+Independent verification
+verify_asof_independent.py imports no producer functions. Twelve checks pass:
+exhaustive reference-period/vintage selection, exact observed-origin membership,
+month-end/reservation boundaries, source keys/hashes, unknown-date exclusions,
+station/PPAC/corporate exclusions, a deliberately future-release negative control,
+news metadata timing and accepted snapshot/target hash binding. It independently
+recomputes every selected as-of record. This verifies specified calculations,
+not every economic assertion or historical source-vintage claim.
+
+Outputs
+forecast_origins.csv                 Observed market-month origins and reservation
+eligible_native_factors.csv          Native dated factor records, not monthly fills
+asof_numerical_ledger.csv            Long market/origin information-state records
+factor_inventory.csv                Series/unit/grain/vintage coverage and eligibility
+excluded_availability.csv           Every excluded input and its reason
+origin_factor_unavailable.csv        No eligible released observation at that origin
+source_version_aliases.csv          Suppressed identical source-version aliases
+asof_conflicts.csv                  Ambiguous latest-period/version ties, if any
+news_time_claim_inventory.csv       Dated/undated article metadata feasibility
+news_asof_metadata.csv              Conditional time-claim references, no H2 features
+metadata/input_provenance.json       Accepted snapshot and input hashes
+metadata/national_accounts_release_verification.json
+metadata/independent_integration_validation.json
+metadata/integration_summary.json
+metadata/transformation_log.csv
+metadata/schema.csv
+
+Reproduce from the repository root
+python3 BTP_CNG_Data/stage4_2026-11-06/integration/scripts/verify_gdp_release.py 
+  --native-table BTP_CNG_Data/accepted_stage3_2026-11-06_restricted_v1/reference/native_numerical_observations.csv 
+  --source-pdf BTP_CNG_Data/consolidated_2026-11-06/raw/objects/2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db.pdf 
+  --output BTP_CNG_Data/stage4_2026-11-06/integration/metadata/national_accounts_release_verification.json
+
+python3 BTP_CNG_Data/stage4_2026-11-06/integration/scripts/build_asof.py 
+  --accepted BTP_CNG_Data/accepted_stage3_2026-11-06_restricted_v1 
+  --accepted-manifest-sha256 968d4ad2b34c444ab6e4c9da33eae5b0c9c14bde7c01d308084136874ce3cea3 
+  --approval-record BTP_CNG_Data/accepted_stage3_2026-11-06_restricted_v1/metadata/acceptance.json 
+  --candidate BTP_CNG_Data/consolidated_2026-11-06 
+  --targets BTP_CNG_Data/stage4_2026-11-06/targets/monthly_targets.csv 
+  --release-verification BTP_CNG_Data/stage4_2026-11-06/integration/metadata/national_accounts_release_verification.json 
+  --output BTP_CNG_Data/stage4_2026-11-06/integration
+
+python3 BTP_CNG_Data/stage4_2026-11-06/integration/scripts/verify_asof_independent.py 
+  --integration BTP_CNG_Data/stage4_2026-11-06/integration 
+  --accepted BTP_CNG_Data/accepted_stage3_2026-11-06_restricted_v1 
+  --candidate BTP_CNG_Data/consolidated_2026-11-06 
+  --targets BTP_CNG_Data/stage4_2026-11-06/targets/monthly_targets.csv
+
+Commands above span displayed lines for readability; join each invocation onto
+one shell line. Scripts use path arguments and do not depend on a Mac-specific
+project root. Python standard library and pdftotext are required.
+
+Stage 5 has not started. H1/H2 support, forecasting accuracy and model superiority
+remain untested. Additional release-vintage recovery or an explicit later protocol
+decision is required before treating the broader numerical corpus as historically
+available forecasting information.

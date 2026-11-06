@@ -1,0 +1,103 @@
+INDEPENDENT END-OF-STAGE 4 SCIENTIFIC REVIEW
+6 November 2026
+
+DECISION
+The transformation and calculation gate passes for the researcher-accepted
+restricted descriptive study and qualified release-constrained information-state
+integration. This is not approval to start Stage5, not unrestricted Stage3
+completion, and not evidence that H1, H2 or GAM forecasting superiority is supported.
+Researcher approval remains required before Stage5.
+
+INDEPENDENT TARGET CHECK
+Earlier independent direct-interval/Decimal calculations matched all3,511 compared
+numeric target cells with zero discrepancies at INR0.00000001 tolerance. All nine
+accepted-snapshot manifest entries matched independently recomputed hashes and
+byte counts. The exact input/output identities remain in separate target receipts.
+
+RELEASE-CONSTRAINED INTEGRATION
+The reviewer independently recomputed latest-eligible native-period and release-
+vintage selection from the native factor and origin records, without importing
+the producer's integration helpers.
+
+-124 information-state rows match the independent specification exactly.
+-They reference12 distinct native source observations across24 observed origins.
+-All24 origins fall in the provisional reserved May–October2026 period.
+-ZERO of512 exploratory origins has an eligible dated factor under these rules.
+-Six semantic namespaces remain separate: current/constant GDP and PFCE,
+ monthly CNG sales and financial-year-to-date CNG sales.
+
+Every selected publication bound is no later than its origin, and every native
+reference-period end is no later than the origin date. Original values, units,
+native periods, source hashes and definitions match eligible source records.
+No unavailable source was made available through an assumed lag. Fiscal-year
+totals were not converted into monthly measurements. Station indicators, PPAC
+OCR candidates and undated corporate documents remain excluded as historical
+forecast inputs. Held national values are not124 independent national measures
+and are not newly observed city-specific demand.
+
+The implemented timing gate is internally valid relative to documented release
+claims. PNGRB index upload dates and current-source bytes are not independent
+archival proof of identical historical source vintages. Those limitations are
+exposed in each record. Retrospective price acceptance still does not certify
+the availability of price lags at every historical forecasting origin.
+
+EXPLORATORY ANALYSIS
+The code filters exploration_eligible rows before converting target strings to
+numeric values. Coverage summaries use only reservation/availability metadata
+for the protected period, not its price distributions or correlations.
+
+Independent source-value arithmetic verified982 adjacent-month changes, ten
+descriptive summaries and40 pairwise correlation records. Calendar adjacency is
+checked explicitly; missing months are not bridged. All large-change flags remain
+in the source-derived summaries and are not removed to improve a result.
+
+Descriptive correlations use matched exploratory months. Shared operators,
+serial dependence, common trends, differing coverage and common shocks are
+explicitly qualified. A rounded1.00 display is not claimed to prove source
+identity. Calendar displays are not evidence of seasonality. No significance
+test, H1/H2 improvement claim, predictive interpretation or causal conclusion is
+made from these descriptive calculations.
+
+The operational reservation is provisional. Stage6 must review prior-study
+exposure, freeze the final comparison design and avoid declaring this an
+automatically pristine untouched test solely because it has been flagged here.
+This review used reserved target cells only for permitted arithmetic/source-
+quality validation, not descriptive outcome comparisons or model choice.
+
+REGISTRY AND FAILURE PRESERVATION
+Twelve append-only master records have unique IDs. Recorded output hashes and
+linked source journals match the files inspected. The registry includes both
+technical failure records, documentation clarification, visual correction and
+the explicit original-artifact retention deviation.
+
+Root transformation records were registered after execution, with an explicit
+retrospective-registration disclaimer. The accepted target definition and
+reservation preceded these results; no prospective preregistration is claimed.
+
+The original pre-fix calendar PNG and plotting code were overwritten before
+version capture. That minor artifact-retention deviation is disclosed; a later
+reconstruction is not misrepresented as the original. Numeric target and EDA
+tables were unchanged by the visual correction. This review therefore does not
+claim flawless compliance with original-artifact retention.
+
+OVERALL VERIFICATION
+2,858 independently specified target/integration/descriptive checks passed in
+this end-stage pass, plus17 final registry output/source-hash checks. No critical
+unresolved implementation failure was detected for the accepted Stage4 scope.
+Pinned input hashes, check details and registry identity are in
+END_STAGE4_REVIEW.json.
+
+RESEARCH LIMITATIONS THAT REMAIN
+-The dated-factor information set presently does not support an H1 training
+ comparison on the exploratory history.
+-H2 is a selected metadata corpus with unverified representativeness, market
+ relevance, historical release evidence, syndication and full-text permissions.
+-Multiple cities and repeated origin rows do not create independent replications.
+-Calendar-day end-quote averages differ from actual continuous-time intraday TWAP.
+ Timing envelopes remain conditional sensitivity bounds, not statistical intervals.
+-Accepted source outcomes remain subject to their documented source completeness,
+ geography, effective-time and publication-vintage limitations.
+
+No Stage5 stationarity tests, models, forecasts or final research conclusions
+were produced by this review. The next step is researcher review of the Stage4
+completion checkpoint and explicit approval or revision before Stage5.

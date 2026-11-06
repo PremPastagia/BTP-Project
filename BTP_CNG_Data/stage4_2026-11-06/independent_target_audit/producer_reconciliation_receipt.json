@@ -1,0 +1,13 @@
+{
+  "producer_file": "/Users/virajvekariya/.codex/worktrees/stage3-consolidation/BTP/BTP_CNG_Data/stage4_2026-11-06/targets/monthly_targets.csv",
+  "producer_sha256": "8a86c4d32fb9374b92e6fd651299bf7ace9974cf7a43ac827b385487de157910",
+  "independent_sha256": "8b7925d7c1c1db90972d1d3b270218c0a6cb7d72bdc53eb6283a997d5cad659d",
+  "producer_rows": 645,
+  "independent_rows": 645,
+  "numeric_cells_compared": 3511,
+  "tolerance_inr": "0.00000001",
+  "differences": 0,
+  "reconciliation_passed": true,
+  "scope": "Target mathematics/source coverage only; reserved outcomes not used for EDA or model selection",
+  "stage5_started": false
+}

@@ -1,0 +1,140 @@
+BTP STAGE 4 CHECKPOINT — PREPROCESSING, INTEGRATION AND EDA
+6 November 2026
+
+OBJECTIVE
+Construct and independently verify the two approved monthly outcomes, preserve source
+gaps and timing uncertainty, inspect exploratory price properties, and build only
+publication-constrained historical information states.
+
+ACCEPTED INPUTS AND SCOPE
+Researcher explicitly accepted the restricted Stage 3 scope and authorized Stage 4.
+Snapshot: stage3-restricted-2026-11-06-v1. Its manifest SHA256 is:
+968d4ad2b34c444ab6e4c9da33eae5b0c9c14bde7c01d308084136874ce3cea3
+275 documentary intervals across Delhi, Noida, Lucknow, Agra and Unnao; 12 disputed
+intervals excluded. Five markets share only two operators (IGL and Green Gas).
+Reference numerical and text records were not automatically accepted as predictors.
+The broader Stage 3 collection remains qualified; this acceptance applies only to
+the stated restricted scope. Frozen files were not modified.
+
+METHODOLOGY AND TRANSFORMATIONS
+1. Verify the accepted manifest and source identities.
+2. Interpret accepted intervals at the researcher-approved day-end resolution.
+3. Reject overlap and never bridge missing intervals or extend the final quote.
+4. Derive month-end price only when the final calendar day is covered.
+5. Derive a calendar-day-weighted mean only when every calendar day is covered.
+6. Compute conditional timing envelopes from previous/current day-end quote extrema;
+   withhold envelopes when the preceding-day price is unknown. These are sensitivity
+   bounds under documentary-path assumptions, not confidence or prediction intervals.
+7. Keep numerical observations at native grain and filter by documented release
+   time before selecting any retained information state at a month-end origin.
+8. Treat known national values at multiple origins/cities as information-state
+   references, not new independent monthly measurements or city observations.
+9. Exclude November 2025–October 2026 from price-based EDA. Quality/coverage checks
+   still examine that window. Stage 6 must confirm the final test design and review
+   prior-study exposure; this reservation is not automatically a pristine final test.
+
+ACTUAL TARGET RESULTS
+645 calendar coverage rows; 566 available month-end outcomes;
+553 complete day-resolution monthly averages; 551 timing envelopes.
+Coverage rows with missing outcomes are retained as missing, not counted as invented
+price observations. 13 month-end outcomes have no full-month mean. Two complete means
+lack an identified envelope because the previous-day quote is unknown.
+
+Market          Calendar rows    Month-end outcomes    Complete averages
+Delhi                195                   184                  179
+Noida                195                   181                  177
+Lucknow               91                    73                   72
+Agra                  91                    73                   72
+Unnao                 73                    55                   53
+
+EDA RESULTS — EXPLORATION PERIOD ONLY
+589 exploratory coverage rows contain 512 month-end outcomes and
+499 complete averages. 56 reserved rows contribute coverage metadata only.
+Between 66.1% and 75.6% of valid adjacent-month month-end pairs are unchanged:
+Delhi: 116/170 unchanged pairs (68.2%).
+Noida: 111/168 unchanged pairs (66.1%).
+Lucknow: 41/59 unchanged pairs (69.5%).
+Agra: 41/59 unchanged pairs (69.5%).
+Unnao: 31/41 unchanged pairs (75.6%).
+Persistence motivates later simple benchmarks; no persistence forecast or model
+comparison has been run. Large changes were flagged and retained, not deleted.
+Correlations use matched exploratory months and are descriptive only. Strong
+co-movement can reflect common trends, operators and shocks; it establishes neither
+causality nor predictive gain. Calendar summaries mix different regimes and small,
+unequal samples; they do not establish seasonality. Unbalanced market means/ranges
+cannot establish regional price premia. Rounded 1.00 correlations need not be exact.
+
+HISTORICAL INFORMATION AVAILABILITY — MATERIAL LIMITATION
+92 dated native records (GDP/PFCE and CNG-only national sales) yield
+124 as-of references at 24 origins. These references use only 12 distinct national
+source observations. ALL 24 eligible-factor origins lie in reserved May–October 2026.
+None of 512 exploratory origins has an eligible dated numerical factor.
+Thus the current strict historical information set does not support an H1 training
+comparison on the exploratory history. This is a data-feasibility result, not a test
+showing numerical predictors fail. Unknown release dates were not replaced by lags.
+48,440 input records/claims are excluded from historical inputs under the declared
+rules: 47,766 undated numerical records; 28 ambiguous station indicators; 395 unverified
+transcription candidates; 251 undated corporate documents.
+The 24-article sample is selected metadata, with 22 parseable full timestamp claims.
+It is not a representative news-volume series; 5,820 origin/article references do not
+become 5,820 articles. No sentiment, collocation, novelty or bias features were created.
+H2 forecasting feasibility and incremental value remain unestablished.
+Retrospective outcome acceptance does not certify the origin-time availability of
+historical price predictors; later experimental design must address that separately.
+
+VERIFICATION
+Independent Decimal interval-overlap calculation: 3511 numerical cells compared;
+0 discrepancies across 645 calendar rows. 10 boundary fixtures pass.
+Hand-specified real-source checks verify June 2011 day weights, February 2012 leap-day
+coverage, and a partial June 2010 month. Missing full-month outcomes remain missing.
+EDA: 125 separate stdlib/Decimal/Pearson arithmetic checks pass.
+Integration: 12 independent checks plus 64 original quarterly cells and the explicit
+release embargo checked against the original national-accounts PDF.
+End-stage independent scientific review: 2858 checks pass, including exhaustive
+as-of reconstruction, adjacent-only changes, matched correlations and source scope.
+All five PNG/SVG figure pairs were visually reviewed; gaps and reservation are visible.
+These check counts overlap in purpose and are not additive independent observations.
+
+STATISTICAL RELIABILITY
+No ADF/KPSS, structural-break or formal seasonality tests were run at Stage 4.
+No power estimate, significance test, model fit, forecast metric or H1/H2 performance
+verdict is claimed. Monthly levels are dependent and share only two operators.
+Only 10–57 nonzero adjacent month-end changes occur per exploratory market; count
+reduction, gaps, common regimes and future overlapping horizons need Stage 5 review.
+All descriptive relationships are exploratory. No favorable subset was selected for
+confirmatory inference, and no multiplicity-adjusted significance claim is made.
+
+FAILURES, DEVIATIONS AND TRANSPARENCY
+Two technical EDA execution failures, their fixes, and successful reruns are retained
+in the registry. A visual sample-count label issue was corrected without changing
+numeric results. The original pre-fix PNG/code were not archived; this minor artifact-
+retention deviation is explicitly recorded, not reconstructed as an original.
+Root transformation registry entries were recorded after initial execution. Accepted
+definitions and reservation preceded results, but prospective preregistration is not
+claimed. The master registry links all technical failures and documentation revisions.
+
+DECISION
+Stage 4 deliverables and the restricted transformation gate are verified and ready
+for researcher review. Restricted Stage 3 acceptance is recorded; Stage 5 is NOT
+authorized or started. The restricted outputs do not close broader source/vintage
+gaps or establish any forecasting hypothesis.
+
+LIMITATIONS AND NEXT ACTION
+Review this checkpoint and approve Stage 5 if acceptable. Stage 5 should assess
+persistence, stationarity assumptions, structural changes, contiguous usable segments
+and effective information separately by target and market. Do not fill gaps to make
+tests run. Retain the provisional reservation and defer final model/test decisions
+to Stage 6. Any H1/H2 design requires more historical release-vintage evidence or an
+explicitly revised question; it cannot be rescued by backfilling future information.
+
+DELIVERABLE MAP
+targets/monthly_targets.csv — qualified monthly outcomes and source interval lineage.
+metadata/target_dictionary.csv — definitions and missing-value meanings.
+metadata/target_definition_and_transformations.json — assumptions and transformations.
+metadata/horizon_coverage.csv — calendar-aligned 1/3/6-month outcome-pair counts only.
+integration/ — native-factor inventory, as-of references, exclusions and schemas.
+eda/EDA_REPORT.txt and eda/tables/ — exploratory results and gap/outlier records.
+eda/figures/ — five static PNG/SVG plot pairs.
+independent_target_audit/ — independent target and end-stage scientific audit.
+metadata/experiment_registry.jsonl — append-only successful/failed/revision records.
+metadata/unresolved_issues.csv — remaining qualifications and future-stage constraints.

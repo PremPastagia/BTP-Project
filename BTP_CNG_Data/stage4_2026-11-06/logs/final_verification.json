@@ -1,0 +1,31 @@
+{
+  "verified_at_utc": "2026-11-06T06:50:45.790797+00:00",
+  "checks": [
+    {
+      "check": "accepted_snapshot_unchanged",
+      "entries": 9,
+      "passed": true
+    },
+    {
+      "check": "eda/metadata/output_checksums.json",
+      "entries": 34,
+      "passed": true
+    },
+    {
+      "check": "integration/metadata/integration_checksums.json",
+      "entries": 20,
+      "passed": true
+    },
+    {
+      "check": "independent_target_and_scientific_review_inputs_unchanged",
+      "passed": true
+    },
+    {
+      "check": "experiment_registry_unique_ids",
+      "entries": 12,
+      "passed": true
+    }
+  ],
+  "all_passed": true,
+  "stage5_started": false
+}

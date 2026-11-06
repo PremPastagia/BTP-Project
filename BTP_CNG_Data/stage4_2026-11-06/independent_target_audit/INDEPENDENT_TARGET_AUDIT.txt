@@ -1,0 +1,61 @@
+INDEPENDENT STAGE 4 TARGET AUDIT — RESTRICTED ACCEPTED SNAPSHOT
+6 November 2026
+
+RESULT: independent target computation and producer reconciliation passed.
+
+Accepted interval input SHA256:
+0a53065b6a816434d5ecc83a9cff4671fca7e74e75c4712a67f59cf59311a4c1
+All nine entries in the frozen snapshot manifest were independently rehashed and
+matched their recorded byte counts and SHA256 hashes. The snapshot manifest
+identity is recorded in accepted_snapshot_verification.json.
+
+The independent computation used275 accepted source intervals for five markets.
+No producer helper, target-building function or producer algorithm was read or
+imported before the independent results were computed. Direct interval/calendar
+intersections and45-digit Decimal price-day arithmetic provide an alternative
+implementation to the producer's day-by-day expansion.
+
+MATCHED RESULTS
+-645 market/calendar-month coverage rows.
+-566 available month-end day-end quotes.
+-553 complete calendar-day-weighted day-end quote averages.
+-551 defined continuous-time TWAP sensitivity envelopes.
+-3,511 numerical cells compared with the producer.
+-Zero discrepancies at an absolute tolerance of INR0.00000001.
+
+The13 extra month-end quotes relative to complete monthly averages are legitimate:
+an observed final-day quote does not require every earlier day to be observed.
+The two complete averages without continuous-time bounds are also legitimate:
+their first covered day lacks an accepted preceding-day quote, so a finite
+transition-day sensitivity envelope cannot be certified.
+
+BOUNDARY VERIFICATION
+Ten independent mathematical fixtures passed: leap-day calendar length, exact
+price-day arithmetic, rising and falling price-transition bounds, missing-day
+rejection, separate month-end availability, unknown previous-day withholding,
+no final-quote extension, overlapping/duplicate-interval rejection and incomplete
+November2026 exclusion. Fixtures are verification examples, not research data.
+
+SCIENTIFIC INTERPRETATION
+The approved monthly average is a calendar-day-weighted average of day-end quotes.
+It is not silently presented as actual continuous-time intraday TWAP. Bounds
+assume the accepted source chronology captures all price changes and that any
+boundary-day transition is between its previous-day and new day-end prices.
+Unreported same-day round-trip price changes are not identified by these sources.
+The bounds are sensitivity envelopes, not confidence or prediction intervals.
+
+Missing accepted days remain missing; the last quote is not extended. Disputed
+source intervals remain excluded. Source publication uncertainty is not repaired
+by reconstructing outcomes. Undated reference predictors must remain excluded
+from historical forecast information sets under the accepted scope.
+
+This review inspected all target cells only for mathematics and source quality,
+including reserved2025-11 through2026-10. It did not inspect reserved outcomes to
+choose models, explanatory features, hypotheses or favorable evaluation windows.
+No Stage5 stationarity tests, inferential comparisons or forecasting models were
+run. The audit supports Stage4 target arithmetic, not later-stage conclusions.
+
+REPRODUCTION
+python verify_targets.py --accepted <frozen snapshot>/data/price_intervals.csv
+                        --producer <stage4>/targets/monthly_targets.csv
+The accepted snapshot and producer files are read-only inputs to this audit.

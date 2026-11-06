@@ -1,0 +1,587 @@
+{
+  "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+  "source_pdf": "BTP_CNG_Data/consolidated_2026-11-06/raw/objects/2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db.pdf",
+  "native_table_sha256": "db349a705f1a7d885240b533435c2fc0071eca40fd4da17f7d4839acc974a4f9",
+  "release_timestamp": "2026-06-05T16:00:00+05:30",
+  "release_basis": "Explicit source PDF embargo: publication/telecast/internet circulation barred until 4:00 PM of 5th June 2026. This validates this release vintage, not earlier vintages.",
+  "value_checks": [
+    {
+      "observation_id": "77fd769434b01dc9f7c6ce43",
+      "series": "gdp:constant_2022_23",
+      "period": "2022-04-01",
+      "value": "6159720",
+      "source_page": "15",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "258eecd1a71f8305969a68e4",
+      "series": "gdp:constant_2022_23",
+      "period": "2022-07-01",
+      "value": "6061357",
+      "source_page": "15",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "17e33cf0b9febcdd0dc0bc23",
+      "series": "gdp:constant_2022_23",
+      "period": "2022-10-01",
+      "value": "6819597",
+      "source_page": "15",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "34ecc6b09250442bc687161b",
+      "series": "gdp:constant_2022_23",
+      "period": "2023-01-01",
+      "value": "7076953",
+      "source_page": "15",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "1629b67fa2e25da848fed62e",
+      "series": "gdp:constant_2022_23",
+      "period": "2023-04-01",
+      "value": "6565079",
+      "source_page": "15",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "05f4f6a1076a3663c0a1ac9d",
+      "series": "gdp:constant_2022_23",
+      "period": "2023-07-01",
+      "value": "6524195",
+      "source_page": "15",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "d8e37f4bee884d4324582d28",
+      "series": "gdp:constant_2022_23",
+      "period": "2023-10-01",
+      "value": "7303045",
+      "source_page": "15",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "cd92b9ef7b8220a30702f7b5",
+      "series": "gdp:constant_2022_23",
+      "period": "2024-01-01",
+      "value": "7608448",
+      "source_page": "15",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "b965f650d9b85ef9b7c76ba6",
+      "series": "gdp:constant_2022_23",
+      "period": "2024-04-01",
+      "value": "7054579",
+      "source_page": "15",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "4a5c7f1e70aafcc7e3f19ace",
+      "series": "gdp:constant_2022_23",
+      "period": "2024-07-01",
+      "value": "6953870",
+      "source_page": "15",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "64cac0bf14e634db08e99db4",
+      "series": "gdp:constant_2022_23",
+      "period": "2024-10-01",
+      "value": "7840573",
+      "source_page": "15",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "ceef958cde0d42b3f9308167",
+      "series": "gdp:constant_2022_23",
+      "period": "2025-01-01",
+      "value": "8139598",
+      "source_page": "15",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "5164bd9718725b53e1291aa4",
+      "series": "gdp:constant_2022_23",
+      "period": "2025-04-01",
+      "value": "7535572",
+      "source_page": "15",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "7fcdd65a1054b50aa82b70f2",
+      "series": "gdp:constant_2022_23",
+      "period": "2025-07-01",
+      "value": "7534423",
+      "source_page": "15",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "0bcb39e7bffff51d598c71f8",
+      "series": "gdp:constant_2022_23",
+      "period": "2025-10-01",
+      "value": "8464935",
+      "source_page": "15",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "2281187f22a5d6e33f7c5994",
+      "series": "gdp:constant_2022_23",
+      "period": "2026-01-01",
+      "value": "8777104",
+      "source_page": "15",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "8d4f7f1d3f2d2e4b0a52cf8a",
+      "series": "pfce:constant_2022_23",
+      "period": "2022-04-01",
+      "value": "3439803",
+      "source_page": "15",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "bd29252716608a83402a14af",
+      "series": "pfce:constant_2022_23",
+      "period": "2022-07-01",
+      "value": "3369229",
+      "source_page": "15",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "8067bc17cca182be6ee2dc86",
+      "series": "pfce:constant_2022_23",
+      "period": "2022-10-01",
+      "value": "3967916",
+      "source_page": "15",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "b2e47c16a39ab10fbf222f7a",
+      "series": "pfce:constant_2022_23",
+      "period": "2023-01-01",
+      "value": "4145880",
+      "source_page": "15",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "0fbc3c68c089fa9a4245e369",
+      "series": "pfce:constant_2022_23",
+      "period": "2023-04-01",
+      "value": "3660131",
+      "source_page": "15",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "d46b9d7041ae84701fcf7846",
+      "series": "pfce:constant_2022_23",
+      "period": "2023-07-01",
+      "value": "3547025",
+      "source_page": "15",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "5d8e06003ec8c2dfe387c79d",
+      "series": "pfce:constant_2022_23",
+      "period": "2023-10-01",
+      "value": "4182410",
+      "source_page": "15",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "01eb7c225320e25bdc728303",
+      "series": "pfce:constant_2022_23",
+      "period": "2024-01-01",
+      "value": "4395691",
+      "source_page": "15",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "1fe073b5849aef2491d1c17b",
+      "series": "pfce:constant_2022_23",
+      "period": "2024-04-01",
+      "value": "3882451",
+      "source_page": "15",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "266f6d890bf51bfd402bac5a",
+      "series": "pfce:constant_2022_23",
+      "period": "2024-07-01",
+      "value": "3744336",
+      "source_page": "15",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "f034eb3c9c93098a9734a541",
+      "series": "pfce:constant_2022_23",
+      "period": "2024-10-01",
+      "value": "4431993",
+      "source_page": "15",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "8d366d374ef58755fb1d94fb",
+      "series": "pfce:constant_2022_23",
+      "period": "2025-01-01",
+      "value": "4641071",
+      "source_page": "15",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "d6ade4cc5377d293762c930e",
+      "series": "pfce:constant_2022_23",
+      "period": "2025-04-01",
+      "value": "4219738",
+      "source_page": "15",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "8e0e86fa69900ac19af48495",
+      "series": "pfce:constant_2022_23",
+      "period": "2025-07-01",
+      "value": "4012153",
+      "source_page": "15",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "513eae214296f8fbc1d53e91",
+      "series": "pfce:constant_2022_23",
+      "period": "2025-10-01",
+      "value": "4793358",
+      "source_page": "15",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "95b730146f8ad6fd5342b0bd",
+      "series": "pfce:constant_2022_23",
+      "period": "2026-01-01",
+      "value": "4968622",
+      "source_page": "15",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "16ade6b7839db83be3b368da",
+      "series": "gdp:current",
+      "period": "2022-04-01",
+      "value": "6082991",
+      "source_page": "17",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "aadf41f2995c0e038eb5941d",
+      "series": "gdp:current",
+      "period": "2022-07-01",
+      "value": "6084148",
+      "source_page": "17",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "1f297a4a92b788b0189149c2",
+      "series": "gdp:current",
+      "period": "2022-10-01",
+      "value": "6848641",
+      "source_page": "17",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "552d2eef84bbd78d9f71bb02",
+      "series": "gdp:current",
+      "period": "2023-01-01",
+      "value": "7101847",
+      "source_page": "17",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "f39ce5be816e084367eebd52",
+      "series": "gdp:current",
+      "period": "2023-04-01",
+      "value": "6704410",
+      "source_page": "17",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "0c0351599270499e29392531",
+      "series": "gdp:current",
+      "period": "2023-07-01",
+      "value": "6778231",
+      "source_page": "17",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "0e1f81b7bf5fd8a843664a6a",
+      "series": "gdp:current",
+      "period": "2023-10-01",
+      "value": "7580375",
+      "source_page": "17",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "2402bfc096634f3fd375f88c",
+      "series": "gdp:current",
+      "period": "2024-01-01",
+      "value": "7920894",
+      "source_page": "17",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "8a395b7252018ef9652011dc",
+      "series": "gdp:current",
+      "period": "2024-04-01",
+      "value": "7408806",
+      "source_page": "17",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "850bc3c9b6ac8e9b6336828d",
+      "series": "gdp:current",
+      "period": "2024-07-01",
+      "value": "7377938",
+      "source_page": "17",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "c8cd2f2fb80f7eaa4a5b85d6",
+      "series": "gdp:current",
+      "period": "2024-10-01",
+      "value": "8345890",
+      "source_page": "17",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "67c501c2dfbdaa28bf3c34e4",
+      "series": "gdp:current",
+      "period": "2025-01-01",
+      "value": "8674674",
+      "source_page": "17",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "a2ae26198a5b1344584753c5",
+      "series": "gdp:current",
+      "period": "2025-04-01",
+      "value": "8044060",
+      "source_page": "17",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "dcad5d48c1caacf039e1e052",
+      "series": "gdp:current",
+      "period": "2025-07-01",
+      "value": "8010539",
+      "source_page": "17",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "a7674044eef54ec311212bb4",
+      "series": "gdp:current",
+      "period": "2025-10-01",
+      "value": "9115599",
+      "source_page": "17",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "74e5f1fc090c69b024d8c5df",
+      "series": "gdp:current",
+      "period": "2026-01-01",
+      "value": "9465440",
+      "source_page": "17",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "b266445c737b0576a5b231c3",
+      "series": "pfce:current",
+      "period": "2022-04-01",
+      "value": "3405615",
+      "source_page": "17",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "da8527cd0f3b42c503cf476e",
+      "series": "pfce:current",
+      "period": "2022-07-01",
+      "value": "3364740",
+      "source_page": "17",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "7e5dd21f108b053511ed5207",
+      "series": "pfce:current",
+      "period": "2022-10-01",
+      "value": "3970636",
+      "source_page": "17",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "b68965590bcc1925ab6d06b7",
+      "series": "pfce:current",
+      "period": "2023-01-01",
+      "value": "4181837",
+      "source_page": "17",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "70bf8fb566252f60342c9b63",
+      "series": "pfce:current",
+      "period": "2023-04-01",
+      "value": "3754429",
+      "source_page": "17",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "f3ba1d67fbd819c8d643abc6",
+      "series": "pfce:current",
+      "period": "2023-07-01",
+      "value": "3697456",
+      "source_page": "17",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "f6c8594e8540709f69828243",
+      "series": "pfce:current",
+      "period": "2023-10-01",
+      "value": "4334080",
+      "source_page": "17",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "12d6f8aa1cf6cf442c45210e",
+      "series": "pfce:current",
+      "period": "2024-01-01",
+      "value": "4590860",
+      "source_page": "17",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "96c9230ca825987e50abe127",
+      "series": "pfce:current",
+      "period": "2024-04-01",
+      "value": "4117901",
+      "source_page": "17",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "965bb2ca0ec50ffb64e89674",
+      "series": "pfce:current",
+      "period": "2024-07-01",
+      "value": "4031304",
+      "source_page": "17",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "06f53fb1c251fa065d9a0907",
+      "series": "pfce:current",
+      "period": "2024-10-01",
+      "value": "4801174",
+      "source_page": "17",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "23b1a8720bfd8949d9599282",
+      "series": "pfce:current",
+      "period": "2025-01-01",
+      "value": "5020229",
+      "source_page": "17",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "c2369a88931e20427cdd699c",
+      "series": "pfce:current",
+      "period": "2025-04-01",
+      "value": "4540582",
+      "source_page": "17",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "e8f7831170afdf191e5908bf",
+      "series": "pfce:current",
+      "period": "2025-07-01",
+      "value": "4403099",
+      "source_page": "17",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "37b7dcc8cc69ec308d517bc2",
+      "series": "pfce:current",
+      "period": "2025-10-01",
+      "value": "5211295",
+      "source_page": "17",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    },
+    {
+      "observation_id": "9bee1b11eee7f22d46297282",
+      "series": "pfce:current",
+      "period": "2026-01-01",
+      "value": "5495925",
+      "source_page": "17",
+      "source_sha256": "2074d6eb285a446642749c535e4a57055b4b948a8d38509cf59bfdacf37fa0db",
+      "exact_cell_match": true
+    }
+  ],
+  "all_checks_passed": true,
+  "verified_at": "2026-11-06T06:20:58.528593+00:00"
+}

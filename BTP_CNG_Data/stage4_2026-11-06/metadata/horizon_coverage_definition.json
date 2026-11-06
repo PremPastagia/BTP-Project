@@ -1,0 +1,16 @@
+{
+  "source_sha256": "8a86c4d32fb9374b92e6fd651299bf7ace9974cf7a43ac827b385487de157910",
+  "alignment": "calendar_month_plus_horizon_not_row_shift",
+  "origin": "month_end_outcome_exists",
+  "targets": [
+    "month_end",
+    "day_weighted_average"
+  ],
+  "horizons": [
+    1,
+    3,
+    6
+  ],
+  "reservation_partition": "by_target_month",
+  "limitations": "Does not certify origin-time price availability, effective independent sample size, model feasibility or statistical power."
+}

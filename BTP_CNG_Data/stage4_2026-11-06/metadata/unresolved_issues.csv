@@ -1,0 +1,9 @@
+issue_id,domain,status,limitation,next_action
+S4-I01,historical_predictor_availability,not_resolved,No dated numerical factor covers the exploratory history; price-predictor release availability also uncertified.,Obtain genuine historical vintages or revise later hypothesis design; never assume fixed release delays.
+S4-I02,intraday_precision,accepted_qualified,Day-resolution average differs from an exact continuous-time average; conditional timing bounds do not cover all source errors.,Retain qualified estimand and source-path assumptions in all later results.
+S4-I03,source_completeness_and_gaps,accepted_qualified,275 accepted documentary intervals do not prove complete market histories; missing months persist.,Use supported segments; reopen Stage3 with a new accepted version if material source evidence changes.
+S4-I04,panel_dependence,future_method_constraint,Five markets share two operators and common national shocks.,Assess effective information and uncertainty in Stage5/6; do not treat rows as independent.
+S4-I05,H2_corpus,not_resolved,Selected articles and undated corporate documents do not establish valid historical text predictors.,Collect representative dated material or report H2 infeasible/inconclusive.
+S4-I06,evaluation_reservation,provisional,"November2025–October2026 reserved from EDA, but prior-study exposure must be reviewed.",Stage6 must explicitly justify and freeze an honest final evaluation strategy.
+S4-I07,artifact_retention,documented_deviation,Pre-fix visual/code artifact was not archived; numeric data unchanged and correction logged.,Preserve future versions; do not claim an original archived artifact exists.
+S4-I08,registry_timing,documented_deviation,"Some root transform entries were registered after initial execution, with definitions already fixed.",Do not call them prospectively preregistered; retain append-only updates.

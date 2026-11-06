@@ -1,0 +1,10 @@
+{
+  "reviewed_at_utc": "2026-11-06T06:38:38.911692+00:00",
+  "master_records": 12,
+  "master_sha256": "9b29174a080fd753006c3549545d71e6340dc028d61eb7c69d1766875b8d1e02",
+  "technical_failure_and_retention_records_linked": true,
+  "future_eda_logging": "already_append_only_with_unique_ids_no_producer_patch_needed",
+  "root_guard_patch_attempt": "Aborted safely before modifying producer because logging was already fixed; redundant inspection copy removed.",
+  "root_registry_rerun_policy": "Unchanged records idempotent; changed existing experiments require explicit reason and append a new record",
+  "original_visual_artifact_retention_deviation_disclosed": true
+}

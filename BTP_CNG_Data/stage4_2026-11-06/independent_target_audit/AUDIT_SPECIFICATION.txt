@@ -1,0 +1,51 @@
+INDEPENDENT STAGE 4 TARGET SPECIFICATION
+
+Inputs: researcher-accepted restricted Stage 3 source intervals, with calendar
+start inclusive/end exclusive. No producer algorithm or helper is used.
+
+MONTH-END QUOTE
+The quote at the end of the final calendar day is available only if exactly one
+accepted interval covers that day and the calendar month is complete at cutoff.
+An earlier missing day does not, by itself, invalidate an otherwise observed
+month-end value. Any whole-month coverage restriction must therefore be explicit.
+
+CALENDAR-DAY-WEIGHTED AVERAGE OF DAY-END QUOTES
+For each interval, intersect its half-open date range with the calendar month.
+Multiply its quoted price by the integer number of overlapping calendar days.
+Divide the total price-days by the actual number of calendar days only when all
+days are covered exactly once. Otherwise leave the average unavailable. Missing
+days are never filled and the final interval is never extended. November2026 is
+an incomplete calendar month at the explicit6November2026 cutoff.
+
+CONTINUOUS-TIME SENSITIVITY ENVELOPE
+The day-end quote average is a distinct estimand from actual intraday TWAP.
+On a boundary day with previous-day quote q and new end-of-day quote p, an
+unknown intraday transition can contribute any price-day area between min(q,p)
+and max(q,p), given that the accepted path captures all price changes and no
+unreported same-day round-trip changes occur. Adjust the interval-overlap area
+at each boundary accordingly. Divide the lower and upper total areas by month
+length. This creates a sensitivity envelope, not a confidence/prediction interval.
+
+The preceding day must be known, including when the first covered day is the
+first day of the month. If it is unknown, finite continuous-time bounds are not
+certified even when all day-end quotes are observed. Date-only source headers do
+not justify a midnight effective-time assumption. Known06:00 changes fit inside
+the coarse envelope; the independent implementation deliberately does not claim
+maximally tight bounds from partial intraday information.
+
+INDEPENDENT CALCULATION
+The implementation sums direct interval-overlap lengths using45-digit Decimal
+arithmetic. The producer is expected to expand day-end quotes onto calendar days,
+providing an alternative computation rather than sharing the original helper.
+
+MATHEMATICAL FIXTURES (NOT RESEARCH OBSERVATIONS)
+- February2024 has29days.
+- Price10 for14days and20 for15days gives440/29.
+- An uncertain10-to20 transition on15February gives bounds430/29 to440/29.
+- A two-day gap leaves the average unavailable, even if month-end is known.
+- An unknown preceding-day price leaves continuous-time bounds unavailable.
+- Ending the final interval before month-end prevents quote extension.
+- Duplicate/overlapping source intervals are rejected.
+- November2026 remains incomplete and produces no finalized target.
+
+No Stage 5 tests, forecasting models or inferential claims are included.

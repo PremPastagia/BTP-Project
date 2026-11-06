@@ -1,0 +1,11 @@
+market,operator,target,n,first_month,last_month,mean,median,sample_sd,minimum,maximum
+Delhi,Indraprastha Gas Limited,month_end_price_inr_kg,175,2010-06,2025-10,46.84942857142858,41.97,15.576269665201838,27.5,79.56
+Delhi,Indraprastha Gas Limited,day_weighted_day_end_average_inr_kg,170,2010-07,2025-10,46.44854780880095,41.935,15.328391240866086,27.5,79.56
+Noida,Indraprastha Gas Limited,month_end_price_inr_kg,172,2010-06,2025-10,51.89145348837209,47.94,15.780883678928841,30.6,85.7
+Noida,Indraprastha Gas Limited,day_weighted_day_end_average_inr_kg,168,2010-07,2025-10,51.50692649129545,47.845,15.416569092174658,30.6,85.7
+Lucknow,Green Gas Limited,month_end_price_inr_kg,61,2019-04,2025-10,76.32786885245902,68.1,15.80809793689657,59.5,97.75
+Lucknow,Green Gas Limited,day_weighted_day_end_average_inr_kg,60,2019-04,2025-10,75.92609498207885,65.675,15.72112547330224,59.5,97.75
+Agra,Green Gas Limited,month_end_price_inr_kg,61,2019-04,2025-10,76.49590163934427,68.1,15.94330542652612,59.5,97.75
+Agra,Green Gas Limited,day_weighted_day_end_average_inr_kg,60,2019-04,2025-10,76.1057670250896,65.675,15.862870538859163,59.5,97.75
+Unnao,Green Gas Limited,month_end_price_inr_kg,43,2020-10,2025-10,81.5860465116279,90.8,14.494072374518664,60.95,97.0
+Unnao,Green Gas Limited,day_weighted_day_end_average_inr_kg,41,2020-11,2025-10,81.65535011801732,90.606451612903,14.380954901217107,60.95,97.0

@@ -1,0 +1,107 @@
+{
+  "source_sha256": "6518c228703442e3c206e5445d181add0906ec11373ecf625361d6b537bd3067",
+  "source_cells_checked": [
+    "B5",
+    "C5",
+    "B8",
+    "C8",
+    "B9",
+    "C9",
+    "B12",
+    "C12"
+  ],
+  "implementation": "hand-specified source examples separate from both aggregation algorithms",
+  "checks": [
+    {
+      "market": "Delhi",
+      "month": "2011-06",
+      "field": "month_end_price_inr_kg",
+      "expected": "29.8",
+      "actual": "29.800000000000",
+      "reason": "CellC9 persists through month end",
+      "passed": true
+    },
+    {
+      "market": "Delhi",
+      "month": "2011-06",
+      "field": "day_weighted_day_end_average_inr_kg",
+      "expected": "29.71666666666666666666666667",
+      "actual": "29.716666666667",
+      "reason": "Five days at29.3 plus25days at29.8; no intraday time invented",
+      "passed": true
+    },
+    {
+      "market": "Delhi",
+      "month": "2011-06",
+      "field": "continuous_time_twap_lower_bound_inr_kg",
+      "expected": "29.7",
+      "actual": "29.700000000000",
+      "reason": "June6 change can occur within day; lower area uses old quote for change day",
+      "passed": true
+    },
+    {
+      "market": "Delhi",
+      "month": "2011-06",
+      "field": "continuous_time_twap_upper_bound_inr_kg",
+      "expected": "29.71666666666666666666666667",
+      "actual": "29.716666666667",
+      "reason": "Upper area uses new quote for change day",
+      "passed": true
+    },
+    {
+      "market": "Delhi",
+      "month": "2012-02",
+      "field": "days_in_month",
+      "expected": "29",
+      "actual": "29",
+      "reason": "Leap year:29calendar days",
+      "passed": true
+    },
+    {
+      "market": "Delhi",
+      "month": "2012-02",
+      "field": "day_weighted_day_end_average_inr_kg",
+      "expected": "33.75",
+      "actual": "33.750000000000",
+      "reason": "29days unchanged source quoteC12",
+      "passed": true
+    },
+    {
+      "market": "Delhi",
+      "month": "2010-06",
+      "field": "covered_days",
+      "expected": "14",
+      "actual": "14",
+      "reason": "June17throughJune30only",
+      "passed": true
+    },
+    {
+      "market": "Delhi",
+      "month": "2010-06",
+      "field": "missing_days",
+      "expected": "16",
+      "actual": "16",
+      "reason": "June1throughJune16unobserved",
+      "passed": true
+    },
+    {
+      "market": "Delhi",
+      "month": "2010-06",
+      "field": "month_end_price_inr_kg",
+      "expected": "27.5",
+      "actual": "27.500000000000",
+      "reason": "Month-end quote known although full average is not",
+      "passed": true
+    },
+    {
+      "market": "Delhi",
+      "month": "2010-06",
+      "field": "day_weighted_day_end_average_inr_kg",
+      "expected": "",
+      "reason": "Incomplete coverage stays missing",
+      "passed": true
+    }
+  ],
+  "all_passed": true,
+  "reserved_outcomes_used": false
+}

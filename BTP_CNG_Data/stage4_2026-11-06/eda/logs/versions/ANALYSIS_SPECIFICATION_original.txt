@@ -1,0 +1,66 @@
+STAGE 4 DESCRIPTIVE EXPLORATION SPECIFICATION
+
+Scope
+Researcher-accepted restricted source-based price paths for Delhi/Noida (IGL)
+and Lucknow/Agra/Unnao (Green Gas). These are five named markets and two source
+operators. They are not five independent market experiments. No model, forecast,
+formal stationarity/break test, hypothesis verdict, or causal claim is planned.
+
+Exploration and provisional reservation
+The root target builder declares exploration_eligible. Filter on that declaration
+before converting target values or computing descriptive statistics. Months from
+November 2025 through October 2026 are provisionally reserved for potential final
+evaluation and are excluded from every price, change, calendar and correlation
+summary and plot. This is a provisional reservation, not a frozen Stage 6 design.
+Coverage and missingness metadata may be counted for reserved months, without
+displaying or summarizing target values. Incomplete November 2026 is not a target.
+
+Questions
+1. Which complete calendar months have full day-end coverage, month-end-only
+   coverage or unavailable target definitions? Where do source gaps remain?
+2. What are the levels, observed dispersion and changes of the available
+   exploration-period targets? Report each target separately.
+3. How often are consecutively observed month-end quotes unchanged? Do not compare
+   across a missing month. Flat-price fractions are conditional on valid adjacent
+   pairs and are not evidence of exhaustive event histories.
+4. At contiguous accepted source boundaries, how many quotes change and how many
+   remain identical? Missing-boundary jumps are not counted as known revisions.
+5. How do observed calendar-month changes differ descriptively? Different years,
+   regimes, coverage and shared operators can generate apparent patterns. No
+   seasonality test or seasonal forecasting claim follows from this display.
+6. How strongly do available price levels and adjacent-month changes co-move on
+   exactly matched months? Report pair counts and operator overlap. Shared trends,
+   common shocks and shared tariff decisions make correlations noncausal and
+   unsuitable as evidence of forecast improvement.
+
+Price definitions
+Month-end is the accepted quote at the final calendar day. The other target is
+the calendar-day-weighted average of day-end quotes. It is not an identified
+continuous-time TWAP. Sensitivity envelopes, when supplied, are conditional
+identification bounds, not confidence or prediction intervals.
+
+Exploratory flags
+Preserve every observation. Report nonpositive/nonfinite inputs as validation
+failures. For nonzero adjacent month-end changes, an optional Tukey rule is only
+an exploratory flag when a market has at least eight such changes and positive
+IQR. Zero-IQR/too-small samples do not support that flagging rule. Also list
+the largest absolute observed changes with context. No exclusion, winsorization,
+interpolation or backward-fill follows from these flags.
+
+Independent calculation check
+Recompute headline coverage counts, valid adjacent pairs, exact flat-pair counts,
+means and matched-month Pearson coefficients from original CSV strings using
+stdlib date/Decimal/statistics arithmetic. Compare these with separate pandas
+calculations under explicit numeric tolerance. No producer target aggregation
+helper is imported. Target reconstruction itself is audited by a separate agent.
+
+Outputs
+Plain CSV descriptive tables, standalone PNG/SVG scientific figures, a factual
+EDA report, input and output checksums, a consequential-experiment register,
+independent arithmetic receipt and explicit limitations. Plot lines break at
+missing months. No reserved prices appear in any figure or descriptive table.
+
+Limits
+No inferential p-values, effective-sample-size estimate, formal power calculation,
+multivariate predictor relationship, sentiment feature, model selection or final
+test score is produced. These are later-stage questions requiring their gates.

@@ -1,0 +1,18 @@
+{
+  "current_reproduction_scripts": {
+    "independent_target_audit/verify_targets.py": "1d4fbba779b88894e56df2478c4db76e6f273f7c19f9aba6e680eade6c971fd5",
+    "eda/analyze.py": "61234454391c50302549518a9fca7e49cdbdf1daa58a5d439312cc196265df1a",
+    "scripts/hand_check_targets.py": "21ac670886484267f8547b8a4f8ed71e0e14ad9e7efee89d586d701df9e01060",
+    "scripts/register_stage4.py": "07a974ff60416b641e28110f140fa26c79799a16818a1946dab6a3368e97b8c6",
+    "scripts/freeze_outputs.py": "3d92d3989ded7180b7632b053377840e353aa46eda73450092715cde7472ecbb",
+    "scripts/build_targets.py": "aad29b1233a2e8d16a9663b1ee9508cfb7582daad6c65b970af446ce9acef1d4",
+    "scripts/write_checkpoint.py": "8f88b65af299f0160174065a29824057ddc9d0e5b3eece4aed66c54478d774ef",
+    "scripts/accept_stage3.py": "b02f578dcfdeff6a9ae3af03aac190101cdb0d52f260042704bf849bb95ba657",
+    "scripts/horizon_coverage.py": "e21547b46e1463e907520f264a0b26645a0c74ed7e213c1f5612b84aa77cf69b",
+    "integration/scripts/verify_gdp_release.py": "630a125744685293b541338e0516e963fcbc303c6e97794bb59eac6fef85ee4e",
+    "integration/scripts/verify_asof_independent.py": "bcb3fb71b3a2fe4294098c524537510a24225ae9c812ac12ad3e2eecc2f05508",
+    "integration/scripts/build_asof.py": "fafe02037d42163c1f4d95d8fe1c265190028a3f8a3c83394754b173e98f19df",
+    "eda/logs/versions/analyze_fixed_calendar_labels.py": "61234454391c50302549518a9fca7e49cdbdf1daa58a5d439312cc196265df1a"
+  },
+  "note": "Earlier artifact-retention and retrospective-registration limits are explicitly recorded in the experiment history."
+}

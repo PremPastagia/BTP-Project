@@ -1,0 +1,31 @@
+{
+  "snapshot_id": "stage3-restricted-2026-11-06-v1",
+  "source_intervals_sha256": "0a53065b6a816434d5ecc83a9cff4671fca7e74e75c4712a67f59cf59311a4c1",
+  "target_file_sha256": "8a86c4d32fb9374b92e6fd651299bf7ace9974cf7a43ac827b385487de157910",
+  "cutoff_complete_month": "2026-10",
+  "provisional_reserved_period": [
+    "2025-11",
+    "2026-10"
+  ],
+  "reservation_status": "operational_protection_Stage6_must_confirm_final_evaluation_design",
+  "monthly_average": "calendar-day-weighted mean of day-end quotes",
+  "continuous_time_bounds": "deterministic sensitivity bounds under documented-path assumptions, not measured averages or statistical intervals",
+  "rounding": "Derived outputs only rounded to12decimal places; raw prices retained unchanged",
+  "assumptions": [
+    "Official chronology persists until the next listed revision only within accepted bounded intervals",
+    "Unknown intraday times stay unknown; day-end resolution is explicitly researcher-approved",
+    "No unlisted intraday round-trip changes assumed within each source interval",
+    "Unknown gaps are not bridged, final quotes are not extended, no incomplete November target",
+    "Retrospective outcome data is not automatically valid as an origin-time predictor"
+  ],
+  "transformation_steps": [
+    "Verify accepted snapshot checksums",
+    "Filter only accepted275intervals",
+    "Expand intervals internally at day-end calendar resolution with overlap rejection",
+    "Require complete calendar-day coverage for monthly mean",
+    "Require final calendar day coverage for month-end price",
+    "Calculate within-day timing sensitivity bounds only when each previous day quote is known",
+    "Preserve missing outcomes and source interval IDs",
+    "Flag provisional reserved outcome dates before EDA"
+  ]
+}

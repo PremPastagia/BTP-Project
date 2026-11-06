@@ -1,0 +1,9 @@
+transformation_id,operation,method,safeguard
+S4-I01,accepted input binding,"Verify accepted snapshot manifest and researcher approval, and match reference tables to frozen hashes.",No source observation edits
+S4-I02,origin calendar,Use complete month-end calendar keys with observed month-end targets; deduplicate market-month keys.,Outcome values not used for inference or selection
+S4-I03,native date eligibility,Unknown publication dates excluded; June2026GDP release decoded from explicitPDFembargo.,No assumed fixed lag
+S4-I04,CNG sales definition,AdmitCNG-only national flow totals with documentedupload dates;monthly andfinancial-year-to-date grains remain separate.,Station indicators excluded
+S4-I05,source version deduplication,ExactDecimal claim equality at namespace/rawhash/native-period keys; retain aliases and differing definitions.,Conflicting claims excluded
+S4-I06,as-of information state,"Latest released reference period thenlatest releasefor sameperiod, only publication<=origin andperiodend<=origin.",Heldnative values not newmonthly observations
+S4-I07,news feasibility,Metadata timestampclaim comparisons only; timezone-ambiguous orundated claimsnotasof.,"No sentiment, volume orlinguistic features"
+S4-I08,reserved origins,FlagNovember2025–October2026 mechanicalintegration rows; do notcompute reservedoutcome statistics.,No stage5or models

@@ -1,0 +1,30 @@
+{
+  "accepted_input": "/Users/virajvekariya/.codex/worktrees/stage3-consolidation/BTP/BTP_CNG_Data/accepted_stage3_2026-11-06_restricted_v1/data/price_intervals.csv",
+  "accepted_sha256": "0a53065b6a816434d5ecc83a9cff4671fca7e74e75c4712a67f59cf59311a4c1",
+  "accepted_interval_rows": 275,
+  "markets": 5,
+  "calendar_market_month_rows": 645,
+  "complete_day_end_average_rows": 553,
+  "month_end_quotes": 566,
+  "continuous_TWAP_bound_rows": 551,
+  "fixtures_passed": [
+    "leap_year_29_days",
+    "exact_price_day_arithmetic",
+    "rising_transition_TWAP_bounds",
+    "falling_transition_TWAP_bounds",
+    "gap_not_filled",
+    "last_day_target_independent_of_month_average",
+    "first_day_prior_unknown_bounds_withheld",
+    "last_quote_not_extended",
+    "duplicate_interval_rejected",
+    "incomplete_November_rejected"
+  ],
+  "algorithm": "Direct interval/calendar overlaps with45-digit Decimal arithmetic; no producer helpers and no per-day price expansion",
+  "stage5_started": false,
+  "scientific_limits": [
+    "Bounds assume source paths capture all changes and at most one effective new price per boundary day; unlisted intraday round-trips are not identified.",
+    "Bounds are sensitivity envelopes, not confidence or prediction intervals.",
+    "Date-only source chronology does not establish midnight changes.",
+    "Month-end values can be available even when earlier days are missing; monthly averages remain blank."
+  ]
+}

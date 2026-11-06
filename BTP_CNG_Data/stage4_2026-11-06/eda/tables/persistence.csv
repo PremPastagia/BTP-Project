@@ -1,0 +1,11 @@
+market,target,valid_adjacent_month_pairs,flat_pairs,nonzero_pairs,flat_fraction
+Delhi,month_end_price_inr_kg,170,116,54,0.6823529411764706
+Delhi,day_weighted_day_end_average_inr_kg,166,75,91,0.45180722891566266
+Noida,month_end_price_inr_kg,168,111,57,0.6607142857142857
+Noida,day_weighted_day_end_average_inr_kg,164,71,93,0.4329268292682927
+Lucknow,month_end_price_inr_kg,59,41,18,0.6949152542372882
+Lucknow,day_weighted_day_end_average_inr_kg,58,28,30,0.4827586206896552
+Agra,month_end_price_inr_kg,59,41,18,0.6949152542372882
+Agra,day_weighted_day_end_average_inr_kg,58,28,30,0.4827586206896552
+Unnao,month_end_price_inr_kg,41,31,10,0.7560975609756098
+Unnao,day_weighted_day_end_average_inr_kg,39,23,16,0.5897435897435898

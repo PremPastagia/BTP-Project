@@ -1,0 +1,102 @@
+[
+  {
+    "path": "asof_numerical_ledger.csv",
+    "bytes": 112225,
+    "sha256": "ccfb529b9c44889d69f42c1d1f9559845774f9daa20d62a54521b901568f39b8"
+  },
+  {
+    "path": "news_time_claim_inventory.csv",
+    "bytes": 13272,
+    "sha256": "cb0713bc487b8e63f95cef8d54afea192715117bbd7c64ad517fc62688159e5d"
+  },
+  {
+    "path": "factor_inventory.csv",
+    "bytes": 110126,
+    "sha256": "aae04248ed3b61405a56d29950c42f998d5f54c21de471fe2e39ea7ed131ba42"
+  },
+  {
+    "path": "forecast_origins.csv",
+    "bytes": 104278,
+    "sha256": "3b1dedd822bc465a0329fe5457b93327589584df54cfc1f745ba9df7af9ae113"
+  },
+  {
+    "path": "INTEGRATION_REPORT.txt",
+    "bytes": 8898,
+    "sha256": "dfb9f104dac34684eb779f0fb6f4faa16406b97989a7529576056bfe2916e2e2"
+  },
+  {
+    "path": "asof_conflicts.csv",
+    "bytes": 54,
+    "sha256": "c635b302f805718005ef19e73ffdb3382c0abf07801234c4470998dc2630146e"
+  },
+  {
+    "path": "source_version_aliases.csv",
+    "bytes": 68,
+    "sha256": "3cb3a6369d345f360de1d4ee7479601b25e189dd033ed6c09fc0669851c0d57e"
+  },
+  {
+    "path": "origin_factor_unavailable.csv",
+    "bytes": 383274,
+    "sha256": "264cd9372b9a8dae5332daf532f47cfa45ecc34a8697c469a3be9b8efa6db857"
+  },
+  {
+    "path": "excluded_availability.csv",
+    "bytes": 8955117,
+    "sha256": "13e873e5cbdc183ad82e2ea89e93a659d4b0370666320edf10d263d218aa3df3"
+  },
+  {
+    "path": "eligible_native_factors.csv",
+    "bytes": 57203,
+    "sha256": "820ac0dfb128150fa50894566b12b701bdeca1d95f6bf72500b31e86ff0ea74c"
+  },
+  {
+    "path": "news_asof_metadata.csv",
+    "bytes": 1041736,
+    "sha256": "f9ebdb2fd47099e4c206af482045a843d84e77d7b00b3b05659adab63b10aa8f"
+  },
+  {
+    "path": "scripts/verify_gdp_release.py",
+    "bytes": 3373,
+    "sha256": "630a125744685293b541338e0516e963fcbc303c6e97794bb59eac6fef85ee4e"
+  },
+  {
+    "path": "scripts/verify_asof_independent.py",
+    "bytes": 9313,
+    "sha256": "bcb3fb71b3a2fe4294098c524537510a24225ae9c812ac12ad3e2eecc2f05508"
+  },
+  {
+    "path": "scripts/build_asof.py",
+    "bytes": 17107,
+    "sha256": "fafe02037d42163c1f4d95d8fe1c265190028a3f8a3c83394754b173e98f19df"
+  },
+  {
+    "path": "metadata/schema.csv",
+    "bytes": 22539,
+    "sha256": "387a81b8dabb416511f78229782ea89bcd4c38d487a9760db0f6cf9765703d68"
+  },
+  {
+    "path": "metadata/input_provenance.json",
+    "bytes": 1863,
+    "sha256": "5b93155ce0e19cbb5fdb7eed8c94a2ec969493c16e0e262fa0aef68496318709"
+  },
+  {
+    "path": "metadata/national_accounts_release_verification.json",
+    "bytes": 20252,
+    "sha256": "2c6792688016a30cf6bccfe6b3f31a88c8bb0b57ed5be25cfcb34abf22af19ee"
+  },
+  {
+    "path": "metadata/independent_integration_validation.json",
+    "bytes": 2245,
+    "sha256": "b571fe985d45136a1e8bb7b4bcd39e21051bcf8df387d5b99e599753474ddf7f"
+  },
+  {
+    "path": "metadata/transformation_log.csv",
+    "bytes": 1378,
+    "sha256": "669da7f1db8f403f4dc9982e9ffb0f8574dd502428a74ec6a1a0c90602af6403"
+  },
+  {
+    "path": "metadata/integration_summary.json",
+    "bytes": 1455,
+    "sha256": "2eb8a5d727d0f3972786a79244f8278df9a9406bd4708ba2aff646e2382dbdff"
+  }
+]
