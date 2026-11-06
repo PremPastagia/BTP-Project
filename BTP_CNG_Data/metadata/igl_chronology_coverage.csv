@@ -1,0 +1,18 @@
+reported_geography,first_revision_claim,last_revision_claim,source_cells,positive_price_claims,missing_cells,delta_or_invalid_cells,verified_continuous_target_months,path_status
+Ajmer,2019-04-04,2024-07-18,53,29,23,1,0,effective_time_and_gap_review_required
+Delhi,2019-04-04,2024-07-18,53,50,2,1,0,effective_time_and_gap_review_required
+Faridabad,2019-04-04,2024-07-18,53,5,47,1,0,effective_time_and_gap_review_required
+Gurugram,2019-04-04,2024-07-18,53,49,3,1,0,effective_time_and_gap_review_required
+Gurugram (HCG),2019-04-04,2024-07-18,53,1,51,1,0,effective_time_and_gap_review_required
+Kaithal,2019-04-04,2024-07-18,53,41,11,1,0,effective_time_and_gap_review_required
+Kanpur,2019-04-04,2024-07-18,53,33,19,1,0,effective_time_and_gap_review_required
+Karnal,2019-04-04,2024-07-18,53,49,3,1,0,effective_time_and_gap_review_required
+Meerut,2019-04-04,2024-07-18,53,1,51,1,0,effective_time_and_gap_review_required
+Muradabad,2019-04-04,2024-07-18,53,0,52,1,0,effective_time_and_gap_review_required
+Muzaffar Nagar,2019-04-04,2024-07-18,53,40,11,2,0,effective_time_and_gap_review_required
+Noida,2019-04-04,2024-07-18,53,41,11,1,0,effective_time_and_gap_review_required
+Panipat,2019-04-04,2024-07-18,53,0,52,1,0,effective_time_and_gap_review_required
+Rewari,2019-04-04,2024-07-18,53,51,1,1,0,effective_time_and_gap_review_required
+Sonipat,2019-04-04,2024-07-18,53,1,51,1,0,effective_time_and_gap_review_required
+"U.P. (GHZ, GR NOIDA)",2019-04-04,2024-07-18,53,41,11,1,0,effective_time_and_gap_review_required
+UPSRTC,2019-04-04,2024-07-18,53,11,42,0,0,effective_time_and_gap_review_required

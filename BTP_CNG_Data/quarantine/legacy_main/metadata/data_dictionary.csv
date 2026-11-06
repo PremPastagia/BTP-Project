@@ -1,0 +1,12 @@
+variable_name,factor_category,target_or_predictor,frequency,unit,source_name,primary_url,description,leakage_risk_mitigation
+cng_price_twap,Price Formation,Target,Monthly,INR/kg,MyPetrolPrice/CGD,https://www.mypetrolprice.com,Time-weighted average retail CNG price across calendar month,Aligned strictly with calendar month-end; no lookahead
+cng_price_monthend,Price Formation,Target,Monthly,INR/kg,MyPetrolPrice/CGD,https://www.mypetrolprice.com,Closing retail CNG price on last calendar day of month,Observed at T_end
+brent_crude_usd,External Shocks,Predictor,Monthly,USD/bbl,World Bank Pink Sheet,https://www.worldbank.org,World Bank Brent Crude spot average,Published with 1-month lag; use lagged value
+henry_hub_usd,External Shocks,Predictor,Monthly,USD/mmbtu,World Bank Pink Sheet,https://www.worldbank.org,US Henry Hub Natural Gas spot price,Lagged by 1 month to prevent lookahead
+lng_japan_usd,External Shocks,Predictor,Monthly,USD/mmbtu,World Bank Pink Sheet,https://www.worldbank.org,Liquefied natural gas import price Japan (Asian JKM proxy),Lagged by 1 month
+gpr_index,External Shocks,Predictor,Monthly,Index,Caldara & Iacoviello,https://www.matteoiacoviello.com/gpr.htm,Benchmark global geopolitical risk index based on news text,Available at start of next month
+gdp_monthly_cr,Macroeconomic,Predictor,Monthly,Crore INR,MoSPI eSankhyiki,https://api.mospi.gov.in,Denton-Cholette disaggregated quarterly GDP,Official GDP has 2-month release lag; use vintage lags
+cpi_index,Macroeconomic,Predictor,Monthly,Index,MoSPI eSankhyiki,https://api.mospi.gov.in,All-India CPI Combined (2012=100),Released mid of following month; lag >= 1
+apm_ceiling_usd,Regulation,Predictor,Monthly/Event,USD/mmbtu,PPAC / MoPNG,https://www.ppac.gov.in,Administered Pricing Mechanism ceiling under Kirit Parikh reforms ($6.50),Implementation date recorded exactly
+cgd_operator,Geography,Predictor,Static/Annual,Categorical,PNGRB,https://www.pngrb.gov.in,Authorized city gas distributor (IGL, MGL, ATGL, etc.),Static per city-geography
+state_vat_pct,Regulation,Predictor,Event/Monthly,Percentage,State Commercial Tax Depts,Official Gazettes,State VAT rate applied to retail CNG,Exact gazette effective date
