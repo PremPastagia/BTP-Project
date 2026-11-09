@@ -1,0 +1,24 @@
+{
+  "executed_at_with_timezone": "2026-11-09T17:39:28.477968+05:30",
+  "scope": "Acceptance mechanism controls; not research results",
+  "checks": [
+    {
+      "check": "Copied checklist identical to original attachment",
+      "passed": true
+    },
+    {
+      "check": "New original-stage4 gate with allitems NOT RUN",
+      "observed_exit_code": 2,
+      "stage_gate_passed": false,
+      "evidence": "initial_register_validation.json"
+    },
+    {
+      "check": "Attempted PASS without artifact/evidence rejected before mutation",
+      "passed": true,
+      "exit_code": 2,
+      "register_unchanged": true,
+      "error_excerpt": "usage: record_check.py [-h] --requirement-id REQUIREMENT_ID\n                       --verdict {PASS,FAIL,NOT RUN,BLOCKED,N/A WITH REASON}\n                       --method METHOD --observed OBSERVED --run-id RUN_ID\n                       [--artifact ARTIFACT] [--evidence EVIDENCE]\n                       [--limitations LIMITATIONS]\n                       [--corrective-action CORRECTIVE_ACTION]\nrecord_check.py: error: S5-01: actual evidence file required; S5-01: PASS needs a nonempty identifiable actual artifact\n"
+    }
+  ],
+  "no_scientific_REQUIREMENT_PASS_generated": true
+}

@@ -15,3 +15,7 @@ Previous Stage4: stage4_2026-11-06/ (unchanged).
 consolidated_2026-11-06/ is the preserved earlier review candidate.
 Its historical flags remain unchanged; use RESEARCH_STATUS.json for current status.
 Legacy structured/quarantined tables are audit evidence, not blanket model-ready data.
+
+Additional acceptance check mechanism: research_workflow/acceptance_2026-11-09/.
+Original user checklist saved verbatim; requirement registry/gates do not imply new
+researcher acceptance. Fresh26market first-pass source package missing at stated paths.

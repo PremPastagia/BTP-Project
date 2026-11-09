@@ -1,0 +1,66 @@
+{
+  "created_at_with_timezone": "2026-11-09T17:39:28.477968+05:30",
+  "role": "Historical initialization snapshot; live register changes tracked separately",
+  "files": [
+    {
+      "path": "BTP_BTP2_STAGES4_9_ACCEPTANCE_CHECKLIST.txt",
+      "sha256": "4542e74cd37d3730ec99d64fe496a8a65bac4ac0bcfcfe9405576eae43f0a71c",
+      "bytes": 26957
+    },
+    {
+      "path": "README.txt",
+      "sha256": "e9dc48e9627571816cffa055f38b50e067275791f2b838b2b577f42c9c1f66d2",
+      "bytes": 4781
+    },
+    {
+      "path": "acceptance_policy.json",
+      "sha256": "1ca86b1e3dd3983412f2e54f9542226c0c0c9f545a7f5bfa862c1b553d8d8816",
+      "bytes": 2715
+    },
+    {
+      "path": "acceptance_register.csv",
+      "sha256": "1c92a03451a711504405913310ccb853831bfd9d689537e128b05e89a1ba58b5",
+      "bytes": 52295
+    },
+    {
+      "path": "check_acceptance.py",
+      "sha256": "a4483849639513f7fde6e8fbb996ea469306c2102c44b716ca04d8f1f8e6c9b2",
+      "bytes": 5273
+    },
+    {
+      "path": "entrypoint_availability.csv",
+      "sha256": "9e0ce4a9a62b39298c1191dc1e3e2b2f6bf564b61e37e7d2607ed9132293ea00",
+      "bytes": 5695
+    },
+    {
+      "path": "initial_register_validation.json",
+      "sha256": "0970d4328f4df4def277fb2d78d1846eb7c9ba98f1630658580c935770d84af2",
+      "bytes": 2692
+    },
+    {
+      "path": "mechanism_verification.json",
+      "sha256": "8040b4734ea7c70370dd9883e1025fd9e5eedb7420fb576199348bd13ea078b8",
+      "bytes": 1225
+    },
+    {
+      "path": "open_issues.csv",
+      "sha256": "a87d5edb45565744205a9ac39ac9d8dd26d1411f17c37f0f33cf2f75593bf95b",
+      "bytes": 2091
+    },
+    {
+      "path": "record_check.py",
+      "sha256": "09001e39e0ffddf607f4b1b45952f69ac9ccace44fbac7df5d07ca1334fc7394",
+      "bytes": 3451
+    },
+    {
+      "path": "requirement_stage_mapping.csv",
+      "sha256": "e9d70699318b4b8dae6ba3d04e2d843ade38c4a1cd678be5eca2ee9a68be0371",
+      "bytes": 11090
+    },
+    {
+      "path": "stage_tracker.json",
+      "sha256": "27b3b86a542fcd45cb626c21dd06fa6ceb96f3e14b7ddaae1b86bda886802650",
+      "bytes": 2381
+    }
+  ]
+}

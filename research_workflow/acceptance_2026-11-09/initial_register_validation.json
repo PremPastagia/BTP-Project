@@ -1,0 +1,125 @@
+{
+  "checked_at_with_timezone": "2026-11-09T17:38:11.868541+05:30",
+  "register_sha256": "1c92a03451a711504405913310ccb853831bfd9d689537e128b05e89a1ba58b5",
+  "register_structure_valid": true,
+  "errors": [],
+  "requirements_total": 98,
+  "selected_original_stage": 4,
+  "selected_requirements": 26,
+  "verdict_counts": {
+    "PASS": 0,
+    "FAIL": 0,
+    "NOT RUN": 98,
+    "BLOCKED": 0,
+    "N/A WITH REASON": 0
+  },
+  "unmet": [
+    {
+      "requirement_id": "S4-01",
+      "verdict": "NOT RUN"
+    },
+    {
+      "requirement_id": "S4-02",
+      "verdict": "NOT RUN"
+    },
+    {
+      "requirement_id": "S4-03",
+      "verdict": "NOT RUN"
+    },
+    {
+      "requirement_id": "S4-04",
+      "verdict": "NOT RUN"
+    },
+    {
+      "requirement_id": "S4-05",
+      "verdict": "NOT RUN"
+    },
+    {
+      "requirement_id": "S4-06",
+      "verdict": "NOT RUN"
+    },
+    {
+      "requirement_id": "S4-07",
+      "verdict": "NOT RUN"
+    },
+    {
+      "requirement_id": "S4-08",
+      "verdict": "NOT RUN"
+    },
+    {
+      "requirement_id": "S4-09",
+      "verdict": "NOT RUN"
+    },
+    {
+      "requirement_id": "S4-GUARD-01",
+      "verdict": "NOT RUN"
+    },
+    {
+      "requirement_id": "S4-GUARD-02",
+      "verdict": "NOT RUN"
+    },
+    {
+      "requirement_id": "S4-GUARD-03",
+      "verdict": "NOT RUN"
+    },
+    {
+      "requirement_id": "S4-GUARD-04",
+      "verdict": "NOT RUN"
+    },
+    {
+      "requirement_id": "S4-GUARD-05",
+      "verdict": "NOT RUN"
+    },
+    {
+      "requirement_id": "S4-GUARD-06",
+      "verdict": "NOT RUN"
+    },
+    {
+      "requirement_id": "S4-GUARD-07",
+      "verdict": "NOT RUN"
+    },
+    {
+      "requirement_id": "S4-GUARD-08",
+      "verdict": "NOT RUN"
+    },
+    {
+      "requirement_id": "S4-GUARD-09",
+      "verdict": "NOT RUN"
+    },
+    {
+      "requirement_id": "UNIVERSAL-01",
+      "verdict": "NOT RUN"
+    },
+    {
+      "requirement_id": "UNIVERSAL-02",
+      "verdict": "NOT RUN"
+    },
+    {
+      "requirement_id": "UNIVERSAL-03",
+      "verdict": "NOT RUN"
+    },
+    {
+      "requirement_id": "UNIVERSAL-04",
+      "verdict": "NOT RUN"
+    },
+    {
+      "requirement_id": "UNIVERSAL-05",
+      "verdict": "NOT RUN"
+    },
+    {
+      "requirement_id": "UNIVERSAL-06",
+      "verdict": "NOT RUN"
+    },
+    {
+      "requirement_id": "UNIVERSAL-07",
+      "verdict": "NOT RUN"
+    },
+    {
+      "requirement_id": "HANDOVER-ORIGINAL-S4",
+      "verdict": "NOT RUN"
+    }
+  ],
+  "stage_gate_passed": false,
+  "scientific_acceptance": "NOT ESTABLISHED by this structural validator. Inspect/recompute evidence and independent review; file/hash/schema success is insufficient.",
+  "researcher_approval_granted": false
+}

@@ -29,5 +29,10 @@
   "report": "stage4_2026-11-09/STAGE4_REDO_CHECKPOINT_REPORT.txt",
   "delivery_status": "stage4_2026-11-09/DELIVERY_STATUS.txt",
   "output_manifest_sha256": "75ae90cf7f8917f1d78111b1be0703e4f33ebdfa86529172c617f9c75f0e86ab",
-  "previous_stage4_preserved": "stage4_2026-11-06"
+  "previous_stage4_preserved": "stage4_2026-11-06",
+  "output_acceptance_checklist": "research_workflow/acceptance_2026-11-09/BTP_BTP2_STAGES4_9_ACCEPTANCE_CHECKLIST.txt",
+  "acceptance_register": "research_workflow/acceptance_2026-11-09/acceptance_register.csv",
+  "acceptance_stage_mapping": "research_workflow/acceptance_2026-11-09/requirement_stage_mapping.csv",
+  "new_checklist_review_status": "NOT RUN; previous verified Stage4 scope preserved",
+  "new_checklist_approval_inferred": false
 }

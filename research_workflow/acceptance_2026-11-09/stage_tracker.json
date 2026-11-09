@@ -1,0 +1,62 @@
+{
+  "updated_at_with_timezone": "2026-11-09T17:39:28.477968+05:30",
+  "source": "Imported checklist plus existing retrieved original protocol and current evidence",
+  "stage_numbering": "Governing original nine-stage workflow",
+  "stages": [
+    {
+      "stage": 4,
+      "original_name": "Preprocessing, Integration and EDA",
+      "status": "VERIFIED WITH LIMITATIONS",
+      "basis": "Existing Stage4 redo independent receipts; new checklist item verdicts NOT RUN",
+      "new_checklist_gate": "NOT RUN",
+      "researcher_accepted": false,
+      "next_action": "Review applicable requirement IDs against actual evidence"
+    },
+    {
+      "stage": 5,
+      "original_name": "Stationarity, Structural Breaks and Statistical Properties",
+      "status": "NOT STARTED",
+      "basis": "No execution or acceptance claimed",
+      "new_checklist_gate": "NOT RUN",
+      "researcher_accepted": false,
+      "next_action": "Await preceding stage acceptance and evidence feasibility"
+    },
+    {
+      "stage": 6,
+      "original_name": "Model Identification and Experimental Design",
+      "status": "NOT STARTED",
+      "basis": "No execution or acceptance claimed",
+      "new_checklist_gate": "NOT RUN",
+      "researcher_accepted": false,
+      "next_action": "Await preceding stage acceptance and evidence feasibility"
+    },
+    {
+      "stage": 7,
+      "original_name": "Model Estimation and Diagnostics",
+      "status": "NOT STARTED",
+      "basis": "No execution or acceptance claimed",
+      "new_checklist_gate": "NOT RUN",
+      "researcher_accepted": false,
+      "next_action": "Await preceding stage acceptance and evidence feasibility"
+    },
+    {
+      "stage": 8,
+      "original_name": "Forecasting and Hypothesis Testing",
+      "status": "NOT STARTED",
+      "basis": "No execution or acceptance claimed",
+      "new_checklist_gate": "NOT RUN",
+      "researcher_accepted": false,
+      "next_action": "Await preceding stage acceptance and evidence feasibility"
+    },
+    {
+      "stage": 9,
+      "original_name": "Interpretation, Scenarios and Research Paper",
+      "status": "NOT STARTED",
+      "basis": "No execution or acceptance claimed",
+      "new_checklist_gate": "NOT RUN",
+      "researcher_accepted": false,
+      "next_action": "Await preceding stage acceptance and evidence feasibility"
+    }
+  ],
+  "no_automatic_stage_advancement": true
+}

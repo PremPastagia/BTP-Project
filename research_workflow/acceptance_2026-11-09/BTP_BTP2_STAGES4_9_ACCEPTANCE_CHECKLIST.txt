@@ -1,0 +1,315 @@
+# BTP → BTP2: Stages 4–9 handover and output acceptance checklist
+
+Prepared: 9 November 2026 (Asia/Calcutta).
+
+Project: **Forecasting Retail CNG Prices Across Indian Cities Using Statistical and Machine Learning Models**.
+
+Purpose: give the receiving GPT a durable specification for continuing the study and checking its actual outputs. This is an execution and verification contract, not a certificate that the research is complete.
+
+## 1. Instructions to the receiving GPT
+
+Read this file alongside your existing BTP2 instructions and accessible project artifacts. Reconcile both projects before changing data or advancing the research. Preserve earlier confirmed decisions; record conflicts rather than silently resolving them in favor of this document.
+
+The stage numbering below is the operational mapping supplied in this chat. An explicit earlier nine-stage agreement was not located in the inspected files. If BTP2 holds that agreement, preserve its labels and map every requirement here to it.
+
+Work through the requirements, produce concrete artifacts, open the generated outputs, and compare their content against the acceptance checks. Do not mark work complete because a script exists, runs successfully, or prints PASS. Validate the scientific meaning of what it checks.
+
+Proceed with routine reversible work within the research scope. Ask only for missing information or consequential decisions that cannot be resolved from evidence. Missing optional sources need not block a smaller defensible experiment. Missing target evidence or historical availability must block any experiment that depends on it.
+
+Do not claim access to another ChatGPT project's files or conversations unless they are actually available. If needed, request a specific archive or artifact. Do not claim execution when you can only supply code.
+
+## 2. Current state and correction to the earlier chat prompt
+
+The earlier prompt described mainly the older `BTP_CNG_Data/` collection. A subsequent inspection found a newer collection and a Stage 4 first pass. **Use this updated inventory when reconciling current status. Do not restart Stage 4 automatically or treat the old dataset as the authoritative input.**
+
+The files and reports below were read during this handover. Historical verification receipts are inherited evidence; their checks were not rerun for this document. All reported counts must be recomputed before being used in final research claims.
+
+| Workstream | Observed files / reported state | What this does and does not establish |
+|---|---|---|
+| Older Stage 3 | `BTP_CNG_Data/STAGE3_PROGRESS.md` claims frozen completion; 1,503 city-month rows across 10 cities, 799 disclosure metadata records, 10 news records | Historical status claim; does not certify every value or publication timestamp. Some early prices are unverified or constructed. |
+| Fresh Stage 3 | `BTP_CNG_Fresh_2026-11-06/README.md` and `STAGE3_PROGRESS.md`; README says Stage 3 remains open | Separate collection with source and access gaps. Do not conflate its counts or geography with the older collection. |
+| New-only acquisition delta | `BTP_CNG_Fresh_2026-11-06/NEW_DATA_REPORT.md` and `new_data/` | Novelty relative to a pinned GitHub baseline; not necessarily the complete history needed for modeling. |
+| Stage 4 first pass | `BTP_CNG_Fresh_2026-11-06/stage4/STAGE4_REPORT.md`, `README.md`, `GATES.md`, processed data, audits and figures exist | Reported preprocessing/EDA delivered; historical gates record passes. Modeling readiness explicitly not established. |
+| Stages 5–9 | No completion established in this handover | Inspect BTP2's own evidence before assigning a status. Do not infer that no such work exists elsewhere. |
+
+### Fresh Stage 4 findings to verify
+
+- Collection cutoff: 6 November 2026; latest complete target month: October 2026.
+- 26 **operator-defined markets**, 2,124 calendar market-months, 1,726 complete TWAP targets, and 1,901 supported month-end targets.
+- Six markets reportedly meet a screening rule of at least 60 consecutive complete TWAP months. This is an exploratory screen, not a final market selection.
+- 41,565 of 41,756 native-frequency numerical rows reportedly lack documented historical release dates.
+- 187 of 187 corporate documents reportedly lack publication dates. Reporting periods and letter dates do not establish public availability.
+- Ten dated news records are a small collected sample, not exhaustive news coverage.
+- Targets are retrospective source-based reconstructions with incomplete independent certification.
+- No historically valid full predictor matrix has yet been established by that report.
+- The report says no stationarity tests, model fitting, sentiment modeling, or forecasting were performed in that first pass.
+
+Do not equate a city, municipality, district, geographical area (GA), or combined operator market. Keep `market_id` and source geography. Do not rename the 26-market collection as a ten-city balanced panel.
+
+### Principal entry points
+
+Paths are relative to the BTP repository root; transfer their referenced dependencies if moving projects.
+
+1. `BTP_CNG_Fresh_2026-11-06/README.md`
+2. `BTP_CNG_Fresh_2026-11-06/metadata/data_quality_report.md`
+3. `BTP_CNG_Fresh_2026-11-06/stage4/README.md`
+4. `BTP_CNG_Fresh_2026-11-06/stage4/STAGE4_REPORT.md`
+5. `BTP_CNG_Fresh_2026-11-06/stage4/GATES.md`
+6. `BTP_CNG_Fresh_2026-11-06/stage4/input_manifest.json`
+7. `BTP_CNG_Fresh_2026-11-06/stage4/processed/`
+8. `BTP_CNG_Fresh_2026-11-06/stage4/audits/`
+9. `BTP_CNG_Data/STAGE3_PROGRESS.md` and its metadata, for historical comparison.
+10. `research_workflow/README.md` and `reproducibility_checklist.md`.
+
+The fresh README reports that its top-level directory is ignored by Git. A repository link alone may not transfer these local artifacts. Verify file availability and hashes in BTP2.
+
+## 3. Fixed research intent and decisions still to resolve
+
+Targets: month-end retail CNG price and full-calendar-month TWAP, both in INR/kg. Forecast horizons: 1, 3, and 6 months.
+
+H1 concerns numerical predictive models. H2 concerns incremental predictive value from news and corporate text over matched numerical models. Neither implies causality.
+
+Resolve and record before model selection:
+
+- Original ten-city scope versus a supported subset or expanded operator-market scope.
+- Primary target, primary horizon/aggregate, and secondary comparisons; retain separate results for both targets and all requested horizons where feasible.
+- Main-sample provenance threshold and treatment of uncertain historical targets.
+- Historical information assumptions: genuinely as-of backtest versus explicitly retrospective current-vintage experiment.
+- Eligible markets and minimum history, based on feasible training/validation/testing windows.
+- Forecast origin timing and whether information released on that date is available before the forecast is issued.
+- Final-test dates and whether previous exploration has already exposed their outcomes.
+
+If a planned analysis is infeasible, document the reason and scope revision. Do not silently omit a requested target, horizon, market, or hypothesis.
+
+## 4. Evidence and status rules for every stage
+
+Statuses: `NOT STARTED`, `IN PROGRESS`, `BLOCKED`, `DELIVERED / NOT VERIFIED`, `VERIFIED WITH LIMITATIONS`, `COMPLETE`.
+
+An unchecked box below is a requirement awaiting verification, not a claim that the work was never done. Mark it only after recording its evidence. Mark a requirement `N/A` only with a rationale and impact statement. Unresolved critical requirements prevent COMPLETE; optional exclusions with disclosed limits may permit completion of a reduced scope.
+
+Maintain one acceptance register with these fields:
+
+```text
+requirement_id, stage, expected_output, actual_artifact_path,
+artifact_sha256, check_method, executed_at_with_timezone, run_id,
+expected_result, observed_result, verdict, severity,
+limitations, corrective_action, evidence_path
+```
+
+Allowed verdicts: `PASS`, `FAIL`, `NOT RUN`, `BLOCKED`, `N/A WITH REASON`. Do not prepopulate successful results. Separate automated checks from manual scientific review. A placeholder table, empty output, or all-missing matrix is not a successful analytical deliverable.
+
+For every output verify: it exists, opens, has the required schema, contains meaningful eligible data, agrees with its generating inputs, and is accurately represented in the report. File hashes establish identity, not factual truth.
+
+## 5. Stage 4 — Data reconciliation, preprocessing and EDA
+
+**Outcome:** traceable, conservatively reconstructed analytical data and an explicit readiness assessment.
+
+### Expected outputs and cross-checks
+
+| ID | Expected output | Compare the generated output against |
+|---|---|---|
+| S4-01 | Cross-project inventory and reconciliation table | Source identities, duplicate/overlap rules, versions, units, geography and row counts in both projects; choose inputs explicitly. |
+| S4-02 | Immutable-input manifest | Every used source exists and matches its hash; originals remain unchanged; source locators reach supporting rows/pages. |
+| S4-03 | Harmonized observations and supported intervals | Preserve source ordering, date precision and conflicts. Unknown rows/cells interrupt support. Uncertain effective dates remain bounded. |
+| S4-04 | Monthly target panel | Independently reconstruct supported calendar days. TWAP requires all days covered consistently; month-end needs support on the actual final day. Missingness stays explicit. |
+| S4-05 | Coverage and market eligibility tables | Recompute counts by market/target, start/end dates, missing months and longest consecutive run. Separate calendar rows from nonmissing targets. |
+| S4-06 | Native-frequency predictor table and timing audit | Preserve units, frequency, geography, vintage and provisional status; no invented monthly GDP or annual-to-monthly interpolation. |
+| S4-07 | Text availability audit | Match metadata to actual bodies/PDFs, content hashes, deduplication and verified public timestamps; distinguish unknown dates from absent events. |
+| S4-08 | EDA tables, figures, dictionary and transformation log | Recompute report statistics; labels, units, sample denominators and exclusions agree with saved tables; figures open and render legibly. |
+| S4-09 | Stage report and unresolved-issue register | Accurately distinguish first-pass preprocessing delivery from historical availability and modeling readiness. |
+
+### Required safeguards
+
+- [ ] No quarantined synthetic VAHAN series or undocumented target backfill enters the analysis.
+- [ ] Sparse revision archives are not treated as proof of continuous unchanged prices.
+- [ ] No extrapolation beyond the last supported interval without justified evidence and an explicit rule.
+- [ ] No double counting overlapping acquisition exports as unique observations.
+- [ ] Annual/quarterly native values remain identifiable; later as-of holding requires justified publication/vintage evidence.
+- [ ] FX monthly means use observed quotes with clear units and definitions; missing trading dates are handled transparently.
+- [ ] Unknown release dates remain unknown; retrieval dates are never backdated.
+- [ ] Imputation/scaling parameters intended for prediction are not learned using validation/test rows.
+- [ ] Full-sample EDA exposure is recorded before claiming a final untouched test.
+
+### Existing verification commands
+
+Run from the repository root after checking the scripts and dependencies. These are documented commands, **not new execution receipts**:
+
+```powershell
+python -X utf8 BTP_CNG_Fresh_2026-11-06/stage4/scripts/verify.py provenance
+python -X utf8 BTP_CNG_Fresh_2026-11-06/stage4/scripts/verify.py targets
+python -X utf8 BTP_CNG_Fresh_2026-11-06/stage4/scripts/verify.py predictors
+python -X utf8 BTP_CNG_Fresh_2026-11-06/stage4/scripts/verify.py report
+```
+
+Expected markers: `PROVENANCE_VERIFIED`, `TARGETS_VERIFIED`, `PREDICTORS_VERIFIED`, `REPORT_VERIFIED`, respectively, with exit code zero. Read what the verifiers actually assert; passing does not independently certify source truth or historical vintages. Rebuild only if needed with `python -X utf8 BTP_CNG_Fresh_2026-11-06/stage4/scripts/run_stage4.py`.
+
+**Completion gate:** inputs, target support, exclusions, transformations and coverage are reproducible. Record remaining modeling blockers separately. A completed preprocessing scope does not automatically make every predictor eligible.
+
+## 6. Stage 5 — Forecasting design and feature specification
+
+**Outcome:** a frozen, executable experiment design before final-test inspection.
+
+| ID | Expected output | Compare the generated output against |
+|---|---|---|
+| S5-01 | Dated experiment specification and decision log | Research scope, targets, horizons, eligibility, hypotheses, metrics, model families and primary comparisons are explicit. |
+| S5-02 | Split/origin manifest | Common calendar origins, chronological folds, final holdout and feasible history per market; no random panel-row split. |
+| S5-03 | Label alignment table | Each origin maps to t+1/t+3/t+6 as defined. Every training label was already observable at that origin; purge unavailable multi-step labels. |
+| S5-04 | Feature dictionary and as-of availability matrix | Every feature has construction, units, lookback, source, release rule, vintage qualification and eligible origins. Missing dates are not replaced by an assumed universal one-month lag. |
+| S5-05 | Fold-specific feature pipeline | Transformations fit on training only; lags and rolling windows exclude unavailable values; prelagged fields are not accidentally lagged twice. |
+| S5-06 | Leakage-check results | Every used predictor/text publication time is no later than forecast issuance; future covariates are origin-known, separately forecast or labeled scenarios. |
+| S5-07 | Metrics and inference plan | MAE/RMSE, valid MASE scaling, market aggregation, interval metrics if used, uncertainty and multiplicity rules are fixed. |
+| S5-08 | Final-test access record | Record any prior exposure. If a pristine holdout is unavailable, disclose it and choose a defensible alternative without claiming untouched evaluation. |
+
+- [ ] Current revised macro data are not represented as historically available original vintages.
+- [ ] Unknown publication dates cause exclusion from strict as-of features, or a separately labeled sensitivity experiment.
+- [ ] Markets with short histories have a feasible documented evaluation policy.
+- [ ] Stationarity/break diagnostics affecting models are fit within development/training data; differencing is justified per model.
+- [ ] A price-only experiment can proceed when valid, while external/text experiments remain blocked.
+
+**Completion gate:** a complete origin-to-target-to-feature audit is possible for every planned prediction; no critical availability assumption is hidden.
+
+## 7. Stage 6 — Baseline forecasting
+
+**Outcome:** reproducible reference performance against which complexity is judged.
+
+| ID | Expected output | Compare the generated output against |
+|---|---|---|
+| S6-01 | Baseline configurations and code | Persistence, seasonal naive where feasible, drift and justified statistical baselines; simple regularized regression where inputs permit. |
+| S6-02 | Prediction ledger | One row per run/model/market/target/origin/horizon, actual target date, training cutoff, prediction, actual, eligibility and optional bounds. No duplicate keys. |
+| S6-03 | Baseline metric tables | Recalculate from saved predictions on identical eligible origins. Missing predictions and failed fits remain visible. |
+| S6-04 | Scaling and aggregation audit | MASE scale comes only from the relevant training sample; constant-series zero denominators are flagged. Define equal-market versus observation-weighted summaries. |
+| S6-05 | Diagnostics and report | Explain persistence performance for stepwise prices, sample sizes, statistical-model failures and limitations. |
+
+- [ ] Seasonal methods use enough historical cycles and a disclosed seasonal period.
+- [ ] Dynamic regression does not receive realized future predictors.
+- [ ] Both targets and all feasible requested horizons are evaluated separately.
+- [ ] Error formulas, INR/kg units and evaluation denominators match the report.
+
+**Completion gate:** metrics can be recomputed from prediction files and all model comparisons use fair samples.
+
+## 8. Stage 7 — Numerical models and text augmentation
+
+**Outcome:** justified model development and controlled tests of incremental text value.
+
+| ID | Expected output | Compare the generated output against |
+|---|---|---|
+| S7-01 | Candidate and tuning register | Small justified model set, fixed budgets, seeds, versions and chronological development folds; no final-test-driven tuning. |
+| S7-02 | Numerical-model runs and predictions | Same forecast information and eligible comparisons as baselines; development results recompute from saved outputs. |
+| S7-03 | Text corpus/extraction manifest | Actual extractable bodies, deduplication, timestamps, operator-to-market mapping, OCR quality and corpus coverage support the claimed sample. |
+| S7-04 | Text feature specification | Label orientation, aggregation, missingness and pretrained model/version are recorded. Positive supplier margins are not automatically positive consumer outcomes. |
+| S7-05 | Matched H2 ablation | Numerical-only versus the same numerical model plus text, same origins, sample, tuning policy and comparable budgets; report sample-restriction effects separately. |
+| S7-06 | Model-selection record | Development criterion, selected specification and failure/negative-run history; simpler tied models remain credible choices. |
+
+- [ ] Document count is not substituted for full-text availability.
+- [ ] Missing coverage is not coded as zero news/sentiment.
+- [ ] Retrospective articles, target-revealing future announcements and unknown-date filings do not enter historical features.
+- [ ] Pretrained text models with later knowledge have disclosed historical-simulation limitations.
+- [ ] High-capacity/deep models are optional and justified by independent time history, not just pooled row counts.
+- [ ] Text importance is not interpreted as causation.
+
+**Completion gate:** numerical comparisons are reproducible. H2 is either supported by a valid matched experiment or explicitly recorded as infeasible/exploratory with reasons. Do not force a superiority finding.
+
+## 9. Stage 8 — Final evaluation and robustness
+
+**Outcome:** an honest estimate of generalization with uncertainty and limitations.
+
+| ID | Expected output | Compare the generated output against |
+|---|---|---|
+| S8-01 | Frozen-model/configuration manifest | Hashes and dated selection record precede final scoring. Prespecified sequential refits use only origin-available history. |
+| S8-02 | Final prediction ledger and score tables | Recalculate every published result; common samples for paired comparisons; missing/failing cells and sample counts disclosed. |
+| S8-03 | Uncertainty/comparison results | Account for overlapping multi-step errors, temporal dependence and cross-market dependence; shared calendar-block resampling where justified. |
+| S8-04 | Robustness outputs | Provenance-restricted targets, period/market eligibility, missing predictors, current-vintage assumptions and text-coverage sensitivities are evaluated or explicitly limited. |
+| S8-05 | Error and interval analysis | Market/horizon/target breakdown, price-change versus unchanged periods where support permits, interval coverage and width if produced. |
+| S8-06 | H1/H2 interpretation and claim ledger | Each conclusion links to saved outputs and uncertainty; ties, negative findings and exploratory analyses are labeled. |
+
+- [ ] No winner is declared from a small point-estimate difference alone.
+- [ ] Multiple comparisons and limited effective sample sizes are addressed.
+- [ ] Robustness findings do not become undisclosed retuning on the final test.
+- [ ] Forecasting success is not asserted to prove a causal mechanism.
+- [ ] Any unavailable target/horizon/market comparison is explained.
+
+**Completion gate:** final claims survive artifact-to-metric recomputation and respect the actual historical-information regime.
+
+## 10. Stage 9 — Thesis and final reproducibility package
+
+**Outcome:** a reviewable submission and a practical independent reproduction route.
+
+| ID | Expected output | Compare the generated output against |
+|---|---|---|
+| S9-01 | Thesis/report | Abstract, introduction, literature, data, methods, validation, results, discussion, limitations, conclusion and appendices reflect executed work. |
+| S9-02 | Verified references | DOI/publisher metadata and source passages support statements; full-text versus abstract-only evidence is distinguished; reference formats agree. |
+| S9-03 | Final tables and figures | Values, units, labels, sample counts and model names match saved outputs; open/render final documents and inspect clipping, captions and readability. |
+| S9-04 | Reproduction bundle | Scripts, configs, dependencies, runtime versions, seeds, run IDs, input/output hashes, prediction files and documented entry points are included. |
+| S9-05 | Access and transfer manifest | Include locally ignored dependencies or explain access restrictions; source licenses, manual steps and unavailable proprietary inputs are documented. |
+| S9-06 | Independent reproduction receipt | Re-run the main pipeline in a clean supported environment or record the actual unverified/blocked dependency; define acceptable numerical tolerances. |
+| S9-07 | Submission checklist and end handover | Every mandatory requirement has a verdict and evidence, every claim traces to results, and remaining limitations are visible. |
+
+- [ ] No placeholders or fabricated results appear as completed empirical findings.
+- [ ] Headline conclusions agree with the primary prespecified comparison, including null findings.
+- [ ] Revised-vintage, sparse-text, geographic and provenance limits appear in the abstract/discussion where material.
+- [ ] Instructions reproduce outputs without hidden machine-specific absolute paths or secret credentials.
+- [ ] Final package opens successfully and its documented files are actually included.
+
+**Completion gate:** the submission is internally consistent, its evidence chain is inspectable, and reproduction claims are supported by execution or explicitly qualified.
+
+## 11. Universal output cross-check procedure
+
+For each stage, perform this sequence and save the evidence:
+
+1. **Enumerate:** list required artifacts and map to actual files; do not require duplicate filenames if equivalent existing outputs satisfy the requirement.
+2. **Inspect:** open outputs; check schema, keys, types, units, row counts, missingness, coverage and source/version identity.
+3. **Recompute:** independently calculate critical quantities from upstream evidence or prediction ledgers, rather than copying a report or reusing the same helper blindly.
+4. **Check boundaries:** inspect month-end, uncertain dates, missing periods, overlapping labels, earliest forecast origin, release-time edges and zero metric denominators.
+5. **Reconcile:** compare tables, figures, narrative claims, run logs and acceptance-register entries; explain every mismatch.
+6. **Repair:** fix the narrowest responsible step, regenerate affected downstream outputs, and rerun the checks invalidated by that change.
+7. **Sign off:** assign a status with evidence, scope and residual limitations. Preserve failed checks and superseded run identities.
+
+Never resolve a failed check merely by changing the expected result. If the requirement itself was wrong, record a dated design amendment and its implications.
+
+## 12. Stage tracker to populate in BTP2
+
+| Stage | Initial handover status | Evidence to inspect | Next action |
+|---|---|---|---|
+| 4 | DELIVERED / NOT VERIFIED in this handover | Fresh Stage 4 report, gates, manifests, processed data and audits | Reconcile BTP2 artifacts; rerun relevant checks; assess readiness gaps. |
+| 5 | NOT ESTABLISHED HERE | BTP2 design/split/feature artifacts, if present | Resolve scope and historical information regime; freeze design. |
+| 6 | NOT ESTABLISHED HERE | BTP2 runs and prediction ledgers, if present | Verify or execute fair baselines. |
+| 7 | NOT ESTABLISHED HERE | Numerical and text experiments, if present | Verify or execute justified development and H2 ablations. |
+| 8 | NOT ESTABLISHED HERE | Frozen configs, final predictions and inference | Perform or verify locked final evaluation. |
+| 9 | NOT ESTABLISHED HERE | Thesis and reproduction package | Assemble, inspect and reproduce the final submission. |
+
+## 13. Required end-of-stage handover record
+
+Copy and populate this structure after each stage. Replace placeholders with actual evidence; do not turn this blank template into a completion claim.
+
+```markdown
+### Stage [number]: [name]
+Updated: [timestamp and timezone]
+Status: [allowed status]
+Scope and decisions: [confirmed scope; decision-log references]
+Inputs: [paths, versions, hashes]
+Outputs: [actual artifact paths, run IDs, hashes]
+Checks executed: [requirement IDs, exact method/command, expected vs observed, evidence]
+Cross-checks: [recomputed quantities, report/figure reconciliation]
+Failed or unexecuted checks: [IDs, reasons, impact]
+Limitations and excluded analyses: [specific consequences]
+Changes since last handover: [what changed; invalidated downstream artifacts]
+Completion verdict: [which gate passed or remains open; why]
+Next action: [one concrete resumable task]
+Dependencies needed: [specific files, access or decision; owner if known]
+```
+
+## 14. Final handover checklist
+
+- [ ] All six stage records exist and distinguish executed, reported and unverified work.
+- [ ] All mandatory requirement IDs have evidence-backed verdicts.
+- [ ] Stage reports link actual deliverables, not intended filenames alone.
+- [ ] No critical data, timing or evaluation failure is hidden behind a general PASS.
+- [ ] Stage 3 gaps remain visible wherever they affect later claims.
+- [ ] Data/model versions and final-test exposure are documented.
+- [ ] Results trace from thesis claim → table/figure → metric → predictions → configuration → eligible inputs.
+- [ ] Final package contains the files BTP2 actually needs, including ignored local dependencies where permitted.
+- [ ] Remaining work is stated concretely; unfinished work is not relabeled completed.
+
+## 15. Resume instruction
+
+Read this document, your BTP2 context and the fresh Stage 4 entry points. Verify file availability first. Reconcile completed work, populate the acceptance register and tracker, then continue at the earliest unmet critical requirement. Preserve defensible completed work. Do not jump straight to modeling while target support, origin timing or predictor availability remains unresolved for the intended experiment.

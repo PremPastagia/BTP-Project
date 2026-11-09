@@ -6,6 +6,12 @@
 !/.gitignore
 !/README.md
 
+# Research acceptance contract and durable agent instructions
+!/AGENTS.md
+!/research_workflow/
+/research_workflow/*
+!/research_workflow/acceptance_2026-11-09/
+
 # Ignore legacy script in BTP_CNG_Data
 BTP_CNG_Data/scripts/process_global_benchmarks.py
 
