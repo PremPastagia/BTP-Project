@@ -1,0 +1,117 @@
+{
+  "version": "stage4-redo-2026-11-09-v1",
+  "primary": {
+    "calendar_rows": 1900,
+    "monthend": 424,
+    "twap": 416,
+    "conditional_bounds": 415
+  },
+  "auxiliary": {
+    "calendar_rows": 380,
+    "monthend": 128,
+    "twap": 125,
+    "conditional_bounds": 124
+  },
+  "primary_analysis_rows": 424,
+  "auxiliary_analysis_rows": 128,
+  "development": {
+    "calendar_rows": 1780,
+    "monthend": 394,
+    "twap": 386,
+    "conditional_bounds": 385
+  },
+  "reserved_coverage_only": {
+    "calendar_rows": 120,
+    "monthend": 30,
+    "twap": 30,
+    "conditional_bounds": 30
+  },
+  "per_city": {
+    "Delhi": {
+      "calendar_rows": 190,
+      "monthend": 177,
+      "twap": 173,
+      "conditional_bounds": 173
+    },
+    "Mumbai": {
+      "calendar_rows": 190,
+      "monthend": 0,
+      "twap": 0,
+      "conditional_bounds": 0
+    },
+    "Pune": {
+      "calendar_rows": 190,
+      "monthend": 0,
+      "twap": 0,
+      "conditional_bounds": 0
+    },
+    "Ahmedabad": {
+      "calendar_rows": 190,
+      "monthend": 0,
+      "twap": 0,
+      "conditional_bounds": 0
+    },
+    "Gurgaon": {
+      "calendar_rows": 190,
+      "monthend": 0,
+      "twap": 0,
+      "conditional_bounds": 0
+    },
+    "Noida": {
+      "calendar_rows": 190,
+      "monthend": 174,
+      "twap": 171,
+      "conditional_bounds": 171
+    },
+    "Lucknow": {
+      "calendar_rows": 190,
+      "monthend": 73,
+      "twap": 72,
+      "conditional_bounds": 71
+    },
+    "Kanpur": {
+      "calendar_rows": 190,
+      "monthend": 0,
+      "twap": 0,
+      "conditional_bounds": 0
+    },
+    "Hyderabad": {
+      "calendar_rows": 190,
+      "monthend": 0,
+      "twap": 0,
+      "conditional_bounds": 0
+    },
+    "Bengaluru": {
+      "calendar_rows": 190,
+      "monthend": 0,
+      "twap": 0,
+      "conditional_bounds": 0
+    },
+    "Agra": {
+      "calendar_rows": 190,
+      "monthend": 73,
+      "twap": 72,
+      "conditional_bounds": 71
+    },
+    "Unnao": {
+      "calendar_rows": 190,
+      "monthend": 55,
+      "twap": 53,
+      "conditional_bounds": 53
+    }
+  },
+  "distinct_primary_operators": 2,
+  "synthetic_observations": 0,
+  "no_imputation_scaling_or_outlier_deletion": true,
+  "stage5_started": false,
+  "environment": {
+    "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+    "platform": "macOS-27.2-arm64-arm-64bit"
+  },
+  "inherited_qualifications": [
+    "Day-end mean is qualified rather than an exact intraday integral",
+    "Reservation was chosen in earlier Stage4 and previous exposure has not been ruled out",
+    "No official interval path for seven intended cities; exclude their prices rather than fill",
+    "Original extraction/publication times stay unknown; snapshot hashing does not establish authenticity"
+  ]
+}

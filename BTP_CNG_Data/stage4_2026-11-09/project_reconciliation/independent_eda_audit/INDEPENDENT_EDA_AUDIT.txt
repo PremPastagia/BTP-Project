@@ -1,0 +1,14 @@
+INDEPENDENT STAGE 4 EDA AUDIT
+
+2412/2412 checks passed. Recomputed 6 summaries, 6 persistence records, all 759 adjacent-month changes, 54 retained Tukey flags and 12 matched-month correlations with NumPy/Pandas, independently of producer Decimal/statistics helpers.
+
+The 1,900-row calendar covers ten intended cities Jan2011–Oct2026. The development filter is applied to string rows before numeric conversion; 1,780 development calendar rows and 120 provisional-reservation rows. Seven unsupported cities contain no invented prices. Three supported core cities are Delhi, Noida and Lucknow; Agra and Unnao remain separate auxiliaries. Missing months break changes and plotted lines.
+
+Numerical reconciliation does not certify source truth or historical predictor publication availability.
+Only three of ten intended cities have accepted targets. Agra/Unnao are auxiliary and not silently counted as completing ten cities.
+Cities share two operators; common shocks and matched trends preclude independent-city or causal interpretations.
+Different target coverage creates unequal period means; unmatched ranges are not regional price premia.
+Tukey thresholds are descriptive flags, not rejection or significance tests.
+Reservation is provisional with documented prior-study exposure, not a pristine final test.
+
+No model fit, stationarity/break test, holdout performance, or causal claim was produced by this audit. Scope is Stage4; original nine-stage protocol remains governing.

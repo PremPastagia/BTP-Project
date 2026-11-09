@@ -1,0 +1,15 @@
+{
+  "timestamp_utc": "2026-11-09T11:35:15.502045+00:00",
+  "kind": "documented_evidence_and_portability_amendment",
+  "script_sha256": "c4e3366daf4d76a2d97d6f9654aef10c59d067f7314b0fdd96304d9a935a18f7",
+  "user_location_confirmation": "Relayed by root: user confirms /Users/virajvekariya/Desktop/[ME] BTP",
+  "original_analysis_specification_changed": false,
+  "numeric_results_changed": false,
+  "source_inventory_rerun": false,
+  "updates": [
+    "User identity corroboration",
+    "Historical local script replay warning and executed version preservation",
+    "Prior-study exposure date-only evidence",
+    "Independent EDA audit complete"
+  ]
+}

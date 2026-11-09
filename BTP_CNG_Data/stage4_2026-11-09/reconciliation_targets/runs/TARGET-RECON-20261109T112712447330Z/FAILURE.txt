@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/Users/virajvekariya/.codex/worktrees/stage3-consolidation/BTP/BTP_CNG_Data/stage4_2026-11-09/reconciliation_targets/reconcile_targets.py", line 185, in <module>
+    try:run()
+        ~~~^^
+  File "/Users/virajvekariya/.codex/worktrees/stage3-consolidation/BTP/BTP_CNG_Data/stage4_2026-11-09/reconciliation_targets/reconcile_targets.py", line 113, in run
+    assert (r['sample_period']=='reserved_2025-11_to_2026-10')==e['reserved'] or r['sample_period'] in ['reserved','development']
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError

@@ -1,0 +1,13 @@
+city_a,city_b,target,quantity,matched_months,pearson,first_month,last_month,interpretation
+Delhi,Noida,cng_price_monthend,level,165,0.9932249804109514433683537497,2011-01,2025-10,descriptive; common trends/operators; not predictive or causal evidence
+Delhi,Lucknow,cng_price_monthend,level,51,0.9884242224436121113162645917,2019-04,2025-10,descriptive; common trends/operators; not predictive or causal evidence
+Noida,Lucknow,cng_price_monthend,level,48,0.9945411383533785690322316751,2019-04,2025-10,descriptive; common trends/operators; not predictive or causal evidence
+Delhi,Noida,cng_price_monthend,change,161,0.9388713850353037556480366961,2011-02,2025-10,descriptive; common trends/operators; not predictive or causal evidence
+Delhi,Lucknow,cng_price_monthend,change,46,0.8866595090031463914806970335,2019-05,2025-10,descriptive; common trends/operators; not predictive or causal evidence
+Noida,Lucknow,cng_price_monthend,change,44,0.9181416931517028097274503958,2019-05,2025-10,descriptive; common trends/operators; not predictive or causal evidence
+Delhi,Noida,cng_price_twap,level,162,0.9930919217377597696128738489,2011-01,2025-10,descriptive; common trends/operators; not predictive or causal evidence
+Delhi,Lucknow,cng_price_twap,level,47,0.9895382317369252686625279604,2019-04,2025-10,descriptive; common trends/operators; not predictive or causal evidence
+Noida,Lucknow,cng_price_twap,level,45,0.9938968836827655680875931457,2019-04,2025-10,descriptive; common trends/operators; not predictive or causal evidence
+Delhi,Noida,cng_price_twap,change,158,0.9196803414052631538266636956,2011-02,2025-10,descriptive; common trends/operators; not predictive or causal evidence
+Delhi,Lucknow,cng_price_twap,change,43,0.8430106377304353528442696451,2019-05,2025-10,descriptive; common trends/operators; not predictive or causal evidence
+Noida,Lucknow,cng_price_twap,change,41,0.7144007499157399023553778090,2019-05,2025-10,descriptive; common trends/operators; not predictive or causal evidence

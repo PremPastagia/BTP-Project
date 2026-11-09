@@ -1,0 +1,6 @@
+identity,provider,project_id,kind,path,conclusion
+BTP 2,Codex list_projects,0bcf0e15-a3cc-4738-9ffe-f2f408add148,local,/Users/virajvekariya/Desktop/[ME] BTP,App project container for CNG research and multiple collection generations; not itself a Git root
+BTP,Codex list_projects,7217503d-7001-4068-b22d-8dd1139a5efa,local,/Users/virajvekariya/Desktop/BTP Project,Unrelated Cessna FlightAssessmentSim project; excluded after top-level documentation inspection
+BTP,Codex list_projects,g-p-ef17710206c08191816531d505e17f92,chatgpt,,"Project identity retrievable; ChatGPT history query returned no accessible threads, so project conversation contents were not inspected"
+current CNG worktree,current filesystem and read-only Git metadata,,git_worktree,/Users/virajvekariya/.codex/worktrees/stage3-consolidation/BTP,BTP repository worktree within BTP 2 research context; name alone does not prove a separate BTP2 collection
+legacy ten-city CNG collection,actual filesystem tables matching attachment counts,,scientific_artifact_collection,/Users/virajvekariya/Desktop/[ME] BTP/BTP/BTP_CNG_Data,"Accessible scientific counterpart of the 1503/2293/799 BTP handoff; status claims remain claims, not authenticity proof"

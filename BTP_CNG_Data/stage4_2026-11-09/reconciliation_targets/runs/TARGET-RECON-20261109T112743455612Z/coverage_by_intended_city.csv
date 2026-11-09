@@ -1,0 +1,11 @@
+city,intended_calendar_months,legacy_complete_claim_rows,accepted_monthend_rows,accepted_day_average_rows,accepted_development_monthend_rows,accepted_development_average_rows,disposition
+Delhi,190,181,177,173,168,164,primary_accepted_source_subset
+Mumbai,190,190,0,0,0,0,intended_city_missing_accepted_price_path_do_not_fill
+Pune,190,176,0,0,0,0,intended_city_missing_accepted_price_path_do_not_fill
+Ahmedabad,190,179,0,0,0,0,intended_city_missing_accepted_price_path_do_not_fill
+Gurgaon,190,177,0,0,0,0,intended_city_missing_accepted_price_path_do_not_fill
+Noida,190,178,174,171,165,162,primary_accepted_source_subset
+Lucknow,190,171,73,72,61,60,primary_accepted_source_subset
+Kanpur,190,60,0,0,0,0,intended_city_missing_accepted_price_path_do_not_fill
+Hyderabad,190,171,0,0,0,0,intended_city_missing_accepted_price_path_do_not_fill
+Bengaluru,190,20,0,0,0,0,intended_city_missing_accepted_price_path_do_not_fill

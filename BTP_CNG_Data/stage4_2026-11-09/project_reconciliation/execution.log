@@ -1,0 +1,48 @@
+{
+  "files": 1090,
+  "tables": 317,
+  "exact_copy_groups": 119,
+  "legacy_counts": [
+    {
+      "topic": "finalized city-month rows",
+      "actual": 1503
+    },
+    {
+      "topic": "discrete price observation records",
+      "actual": 2293
+    },
+    {
+      "topic": "revision table records including initial baselines",
+      "actual": 275
+    },
+    {
+      "topic": "external factor month rows",
+      "actual": 190
+    },
+    {
+      "topic": "corporate disclosure metadata rows",
+      "actual": 799
+    },
+    {
+      "topic": "news/policy records",
+      "actual": 10
+    },
+    {
+      "topic": "regulatory events",
+      "actual": 8
+    }
+  ],
+  "accepted_snapshot_hashes_passed": true,
+  "legacy_pubflags": {
+    "unverified_feed_proxy": 1503
+  },
+  "legacy_downloadflags": {
+    "False": 798,
+    "True": 1
+  },
+  "revision_types": {
+    "initial_baseline": 10,
+    "price_hike": 213,
+    "price_cut": 52
+  }
+}

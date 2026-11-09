@@ -1,0 +1,61 @@
+PROJECT IDENTITY AND SCIENTIFIC EVIDENCE RECONCILIATION
+2026-11-09T11:27:26.005195+00:00
+
+IDENTITY
+App BTP 2 is the Desktop/[ME] BTP container. The current directory is a Git worktree of its CNG BTP repository, not evidence of a separately named filesystem BTP2 repository.
+App-local BTP at Desktop/BTP Project is an unrelated Cessna flight simulator. It was excluded after a top-level documentation read; no Unity recursion was performed.
+ChatGPT BTP project identity exists, but its chat artifacts were not accessible through the history query. The CNG handoff counts can nevertheless be checked against the actual local legacy dataset.
+
+ACTUALLY ACCESSIBLE CNG GENERATIONS
+1. Initial top-level BTP_CNG_Data: partial 118 PNGRB source snapshots; not complete target histories.
+2. Nested BTP/BTP_CNG_Data: legacy ten-city collection matching the attachment counts.
+3. Nested fresh collection and Desktop recovered evidence: expanded source versions, not interchangeable independent observations.
+4. Current consolidated review candidate: corrected/reconciled source records and preserved scientific limits.
+5. Restricted accepted snapshot: 275 source intervals for Agra, Delhi, Lucknow, Noida, Unnao, two operators; unrestricted Stage 3 remains incomplete.
+6. Prior Stage 4: executed target/availability/EDA outputs and independent audit receipts; researcher acceptance of Stage 4 is recorded false, and Stage 5 has not started.
+
+MEASURED LEGACY EVIDENCE
+finalized city-month rows: reported 1503, actual 1503, count match=True
+discrete price observation records: reported 2293, actual 2293, count match=True
+revision table records including initial baselines: reported 275, actual 275, count match=True
+external factor month rows: reported 190, actual 190, count match=True
+corporate disclosure metadata rows: reported 799, actual 799, count match=True
+news/policy records: reported 10, actual 10, count match=True
+regulatory events: reported 8, actual 8, count match=True
+Legacy publication flags: {"unverified_feed_proxy": 1503}
+Legacy revision types: {"initial_baseline": 10, "price_hike": 213, "price_cut": 52}
+Legacy corporate download flags: {"False": 798, "True": 1}
+Nonmissing observed monthly VAHAN values: 0
+These counts verify file contents, not report assertions of authenticity or historical availability.
+
+COPY AND VERSION RECONCILIATION
+Files hashed: 1090; table files inspected: 317; exact-byte copy groups: 119.
+Legacy/current same-relative-path statuses: {"different_version_at_same_relative_path": 26, "absent_at_comparison_path": 9, "exact_copy": 18}
+See directory_reconciliation.csv for exact copies, differing versions and missing paths. Identical bytes do not represent independent evidence; differing versions must not be merged by filename alone.
+Raw object directories and already-local archives were not re-downloaded or redundantly rehashed by this inventory; their manifest/audit artifacts are inventoried.
+
+ACCEPTANCE AND PRIOR EXECUTION
+The actual accepted snapshot contains an explicit researcher answer accepting the restricted Stage3 scope and beginning Stage4. Its manifest hashes were independently checked: True.
+Reference numerical/text corpora in that snapshot are not blanket-approved historically available predictors. Unknown release dates remain ineligible without evidence or declared assumptions.
+The prior Stage4 completion state is supported by saved tables/scripts/checks, but those artifacts need reconciliation against this new brief rather than automatic acceptance. No Stage5 model or final-test result is demonstrated by the inspected status.
+
+WORKFLOW RECONCILIATION
+A saved finalized nine-stage protocol was retrieved. Its names are preserved in workflow_mapping.csv.
+The attachment Stage5 design/features tasks map mainly to original Stage6; original Stage5 stationarity/structural-break/statistical-properties work is retained.
+Attachment baseline execution maps across original Stage6 design, Stage7 estimation and Stage8 evaluation. No workflow renaming or invented prior agreement is required.
+
+DEPENDENCIES AND LIMITS
+No separate independent filesystem BTP2 corpus was found beyond the app container and its multiple CNG generations.
+ChatGPT BTP conversation contents are inaccessible via the queried history endpoint; no claim of reading them is made.
+An unrestricted ten-city empirical sample remains a scientific decision requiring defensible price paths; matching old row counts is insufficient.
+Corporate publication times, representative text coverage and actual monthly VAHAN observations remain distinct unresolved dependencies.
+Reserved final-test outcomes were not inspected for price statistics or model selection.
+All original files were preserved. No Git writes, collection replay or raw-archive download was performed.
+
+
+NOV9 DOCUMENTED AMENDMENT — 2026-11-09T11:35:15.502045+00:00
+User confirmation relayed by root in this turn identifies /Users/virajvekariya/Desktop/[ME] BTP as the missing collection location. This corroborates the provider BTP 2 path and nested legacy BTP collection; the unrelated Desktop/BTP Project flight simulator remains excluded.
+The matching number275 denotes different entities: legacy revision records include10initial baselines and265changes, whereas accepted275 source intervals are a separately reviewed restricted path. These counts are not additive or interchangeable. Same-path absence in directory_reconciliation.csv does not imply absence everywhere; exact_copy_groups.csv supplies bounded hash matches.
+All six research_workflow CSV templates have zero nonblank records; BackUp has saved result/figure/table artifacts and source code. Date-only reconstruction plus old source split and saved metadata support prior related-study evaluation Jul2021–Dec2025 (54months), overlapping provisional reservation Nov–Dec2025. Exact executed legacy input hashes are unavailable and current source mtimes postdate saved results; the historical run is not fully pinned. Executed2026evaluation remains unknown, although2026source dates exist. No old model was executed and no performance was used for selection. See evaluation_exposure.json.
+The original planned specification already labels prior exposure uncertain and is unchanged; this is newly discovered evidence, not a statistical definition change. No globally pristine final-test claim is justified.
+Inventory script is historical pinned-path local audit code, not a portable safe replay script. Exact executed version/hash preserved; no inventory rerun for this note. The new independent EDA audit separately passed2412checks with no producer helper imports.

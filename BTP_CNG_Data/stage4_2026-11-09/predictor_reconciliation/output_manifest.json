@@ -1,0 +1,182 @@
+[
+  {
+    "path": "PREDICTOR_RECONCILIATION_REPORT.txt",
+    "bytes": 12585,
+    "sha256": "c3b2bed17072361f76a96232b278df1a97459222c6d87eaec0a5ba144f5d7019"
+  },
+  {
+    "path": "artifact_accessibility.csv",
+    "bytes": 369,
+    "sha256": "6b50653ce4dd7def15aa4a5b9129429d9261568df58bf2512dabf870cc52594f"
+  },
+  {
+    "path": "audit_integrity_checks.json",
+    "bytes": 1562,
+    "sha256": "5ac91e1835bed203647346e3af205606ce1f7e1231b2b1e137d55ccbfa4be3e6"
+  },
+  {
+    "path": "audit_ppac_release_claims.py",
+    "bytes": 8170,
+    "sha256": "004f5d11577b997f8a5579d7238c08dbdd9c07cd1b513e80296614a8a8023ac1"
+  },
+  {
+    "path": "audit_predictors.py",
+    "bytes": 21228,
+    "sha256": "07d7dac43a72a2b610a946c34431fddd82c1f66e160550cce88b8b96f96e7908"
+  },
+  {
+    "path": "audit_results.json",
+    "bytes": 7302,
+    "sha256": "57f2350f2dbafd554a71c8e2d8d6ab00a2232ed8a16291373c58c21795ceadef"
+  },
+  {
+    "path": "audit_run.log",
+    "bytes": 1699,
+    "sha256": "8722762ba71226d19a542f775f1f80aad7929d18677ef79304ef91fbdec3b791"
+  },
+  {
+    "path": "core_availability_summary.json",
+    "bytes": 1370,
+    "sha256": "9e50cc9da2a5a53508f19bf3bd7d225d2e09a41397fac256782b8264eae4d9ca"
+  },
+  {
+    "path": "core_input_hashes.json",
+    "bytes": 893,
+    "sha256": "d5cdac05a62012e9f9916c7357da5ed14492ab6b459347ab012431f240d72144"
+  },
+  {
+    "path": "core_mapping_run.log",
+    "bytes": 1371,
+    "sha256": "77b15b3ee85ce1e5e55d55a000c97f91413ae374ca49468689fc65e3d07af937"
+  },
+  {
+    "path": "core_origin_availability.csv",
+    "bytes": 33113,
+    "sha256": "fa918142a1ca5d6afc65ab84e3b1ec0277e1edc2fc38c6fae1b46232fe71abd2"
+  },
+  {
+    "path": "corporate_reconciliation.csv",
+    "bytes": 183869,
+    "sha256": "559333c0f36ecc5e1f5ac46ec5fa0ed9737dfbeac2dd953c82b65070d8db02e4"
+  },
+  {
+    "path": "corpus_eligibility_dictionary.csv",
+    "bytes": 6920,
+    "sha256": "a80a8df12ed25754c951c3d8793ed3e6cbb4a2eff0c13e240c270d365a684eba"
+  },
+  {
+    "path": "exact_file_aliases.csv",
+    "bytes": 3901,
+    "sha256": "70ba3c6dbe213dfc7efc7471aa8a36c19f235763a1cd46708a8ca8bae92ddc05"
+  },
+  {
+    "path": "input_hashes.csv",
+    "bytes": 19477,
+    "sha256": "4c7c9238cf451530f4c938eefa7c7c6b9a8029a99530e5c38241d5875f6a9f5d"
+  },
+  {
+    "path": "legacy_construction_findings.json",
+    "bytes": 699,
+    "sha256": "68d754da8103f5489dfd173535470437ec2d4444873b8380ac7317a389582be1"
+  },
+  {
+    "path": "legacy_native_value_matches.csv",
+    "bytes": 3847154,
+    "sha256": "674244ea65ccd7f1c341f0e4fd175f8c9b808531d4ab79a40e0bb6f132828783"
+  },
+  {
+    "path": "native_corpus_eligibility_dictionary.csv",
+    "bytes": 63990,
+    "sha256": "fd2c3008d700751c204439101b99a4f17cc0546ed73347c1bc4b3b0e3ad79563"
+  },
+  {
+    "path": "native_variable_eligibility_dictionary.csv",
+    "bytes": 142033,
+    "sha256": "ee984601187cdfc630433583f9cde42d5bc57f981f93b4c7aaad682fd07c4e30"
+  },
+  {
+    "path": "news_reconciliation.csv",
+    "bytes": 2582,
+    "sha256": "8cbb8547c83c0d1c13ce334b5df570e36bcead00591223c102ba2460c3c5dbc8"
+  },
+  {
+    "path": "policy_reconciliation.csv",
+    "bytes": 10948,
+    "sha256": "6ebe92e6126432e09f8719c17cbb1c1a1e8d5c5a9e2056103e1c51a4515d2726"
+  },
+  {
+    "path": "ppac_audit_results.json",
+    "bytes": 872,
+    "sha256": "89179480af39187d1ab14cabe53598e80eafb12d50381570dd25c9ce64145aff"
+  },
+  {
+    "path": "ppac_input_hashes.csv",
+    "bytes": 9823,
+    "sha256": "303c4d1a01ade82bf6522112638817e22015c71cdf1fcf65bdf30760f20b7352"
+  },
+  {
+    "path": "ppac_native_release_claims.csv",
+    "bytes": 60151,
+    "sha256": "94e22870b36ae8ca6d8326a90b148ef7cdaae542f36f57eb04f7cef850e94e1e"
+  },
+  {
+    "path": "ppac_run.log",
+    "bytes": 873,
+    "sha256": "a0d6e131082849c2568801a1266f0de4f138b2c9f7598a18b5b14ab10bbabbde"
+  },
+  {
+    "path": "ppac_source_gaps.csv",
+    "bytes": 2156,
+    "sha256": "8ed414b0a321835f66c41cdd4b0abb0e127f7769f3003a628d7c88eb3f86fd33"
+  },
+  {
+    "path": "qualified_PPAC_core_reference.csv",
+    "bytes": 109607,
+    "sha256": "2b8daedf70ec831ffe2ae4efce39e340a179386fa8b6535aa72f23339f72ffec"
+  },
+  {
+    "path": "reconcile_core_availability.py",
+    "bytes": 8310,
+    "sha256": "450e35279e0b01a009806d010467155befeff090907eb4fa66fef64b563d1e6c"
+  },
+  {
+    "path": "registry/AMENDMENT_001_CORE_ORIGINS.json",
+    "bytes": 1009,
+    "sha256": "babeb292b8ccdec5d53fc340dda073e76e29de88c615c1b72af56a65cbc63cc2"
+  },
+  {
+    "path": "registry/EXECUTION_COMPLETION_001.json",
+    "bytes": 1260,
+    "sha256": "404da223924ad4e370bff250ec0baf8062ba6140f9aefedadc75c6630bd30562"
+  },
+  {
+    "path": "registry/S4-PRED-RECON-20261109-001.json",
+    "bytes": 1959,
+    "sha256": "ede8dbef7eec49a5cdab6c00badf7cc5e361d4eb39de772e8ea0c1b0481a86bc"
+  },
+  {
+    "path": "schema_inventory.csv",
+    "bytes": 32614,
+    "sha256": "0f9e191ed93aa2f0d78f488b698c52d035edd9c764486da4d2cd43af5ed97948"
+  },
+  {
+    "path": "source_transformation_evidence.csv",
+    "bytes": 11309,
+    "sha256": "5353bc12a5df1b6f31e3136788f2e25469c322294bb2db6fdaf6080f9379868f"
+  },
+  {
+    "path": "strict_core_asof_ledger.csv",
+    "bytes": 63089,
+    "sha256": "17b7a52aa44ed29280b665cc3fec7fdc67035db74341a1c2c6425a7e7db14389"
+  },
+  {
+    "path": "variable_eligibility_dictionary.csv",
+    "bytes": 76113,
+    "sha256": "f6344ab60f6eaddf047aef4e502d49ebbbee51dfee6499926aec24539982403d"
+  },
+  {
+    "path": "verify_audit_integrity.py",
+    "bytes": 4574,
+    "sha256": "15aaa51377fbaeec49966bf177265d0fb44ea3ede75b255c7c4947b58d163c23"
+  }
+]

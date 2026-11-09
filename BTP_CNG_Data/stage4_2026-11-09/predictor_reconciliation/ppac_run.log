@@ -1,0 +1,19 @@
+{
+  "executed_at_utc": "2026-11-09T11:33:48.897210+00:00",
+  "fresh_monthly_candidates_audited": 54,
+  "native_PDFs_checked": 29,
+  "official_listing_captures_checked": 8,
+  "passed_native_role_value_and_listing_interval_checks": 41,
+  "strict_historical_admissions": 0,
+  "qualified_exploration_release_claims": 40,
+  "qualified_variables": {
+    "notified_calculated_domestic_formula_price": 21,
+    "nomination_field_explicit_ceiling": 20
+  },
+  "first_qualified_effective_start": "2023-05-01",
+  "last_qualified_effective_end": "2025-12-31",
+  "no_fixed_lag_or_filling": true,
+  "no_models_or_statistical_tests": true,
+  "original_stage3_and_prior_stage4_unchanged": true,
+  "interpretation": "Potential exploratory H1 source material recovered at a qualified sensitivity tier only. No strict real-time archival-vintage proof or company-cost equivalence is claimed."
+}

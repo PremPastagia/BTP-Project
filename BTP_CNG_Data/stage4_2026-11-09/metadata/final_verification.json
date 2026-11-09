@@ -1,0 +1,68 @@
+{
+  "verified_at_utc": "2026-11-09T11:44:20.059197+00:00",
+  "all_passed": true,
+  "checks": [
+    {
+      "check": "accepted_snapshot_unchanged",
+      "files": 9,
+      "passed": true
+    },
+    {
+      "check": "previous_stage4_unchanged",
+      "files": 91,
+      "git_diff_empty": true,
+      "passed": true
+    },
+    {
+      "check": "accepted_price_raw_source_objects",
+      "objects": 2,
+      "passed": true
+    },
+    {
+      "check": "project_reconciliation_manifest",
+      "files": 25,
+      "passed": true
+    },
+    {
+      "check": "project_reconciliation/independent_eda_audit_manifest",
+      "files": 4,
+      "passed": true
+    },
+    {
+      "check": "predictor_reconciliation_manifest",
+      "files": 36,
+      "passed": true
+    },
+    {
+      "check": "independent_scientific_review_inputs_unchanged_or_permitted_append_only_links",
+      "files": 44,
+      "appended_metadata_links": {
+        "metadata/experiment_registry.jsonl": 6
+      },
+      "passed": true
+    },
+    {
+      "check": "master_journal_unique_ids_and_source_links",
+      "records": 19,
+      "passed": true
+    },
+    {
+      "check": "PPAC_raw_source_objects_unchanged",
+      "objects": 37,
+      "passed": true
+    },
+    {
+      "check": "horizon_coverage_calendar_alignment",
+      "rows": 60,
+      "passed": true
+    },
+    {
+      "check": "delivered_python_syntax",
+      "passed": true
+    }
+  ],
+  "independent_gate": "qualified_analytical_gate_passed",
+  "forecasting_ready": false,
+  "stage5_started": false,
+  "note": "Checksums establish artifact consistency; source/availability/scientific qualifications remain."
+}

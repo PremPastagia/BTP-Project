@@ -1,0 +1,30 @@
+{
+  "version": "stage4-redo-2026-11-09-v1",
+  "accepted_snapshot": "BTP_CNG_Data/accepted_stage3_2026-11-06_restricted_v1",
+  "previous_stage4": "BTP_CNG_Data/stage4_2026-11-06",
+  "envelope_start": "2011-01",
+  "envelope_end": "2026-10",
+  "primary_cities": [
+    "Delhi",
+    "Mumbai",
+    "Pune",
+    "Ahmedabad",
+    "Gurgaon",
+    "Noida",
+    "Lucknow",
+    "Kanpur",
+    "Hyderabad",
+    "Bengaluru"
+  ],
+  "auxiliary_markets": [
+    "Agra",
+    "Unnao"
+  ],
+  "reserved_start": "2025-11",
+  "reserved_end": "2026-10",
+  "reservation_status": "provisional; already retained from prior Stage4; prior exposure not ruled out; no pristine final-test claim",
+  "monthly_average": "calendar-day-weighted day-end quote mean; conditional on documented path; exact intraday integral not identified",
+  "source_eligibility": "Only accepted snapshot intervals. Broader legacy/proxy/constructed paths never promoted by numeric agreement.",
+  "publication_eligibility": "Only a documented publicly available source version at or before each origin; observation dates, extraction dates and arbitrary shifts do not suffice.",
+  "scope": "Redo Stage4 only. Retain original stage names and previous outputs. No model fit or formal Stage5 tests."
+}

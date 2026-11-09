@@ -1,0 +1,12 @@
+{
+  "registered_at_utc": "2026-11-09T11:31:32.368434+00:00",
+  "reason": "Root supplied fixed rebuilt primary analysis calendar and requested strict-ledger reconciliation. No predictor performance or target outcomes were examined to choose it.",
+  "new_input": "BTP_CNG_Data/stage4_2026-11-09/analysis/analysis_targets.csv",
+  "policy": [
+    "Read only market/month and partition flags from rebuilt analysis target CSV; never use numerical target values.",
+    "Subset prior validated release-constrained factor ledger to exact supplied primary market/month keys. Preserve previous source/version/publication status and input hash.",
+    "Keep PPAC official-listed-day proxy tier separate from strict historical source availability; no expired-interval holds, future backfill, or transfer into the strict ledger.",
+    "Retain native national factors as information references, not independent city measurements."
+  ],
+  "scope": "Stage4 audit and metadata integration only, no models or inferential tests"
+}

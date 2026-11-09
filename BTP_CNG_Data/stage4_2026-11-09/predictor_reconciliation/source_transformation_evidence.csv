@@ -1,0 +1,81 @@
+script,line,source_text,role
+02_extract_external_shocks.py,232,"release_date = f""{yr}-05-31"" if yr <= 2025 else f""{yr}-05-31""",source_code_evidence_not_executed
+02_extract_external_shocks.py,241,"""publication_release_date"": release_date,",source_code_evidence_not_executed
+02_extract_external_shocks.py,242,"""release_lag_days"": 151,  # Approx 5 months post calendar year end",source_code_evidence_not_executed
+02_extract_external_shocks.py,298,"pub_date = g_row[""publication_release_date""]",source_code_evidence_not_executed
+02_extract_external_shocks.py,323,"panel[""cpi_index_imf""] = panel[""cpi_index_imf""].ffill()",source_code_evidence_not_executed
+02_extract_external_shocks.py,324,"panel[""gpr_index""] = panel[""gpr_index""].ffill()",source_code_evidence_not_executed
+02_extract_external_shocks.py,325,"panel[""gprt_index""] = panel[""gprt_index""].ffill()",source_code_evidence_not_executed
+02_extract_external_shocks.py,326,"panel[""gpra_index""] = panel[""gpra_index""].ffill()",source_code_evidence_not_executed
+02_extract_external_shocks.py,327,"panel[""brent_crude_usd""] = panel[""brent_crude_usd""].ffill()",source_code_evidence_not_executed
+02_extract_external_shocks.py,328,"panel[""dubai_crude_usd""] = panel[""dubai_crude_usd""].ffill()",source_code_evidence_not_executed
+02_extract_external_shocks.py,329,"panel[""wti_crude_usd""] = panel[""wti_crude_usd""].ffill()",source_code_evidence_not_executed
+02_extract_external_shocks.py,330,"panel[""henry_hub_usd""] = panel[""henry_hub_usd""].ffill()",source_code_evidence_not_executed
+02_extract_external_shocks.py,331,"panel[""ttf_gas_usd""] = panel[""ttf_gas_usd""].ffill()",source_code_evidence_not_executed
+02_extract_external_shocks.py,332,"panel[""lng_japan_usd""] = panel[""lng_japan_usd""].ffill()",source_code_evidence_not_executed
+02_extract_external_shocks.py,333,"panel[""usd_inr_mean""] = panel[""usd_inr_mean""].ffill()",source_code_evidence_not_executed
+02_extract_external_shocks.py,334,"panel[""usd_inr_monthend""] = panel[""usd_inr_monthend""].ffill()",source_code_evidence_not_executed
+02_extract_external_shocks.py,337,"panel[""brent_crude_usd_lag1""] = panel[""brent_crude_usd""].shift(1)",source_code_evidence_not_executed
+02_extract_external_shocks.py,338,"panel[""henry_hub_usd_lag1""] = panel[""henry_hub_usd""].shift(1)",source_code_evidence_not_executed
+02_extract_external_shocks.py,339,"panel[""ttf_gas_usd_lag1""] = panel[""ttf_gas_usd""].shift(1)",source_code_evidence_not_executed
+02_extract_external_shocks.py,340,"panel[""lng_japan_usd_lag1""] = panel[""lng_japan_usd""].shift(1)",source_code_evidence_not_executed
+02_extract_external_shocks.py,341,"panel[""gpr_index_lag1""] = panel[""gpr_index""].shift(1)",source_code_evidence_not_executed
+02_extract_external_shocks.py,342,"panel[""cpi_index_lag1""] = panel[""cpi_index_imf""].shift(1)",source_code_evidence_not_executed
+02_extract_external_shocks.py,343,"panel[""usd_inr_mean_lag1""] = panel[""usd_inr_mean""].shift(1)",source_code_evidence_not_executed
+02_extract_external_shocks.py,350,"panel[""publication_release_date""] = (panel[""dt""] + pd.DateOffset(months=1, days=12)).dt.strftime(""%Y-%m-%d"")",source_code_evidence_not_executed
+03_extract_domestic_factors.py,53,"{""city"": ""Delhi"", ""slug"": ""delhi"", ""location_id"": 2, ""state"": ""Delhi NCR"", ""vat_history"": [(""2011-01-01"", 0.0)]},",source_code_evidence_not_executed
+03_extract_domestic_factors.py,54,"{""city"": ""Mumbai"", ""slug"": ""mumbai"", ""location_id"": 3, ""state"": ""Maharashtra"", ""vat_history"": [(""2011-01-01"", 13.5), (""2022-04-01"", 3.0)]},",source_code_evidence_not_executed
+03_extract_domestic_factors.py,55,"{""city"": ""Pune"", ""slug"": ""pune"", ""location_id"": 7, ""state"": ""Maharashtra"", ""vat_history"": [(""2011-01-01"", 13.5), (""2022-04-01"", 3.0)]},",source_code_evidence_not_executed
+03_extract_domestic_factors.py,56,"{""city"": ""Ahmedabad"", ""slug"": ""ahmedabad"", ""location_id"": 10, ""state"": ""Gujarat"", ""vat_history"": [(""2011-01-01"", 15.0)]},",source_code_evidence_not_executed
+03_extract_domestic_factors.py,57,"{""city"": ""Lucknow"", ""slug"": ""lucknow"", ""location_id"": 25, ""state"": ""Uttar Pradesh"", ""vat_history"": [(""2011-01-01"", 12.5)]},",source_code_evidence_not_executed
+03_extract_domestic_factors.py,58,"{""city"": ""Kanpur"", ""slug"": ""kanpur"", ""location_id"": 292, ""state"": ""Uttar Pradesh"", ""vat_history"": [(""2011-01-01"", 12.5)]},",source_code_evidence_not_executed
+03_extract_domestic_factors.py,59,"{""city"": ""Hyderabad"", ""slug"": ""hyderabad"", ""location_id"": 8, ""state"": ""Telangana"", ""vat_history"": [(""2011-01-01"", 14.5)]},",source_code_evidence_not_executed
+03_extract_domestic_factors.py,60,"{""city"": ""Bengaluru"", ""slug"": ""bengaluru"", ""location_id"": 6, ""state"": ""Karnataka"", ""vat_history"": [(""2011-01-01"", 14.0)]},",source_code_evidence_not_executed
+03_extract_domestic_factors.py,61,"{""city"": ""Noida"", ""slug"": ""noida"", ""location_id"": 38, ""state"": ""Uttar Pradesh"", ""vat_history"": [(""2011-01-01"", 12.5)]},",source_code_evidence_not_executed
+03_extract_domestic_factors.py,62,"{""city"": ""Gurgaon"", ""slug"": ""gurgaon"", ""location_id"": 40, ""state"": ""Haryana"", ""vat_history"": [(""2011-01-01"", 5.0)]}",source_code_evidence_not_executed
+03_extract_domestic_factors.py,89,"""publication_release_date"": ""2010-05-31"",",source_code_evidence_not_executed
+03_extract_domestic_factors.py,105,"""publication_release_date"": ""2014-10-25"",",source_code_evidence_not_executed
+03_extract_domestic_factors.py,121,"""publication_release_date"": ""2022-03-31"",",source_code_evidence_not_executed
+03_extract_domestic_factors.py,137,"""publication_release_date"": ""2022-11-30"",",source_code_evidence_not_executed
+03_extract_domestic_factors.py,153,"""publication_release_date"": ""2023-04-07"",",source_code_evidence_not_executed
+03_extract_domestic_factors.py,169,"""publication_release_date"": ""2024-08-10"",",source_code_evidence_not_executed
+03_extract_domestic_factors.py,185,"""publication_release_date"": ""2025-03-31"",",source_code_evidence_not_executed
+03_extract_domestic_factors.py,201,"""publication_release_date"": ""2026-03-31"",",source_code_evidence_not_executed
+03_extract_domestic_factors.py,335,"df_daily[""petrol_price""] = df_daily[""petrol_raw""].ffill()",source_code_evidence_not_executed
+03_extract_domestic_factors.py,342,"df_daily[""diesel_price""] = df_daily[""diesel_raw""].ffill()",source_code_evidence_not_executed
+03_extract_domestic_factors.py,437,"vat_history = city_meta[""vat_history""]",source_code_evidence_not_executed
+03_extract_domestic_factors.py,441,current_vat = vat_history[0][1],source_code_evidence_not_executed
+03_extract_domestic_factors.py,442,"for eff_dt, v in vat_history:",source_code_evidence_not_executed
+03_extract_domestic_factors.py,455,"merged[""petrol_price_lag1""] = merged[""petrol_price_monthend""].shift(1)",source_code_evidence_not_executed
+03_extract_domestic_factors.py,456,"merged[""diesel_price_lag1""] = merged[""diesel_price_monthend""].shift(1)",source_code_evidence_not_executed
+03_extract_domestic_factors.py,457,"merged[""apm_price_usd_lag1""] = merged[""notified_apm_nomination_price_usd""].shift(1)",source_code_evidence_not_executed
+04_ingest_disclosures_and_news.py,10,- Indexes local filing PDFs (e.g. IGL_Reduction_Domestic_Gas_Allocation_Nov2024.pdf),source_code_evidence_not_executed
+04_ingest_disclosures_and_news.py,102,"f""pageno=1&strCat=-1&strPrevDate={w_start}&strScrip={scrip}&strSearch=P&""",source_code_evidence_not_executed
+04_ingest_disclosures_and_news.py,115,"news_dt = item.get(""NEWS_DT"", """")",source_code_evidence_not_executed
+04_ingest_disclosures_and_news.py,131,"igl_pdf = os.path.join(DOCS_ANNUAL_DIR, ""IGL_Reduction_Domestic_Gas_Allocation_Nov2024.pdf"")",source_code_evidence_not_executed
+04_ingest_disclosures_and_news.py,178,"""publication_release_date"": obs_date,",source_code_evidence_not_executed
+04_ingest_disclosures_and_news.py,215,"""publication_release_date"": ""2023-04-06"",",source_code_evidence_not_executed
+04_ingest_disclosures_and_news.py,216,"""publication_timestamp"": ""2023-04-06T18:30:00+05:30"",",source_code_evidence_not_executed
+04_ingest_disclosures_and_news.py,229,"""publication_release_date"": ""2022-11-30"",",source_code_evidence_not_executed
+04_ingest_disclosures_and_news.py,230,"""publication_timestamp"": ""2022-11-30T17:15:00+05:30"",",source_code_evidence_not_executed
+04_ingest_disclosures_and_news.py,243,"""publication_release_date"": ""2022-03-31"",",source_code_evidence_not_executed
+04_ingest_disclosures_and_news.py,244,"""publication_timestamp"": ""2022-03-31T20:00:00+05:30"",",source_code_evidence_not_executed
+04_ingest_disclosures_and_news.py,257,"""publication_release_date"": ""2022-09-30"",",source_code_evidence_not_executed
+04_ingest_disclosures_and_news.py,258,"""publication_timestamp"": ""2022-09-30T18:00:00+05:30"",",source_code_evidence_not_executed
+04_ingest_disclosures_and_news.py,271,"""publication_release_date"": ""2024-10-17"",",source_code_evidence_not_executed
+04_ingest_disclosures_and_news.py,272,"""publication_timestamp"": ""2024-10-17T15:55:08+05:30"",",source_code_evidence_not_executed
+04_ingest_disclosures_and_news.py,285,"""publication_release_date"": ""2024-11-15"",",source_code_evidence_not_executed
+04_ingest_disclosures_and_news.py,286,"""publication_timestamp"": ""2024-11-15T12:33:30+05:30"",",source_code_evidence_not_executed
+04_ingest_disclosures_and_news.py,299,"""publication_release_date"": ""2024-08-10"",",source_code_evidence_not_executed
+04_ingest_disclosures_and_news.py,300,"""publication_timestamp"": ""2024-08-10T16:00:00+05:30"",",source_code_evidence_not_executed
+04_ingest_disclosures_and_news.py,313,"""publication_release_date"": ""2025-03-31"",",source_code_evidence_not_executed
+04_ingest_disclosures_and_news.py,314,"""publication_timestamp"": ""2025-03-31T18:00:00+05:30"",",source_code_evidence_not_executed
+04_ingest_disclosures_and_news.py,327,"""publication_release_date"": ""2026-03-31"",",source_code_evidence_not_executed
+04_ingest_disclosures_and_news.py,328,"""publication_timestamp"": ""2026-03-31T18:00:00+05:30"",",source_code_evidence_not_executed
+04_ingest_disclosures_and_news.py,341,"""publication_release_date"": ""2022-04-05"",",source_code_evidence_not_executed
+04_ingest_disclosures_and_news.py,342,"""publication_timestamp"": ""2022-04-05T06:00:00+05:30"",",source_code_evidence_not_executed
+04_ingest_disclosures_and_news.py,362,"""publication_release_date"": art[""publication_release_date""],",source_code_evidence_not_executed
+04_ingest_disclosures_and_news.py,363,"""publication_timestamp_verified"": art[""publication_timestamp""],",source_code_evidence_not_executed
+04_ingest_disclosures_and_news.py,374,"df_news = pd.DataFrame(records).sort_values(""publication_release_date"").reset_index(drop=True)",source_code_evidence_not_executed
+04_ingest_disclosures_and_news.py,392,"min_date = df_news[""publication_release_date""].min()",source_code_evidence_not_executed
+04_ingest_disclosures_and_news.py,393,"max_date = df_news[""publication_release_date""].max()",source_code_evidence_not_executed

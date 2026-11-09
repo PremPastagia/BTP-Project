@@ -1,0 +1,8 @@
+{
+  "timestamp_utc": "2026-11-09T11:35:15.502045+00:00",
+  "executed_inventory_script_sha256": "306903d4e06245e20394e1b94099f7d3129a3a7d0cea79d8d0446546c5a00928",
+  "executed_inventory_script_preserved_at": "logs/versions/reconcile_projects_executed_20261109.py",
+  "inventory_provenance_generated_at": "2026-11-09T11:27:26.005195+00:00",
+  "replay_warning": "Historical local audit with pinned absolute paths and overwrite behavior. Do not rerun in place; use a separate fresh output folder after adapting script. No portable replay claim.",
+  "inventory_rerun_for_amendment": false
+}

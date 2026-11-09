@@ -1,0 +1,33 @@
+{
+  "development_calendar_rows": 1780,
+  "reserved_calendar_rows": 120,
+  "development_monthend": 394,
+  "development_twap": 386,
+  "supported_primary_cities": [
+    "Delhi",
+    "Noida",
+    "Lucknow"
+  ],
+  "missing_primary_cities": [
+    "Mumbai",
+    "Pune",
+    "Ahmedabad",
+    "Gurgaon",
+    "Kanpur",
+    "Hyderabad",
+    "Bengaluru"
+  ],
+  "summary_rows": 6,
+  "correlation_rows": 12,
+  "change_rows": 759,
+  "flagged_rows": 54,
+  "no_reserved_target_numeric_conversion_for_eda": true,
+  "no_models_or_formal_tests": true,
+  "environment": {
+    "python": "3.13.9 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 19:11:29) [Clang 20.1.8 ]",
+    "platform": "macOS-27.2-arm64-arm-64bit-Mach-O",
+    "matplotlib": "3.10.6",
+    "numpy": "2.3.5"
+  },
+  "plotting_runtime_note": "Bundled Python lacks matplotlib; existing /opt/anaconda3/bin/python3 used, with package versions recorded."
+}

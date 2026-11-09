@@ -1,0 +1,173 @@
+
+
+<script>
+    //Minified version of below script
+    function FuelHikeChartAndData(span,parent){for(var locationId=parent.getAttribute("LocationId"),fuelId=parent.getAttribute("FuelId"),chartDiv=parent.parentElement.nextSibling.nextSibling,selectedFuels="",fuelTypeDiv=parent.getElementsByClassName("txtL")[0],chkBoxCount=fuelTypeDiv.getElementsByTagName("input"),i=0;i<chkBoxCount.length;i++)if(chkBoxCount[i].checked){selectedFuels+=chkBoxCount[i].value+"H";var checkbox=document.getElementById("CheckBoxList1_"+chkBoxCount[i].value);null!=checkbox&&(checkbox.checked=!0)}else{var checkbox=document.getElementById("CheckBoxList1_"+chkBoxCount[i].value);null!=checkbox&&(checkbox.checked=!1)}var hikeChartId=parent.id.replace("BC_",""),xmlhttp;xmlhttp=window.XMLHttpRequest?new XMLHttpRequest:new ActiveXObject("Microsoft.XMLHTTP"),xmlhttp.onreadystatechange=function(){4==xmlhttp.readyState&&200==xmlhttp.status&&(chartDiv.getElementsByClassName("loading")[0].innerHTML="",chartDiv.getElementsByClassName("ct-chart")[0].style.display="block",parent.parentElement.parentElement.parentElement.parentElement.parentElement.innerHTML=xmlhttp.response,eval(document.getElementById(hikeChartId.split("_")[0]+"_FuelHikeChart_runScript").innerHTML))};var url=document.location.href;if(chartDiv.getElementsByClassName("ct-chart")[0].style.display="none",chartDiv.getElementsByClassName("loading")[0].innerHTML='<img src="../../../Images/Loding.gif" />',null!=document.getElementById("CheckBoxList1")&&null!=document.getElementById("CheckBoxList1")){var webUrl=document.location.origin+"/FuelHistoryDataServing.aspx";xmlhttp.open("GET",webUrl+"?LocationId="+locationId+"&Span="+span+"&selectedFuels="+selectedFuels+"&HikeChartId="+hikeChartId.split("_")[0],!0),xmlhttp.send()}else{var fuelType=document.getElementById("HiddenFuelType").value,webUrl=document.location.origin+"/FuelHistoryDataServing.aspx";""==selectedFuels?xmlhttp.open("GET",webUrl+"?LocationId="+locationId+"&Span="+span+"&selectedFuels="+fuelType+"&HikeChartId="+hikeChartId.split("_")[0],!0):xmlhttp.open("GET",webUrl+"?LocationId="+locationId+"&Span="+span+"&selectedFuels="+selectedFuels+"&HikeChartId="+hikeChartId.split("_")[0],!0),xmlhttp.send()}}function checkBoxChanged(e){FuelHikeChartAndData(e.parentElement.getElementsByClassName("divSelected")[0].getAttribute("value"),e.parentElement)}function Drawchart(e,t){new Chartist.Line(e,{series:t},{showPoint:!1,lineSmooth:Chartist.Interpolation.cardinal({fillHoles:!0}),axisX:{type:Chartist.AutoScaleAxis,divisor:5,labelInterpolationFnc:function(e){function t(e){return e<10?"0"+e:e}var n=new Date(e);return[t(n.getDate()),t(n.getMonth()+1),n.getFullYear().toString().substr(-2)].join("-")}}})}
+
+    //UNCOMMENT THIS FOR MODIFICATIONS
+
+    //function FuelHikeChartAndData(span, parent) {
+    //    var locationId = parent.getAttribute("LocationId");
+    //    var fuelId = parent.getAttribute("FuelId");
+
+    //    var chartDiv = parent.parentElement.nextSibling.nextSibling;
+
+    //    var selectedFuels = "";
+    //    var fuelTypeDiv = parent.getElementsByClassName("txtL")[0];
+    //    var chkBoxCount = fuelTypeDiv.getElementsByTagName("input");
+
+    //    for (var i = 0; i < chkBoxCount.length; i++) {
+    //        if (chkBoxCount[i].checked) {
+    //            selectedFuels += chkBoxCount[i].value + "H";
+    //            var checkbox = document.getElementById("CheckBoxList1_" + chkBoxCount[i].value);
+    //            if (checkbox != null)
+    //                checkbox.checked = true;
+    //        } else {
+    //            var checkbox = document.getElementById("CheckBoxList1_" + chkBoxCount[i].value);
+    //            if (checkbox != null)
+    //                checkbox.checked = false;
+    //        }
+    //    }
+
+    //    var hikeChartId = parent.id.replace("BC_", "");
+    //    var xmlhttp;
+    //    if (window.XMLHttpRequest) {// code for IE7+, Firefox, Chrome, Opera, Safari
+    //        xmlhttp = new XMLHttpRequest();
+    //    }
+    //    else {// code for IE6, IE5
+    //        xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+    //    }
+    //    xmlhttp.onreadystatechange = function () {
+    //        if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+    //            chartDiv.getElementsByClassName("loading")[0].innerHTML = '';
+    //            chartDiv.getElementsByClassName("ct-chart")[0].style.display = 'block';
+    //            parent.parentElement.parentElement.parentElement.parentElement.parentElement.innerHTML = xmlhttp.response;
+    //            eval(document.getElementById(hikeChartId.split("_")[0] + "_FuelHikeChart_runScript").innerHTML);
+    //        }
+    //    }
+    //    var url = document.location.href;
+    //    chartDiv.getElementsByClassName("ct-chart")[0].style.display = 'none';
+    //    chartDiv.getElementsByClassName("loading")[0].innerHTML = '<img src="../../../Images/Loding.gif" />';
+    //    if (document.getElementById("CheckBoxList1") != undefined && document.getElementById("CheckBoxList1") != null) {
+    //        var webUrl = (document.location.origin) + "/FuelHistoryDataServing.aspx";
+    //        xmlhttp.open("GET", webUrl + "?LocationId=" + locationId + "&Span=" + span + "&selectedFuels=" + selectedFuels + "&HikeChartId=" + hikeChartId.split("_")[0], true);
+    //        xmlhttp.send();
+    //    }
+    //    else {
+    //        var fuelType = document.getElementById('HiddenFuelType').value;
+    //        var webUrl = (document.location.origin) + "/FuelHistoryDataServing.aspx";
+    //        if (selectedFuels == "")
+    //            xmlhttp.open("GET", webUrl + "?LocationId=" + locationId + "&Span=" + span + "&selectedFuels=" + fuelType + "&HikeChartId=" + hikeChartId.split("_")[0], true);
+    //        else
+    //            xmlhttp.open("GET", webUrl + "?LocationId=" + locationId + "&Span=" + span + "&selectedFuels=" + selectedFuels + "&HikeChartId=" + hikeChartId.split("_")[0], true);
+
+    //        xmlhttp.send();
+    //    }
+    //}
+
+    //function checkBoxChanged(parent) {
+    //    var divSelected = parent.parentElement.getElementsByClassName("divSelected")[0];
+    //    var span = divSelected.getAttribute("value");
+    //    FuelHikeChartAndData(span, parent.parentElement);
+    //}
+
+
+    //function Drawchart(parent, data) {
+    //    var charts = new Chartist.Line(parent,
+    //        { series: data },
+    //        {
+    //            showPoint: false,
+    //            lineSmooth: Chartist.Interpolation.cardinal({ fillHoles: true }),
+    //            axisX: {
+    //                type: Chartist.AutoScaleAxis, divisor: 5,
+    //                labelInterpolationFnc: function (value) {
+    //                    function pad(s) { return (s < 10) ? '0' + s : s; }
+    //                    var d = new Date(value);
+    //                    return [pad(d.getDate()), pad(d.getMonth() + 1), d.getFullYear().toString().substr(-2)].join('-');
+    //                }
+    //            },
+    //        });
+    //}
+</script>
+<input type="hidden" name="FuelHikeChartDetails$HiddenFuelType" id="HiddenFuelType" value="3" />
+<div class="eight columns txtC ML0IMP">
+    <div class="W100 BorderClass">
+        
+<div>
+    <div class="W100 txtC">
+        <div id="FuelHikeChartDetails_FuelHikeChart_SpanDiv" class="W100" LocationId="25" FuelId="3" HidePanel="True">
+            <div class="ChartDiv RBorder"><div id="FuelHikeChartDetails_FuelHikeChart_GraphOptionDiv1" class="InvertedButton" onclick="FuelHikeChartAndData(1,this.parentElement.parentElement);" value="1">1M</div></div>
+            <div class="ChartDiv RBorder"><div id="FuelHikeChartDetails_FuelHikeChart_GraphOptionDiv2" class="InvertedButton" onclick="FuelHikeChartAndData(3,this.parentElement.parentElement);" value="3">3M</div></div>
+            <div class="ChartDiv RBorder"><div id="FuelHikeChartDetails_FuelHikeChart_GraphOptionDiv3" class="InvertedButton" onclick="FuelHikeChartAndData(6,this.parentElement.parentElement);" value="6">6M</div></div>
+            <div class="ChartDiv RBorder"><div id="FuelHikeChartDetails_FuelHikeChart_GraphOptionDiv4" class="InvertedButton" onclick="FuelHikeChartAndData(12,this.parentElement.parentElement);" value="12">1Y</div></div>
+            <div class="ChartDiv"><div id="FuelHikeChartDetails_FuelHikeChart_GraphOptionDiv5" class="divSelected" onclick="FuelHikeChartAndData(1000,this.parentElement.parentElement);" value="120">All</div></div>
+            <div class="clearBoth"></div>
+            <div class="txtL">
+                <input name="FuelHikeChartDetails$FuelHikeChart$petrolCheckbox" type="checkbox" id="FuelHikeChartDetails_FuelHikeChart_petrolCheckbox" value="0" onchange="checkBoxChanged(this.parentElement)" aria-label="petrolCheckbox" /><span class="Fuellabel">Petrol</span>
+                <input name="FuelHikeChartDetails$FuelHikeChart$dieselCheckbox" type="checkbox" id="FuelHikeChartDetails_FuelHikeChart_dieselCheckbox" value="1" onchange="checkBoxChanged(this.parentElement)" aria-label="dieselCheckbox" /><span class="Fuellabel">Diesel</span>
+                <input name="FuelHikeChartDetails$FuelHikeChart$autoGasCheckbox" type="checkbox" id="FuelHikeChartDetails_FuelHikeChart_autoGasCheckbox" value="2" onchange="checkBoxChanged(this.parentElement)" aria-label="autoGasCheckbox" /><span class="Fuellabel">AutoGas</span>
+                <input name="FuelHikeChartDetails$FuelHikeChart$cngCheckbox" type="checkbox" id="FuelHikeChartDetails_FuelHikeChart_cngCheckbox" value="3" onchange="checkBoxChanged(this.parentElement)" aria-label="cngCheckbox" checked="checked" /><span class="Fuellabel">CNG</span>
+            </div>
+        </div>
+    </div>
+
+    <div id="ChartMainDiv">
+        <div class="loading"></div>
+        <div id="FuelHikeChartDetails_FuelHikeChart_mychart" class="ct-chart ct-perfect-fourth" data-chart="chart1"></div>
+    <script id="FuelHikeChartDetails_FuelHikeChart_runScript">Drawchart(document.getElementById('FuelHikeChartDetails_FuelHikeChart_mychart'),[{ className:'cngStroke',data:[{x:new Date('Jul 24 2012') ,y:39},{x:new Date('Aug 06 2012') ,y:42.14},{x:new Date('Jul 01 2013') ,y:46.93},{x:new Date('Sep 13 2013') ,y:53},{x:new Date('Apr 01 2019') ,y:61.05},{x:new Date('Aug 01 2019') ,y:63.55},{x:new Date('Apr 01 2020') ,y:62.5},{x:new Date('Jan 04 2021') ,y:60.95},{x:new Date('Aug 25 2021') ,y:63.45},{x:new Date('Oct 02 2021') ,y:68.1},{x:new Date('Apr 01 2022') ,y:80.8},{x:new Date('Oct 16 2022') ,y:97},{x:new Date('Dec 18 2022') ,y:98.96},{x:new Date('Apr 09 2023') ,y:93.96},{x:new Date('Feb 07 2025') ,y:96.75},{x:new Date('Dec 20 2025') ,y:96.75},{x:new Date('Dec 21 2025') ,y:96.75},{x:new Date('Jan 01 2026') ,y:96.75},{x:new Date('Jan 02 2026') ,y:96.75},{x:new Date('Jan 03 2026') ,y:96.75},{x:new Date('Jan 04 2026') ,y:96.75},{x:new Date('Jan 05 2026') ,y:96.75},{x:new Date('Jan 06 2026') ,y:96.75},{x:new Date('Jan 07 2026') ,y:96.75},{x:new Date('Jan 08 2026') ,y:96.75},{x:new Date('Jan 09 2026') ,y:96.75},{x:new Date('Jan 13 2026') ,y:96.75},{x:new Date('Jan 14 2026') ,y:96.75},{x:new Date('Jan 15 2026') ,y:96.75},{x:new Date('Jan 16 2026') ,y:96.75},{x:new Date('Jan 17 2026') ,y:96.75},{x:new Date('Jan 18 2026') ,y:96.75},{x:new Date('Jan 19 2026') ,y:96.75},{x:new Date('Jan 21 2026') ,y:96.75},{x:new Date('Jan 22 2026') ,y:96.75},{x:new Date('Jan 23 2026') ,y:96.75},{x:new Date('Jan 24 2026') ,y:96.75},{x:new Date('Jan 26 2026') ,y:96.75},{x:new Date('Jan 27 2026') ,y:96.75},{x:new Date('Jan 29 2026') ,y:96.75},{x:new Date('Jan 30 2026') ,y:96.75},{x:new Date('Jan 31 2026') ,y:96.75},{x:new Date('Feb 01 2026') ,y:96.75},{x:new Date('Feb 02 2026') ,y:96.75},{x:new Date('Feb 03 2026') ,y:96.75},{x:new Date('Feb 04 2026') ,y:96.75},{x:new Date('Feb 05 2026') ,y:96.75},{x:new Date('Feb 06 2026') ,y:96.75},{x:new Date('Feb 07 2026') ,y:96.75},{x:new Date('Feb 08 2026') ,y:96.75},{x:new Date('Feb 09 2026') ,y:96.75},{x:new Date('Feb 10 2026') ,y:96.75},{x:new Date('Feb 11 2026') ,y:96.75},{x:new Date('Feb 13 2026') ,y:96.75},{x:new Date('Feb 14 2026') ,y:96.75},{x:new Date('Feb 15 2026') ,y:96.75},{x:new Date('Feb 16 2026') ,y:96.75},{x:new Date('Feb 17 2026') ,y:96.75},{x:new Date('Feb 18 2026') ,y:96.75},{x:new Date('Feb 19 2026') ,y:96.75},{x:new Date('Feb 20 2026') ,y:96.75},{x:new Date('Feb 21 2026') ,y:96.75},{x:new Date('Feb 22 2026') ,y:96.75},{x:new Date('Feb 24 2026') ,y:96.75},{x:new Date('Feb 25 2026') ,y:96.75},{x:new Date('Mar 02 2026') ,y:96.75},{x:new Date('Mar 04 2026') ,y:96.75},{x:new Date('Mar 05 2026') ,y:96.75},{x:new Date('Mar 07 2026') ,y:96.75},{x:new Date('Mar 08 2026') ,y:96.75},{x:new Date('Mar 09 2026') ,y:96.75},{x:new Date('Mar 10 2026') ,y:96.75},{x:new Date('Mar 11 2026') ,y:96.75},{x:new Date('Mar 12 2026') ,y:96.75},{x:new Date('Mar 13 2026') ,y:96.75},{x:new Date('Mar 14 2026') ,y:96.75},{x:new Date('Mar 16 2026') ,y:96.75},{x:new Date('Mar 17 2026') ,y:96.75},{x:new Date('Mar 18 2026') ,y:96.75},{x:new Date('Mar 19 2026') ,y:96.75},{x:new Date('Mar 20 2026') ,y:96.75},{x:new Date('Mar 21 2026') ,y:96.75},{x:new Date('Mar 22 2026') ,y:96.75},{x:new Date('Mar 23 2026') ,y:96.75},{x:new Date('Mar 24 2026') ,y:96.75},{x:new Date('Mar 25 2026') ,y:96.75},{x:new Date('Mar 26 2026') ,y:96.75},{x:new Date('Mar 27 2026') ,y:96.75},{x:new Date('Mar 28 2026') ,y:96.75},{x:new Date('Mar 29 2026') ,y:96.75},{x:new Date('Mar 30 2026') ,y:96.75},{x:new Date('Mar 31 2026') ,y:96.75},{x:new Date('Apr 01 2026') ,y:96.75},{x:new Date('Apr 02 2026') ,y:95.75},{x:new Date('Apr 03 2026') ,y:95.75},{x:new Date('Apr 05 2026') ,y:95.75},{x:new Date('Apr 06 2026') ,y:95.75},{x:new Date('Apr 07 2026') ,y:95.75},{x:new Date('Apr 08 2026') ,y:95.75},{x:new Date('Apr 09 2026') ,y:95.75},{x:new Date('Apr 10 2026') ,y:95.75},{x:new Date('Apr 11 2026') ,y:95.75},{x:new Date('Apr 12 2026') ,y:95.75},{x:new Date('Apr 13 2026') ,y:95.75},{x:new Date('Apr 14 2026') ,y:95.75},{x:new Date('Apr 15 2026') ,y:95.75},{x:new Date('Apr 16 2026') ,y:95.75},{x:new Date('Apr 17 2026') ,y:95.75},{x:new Date('Apr 18 2026') ,y:95.75},{x:new Date('Apr 19 2026') ,y:95.75},{x:new Date('Apr 20 2026') ,y:95.75},{x:new Date('Apr 21 2026') ,y:95.75},{x:new Date('Apr 22 2026') ,y:95.75},{x:new Date('Apr 23 2026') ,y:95.75},{x:new Date('Apr 24 2026') ,y:95.75},{x:new Date('Apr 25 2026') ,y:95.75},{x:new Date('Apr 26 2026') ,y:95.75},{x:new Date('Apr 27 2026') ,y:95.75},{x:new Date('Apr 28 2026') ,y:95.75},{x:new Date('Apr 29 2026') ,y:95.75},{x:new Date('Apr 30 2026') ,y:95.75},{x:new Date('May 01 2026') ,y:95.75},{x:new Date('May 02 2026') ,y:95.75},{x:new Date('May 03 2026') ,y:95.75},{x:new Date('May 04 2026') ,y:95.75},{x:new Date('May 05 2026') ,y:95.75},{x:new Date('May 06 2026') ,y:95.75},{x:new Date('May 07 2026') ,y:95.75},{x:new Date('May 08 2026') ,y:95.75},{x:new Date('May 10 2026') ,y:95.75},{x:new Date('May 11 2026') ,y:95.75},{x:new Date('May 12 2026') ,y:95.75},{x:new Date('May 13 2026') ,y:95.75},{x:new Date('May 14 2026') ,y:95.75},{x:new Date('May 15 2026') ,y:95.75},{x:new Date('May 17 2026') ,y:95.75},{x:new Date('May 18 2026') ,y:95.75},{x:new Date('May 19 2026') ,y:95.75},{x:new Date('May 21 2026') ,y:95.75},{x:new Date('May 23 2026') ,y:95.75},{x:new Date('May 25 2026') ,y:96.75},{x:new Date('May 26 2026') ,y:96.75},{x:new Date('May 28 2026') ,y:96.75},{x:new Date('May 30 2026') ,y:96.75},{x:new Date('May 31 2026') ,y:96.75},{x:new Date('Jun 06 2026') ,y:99.5},{x:new Date('Jun 07 2026') ,y:99.5},{x:new Date('Jul 02 2026') ,y:99.5},{x:new Date('Jul 03 2026') ,y:99.5},{x:new Date('Jul 04 2026') ,y:99.5},{x:new Date('Jul 05 2026') ,y:99.5},{x:new Date('Jul 06 2026') ,y:99.5},{x:new Date('Jul 07 2026') ,y:99.5},{x:new Date('Jul 08 2026') ,y:99.5},{x:new Date('Jul 09 2026') ,y:99.5},{x:new Date('Jul 10 2026') ,y:99.5},{x:new Date('Jul 11 2026') ,y:99.5},{x:new Date('Jul 12 2026') ,y:99.5},{x:new Date('Jul 13 2026') ,y:99.5},{x:new Date('Jul 14 2026') ,y:99.5},{x:new Date('Jul 15 2026') ,y:99.5},{x:new Date('Jul 16 2026') ,y:99.5},{x:new Date('Jul 17 2026') ,y:99.5},{x:new Date('Jul 18 2026') ,y:99.5},{x:new Date('Jul 19 2026') ,y:99.5},{x:new Date('Jul 20 2026') ,y:99.5},{x:new Date('Jul 21 2026') ,y:99.5},{x:new Date('Jul 23 2026') ,y:99.5},{x:new Date('Jul 25 2026') ,y:99.5},{x:new Date('Jul 27 2026') ,y:99.5},{x:new Date('Jul 28 2026') ,y:99.5},{x:new Date('Jul 29 2026') ,y:99.5},{x:new Date('Jul 30 2026') ,y:99.5},{x:new Date('Jul 31 2026') ,y:99.5},{x:new Date('Aug 02 2026') ,y:99.5},{x:new Date('Aug 03 2026') ,y:99.5},{x:new Date('Aug 06 2026') ,y:99.5},{x:new Date('Aug 07 2026') ,y:99.5},{x:new Date('Aug 08 2026') ,y:99.5},{x:new Date('Aug 10 2026') ,y:99.5},{x:new Date('Aug 11 2026') ,y:99.5},{x:new Date('Aug 17 2026') ,y:99.5},{x:new Date('Aug 18 2026') ,y:99.5},{x:new Date('Aug 19 2026') ,y:99.5},{x:new Date('Aug 20 2026') ,y:105},{x:new Date('Aug 21 2026') ,y:105},{x:new Date('Aug 25 2026') ,y:105},{x:new Date('Aug 27 2026') ,y:105},{x:new Date('Aug 29 2026') ,y:105},{x:new Date('Sep 01 2026') ,y:105},{x:new Date('Sep 02 2026') ,y:105},{x:new Date('Sep 03 2026') ,y:105},{x:new Date('Sep 06 2026') ,y:105},{x:new Date('Sep 07 2026') ,y:105},{x:new Date('Sep 09 2026') ,y:105},{x:new Date('Sep 10 2026') ,y:105},{x:new Date('Sep 11 2026') ,y:105},{x:new Date('Sep 13 2026') ,y:105},{x:new Date('Sep 14 2026') ,y:105},{x:new Date('Sep 15 2026') ,y:105},{x:new Date('Sep 16 2026') ,y:105},{x:new Date('Sep 23 2026') ,y:105},{x:new Date('Sep 24 2026') ,y:105},{x:new Date('Sep 26 2026') ,y:105},{x:new Date('Oct 01 2026') ,y:105},{x:new Date('Oct 02 2026') ,y:105},{x:new Date('Oct 04 2026') ,y:105},{x:new Date('Oct 05 2026') ,y:107},{x:new Date('Oct 06 2026') ,y:107},{x:new Date('Oct 07 2026') ,y:107},{x:new Date('Oct 08 2026') ,y:107},{x:new Date('Oct 09 2026') ,y:107},{x:new Date('Oct 10 2026') ,y:107},{x:new Date('Oct 12 2026') ,y:107},{x:new Date('Oct 13 2026') ,y:107},{x:new Date('Oct 17 2026') ,y:107},{x:new Date('Oct 19 2026') ,y:107},{x:new Date('Oct 21 2026') ,y:107},{x:new Date('Oct 24 2026') ,y:107},{x:new Date('Oct 26 2026') ,y:107},{x:new Date('Oct 27 2026') ,y:107},{x:new Date('Nov 01 2026') ,y:108},]}]);</script></div>
+</div>
+
+    </div>
+</div>
+<div class="eight columns txtC">
+    <span class="txtC">
+        <span id="FuelHikeChartDetails_Label1">CNG Prices Over the last years</span>
+    </span>
+    <div class="Scrolling txtC">
+        
+                <div class="UCMainDiv VAlignTop">
+                    <div class="UCTopHalf CNGColor">
+                        <div class="UCFuelName">CNG</div>
+                    </div>
+                    <div class="MT5 txtC">
+                        <div>
+                            <span class="fl MT10">
+                                <span><span class="ArrowRise">▲</span>&nbsp; &nbsp;Highest</span>
+                                <span class="MR5"><b>₹108.00</b></span>
+                            </span>
+                            <span class="txtL">
+                                <span class='displayDate MR5'><span class='date'> <span class='day'>01</span> <span class='month'>Nov</span> <span class='year'>2026</span></span></span>
+                            </span>
+                        </div>
+                        <div>
+                            <span class="fl MT10">
+                                <span class="MR5"><span class="ArrowFall">▼</span>&nbsp; &nbsp;Lowest</span>
+                                <span class="MR5"><b>₹39.00</b></span>
+                            </span>
+                            <span class="txtL">
+                                <span class='displayDate MR5'><span class='date'> <span class='day'>24</span> <span class='month'>Jul</span> <span class='year'>2012</span></span></span>
+                            </span>
+                        </div>
+                        <div class="txtC avragePrice">
+                            <span>Average</span>
+                            <span><b>₹96.67</b></span>
+                        </div>
+                    </div>
+                </div>
+            
+    </div>
+    <div class="otherfuelLinks">
+        
+                <a href="https://www.mypetrolprice.com/25/0/Lucknow-Petrol-Price-Chart">Petrol</a>
+            
+                <a href="https://www.mypetrolprice.com/25/1/Lucknow-Diesel-Price-Chart">Diesel</a>
+            
+                <a href="https://www.mypetrolprice.com/25/2/Lucknow-AutoGas-Price-Chart">AutoGas</a>
+            
+                <a href="https://www.mypetrolprice.com/25/6/Lucknow-LPG-Price-Chart">LPG</a>
+            
+                <a href="https://www.mypetrolprice.com/25/Lucknow-Fuel-Price-Chart">All</a>
+            
+    </div>
+</div>
+

@@ -1,0 +1,7 @@
+city,target,adjacent_pairs,flat_pairs,nonzero_pairs,flat_fraction,hikes,cuts,max_abs_change
+Delhi,cng_price_monthend,163,111,52,0.6809815950920245,41,11,14.900000000000
+Delhi,cng_price_twap,160,71,89,0.44375,68,21,11.175000000000
+Noida,cng_price_monthend,161,106,55,0.6583850931677019,42,13,16.550000000000
+Noida,cng_price_twap,158,67,91,0.4240506329113924,67,24,12.412500000000
+Lucknow,cng_price_monthend,59,41,18,0.6949152542372882,14,4,11.300000000000
+Lucknow,cng_price_twap,58,28,30,0.4827586206896552,22,8,9.100000000000

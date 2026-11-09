@@ -1,0 +1,65 @@
+{
+  "verified_at_utc": "2026-11-09T11:39:17.599515+00:00",
+  "checks": [
+    {
+      "check": "preregistration_precedes_audit",
+      "passed": true,
+      "detail": "2026-11-09T11:19:35.596288+00:00"
+    },
+    {
+      "check": "all_audited_input_hashes_rechecked",
+      "passed": true,
+      "detail": {
+        "inputs": 76,
+        "mismatches": []
+      }
+    },
+    {
+      "check": "PPAC_original_input_hashes",
+      "passed": true,
+      "detail": 37
+    },
+    {
+      "check": "PPAC_tier_never_strict",
+      "passed": true,
+      "detail": 54
+    },
+    {
+      "check": "qualified_PPAC_records_have_all_claim_checks",
+      "passed": true,
+      "detail": 41
+    },
+    {
+      "check": "core_calendar_unique_and_strict_subset",
+      "passed": true,
+      "detail": 424
+    },
+    {
+      "check": "strict_ledger_retains_all_time_and_vintage_qualifications",
+      "passed": true,
+      "detail": 60
+    },
+    {
+      "check": "qualified_PPAC_mapping_no_future_or_expired_holds",
+      "passed": true,
+      "detail": 88
+    },
+    {
+      "check": "manual_news_seed_provenance_explicit",
+      "passed": true,
+      "detail": 10
+    },
+    {
+      "check": "no_outcome_columns_in_predictor_comparison",
+      "passed": true,
+      "detail": 222
+    },
+    {
+      "check": "all_output_CSV_widths_valid",
+      "passed": true,
+      "detail": []
+    }
+  ],
+  "all_checks_passed": true,
+  "qualification": "Source/transcription/provenance checks are not proof of independent real-time historical vintages. No model or inferential test executed."
+}

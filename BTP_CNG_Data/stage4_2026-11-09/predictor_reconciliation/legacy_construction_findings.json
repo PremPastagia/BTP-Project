@@ -1,0 +1,20 @@
+{
+  "source_version": "git_6b08b99",
+  "grid_months": 190,
+  "grid_start": "2011-01",
+  "grid_end": "2026-10",
+  "post2024_month_rows": 22,
+  "post2024_equal_to_Dec2024_value": {
+    "brent_crude_usd": 0,
+    "dubai_crude_usd": 22,
+    "wti_crude_usd": 22,
+    "henry_hub_usd": 0,
+    "ttf_gas_usd": 22,
+    "lng_japan_usd": 22
+  },
+  "FX_nonmissing_paired_rows": 179,
+  "FX_mean_equals_monthend_rows": 179,
+  "annual_GDP_rows": 26,
+  "annual_GDP_assigned_release_before_observation_year_end": 26,
+  "interpretation": "Repetition alone is not proof of fabrication; source code independently shows .ffill(), identical close assignment, fixed May31 and shift rules. No causal or forecasting claims."
+}

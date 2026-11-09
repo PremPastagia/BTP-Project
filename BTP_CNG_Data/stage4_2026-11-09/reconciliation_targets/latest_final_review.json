@@ -1,0 +1,7 @@
+{
+  "run_id": "TARGET-FINAL-20261109T113332468231Z",
+  "run_directory": "/Users/virajvekariya/.codex/worktrees/stage3-consolidation/BTP/BTP_CNG_Data/stage4_2026-11-09/reconciliation_targets/runs/TARGET-FINAL-20261109T113332468231Z",
+  "report_path": "/Users/virajvekariya/.codex/worktrees/stage3-consolidation/BTP/BTP_CNG_Data/stage4_2026-11-09/reconciliation_targets/runs/TARGET-FINAL-20261109T113332468231Z/FINAL_RECONCILIATION_REVIEW.txt",
+  "report_sha256": "233b3f278af2a663390934e9eea3cad7107143cabe7e419a9efa0349a101b1bd",
+  "main_run": "TARGET-RECON-20261109T113115894422Z"
+}

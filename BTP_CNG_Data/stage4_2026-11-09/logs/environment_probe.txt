@@ -1,0 +1,4 @@
+Observed environment probe on9November2026:
+BundledPython import pandas,numpy,matplotlib failed: ModuleNotFoundError: No module named matplotlib.
+Targetbuilding used bundledPython stdlib successfully. Scientificplotting used existing/opt/anaconda3/bin/python3 with matplotlib3.10.6 andnumpy2.3.5; versions recorded in metadata/eda_summary.json.
+No dependencies were installed or original data changed. This text summarizes the observed probe; it is not the original process stderr archive.

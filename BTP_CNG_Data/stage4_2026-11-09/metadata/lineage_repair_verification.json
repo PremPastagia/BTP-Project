@@ -1,0 +1,8 @@
+{
+  "verified_at_utc": "2026-11-09T11:26:21.573470+00:00",
+  "output_rows_compared_including_split_copies": 3256,
+  "lineage_rows_changed_including_split_copies": 69,
+  "all_numeric_targets_and_bounds_unchanged": true,
+  "note": "Counts include duplicated split/calendar/analysis exports; not independent observations.",
+  "original_code_and_outputs_retained": "BTP_CNG_Data/stage4_2026-11-09/logs/versions/predecessor_lineage_v1"
+}

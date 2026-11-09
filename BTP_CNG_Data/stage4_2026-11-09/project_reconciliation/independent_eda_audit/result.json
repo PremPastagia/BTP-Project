@@ -1,0 +1,40 @@
+{
+  "timestamp_utc": "2026-11-09T11:34:18.103292+00:00",
+  "checks": 2412,
+  "passed": 2412,
+  "failed": [],
+  "summary_rows": 6,
+  "persistence_rows": 6,
+  "adjacent_changes": 759,
+  "tukey_flags": 54,
+  "correlations": 12,
+  "active_core_cities": [
+    "Delhi",
+    "Lucknow",
+    "Noida"
+  ],
+  "absent_core_cities": [
+    "Ahmedabad",
+    "Bengaluru",
+    "Gurgaon",
+    "Hyderabad",
+    "Kanpur",
+    "Mumbai",
+    "Pune"
+  ],
+  "reserved_numeric_values_inspected": false,
+  "producer_helpers_imported": false,
+  "environment": {
+    "python": "3.13.9 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 19:11:29) [Clang 20.1.8 ]",
+    "numpy": "2.3.5",
+    "pandas": "2.2.2"
+  },
+  "limitations": [
+    "Numerical reconciliation does not certify source truth or historical predictor publication availability.",
+    "Only three of ten intended cities have accepted targets. Agra/Unnao are auxiliary and not silently counted as completing ten cities.",
+    "Cities share two operators; common shocks and matched trends preclude independent-city or causal interpretations.",
+    "Different target coverage creates unequal period means; unmatched ranges are not regional price premia.",
+    "Tukey thresholds are descriptive flags, not rejection or significance tests.",
+    "Reservation is provisional with documented prior-study exposure, not a pristine final test."
+  ]
+}

@@ -1,14 +1,33 @@
 {
+  "updated_at_utc": "2026-11-09T11:45:18.403982+00:00",
   "active_stage": 4,
   "restricted_stage3_accepted": true,
   "unrestricted_stage3_complete": false,
   "accepted_snapshot_id": "stage3-restricted-2026-11-06-v1",
+  "stage4_version": "stage4-redo-2026-11-09-v1",
   "stage4_deliverables_completed": true,
   "stage4_researcher_accepted": false,
   "stage4_transformations_independently_verified": true,
   "stage5_started": false,
   "stage5_requires_researcher_approval": true,
-  "no_synthetic_observations": true,
-  "no_models_or_forecast_metrics": true,
-  "report": "stage4_2026-11-06/STAGE4_CHECKPOINT_REPORT.txt"
+  "no_synthetic_observations_created": true,
+  "no_models_or_forecast_metrics_created": true,
+  "primary_cities_with_accepted_targets": [
+    "Delhi",
+    "Noida",
+    "Lucknow"
+  ],
+  "primary_monthend_targets": 424,
+  "primary_day_end_monthly_means": 416,
+  "auxiliary_markets": [
+    "Agra",
+    "Unnao"
+  ],
+  "final_test_reservation_status": "provisional; known related-study Nov-Dec2025 evaluation exposure; executed2026exposureunknown",
+  "strict_filter_development_H1_origins": 0,
+  "PPAC_source_date_proxies": "sensitivity_only_not_admitted_to_strict_ledger",
+  "report": "stage4_2026-11-09/STAGE4_REDO_CHECKPOINT_REPORT.txt",
+  "delivery_status": "stage4_2026-11-09/DELIVERY_STATUS.txt",
+  "output_manifest_sha256": "75ae90cf7f8917f1d78111b1be0703e4f33ebdfa86529172c617f9c75f0e86ab",
+  "previous_stage4_preserved": "stage4_2026-11-06"
 }

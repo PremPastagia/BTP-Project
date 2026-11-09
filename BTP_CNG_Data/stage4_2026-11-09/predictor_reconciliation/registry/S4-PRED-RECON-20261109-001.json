@@ -1,0 +1,31 @@
+{
+  "experiment_id": "S4-PRED-RECON-20261109-001",
+  "registered_at_utc": "2026-11-09T11:19:35.596288+00:00",
+  "stage": 4,
+  "kind": "data_and_availability_audit_not_forecasting",
+  "brief_sha256": "c2e1876e810154390c3d0716721286e0bdac24cac7e93c61da87203e97e16162",
+  "questions": [
+    "Which reported legacy numerical/news/corporate/policy counts and fields actually exist?",
+    "Which are aliases, derived fields, assumed/fabricated histories, or unrecovered source records?",
+    "Do available original artifacts establish dated non-holdout H1 or H2 information beyond the earlier strict as-of ledger?"
+  ],
+  "prespecified_rules": [
+    "Do not read or summarize reserved target outcome values; target files supply calendar keys and observation-presence flags only if necessary.",
+    "Quarantine formula-generated registrations and unsafe legacy joins never become empirical predictors.",
+    "A recorded timestamp is not sufficient; inspect its source/generation code and original release/version evidence.",
+    "Preserve raw input files and all previous snapshots.",
+    "No assumed one-month publication lag or annual/quarterly-to-monthly imputation.",
+    "National shared data and operator/city-specific data remain distinct.",
+    "Use exact source/version/period keys and exact Decimal numeric comparison; differing source definitions and vintages are not silently merged.",
+    "Report dated selected-event metadata as selected-event metadata, not representative monthly sentiment or zero-news months.",
+    "No models, stationarity tests or final-test evaluation."
+  ],
+  "planned_outputs": [
+    "Executable audit and source input hashes",
+    "Legacy-versus-native variable and corpus eligibility dictionary",
+    "CSV reconciliation matches/conflicts/gaps and decisions",
+    "Source-supported exploration eligibility ledger where possible",
+    "TXT findings and independent checks"
+  ],
+  "status": "registered_before_audit_execution"
+}

@@ -1,0 +1,96 @@
+INDEPENDENT END-OF-STAGE 4 REDO SCIENTIFIC REVIEW — 9 NOVEMBER 2026
+
+Decision: QUALIFIED ANALYTICAL GATE PASSED.
+Scope: accepted outcome transformations, evidence reconciliation and development-only
+descriptives. This is not a forecasting-readiness decision or researcher approval.
+Stage 5 has not begun. 23 cross-review checks passed: 21/23.
+No new critical validity failure was found.
+
+Reviewed checkpoint SHA256:
+c96c39f5155ab6a2d3921af378864b68f91ad9826464ee4a9f9a67402c00ce9e
+Reviewed stage tracker SHA256:
+95660d88d05cdd0b395c72e9f2da163ed0e303612bb18534c07a4162aece3bd5
+The JSON companion records hashes and byte counts for 44 reviewed inputs.
+
+Claims matched to evidence
+The 1,900-cell intended ten-city calendar covers January 2011–October 2026.
+Only Delhi, Noida and Lucknow contribute the 424 month-end and 416 full-month
+qualified day-end averages. Development counts are 394/386. Agra/Unnao are auxiliary
+with 128/125; seven intended cities remain unsupported. The 3,256 checked export
+rows are copied/checkable outputs, not 3,256 independent price observations.
+The report distinguishes legacy 275 revision-list rows from accepted 275 intervals;
+legacy 275 comprises 265 nonzero sampled changes plus 10 initial baselines.
+
+Existing independent target checks agree in arithmetic and row-specific source
+lineage after predecessor repair. Its 69 changed lineage rows changed no prices or
+bounds. Initial producer outputs/code and reviewer implementation errors remain
+preserved with successful-run pointers. No source repair is inferred from a
+reviewer enum mismatch. Prior accepted Stage 4 agrees inside the revised envelope.
+
+The availability ledger has 60 references, 12 city-month origins over six distinct
+months, and 12 native source observations; all eligible origins are reserved, with
+zero development origins. Its date filter is documented-date eligibility only,
+not proof of historical archived bytes or origin-time price-lag availability.
+PPAC has 41 passing candidates out of 54; 40 have archive-day claims before Nov2025.
+The 88 core references use 41 candidate observations at 52 city-month origins, 46 development
+and 6 reserved. Independent cross-checks found no claim-date-after-origin or native
+interval mismatch, expiry hold, strict admission or national-to-city allocation.
+PPAC formula values/explicit caps remain sensitivity proxies, not company blended
+costs. Document signatures, effective intervals and retrospective listing dates
+are kept distinct. Three separately decoded examples do not verify all vintages.
+
+The independent EDA receipt passes 2412/2412 checks; all of its hashed inputs still
+match current files. Producer and verifier filter development rows before numeric
+outcome parsing, use adjacent calendar months for changes and retain missing gaps.
+Six summaries, 759 changes, 54 retained Tukey flags and 12 matched correlations are
+faithfully reported as descriptive. Common operators, trends and differing samples
+preclude causal interpretation or independent-city inference. No model or formal
+stationarity, seasonality, break, significance or forecasting test is claimed.
+
+The historical exposure amendment resolves the reporting concern raised here:
+current input modification times postdate saved results, and old executed input
+hash/configuration receipts are absent. Counts/date/configuration and checkpoint
+evidence support related-study Nov–Dec2025 evaluation overlap, not exact historical
+run reproduction. Executed 2026 test exposure remains unknown. The provisional
+reservation cannot be represented as an untouched final test. Future original
+Stage 6 must choose and disclose a defensible evaluation strategy.
+
+Stage tracker preserves the original nine-stage names and marks Stage 4 qualified
+pending researcher review; original Stage 5 remains Stationarity, Structural Breaks
+and Statistical Properties. The outcome gate does not approve the broader ten-city
+study, historical predictor availability, H1/H2 evidence or a forecasting design.
+
+Remaining qualifications
+The day-end monthly mean is not identified continuous-time TWAP. Timing envelopes
+are conditional on accepted source paths and within-day assumptions, not confidence
+or prediction intervals. Unknown publication/extraction dates remain unknown. More
+rows or exact checksums do not establish source authenticity or effective sample
+size. Statistical power, dependence, multiplicity and original Stage 5 assumptions
+still require later approved work. No scientific reason to promote excluded or
+unverified data was established by this review.
+
+Final packaging is PENDING a separate DELIVERY_STATUS.txt operational receipt.
+This review does not assert package checksums or unchanged-snapshot checks complete;
+it reviews the analytical evidence and the final checkpoint text hashed above.
+No remaining checkpoint amendment is required by this scientific cross-review.
+
+REVISION 2 — FINAL PREDICTOR ADDITION CROSS-CHECK
+The amended checkpoint adds five lines about legacy GDP release assignments, FX
+labels, energy forward holds and Europe gas source meaning. An independent read
+of frozen Git 6b08b996 tables and collector source confirms: 26/26 annual GDP release
+claims precede observation-year end; 179/179 paired FX mean/close fields use the same
+monthly close; Dubai, WTI, Europe gas and Japan LNG each repeat December 2024 values
+in 22 January 2025–October 2026 rows with explicit forward-fill code. Brent and US gas
+do not share that repetition pattern. The source maps Natural gas, Europe to an
+internal ttf field; that label does not establish a standalone TTF spot series.
+These findings match predictor audit outputs. No repeated value was automatically
+classified as fabricated, and no historical publication date was repaired by shifting.
+
+All 42 previously hashed inputs were refreshed: only the checkpoint changed. The
+review now hashes 44 files, adding the predictor findings JSON and predictor report.
+The first END review files are preserved under review_history/revision_001_prior_predictor_addition.
+Actual original checkpoint bytes were not separately retained by this reviewer;
+no reconstructed report was saved as an original. Removing exactly the five added
+lines in memory produces the earlier recorded checkpoint hash, confirming the
+amendment-only change. The unchanged stage-tracker hash and all analytical gate
+qualifications remain valid. Final packaging remains a separate pending receipt.

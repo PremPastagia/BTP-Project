@@ -1,0 +1,139 @@
+{
+  "executed_at_utc": "2026-11-09T11:35:42.609291+00:00",
+  "preregistration_sha256": "ede8dbef7eec49a5cdab6c00badf7cc5e361d4eb39de772e8ea0c1b0481a86bc",
+  "actual_counts_by_version": {
+    "git_6b08b99": {
+      "BTP_CNG_Data/structured/corporate_disclosures/corporate_disclosures_metadata.csv": 799,
+      "BTP_CNG_Data/structured/news/news_archive_metadata.csv": 10,
+      "BTP_CNG_Data/structured/numerical_factors/demand_factors_monthly.csv": 1503,
+      "BTP_CNG_Data/structured/numerical_factors/external_shocks_daily.csv": 0,
+      "BTP_CNG_Data/structured/numerical_factors/external_shocks_monthly.csv": 190,
+      "BTP_CNG_Data/structured/numerical_factors/macro_annual_gdp.csv": 26,
+      "BTP_CNG_Data/structured/policy_events/regulatory_timeline.csv": 8
+    },
+    "git_2c2e3b9": {
+      "BTP_CNG_Data/structured/corporate_disclosures/corporate_disclosures_metadata.csv": 0,
+      "BTP_CNG_Data/structured/news/news_archive_metadata.csv": 125,
+      "BTP_CNG_Data/structured/numerical_factors/demand_factors_monthly.csv": 1521,
+      "BTP_CNG_Data/structured/numerical_factors/external_shocks_daily.csv": 0,
+      "BTP_CNG_Data/structured/numerical_factors/external_shocks_monthly.csv": 191,
+      "BTP_CNG_Data/structured/policy_events/regulatory_timeline.csv": 7
+    },
+    "git_4d4959c": {
+      "BTP_CNG_Data/structured/corporate_disclosures/corporate_disclosures_metadata.csv": 0,
+      "BTP_CNG_Data/structured/news/news_archive_metadata.csv": 125,
+      "BTP_CNG_Data/structured/numerical_factors/demand_factors_monthly.csv": 1521,
+      "BTP_CNG_Data/structured/numerical_factors/external_shocks_daily.csv": 0,
+      "BTP_CNG_Data/structured/numerical_factors/external_shocks_monthly.csv": 191,
+      "BTP_CNG_Data/structured/policy_events/regulatory_timeline.csv": 7
+    },
+    "modified_desktop_legacy": {
+      "BTP_CNG_Data/structured/numerical_factors/demand_factors_monthly.csv": 1503,
+      "BTP_CNG_Data/structured/numerical_factors/external_shocks_daily.csv": 0,
+      "BTP_CNG_Data/structured/numerical_factors/external_shocks_monthly.csv": 190,
+      "BTP_CNG_Data/structured/numerical_factors/macro_annual_gdp.csv": 26,
+      "BTP_CNG_Data/structured/policy_events/regulatory_timeline.csv": 8,
+      "BTP_CNG_Data/structured/news/news_archive_metadata.csv": 10,
+      "BTP_CNG_Data/structured/corporate_disclosures/corporate_disclosures_metadata.csv": 799
+    },
+    "working_repository_legacy": {
+      "BTP_CNG_Data/structured/numerical_factors/demand_factors_monthly.csv": 1521,
+      "BTP_CNG_Data/structured/numerical_factors/external_shocks_daily.csv": 0,
+      "BTP_CNG_Data/structured/numerical_factors/external_shocks_monthly.csv": 191,
+      "BTP_CNG_Data/structured/policy_events/regulatory_timeline.csv": 7,
+      "BTP_CNG_Data/structured/news/news_archive_metadata.csv": 125,
+      "BTP_CNG_Data/structured/corporate_disclosures/corporate_disclosures_metadata.csv": 0
+    },
+    "quarantined_repository_legacy": {
+      "BTP_CNG_Data/structured/numerical_factors/demand_factors_monthly.csv": 1521,
+      "BTP_CNG_Data/structured/numerical_factors/external_shocks_daily.csv": 0,
+      "BTP_CNG_Data/structured/numerical_factors/external_shocks_monthly.csv": 191,
+      "BTP_CNG_Data/structured/policy_events/regulatory_timeline.csv": 7,
+      "BTP_CNG_Data/structured/news/news_archive_metadata.csv": 125,
+      "BTP_CNG_Data/structured/corporate_disclosures/corporate_disclosures_metadata.csv": 0
+    },
+    "pr1_snapshot": {
+      "BTP_CNG_Data/structured/numerical_factors/cpi_source_records.csv": 907,
+      "BTP_CNG_Data/structured/numerical_factors/demand_factors_monthly.csv": 1,
+      "BTP_CNG_Data/structured/numerical_factors/external_shocks_daily.csv": 1,
+      "BTP_CNG_Data/structured/numerical_factors/external_shocks_monthly.csv": 1,
+      "BTP_CNG_Data/structured/numerical_factors/gdp_annual_source_records.csv": 66,
+      "BTP_CNG_Data/structured/numerical_factors/gpr_native_monthly.csv": 1522,
+      "BTP_CNG_Data/structured/numerical_factors/ppac_gas_supply_transcriptions.csv": 150,
+      "BTP_CNG_Data/structured/numerical_factors/ppac_notification_records.csv": 89,
+      "BTP_CNG_Data/structured/numerical_factors/ppac_price_transcriptions.csv": 89,
+      "BTP_CNG_Data/structured/numerical_factors/usdinr_source_bars.csv": 181,
+      "BTP_CNG_Data/structured/numerical_factors/worldbank_energy_native_monthly.csv": 780,
+      "BTP_CNG_Data/structured/policy_events/regulatory_timeline.csv": 7,
+      "BTP_CNG_Data/structured/news/actual_article_metadata.csv": 14,
+      "BTP_CNG_Data/structured/news/news_archive_metadata.csv": 125,
+      "BTP_CNG_Data/structured/corporate_disclosures/corporate_disclosures_metadata.csv": 188
+    },
+    "accepted_reference": {
+      "reference/cng_reported_native.csv": 56,
+      "reference/corporate_document_metadata.csv": 251,
+      "reference/native_numerical_observations.csv": 47830,
+      "reference/news_metadata.csv": 24
+    },
+    "consolidated": {
+      "structured/numerical_factors/cng_reported_native.csv": 56,
+      "structured/numerical_factors/native_numerical_observations.csv": 47830,
+      "structured/numerical_factors/unverified_transcription_candidates.csv": 395,
+      "structured/news/news_metadata.csv": 24,
+      "structured/corporate_disclosures/corporate_document_metadata.csv": 251
+    },
+    "prior_stage4_integration": {
+      "asof_conflicts.csv": 0,
+      "asof_numerical_ledger.csv": 124,
+      "eligible_native_factors.csv": 92,
+      "excluded_availability.csv": 48440,
+      "factor_inventory.csv": 465,
+      "forecast_origins.csv": 566,
+      "news_asof_metadata.csv": 5820,
+      "news_time_claim_inventory.csv": 24,
+      "origin_factor_unavailable.csv": 3272,
+      "source_version_aliases.csv": 0
+    }
+  },
+  "predictor_columns_audited": 222,
+  "legacy_native_cells_compared": 13596,
+  "exact_same_period_matches": 10524,
+  "legacy_news_seed_count": 10,
+  "news_code_literal_timestamps": 10,
+  "news_authored_payload_hash_matches": 10,
+  "corporate_metadata_count": 799,
+  "corporate_unique_ids": 799,
+  "corporate_unique_nonempty_attachments": 758,
+  "corporate_download_flag_true": 1,
+  "corporate_rows_by_company_year": {
+    "IGL_2021": 50,
+    "IGL_2022": 49,
+    "IGL_2023": 50,
+    "IGL_2024": 50,
+    "MGL_2021": 50,
+    "MGL_2022": 50,
+    "MGL_2023": 50,
+    "MGL_2024": 50,
+    "GUJGASLTD_2021": 50,
+    "GUJGASLTD_2022": 50,
+    "GUJGASLTD_2023": 50,
+    "GUJGASLTD_2024": 50,
+    "ATGL_2021": 50,
+    "ATGL_2022": 50,
+    "ATGL_2023": 50,
+    "ATGL_2024": 50
+  },
+  "source_code_only_page_one": true,
+  "strict_new_H1_admissions_from_legacy_grid": 0,
+  "strict_new_H2_admissions_from_legacy_claims": 0,
+  "quarantined_synthetic_used": false,
+  "future_holdout_outcome_values_analyzed_or_disclosed": false,
+  "models_or_statistical_tests_run": false,
+  "stage5_started": false,
+  "limitations": [
+    "Counts refer to explicitly named versions; modified Desktop legacy data is not claimed frozen.",
+    "Exact predictor value matches do not verify publication timing or historical vintage.",
+    "The metadata-only BSE records may be useful retrieval leads; their page-one sampling and attachment linkage require correction before text forecasting.",
+    "Outcome-valued CSV fields are stripped before audit storage and comparison."
+  ]
+}

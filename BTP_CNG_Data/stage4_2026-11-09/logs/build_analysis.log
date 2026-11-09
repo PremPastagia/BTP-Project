@@ -1,0 +1,20 @@
+{
+  "primary": {
+    "calendar_rows": 1900,
+    "monthend": 424,
+    "twap": 416,
+    "conditional_bounds": 415
+  },
+  "development": {
+    "calendar_rows": 1780,
+    "monthend": 394,
+    "twap": 386,
+    "conditional_bounds": 385
+  },
+  "auxiliary": {
+    "calendar_rows": 380,
+    "monthend": 128,
+    "twap": 125,
+    "conditional_bounds": 124
+  }
+}

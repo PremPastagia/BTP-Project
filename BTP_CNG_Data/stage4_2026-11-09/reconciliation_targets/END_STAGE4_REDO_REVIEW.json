@@ -1,0 +1,396 @@
+{
+  "review_id": "END-STAGE4-REDO-SCIENTIFIC-20261109",
+  "review_recorded_at_utc": "2026-11-09T11:44:10.624918+00:00",
+  "decision": "qualified_analytical_gate_passed",
+  "gate_scope": "Restricted Stage4 outcome preprocessing, reconciliation and development descriptives only",
+  "critical_failures": [],
+  "checks": [
+    {
+      "check": "main_scope_and_calendar",
+      "passed": true,
+      "evidence": "10 intended cities \u00d7 190 potential months; unique keys; seven unsupported cities remain empty"
+    },
+    {
+      "check": "primary_three_not_auxiliary_five",
+      "passed": true,
+      "evidence": "Three primary cities / two operators, two separately labelled auxiliary cities"
+    },
+    {
+      "check": "qualified_target_counts",
+      "passed": true,
+      "evidence": "424/416 primary EOM/day-end mean; 394/386 development; 128/125 auxiliary"
+    },
+    {
+      "check": "target_independent_receipt",
+      "passed": true,
+      "evidence": "Main independent exact-rational audit passed, 3256 exported rows; no rerun required"
+    },
+    {
+      "check": "no_observation_inflation_in_report",
+      "passed": true,
+      "evidence": "2,293 sampled observations \u2260 275 revision records \u2260 275 accepted intervals; 3256 export checks are copies/checks"
+    },
+    {
+      "check": "strict_core_counts_and_no_development",
+      "passed": true,
+      "evidence": "60 references; 12 city-month origins across six months; 12 native national source observations; zero development origins"
+    },
+    {
+      "check": "strict_documented_date_filter_only",
+      "passed": true,
+      "evidence": "Release bounds precede origins according to claimed dates; retrospective original-vintage proof remains absent"
+    },
+    {
+      "check": "PPAC_proxy_counts_dates_and_native_roles",
+      "passed": true,
+      "evidence": "41/54 passed; 40 source-day claims before Nov2025; 88 references to41 candidate observations at52 city-month origins,46development+6reserved; no expiry extension"
+    },
+    {
+      "check": "PPAC_qualification_not_cost_or_strict_vintage",
+      "passed": true,
+      "evidence": "Signature, effectivity, archive listing claim and download are distinct; Jan2025 boundary example retained"
+    },
+    {
+      "check": "EDA_independent_pass_and_reserved_filter",
+      "passed": true,
+      "evidence": "Independent NumPy/Pandas recomputation; gaps break changes, summaries6/changes759/flags54/correlations12; no causal/inferential claims"
+    },
+    {
+      "check": "EDA_receipt_inputs_current",
+      "passed": true,
+      "evidence": "All hashed EDA audit inputs still equal current files"
+    },
+    {
+      "check": "prior_exposure_honestly_qualified",
+      "passed": true,
+      "evidence": "Date/configuration/checkpoint evidence supports related-study exposure; old input mtimes postdate results, exact historical execution identity unresolved; 2026 executed exposure unknown"
+    },
+    {
+      "check": "stage_mapping_and_approval_gate",
+      "passed": true,
+      "evidence": "Original nine-stage names retained; current stage4 analytical completion is qualified; explicit researcher stage approval absent"
+    },
+    {
+      "check": "failed_artifacts_preserved",
+      "passed": true,
+      "evidence": "Initial missing-predecessor lineage run and reviewer schema failures retained; current successful receipts explicitly pointed to"
+    },
+    {
+      "check": "outcome_gate_not_forecasting_readiness",
+      "passed": true,
+      "evidence": "Outcome construction does not certify lagged-price availability, H1/H2 feasibility or final evaluation independence"
+    },
+    {
+      "check": "registry_unique_entries",
+      "passed": true,
+      "evidence": "13 append-only producer records at review; separate target/predictor/reconciliation receipts retained; audit runs not independent experiments or observations"
+    },
+    {
+      "check": "added_GDP_claim_independently_verified",
+      "passed": true,
+      "evidence": "Read frozen Git annual table and collector source separately; all26 release assignments precede corresponding observation-year end; no source collector executed"
+    },
+    {
+      "check": "added_FX_duplicate_label_claim_independently_verified",
+      "passed": true,
+      "evidence": "Independent AST inspection finds both FX field values use the identical round(float(c),4) expression inside extract_forex_usdinr; all179 paired values equal in frozen Git data. No collector executed."
+    },
+    {
+      "check": "added_four_energy_forward_holds_independently_verified",
+      "passed": true,
+      "evidence": "22 grid rows Jan2025-Oct2026 equal Dec2024 for Dubai, WTI, Europe gas and Japan LNG; source code explicitly forward-fills. No blanket claim about Brent or US gas"
+    },
+    {
+      "check": "added_Europe_TTF_source_semantics_verified",
+      "passed": true,
+      "evidence": "Retain World Bank Europe benchmark source meaning; internal ttf field name is insufficient to certify a pure TTF spot series"
+    },
+    {
+      "check": "checkpoint_amendment_only_five_line_addition",
+      "passed": true,
+      "evidence": "Hash of current text with just the specified five-line addition omitted in memory equals the previously reviewed checkpoint hash; no reconstructed old report file created"
+    },
+    {
+      "check": "all_prior_42_inputs_rehashed",
+      "passed": true,
+      "evidence": {
+        "changed_previous_inputs": [
+          "STAGE4_REDO_CHECKPOINT_REPORT.txt",
+          "metadata/stage_tracker.json"
+        ],
+        "tracker_change": "Updated timestamp/checks_executed preservation-status text; current stage/scope/researcher-approval and original stage names independently rechecked unchanged",
+        "all_other_prior_inputs_unchanged": true
+      }
+    },
+    {
+      "check": "added_claims_match_predictor_audit_outputs",
+      "passed": true,
+      "evidence": "Independent frozen-Git counts reconcile with predictor JSON and supplied report; repeated values are not automatically labelled fabricated"
+    }
+  ],
+  "check_count": 23,
+  "passed": 23,
+  "forecasting_readiness": false,
+  "researcher_stage4_approval": false,
+  "stage5_started": false,
+  "final_packaging_status": "pending separate DELIVERY_STATUS.txt: final package checksums and preservation status; not asserted by this scientific receipt",
+  "required_report_amendments_remaining": [],
+  "resolved_reporting_amendment": "Checkpoint now expressly says current legacy input mtimes postdate saved results and executed input hashes/config receipts are absent; not exact historical run reproduction",
+  "reserved_access_statement": "This cross-review checked source/count/date consistency only and displayed no reserved target prices. Prior main target-math audit did access reserved values for quality verification; EDA audit did not. No pristine holdout claim is justified.",
+  "limitations": [
+    "Retrospective accepted source-path qualification and date-only boundary assumptions remain; mathematical agreement does not authenticate a complete tariff history",
+    "True intraday TWAP is unidentified; cng_price_twap is the approved calendar-day mean of day-end quotes; timing envelopes are conditional and not statistical intervals",
+    "Only three intended cities have accepted outcomes; auxiliary Agra/Unnao do not complete ten-city coverage",
+    "Documented-date strict filter is not an independently archived historical-vintage tier; PPAC remains a separate sensitivity proxy with zero new strict admissions",
+    "National repeated references do not create city-specific observations; three primary cities share only two operators",
+    "Known related-study Nov-Dec2025 exposure and unresolved executed input identities prevent globally untouched final-test claims",
+    "Original Stage5 statistical adequacy/power and later approved design remain to be assessed; no H1/H2, superiority or causal inference is established",
+    "Final hash/packaging check is a separate operational step, with no inference that hashing authenticates source data"
+  ],
+  "input_hashes": {
+    "STAGE4_REDO_CHECKPOINT_REPORT.txt": {
+      "sha256": "c96c39f5155ab6a2d3921af378864b68f91ad9826464ee4a9f9a67402c00ce9e",
+      "bytes": 14802
+    },
+    "metadata/stage_tracker.json": {
+      "sha256": "e218ad55f8cc2875b2ef2c6575e98cbc3fe550e9cd95ac99ee54f96cf6ba5fb3",
+      "bytes": 2593
+    },
+    "metadata/analysis_specification.json": {
+      "sha256": "9b5168b9654736690ec98a081c7ec35869ae6d3ac3b0227f1abf929bc3d0c5a2",
+      "bytes": 1237
+    },
+    "metadata/target_build_summary.json": {
+      "sha256": "657c596db23d0eaf6f9ebc0015250a32f3785cf436ac4ebc73dd8ac530187645",
+      "bytes": 2752
+    },
+    "metadata/eda_summary.json": {
+      "sha256": "2c6d16d3f247c2522f8631416bf39395d1f4c269055cdc9d5bf5a341d0f77240",
+      "bytes": 896
+    },
+    "metadata/experiment_registry.jsonl": {
+      "sha256": "1db68fe1ab9e9cf9a7a2f1cd04479a056eed0ea2f370bc78fa21fb0a270248ad",
+      "bytes": 14848
+    },
+    "metadata/lineage_repair_verification.json": {
+      "sha256": "881e0410cf2c7a44df4178e589d9abf8aa1c3ec266966ff10336d5a5d435dfe5",
+      "bytes": 432
+    },
+    "metadata/selected_ppac_check.json": {
+      "sha256": "3b1b43c2aeae8eae976b663fb1d987d88129ebf36c5ee266d472524770f67e51",
+      "bytes": 2268
+    },
+    "metadata/target_dictionary.csv": {
+      "sha256": "762bc30cdbea1d940c126e75ba628188b12b96edc014024166181407fb954884",
+      "bytes": 9114
+    },
+    "metadata/transformation_log.csv": {
+      "sha256": "fbb8811816082d5e3655dd529f63047ce341ab0e87b145a479cee215e9457103",
+      "bytes": 1282
+    },
+    "metadata/city_segment_eligibility.csv": {
+      "sha256": "85faf9e81a5549bb53acb067fbedc6689007ab679ac25c499eedcf8ccf6c5d19",
+      "bytes": 2596
+    },
+    "predictor_reconciliation/core_availability_summary.json": {
+      "sha256": "9e50cc9da2a5a53508f19bf3bd7d225d2e09a41397fac256782b8264eae4d9ca",
+      "bytes": 1370
+    },
+    "predictor_reconciliation/strict_core_asof_ledger.csv": {
+      "sha256": "17b7a52aa44ed29280b665cc3fec7fdc67035db74341a1c2c6425a7e7db14389",
+      "bytes": 63089
+    },
+    "predictor_reconciliation/qualified_PPAC_core_reference.csv": {
+      "sha256": "2b8daedf70ec831ffe2ae4efce39e340a179386fa8b6535aa72f23339f72ffec",
+      "bytes": 109607
+    },
+    "predictor_reconciliation/ppac_native_release_claims.csv": {
+      "sha256": "94e22870b36ae8ca6d8326a90b148ef7cdaae542f36f57eb04f7cef850e94e1e",
+      "bytes": 60151
+    },
+    "predictor_reconciliation/ppac_audit_results.json": {
+      "sha256": "89179480af39187d1ab14cabe53598e80eafb12d50381570dd25c9ce64145aff",
+      "bytes": 872
+    },
+    "project_reconciliation/evaluation_exposure.json": {
+      "sha256": "2462767f22000d2f5e547a8e967fad93d1acd9a84db65baeecf6625fc0cf000f",
+      "bytes": 9163
+    },
+    "project_reconciliation/workflow_mapping.csv": {
+      "sha256": "ec79e49c39488be4c2dcd49229173fbd58e388f39d7656aafd24350d3cf51304",
+      "bytes": 2651
+    },
+    "project_reconciliation/accepted_snapshot_checksum_check.csv": {
+      "sha256": "3274274f6c8b51f335b8fc2e9e816eb14e3759b5e69f562f30b1cfd2f7bb63a0",
+      "bytes": 2600
+    },
+    "project_reconciliation/independent_eda_audit/result.json": {
+      "sha256": "a52accec990a569b6b613f0a264e7ee8b900053ed8a5f1ac113bbb6351bc688c",
+      "bytes": 1375
+    },
+    "project_reconciliation/independent_eda_audit/pre_execution.json": {
+      "sha256": "200a801839d1ae396cb4d21ee91104ead31cb2bb2c99639d1115d52fdb3ae718",
+      "bytes": 1475
+    },
+    "project_reconciliation/independent_eda_audit/INDEPENDENT_EDA_AUDIT.txt": {
+      "sha256": "24ed6384d216d5d83fc6cea3757c68786417194c00c9122ae18fd9b63b7bf6f8",
+      "bytes": 1481
+    },
+    "project_reconciliation/independent_eda_audit.py": {
+      "sha256": "9678e07d3e86229ee4b5619f8c3f0f6535853c701a31d140b9c3154882221b6f",
+      "bytes": 9368
+    },
+    "scripts/profile_analysis.py": {
+      "sha256": "d8cee24e56e6f94a1087e223e495cc6d8452d53d01a16f8b238e17ae341d13b6",
+      "bytes": 13120
+    },
+    "reconciliation_targets/FINAL_RECONCILIATION_REVIEW.json": {
+      "sha256": "6a3d5b8a818070b4b077cd18b99b5a942984e7c371f2060d53f90558284844fa",
+      "bytes": 23224
+    },
+    "reconciliation_targets/latest_run.json": {
+      "sha256": "e6b7a50ba2bb3978041da87628ce0ce3defc24bd68571c330e0926d0f189b34f",
+      "bytes": 440
+    },
+    "reconciliation_targets/latest_final_review.json": {
+      "sha256": "7f511459dd5bb1c35fcabc5f4e249ac0b0d6865aa77c11b02839bac25d9b908e",
+      "bytes": 583
+    },
+    "reconciliation_targets/execution_registry.jsonl": {
+      "sha256": "2940aa4a22fa97ec96d39938f3304a16ca9d39344c5a210237491bd523b42f54",
+      "bytes": 6115
+    },
+    "analysis/coverage_calendar.csv": {
+      "sha256": "cc3b1d9b4085808e1fadad86a31bf940d2b9be77415270ecc2795749de1372e9",
+      "bytes": 799315
+    },
+    "analysis/analysis_targets.csv": {
+      "sha256": "e4abf67a42897b0bc90ffd2011bda520feeea6add2e4b3009f8dac793abf0260",
+      "bytes": 332907
+    },
+    "analysis/development_targets.csv": {
+      "sha256": "23f18296032fecb43a4c9e252a741580605a1dd0d3065bec0981265d4cc01e73",
+      "bytes": 307767
+    },
+    "analysis/reserved_targets.csv": {
+      "sha256": "120d4e83fef333b44a4267ac24f48afac48a83cf141bab279b0a89392895856a",
+      "bytes": 25638
+    },
+    "analysis/auxiliary_coverage_calendar.csv": {
+      "sha256": "2ed6e29b9ed867feb3e36978d8cb4d8ea84a1395c04c76d2b2d5eda12a087d66",
+      "bytes": 190819
+    },
+    "analysis/auxiliary_targets.csv": {
+      "sha256": "b2d104a75ac9ab70a8f4495884962602c7963ec35b3ffd692507c125ea9e6609",
+      "bytes": 105792
+    },
+    "eda/adjacent_changes.csv": {
+      "sha256": "7a5fdc3160e4af9de2a8248d1d6b3c12895d374c38c08ba6bee372b5e8ec4b97",
+      "bytes": 82120
+    },
+    "eda/coverage_by_city.csv": {
+      "sha256": "ca5c6ff3f5d4881be10f2897c0a032595637542fe4b4adef857b52215a37b8bd",
+      "bytes": 1174
+    },
+    "eda/descriptive_summary.csv": {
+      "sha256": "471c2eea3427cc9c2c5959e446e3e8d93814095ab4535c8db4f4f9df57a303f8",
+      "bytes": 983
+    },
+    "eda/flagged_changes.csv": {
+      "sha256": "418881a75935a9c67307baf8ccef36446bc71553ffdedb96fecc92a115928b24",
+      "bytes": 7706
+    },
+    "eda/matched_correlations.csv": {
+      "sha256": "8f4d9fc3b9924cf1c014d90977974f6e03d41d78e7055855ca1fa65e8763f7ce",
+      "bytes": 2001
+    },
+    "eda/missing_spans.csv": {
+      "sha256": "65d02dd8629d9407641348fd369b250891e477e179a6751b8358bd685d774c9a",
+      "bytes": 3379
+    },
+    "eda/persistence.csv": {
+      "sha256": "060b8fd8352c20e896c5f0a1754669381824e6a1473cf5d4085d02e257ff0aae",
+      "bytes": 526
+    },
+    "eda/yearly_change_profile.csv": {
+      "sha256": "892beba9af743a77e12ec0012d7704de318add284c5e1a1db194b7534b49240a",
+      "bytes": 10742
+    },
+    "predictor_reconciliation/legacy_construction_findings.json": {
+      "sha256": "68d754da8103f5489dfd173535470437ec2d4444873b8380ac7317a389582be1",
+      "bytes": 699
+    },
+    "predictor_reconciliation/PREDICTOR_RECONCILIATION_REPORT.txt": {
+      "sha256": "c3b2bed17072361f76a96232b278df1a97459222c6d87eaec0a5ba144f5d7019",
+      "bytes": 12585
+    }
+  },
+  "review_revision": 3,
+  "amendment_independent_source_facts": {
+    "legacy_grid_rows": 190,
+    "grid_start": "2011-01",
+    "grid_end": "2026-10",
+    "annual_gdp_records": 26,
+    "annual_release_claims_before_observation_year_end": 26,
+    "paired_FX_rows": 179,
+    "FX_numerically_equal_mean_close": 179,
+    "post_Dec2024_rows": 22,
+    "post_Dec2024_equal_counts": {
+      "brent_crude_usd": 0,
+      "dubai_crude_usd": 22,
+      "wti_crude_usd": 22,
+      "henry_hub_usd": 0,
+      "ttf_gas_usd": 22,
+      "lng_japan_usd": 22
+    },
+    "source_semantics": "Code maps Natural gas, Europe to ttf_gas_usd; that field name does not establish standalone TTF spot identity",
+    "git_source_hashes": {
+      "BTP_CNG_Data/structured/numerical_factors/external_shocks_monthly.csv": "4b4c7f6725f813d1c026568a6fca8b4677c4d55cec60041ff0df5b36a5405fdc",
+      "BTP_CNG_Data/structured/numerical_factors/macro_annual_gdp.csv": "796248ee38a782947bae2abc9157bf7a78d3c76d23cd5a130db366dec55fb008",
+      "BTP_CNG_Data/scripts/02_extract_external_shocks.py": "a94944b6bf13743f7ad1fd75c534d62fe89d81bb0a4fc334eab968cbb5ac9bb6"
+    }
+  },
+  "review_history": {
+    "prior_receipt_directory": "/Users/virajvekariya/.codex/worktrees/stage3-consolidation/BTP/BTP_CNG_Data/stage4_2026-11-09/reconciliation_targets/review_history/revision_001_prior_predictor_addition",
+    "prior_reviewed_checkpoint_sha256": "9fca9066ed45cff44e318e1c0f44af81f95b91041a0438a895176f3bf2ba8f78",
+    "current_checkpoint_sha256": "c96c39f5155ab6a2d3921af378864b68f91ad9826464ee4a9f9a67402c00ce9e",
+    "actual_prior_checkpoint_bytes_preserved": false,
+    "prior_byte_status": "Original prior checkpoint bytes were not separately retained by this reviewer. Earlier receipt preserved with prior hash; current-minus-addition hash matches that prior hash in memory. No fake original backup created.",
+    "source_addition_only_confirmed": true,
+    "initial_delta_checker_directory": "/Users/virajvekariya/.codex/worktrees/stage3-consolidation/BTP/BTP_CNG_Data/stage4_2026-11-09/reconciliation_targets/review_history/revision_002_initial_delta_checker",
+    "tracker_initial_review_sha256": "95660d88d05cdd0b395c72e9f2da163ed0e303612bb18534c07a4162aece3bd5",
+    "tracker_current_review_sha256": "e218ad55f8cc2875b2ef2c6575e98cbc3fe550e9cd95ac99ee54f96cf6ba5fb3"
+  },
+  "registry_postreview_append_policy": {
+    "path": "metadata/experiment_registry.jsonl",
+    "reviewed_prefix_bytes": 14848,
+    "reviewed_prefix_sha256": "1db68fe1ab9e9cf9a7a2f1cd04479a056eed0ea2f370bc78fa21fb0a270248ad",
+    "reviewed_prefix_entries": 13,
+    "reviewed_prefix_experiment_ids": [
+      "S4R-SPEC-20261109-001",
+      "S4R-TARGETS-2026-11-09T11:23:29.316966+00:00",
+      "S4R-TARGETS-2026-11-09T11:23:29.316966+00:00-RESULT",
+      "S4R-EDA-2026-11-09T11:25:14.589658+00:00",
+      "S4R-EDA-2026-11-09T11:25:14.589658+00:00-RESULT",
+      "S4R-FAIL-LINEAGE-001",
+      "S4R-TARGETS-2026-11-09T11:26:08.428926+00:00",
+      "S4R-TARGETS-2026-11-09T11:26:08.428926+00:00-RESULT",
+      "S4R-EDA-2026-11-09T11:26:08.564095+00:00",
+      "S4R-EDA-2026-11-09T11:26:08.564095+00:00-RESULT",
+      "S4R-HORIZON-COVERAGE-2026-11-09T11:28:37.152123+00:00",
+      "S4R-HORIZON-COVERAGE-2026-11-09T11:28:37.152123+00:00-RESULT",
+      "S4R-ENV-001"
+    ],
+    "permitted_suffix_records": 6,
+    "permitted_suffix_status": "completed_source_journal_link",
+    "constraints": [
+      "Existing reviewed prefix must be byte-identical with length/hash above",
+      "Only six completed source-journal link records may append; no existing line changed or removed",
+      "All experiment_ids must remain unique, including across prefix and suffix",
+      "Suffix is pointers/hashes to already completed audit journals and outputs, not new analysis, data admission or scientific result changes",
+      "All other scientific inputs must match reviewed exact-file hashes; any new analytical change requires a new review"
+    ],
+    "reason": "Completed audit-link metadata includes this review itself; append-only provenance links after review avoid circular hashing and do not alter scientific findings"
+  },
+  "reviewer_delta_check_correction": "The initial delta pass compared FX assignment source as literal float(c), whereas the recorded collector uses identical round(float(c),4) expressions. Corrected with independent AST comparison; earlier false mismatch preserved. Tracker was also updated in completion metadata; actual stage gates and scope were rechecked, not assumed unchanged."
+}

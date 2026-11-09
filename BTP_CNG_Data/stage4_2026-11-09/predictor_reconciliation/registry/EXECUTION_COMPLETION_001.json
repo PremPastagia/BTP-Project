@@ -1,0 +1,34 @@
+{
+  "recorded_at_utc": "2026-11-09T11:40:16.880369+00:00",
+  "status": "executed_and_verified_for_Stage4_audit_scope",
+  "receipts": [
+    {
+      "path": "audit_results.json",
+      "sha256": "57f2350f2dbafd554a71c8e2d8d6ab00a2232ed8a16291373c58c21795ceadef"
+    },
+    {
+      "path": "ppac_audit_results.json",
+      "sha256": "89179480af39187d1ab14cabe53598e80eafb12d50381570dd25c9ce64145aff"
+    },
+    {
+      "path": "core_availability_summary.json",
+      "sha256": "9e50cc9da2a5a53508f19bf3bd7d225d2e09a41397fac256782b8264eae4d9ca"
+    },
+    {
+      "path": "audit_integrity_checks.json",
+      "sha256": "5ac91e1835bed203647346e3af205606ce1f7e1231b2b1e137d55ccbfa4be3e6"
+    }
+  ],
+  "previous_snapshots_modified": false,
+  "future_holdout_outcomes_analyzed_or_disclosed": false,
+  "models_or_inferential_tests_run": false,
+  "strict_new_H1_H2_admissions": 0,
+  "qualified_PPAC_sensitivity_records": 41,
+  "strict_core_rows": 60,
+  "qualified_core_reference_rows": 88,
+  "limitations": [
+    "Strict core factors cover reserved origins only; no development-origin strict numerical coverage.",
+    "PPAC source-date proxy tier remains separate and sensitivity-only.",
+    "Source-version/publication and selected-corpus gaps remain documented."
+  ]
+}

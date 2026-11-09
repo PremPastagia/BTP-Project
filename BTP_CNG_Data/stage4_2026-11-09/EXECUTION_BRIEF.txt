@@ -1,0 +1,256 @@
+You are continuing my BTech research project, **“Forecasting Retail CNG Prices Across Indian Cities Using Statistical and Machine Learning Models.”**
+
+Treat this message as the project handoff and execution brief for **Stages 4–9**. Your task is to turn the existing data collection into a defensible, reproducible forecasting study and final research deliverables.
+
+You already have project context and have independently worked on Stage 3. Another project, BTP, also completed a Stage 3 collection and recovery pipeline. Reconcile both projects’ actual evidence before proceeding. Do not assume their datasets, verification standards, or completion claims are identical.
+
+## 1. Intent and working approach
+
+My objective is a completed research study with trustworthy data, leakage-safe experiments, fair model comparisons, and conclusions supported by executed results.
+
+Work systematically through stages 4–9. Maintain continuity, preserve completed work, and use the simplest methods that adequately answer the research questions.
+
+- First inspect your existing project instructions, files, completed work, and earlier workflow decisions.
+- If an earlier agreed nine-stage workflow exists, preserve its stage names and map the requirements below onto it.
+- Otherwise, use the stage definitions in this message as the operational continuation.
+- Do not describe this mapping as a previously confirmed agreement unless you can retrieve that agreement.
+- Do not restart completed collection or repeat successful work without a specific reason.
+- Do not stop after giving a generic plan. Begin the work that your available tools and files support.
+- Continue through routine, reversible decisions without repeatedly seeking permission.
+- Ask focused questions only when missing information materially affects the research design or prevents execution.
+- If files, tools, or computing access are unavailable, identify the precise dependency and continue independent work. Distinguish prepared work from executed work.
+- Never fabricate data, citations, experiments, performance metrics, or completion claims.
+
+## 2. Research context inherited from BTP
+
+**Geography:** Delhi, Mumbai, Pune, Ahmedabad, Gurgaon, Noida, Lucknow, Kanpur, Hyderabad, and Bengaluru.
+
+**Frequency:** Monthly.
+
+**Historical collection envelope:** January 2011–October 2026. This is an unbalanced city panel; it does not imply every city has 190 usable months.
+
+**Two target formulations:**
+
+1. `cng_price_monthend`: retail CNG price on the last calendar day of the month, in ₹/kg.
+2. `cng_price_twap`: calendar-day time-weighted average retail CNG price during the month, in ₹/kg.
+
+**Forecast horizons:** 1, 3, and 6 months ahead.
+
+**Research comparisons:**
+
+- **H1 — numerical models:** Evaluate predictive information from historical CNG prices and available energy, macroeconomic, regulatory, and regional variables.
+- **H2 — text augmentation:** Test whether contemporaneously available news and corporate disclosures improve forecasts beyond the same numerical models.
+
+These are predictive questions. Do not infer causality from feature importance, correlations, sentiment associations, or forecasting improvements.
+
+### Reported Stage 3 artifacts in BTP
+
+The repository reports:
+
+- 1,503 finalized city-month target rows.
+- 2,293 discrete price observations.
+- 275 revision-table records, including initial city baselines; establish the count of actual nonzero price changes separately.
+- 190 months of external-factor data.
+- 799 corporate-disclosure metadata records.
+- 10 news/policy records.
+- 8 regulatory events.
+- A separate provisional target table containing incomplete periods.
+- A quarantine containing a formula-generated VAHAN registration series.
+
+Relevant repository locations include:
+
+- `BTP_CNG_Data/STAGE3_PROGRESS.md`
+- `BTP_CNG_Data/structured/price_revisions/`
+- `BTP_CNG_Data/structured/numerical_factors/`
+- `BTP_CNG_Data/structured/policy_events/`
+- `BTP_CNG_Data/structured/news/`
+- `BTP_CNG_Data/structured/corporate_disclosures/`
+- `BTP_CNG_Data/metadata/`
+- `BTP_CNG_Data/scripts/`
+- `BTP_CNG_Data/quarantine/`
+- `research_workflow/`
+
+These are references to the other project's files, not evidence that you can access them. Inspect them if available; otherwise request the specific files needed. Do not claim to have read inaccessible artifacts.
+
+### Important qualifications
+
+Stage 3’s status report says “completed, verified, and frozen.” Treat that as a recorded status, not proof that every row is authentic, suitable for modeling, or available at its historical forecast origin.
+
+Known concerns requiring reconciliation:
+
+- Some early prices are described as constructed or backward-held baselines.
+- Sample target rows contain `publication_verification_status = unverified_feed_proxy`.
+- City histories differ substantially: reported coverage includes only 20 months for Bengaluru and 60 for Kanpur.
+- Ten news records are a sparse event collection, not a comprehensive monthly sentiment corpus.
+- Corporate metadata counts do not establish that 799 full documents were downloaded and extracted.
+- A content hash establishes consistency of the hashed payload, not factual authenticity or completeness.
+- A one-month shift does not, by itself, establish historical predictor availability.
+- `observation_date <= publication_release_date` is not sufficient for leakage prevention. The relevant condition is that the information was publicly available by the forecast origin.
+- Monthly VAHAN registrations remain unobserved in the active data. The quarantined synthetic series must never enter empirical analysis.
+- Historical VAT, sourcing mix, PPAC archives, and other variables remain in a manual collection queue.
+
+Preserve the frozen inputs. Record any corrections as versioned changes with reasons and provenance.
+
+## 3. Stage 4 — Reconcile data, preprocess, and explore
+
+**Purpose:** Establish an analysis dataset whose coverage, construction, and limitations are understood.
+
+1. Inventory both projects’ available artifacts and compare schemas, units, sources, coverage, timestamps, and quality flags.
+2. Create a reconciliation table identifying matches, conflicts, duplicates, gaps, and decisions.
+3. Audit city-month uniqueness, missing periods, target construction, price revisions, provenance, and incomplete months.
+4. Distinguish observed prices, legitimate holds after verified effective dates, reconstructed baselines, unsupported fills, and unverified observations.
+5. Define the main analysis sample using defensible eligibility rules. Evaluate questionable historical segments separately where useful.
+6. Audit predictor release dates, revisions, publication timestamps, and historical vintages. Document conservative assumptions when exact availability is unknown.
+7. Profile missingness, distributions, price-change frequency, city differences, dependence, and plausible structural breaks.
+8. Separate descriptive exploration from decisions that could influence model selection. Keep final-test outcomes concealed.
+9. Fit imputation, scaling, outlier handling, and learned transformations only within training folds.
+
+Do not make a balanced panel by inventing observations. Do not treat unsupported historical values as verified measurements.
+
+**Deliverables:** reconciliation report, quality assessment, analysis-ready data, updated dictionary, transformation log, coverage plots, and an executable preprocessing pipeline.
+
+**Completion gate:** Every retained variable and target segment has a documented meaning, source, quality status, and availability rule.
+
+## 4. Stage 5 — Freeze the forecasting design and engineer features
+
+**Purpose:** Specify a fair experiment before inspecting final-test performance.
+
+1. Define forecast origins, target months, and the exact meaning of each horizon.
+2. Prespecify how the two targets will be evaluated and identify the primary comparison.
+3. Choose chronological development and final-test periods based on actual usable coverage.
+4. Use rolling-origin or expanding-window validation.
+5. Ensure training labels were observable by each forecast origin, including for overlapping multi-step targets.
+6. Decide whether city-specific, pooled, or both model types are justified.
+7. Define feasible evaluation rules for short-history cities.
+8. Engineer parsimonious features such as target lags, past price changes, time since the last known revision, trailing summaries, and available external variables.
+9. Align each predictor to its actual or conservatively assumed availability.
+10. Identify already-lagged fields to prevent accidental double-lagging.
+11. Do not use realized future covariates. Use origin-available values, separately forecast covariates, or explicitly labeled scenarios.
+12. Audit text timestamps and city/operator relevance. Exclude retrospective summaries and target-revealing material unavailable at the origin.
+13. Freeze model candidates, tuning budgets, metrics, sample rules, and comparison procedures.
+
+Use MAE, RMSE, and MASE where defined. Specify MASE denominators and handling of constant series. Treat percentage metrics cautiously. Prespecify uncertainty methods and interval evaluation if probabilistic forecasts are included.
+
+**Deliverables:** experiment specification, split manifest, feature dictionary, availability rules, and leakage checks.
+
+**Completion gate:** Every model comparison can be reproduced using information available at the same historical origins.
+
+## 5. Stage 6 — Establish forecasting baselines
+
+**Purpose:** Measure how much value modeling adds over simple forecasts.
+
+Evaluate:
+
+- Last observed price.
+- Seasonal naive, where sufficient history and plausible seasonality exist.
+- Drift.
+- Appropriate statistical models, such as ETS, ARIMA, or dynamic regression.
+- A simple regularized regression where appropriate.
+
+CNG prices can remain unchanged for long periods. Treat persistence as a serious benchmark.
+
+Use identical eligible origins, horizons, and target definitions for paired comparisons. Report city-level and horizon-level performance, along with clearly defined aggregate summaries.
+
+For dynamic regression, obey the future-covariate rules established in Stage 5.
+
+**Deliverables:** executable baseline pipeline, saved predictions, run records, metrics, diagnostics, and baseline comparison tables.
+
+**Completion gate:** Baseline results trace to actual runs and provide a fair reference for advanced models.
+
+## 6. Stage 7 — Develop numerical and text-augmented models
+
+**Purpose:** Test whether additional complexity and text information improve forecasting.
+
+1. Begin with a small, justified set of numerical models.
+2. Tune using development folds only, with comparable search budgets.
+3. Prefer regularization and manageable feature sets given the limited independent time history.
+4. Compare city-specific and pooled models only where the data support them.
+5. Treat deep learning as optional. Use it only if data adequacy and the research question justify it.
+6. Evaluate text augmentation using matched numerical-only and numerical-plus-text experiments with the same origins and shared-period samples.
+7. Separate missing text coverage from genuine zero-event periods.
+8. Document extraction, timestamp checks, deduplication, labeling, sentiment orientation, model versions, and aggregation rules.
+9. Avoid describing ten selected articles as a comprehensive sentiment dataset.
+10. If the text corpus is inadequate, limit H2 to a clearly labeled exploratory analysis or report that it could not be tested convincingly.
+11. For pretrained text models, disclose whether their training cutoff permits a credible historical simulation. Avoid claiming strict historical availability without evidence.
+
+Preserve failed runs and negative results. Do not keep expanding the model list to obtain a favorable outcome.
+
+**Deliverables:** numerical-model results, matched text ablations, saved predictions, tuning records, and documented model-selection decisions.
+
+**Completion gate:** Selected models have reproducible development evidence, and any text-benefit claim is supported by a controlled comparison.
+
+## 7. Stage 8 — Perform final evaluation and robustness analysis
+
+**Purpose:** Assess generalization after the modeling procedure is fixed.
+
+1. Lock preprocessing, features, model choices, and tuning rules before revealing final-test outcomes.
+2. Execute the prespecified final evaluation. If sequential refitting is allowed, follow the frozen procedure using only information available at each origin.
+3. Report performance by target, city, horizon, and model.
+4. Compare models on matched samples and explain exclusions.
+5. Quantify uncertainty using methods that respect temporal and cross-city dependence.
+6. Account for overlapping multi-step errors and multiple comparisons where relevant.
+7. Examine robustness to questionable historical baselines, sample periods, city eligibility, missing predictors, and text coverage.
+8. Evaluate performance around price revisions where sample size permits; label exploratory analyses.
+9. Assess interval coverage and width when intervals are produced.
+10. Report ties, instability, and failures honestly. A complex model may not beat persistence.
+
+If later changes use test outcomes, label them exploratory and acknowledge that the test is no longer untouched.
+
+**Deliverables:** final evaluation tables, uncertainty estimates, robustness findings, error analysis, and a defensible interpretation of H1 and H2.
+
+**Completion gate:** Every conclusion traces to saved predictions and appropriate comparisons.
+
+## 8. Stage 9 — Complete the thesis and reproducibility package
+
+**Purpose:** Produce a coherent research submission supported by the executed study.
+
+Prepare:
+
+- Abstract and introduction.
+- Research questions, hypotheses, and contribution.
+- Verified literature review.
+- Data sources, construction, provenance, and limitations.
+- Preprocessing and forecasting methodology.
+- Validation and leakage safeguards.
+- Baseline, numerical-model, and text-augmentation results.
+- Robustness analysis and uncertainty.
+- Discussion, limitations, and future work.
+- Conclusion proportionate to the evidence.
+- Verified references and technical appendices.
+
+Package the code, configuration, environment information, seeds, data manifests, run records, prediction files, and reproduction instructions. Explain any licensed or inaccessible data dependencies.
+
+Complete the reproducibility checklist. Keep every table, figure, and claim consistent with the saved results. Never insert plausible-looking results into unfinished sections.
+
+**Completion gate:** An independent reader can understand the evidence, identify its limits, and reproduce the main findings with the documented inputs and access.
+
+## 9. Progress and completion discipline
+
+Maintain a persistent stage tracker containing:
+
+- Stage and objective.
+- Status: not started, in progress, blocked, or completed.
+- Inputs and outputs.
+- Checks actually executed.
+- Decisions and assumptions.
+- Remaining dependencies.
+- Evidence supporting completion.
+
+At each stage boundary, briefly report what was completed, what was learned, material limitations, and the next action. Continue when the completion gate is satisfied and no material user decision is needed.
+
+Do not label a stage completed because its plan or code exists. Execution and verification are required where the stage calls for empirical work.
+
+## 10. Your first action
+
+Start by reviewing your existing BTP2 context and accessible artifacts.
+
+Then:
+
+1. State what is demonstrably completed in BTP2.
+2. Distinguish it from completion reported by BTP.
+3. Identify conflicts and missing artifacts.
+4. Reconcile any earlier stage definitions with this brief.
+5. Establish the stage tracker.
+6. Begin Stage 4 using the available evidence.
+
+Treat this as an instruction to carry the research forward through stages 4–9 with methodological care and concrete deliverables.

@@ -1,0 +1,588 @@
+{
+  "run_id": "TARGET-FINAL-20261109T113332468231Z",
+  "main_successful_audit": {
+    "run_id": "TARGET-RECON-20261109T113115894422Z",
+    "run_directory": "/Users/virajvekariya/.codex/worktrees/stage3-consolidation/BTP/BTP_CNG_Data/stage4_2026-11-09/reconciliation_targets/runs/TARGET-RECON-20261109T113115894422Z",
+    "summary_path": "/Users/virajvekariya/.codex/worktrees/stage3-consolidation/BTP/BTP_CNG_Data/stage4_2026-11-09/reconciliation_targets/runs/TARGET-RECON-20261109T113115894422Z/reconciliation_summary.json"
+  },
+  "main_summary_sha256": "4c8840f21476efa9a490398011eacc479e236c63b2d3de40125c9b51810e62da",
+  "independent_method": "Exact rational interval-prefix reconstruction, separately coded calendar-day legacy replication, raw-feed pair matching and source-object lineage verification; no producer helper imported",
+  "legacy_flag_errors": [],
+  "legacy_revision_set_errors": 0,
+  "legacy_panel_arithmetic_errors": [],
+  "legacy_panel_rows_recomputed": 1521,
+  "legacy_revision_type_counts": {
+    "initial_baseline": 10,
+    "price_hike": 213,
+    "price_cut": 52,
+    "observation_hold": 2018
+  },
+  "legacy_revision_list_rows": 275,
+  "legacy_baseline_caution": "is_price_revision=True includes initial_baseline; 275 selected rows are 265 nonzero sampled changes plus 10 baselines",
+  "legacy_source_timing": [
+    {
+      "city": "Delhi",
+      "rows": 249,
+      "distinct_publication_verification_status": [
+        "unverified_distributor_feed_timestamp"
+      ],
+      "feed_dates_copied_to_publication_dates": true,
+      "source_ids": [
+        "SRC-03"
+      ],
+      "source_names": [
+        "MyPetrolPrice / CGD Circulars"
+      ]
+    },
+    {
+      "city": "Mumbai",
+      "rows": 236,
+      "distinct_publication_verification_status": [
+        "unverified_distributor_feed_timestamp"
+      ],
+      "feed_dates_copied_to_publication_dates": true,
+      "source_ids": [
+        "SRC-03"
+      ],
+      "source_names": [
+        "MyPetrolPrice / CGD Circulars"
+      ]
+    },
+    {
+      "city": "Pune",
+      "rows": 236,
+      "distinct_publication_verification_status": [
+        "unverified_distributor_feed_timestamp"
+      ],
+      "feed_dates_copied_to_publication_dates": true,
+      "source_ids": [
+        "SRC-03"
+      ],
+      "source_names": [
+        "MyPetrolPrice / CGD Circulars"
+      ]
+    },
+    {
+      "city": "Ahmedabad",
+      "rows": 239,
+      "distinct_publication_verification_status": [
+        "unverified_distributor_feed_timestamp"
+      ],
+      "feed_dates_copied_to_publication_dates": true,
+      "source_ids": [
+        "SRC-03"
+      ],
+      "source_names": [
+        "MyPetrolPrice / CGD Circulars"
+      ]
+    },
+    {
+      "city": "Lucknow",
+      "rows": 222,
+      "distinct_publication_verification_status": [
+        "unverified_distributor_feed_timestamp"
+      ],
+      "feed_dates_copied_to_publication_dates": true,
+      "source_ids": [
+        "SRC-03"
+      ],
+      "source_names": [
+        "MyPetrolPrice / CGD Circulars"
+      ]
+    },
+    {
+      "city": "Kanpur",
+      "rows": 216,
+      "distinct_publication_verification_status": [
+        "unverified_distributor_feed_timestamp"
+      ],
+      "feed_dates_copied_to_publication_dates": true,
+      "source_ids": [
+        "SRC-03"
+      ],
+      "source_names": [
+        "MyPetrolPrice / CGD Circulars"
+      ]
+    },
+    {
+      "city": "Hyderabad",
+      "rows": 220,
+      "distinct_publication_verification_status": [
+        "unverified_distributor_feed_timestamp"
+      ],
+      "feed_dates_copied_to_publication_dates": true,
+      "source_ids": [
+        "SRC-03"
+      ],
+      "source_names": [
+        "MyPetrolPrice / CGD Circulars"
+      ]
+    },
+    {
+      "city": "Bengaluru",
+      "rows": 206,
+      "distinct_publication_verification_status": [
+        "unverified_distributor_feed_timestamp"
+      ],
+      "feed_dates_copied_to_publication_dates": true,
+      "source_ids": [
+        "SRC-03"
+      ],
+      "source_names": [
+        "MyPetrolPrice / CGD Circulars"
+      ]
+    },
+    {
+      "city": "Noida",
+      "rows": 239,
+      "distinct_publication_verification_status": [
+        "unverified_distributor_feed_timestamp"
+      ],
+      "feed_dates_copied_to_publication_dates": true,
+      "source_ids": [
+        "SRC-03"
+      ],
+      "source_names": [
+        "MyPetrolPrice / CGD Circulars"
+      ]
+    },
+    {
+      "city": "Gurgaon",
+      "rows": 230,
+      "distinct_publication_verification_status": [
+        "unverified_distributor_feed_timestamp"
+      ],
+      "feed_dates_copied_to_publication_dates": true,
+      "source_ids": [
+        "SRC-03"
+      ],
+      "source_names": [
+        "MyPetrolPrice / CGD Circulars"
+      ]
+    }
+  ],
+  "lineage_repair_preserved_versions": [
+    {
+      "dataset": "coverage_calendar",
+      "rows": 1900,
+      "lineage_changed_rows": 17,
+      "numeric_fields_tested": [
+        "cng_price_monthend",
+        "cng_price_twap",
+        "twap_conditional_lower",
+        "twap_conditional_upper",
+        "covered_days",
+        "calendar_days"
+      ]
+    },
+    {
+      "dataset": "analysis_targets",
+      "rows": 424,
+      "lineage_changed_rows": 17,
+      "numeric_fields_tested": [
+        "cng_price_monthend",
+        "cng_price_twap",
+        "twap_conditional_lower",
+        "twap_conditional_upper",
+        "covered_days",
+        "calendar_days"
+      ]
+    },
+    {
+      "dataset": "development_targets",
+      "rows": 394,
+      "lineage_changed_rows": 15,
+      "numeric_fields_tested": [
+        "cng_price_monthend",
+        "cng_price_twap",
+        "twap_conditional_lower",
+        "twap_conditional_upper",
+        "covered_days",
+        "calendar_days"
+      ]
+    },
+    {
+      "dataset": "reserved_targets",
+      "rows": 30,
+      "lineage_changed_rows": 2,
+      "numeric_fields_tested": [
+        "cng_price_monthend",
+        "cng_price_twap",
+        "twap_conditional_lower",
+        "twap_conditional_upper",
+        "covered_days",
+        "calendar_days"
+      ]
+    },
+    {
+      "dataset": "auxiliary_coverage_calendar",
+      "rows": 380,
+      "lineage_changed_rows": 9,
+      "numeric_fields_tested": [
+        "cng_price_monthend",
+        "cng_price_twap",
+        "twap_conditional_lower",
+        "twap_conditional_upper",
+        "covered_days",
+        "calendar_days"
+      ]
+    },
+    {
+      "dataset": "auxiliary_targets",
+      "rows": 128,
+      "lineage_changed_rows": 9,
+      "numeric_fields_tested": [
+        "cng_price_monthend",
+        "cng_price_twap",
+        "twap_conditional_lower",
+        "twap_conditional_upper",
+        "covered_days",
+        "calendar_days"
+      ]
+    }
+  ],
+  "lineage_repair_numeric_errors": [],
+  "main_independent_summary": {
+    "run_id": "TARGET-RECON-20261109T113115894422Z",
+    "accepted_interval_rows": 275,
+    "approved_snapshot_sha256": "0a53065b6a816434d5ecc83a9cff4671fca7e74e75c4712a67f59cf59311a4c1",
+    "intended_cities": [
+      "Delhi",
+      "Mumbai",
+      "Pune",
+      "Ahmedabad",
+      "Gurgaon",
+      "Noida",
+      "Lucknow",
+      "Kanpur",
+      "Hyderabad",
+      "Bengaluru"
+    ],
+    "envelope": [
+      "2011-01",
+      "2026-10"
+    ],
+    "intended_grid_rows": 1900,
+    "primary_accepted_monthend": 424,
+    "primary_accepted_average": 416,
+    "primary_development_monthend": 394,
+    "primary_development_average": 386,
+    "auxiliary_monthend": 128,
+    "auxiliary_average": 125,
+    "cities_missing_accepted_paths": [
+      "Mumbai",
+      "Pune",
+      "Ahmedabad",
+      "Gurgaon",
+      "Kanpur",
+      "Hyderabad",
+      "Bengaluru"
+    ],
+    "legacy_observation_rows": 2293,
+    "legacy_baselines": 10,
+    "legacy_actual_nonzero_sampled_changes": 265,
+    "legacy_same_price_repeats": 2018,
+    "legacy_provisional_rows": 18,
+    "legacy_partial_first_months": 8,
+    "legacy_incomplete_November_rows": 10,
+    "raw_table_linkage_failures": 0,
+    "producer_math_discrepancies": 0,
+    "producer_lineage_discrepancies": 0,
+    "legacy_versions": {
+      "coverage_calendar": 1900,
+      "analysis_targets": 424,
+      "development_targets": 394,
+      "reserved_targets": 30,
+      "auxiliary_coverage_calendar": 380,
+      "auxiliary_targets": 128,
+      "git6b_complete": {
+        "rows": 1503,
+        "duplicate_city_month_rows": 0,
+        "comparison_status_counts": {
+          "exact_numeric_match": 316,
+          "numeric_conflict": 466,
+          "match_at_export_precision": 16,
+          "no_accepted_counterpart": 2208
+        },
+        "comparison_status_counts_by_target": {
+          "monthend": {
+            "exact_numeric_match": 187,
+            "numeric_conflict": 216,
+            "no_accepted_counterpart": 1100
+          },
+          "average": {
+            "exact_numeric_match": 129,
+            "numeric_conflict": 250,
+            "match_at_export_precision": 16,
+            "no_accepted_counterpart": 1108
+          }
+        }
+      },
+      "git6b_provisional": {
+        "rows": 18,
+        "duplicate_city_month_rows": 0,
+        "comparison_status_counts": {
+          "excluded_outside_envelope": 20,
+          "no_accepted_counterpart": 14,
+          "numeric_conflict": 2
+        },
+        "comparison_status_counts_by_target": {
+          "monthend": {
+            "excluded_outside_envelope": 10,
+            "no_accepted_counterpart": 7,
+            "numeric_conflict": 1
+          },
+          "average": {
+            "excluded_outside_envelope": 10,
+            "no_accepted_counterpart": 7,
+            "numeric_conflict": 1
+          }
+        }
+      },
+      "current_root_legacy_panel": {
+        "rows": 1521,
+        "duplicate_city_month_rows": 0,
+        "comparison_status_counts": {
+          "exact_numeric_match": 316,
+          "numeric_conflict": 468,
+          "match_at_export_precision": 16,
+          "no_accepted_counterpart": 2222,
+          "excluded_outside_envelope": 20
+        },
+        "comparison_status_counts_by_target": {
+          "monthend": {
+            "exact_numeric_match": 187,
+            "numeric_conflict": 217,
+            "no_accepted_counterpart": 1107,
+            "excluded_outside_envelope": 10
+          },
+          "average": {
+            "exact_numeric_match": 129,
+            "numeric_conflict": 251,
+            "match_at_export_precision": 16,
+            "no_accepted_counterpart": 1115,
+            "excluded_outside_envelope": 10
+          }
+        }
+      },
+      "desktop_legacy_complete": {
+        "rows": 1503,
+        "duplicate_city_month_rows": 0,
+        "comparison_status_counts": {
+          "exact_numeric_match": 316,
+          "numeric_conflict": 466,
+          "match_at_export_precision": 16,
+          "no_accepted_counterpart": 2208
+        },
+        "comparison_status_counts_by_target": {
+          "monthend": {
+            "exact_numeric_match": 187,
+            "numeric_conflict": 216,
+            "no_accepted_counterpart": 1100
+          },
+          "average": {
+            "exact_numeric_match": 129,
+            "numeric_conflict": 250,
+            "match_at_export_precision": 16,
+            "no_accepted_counterpart": 1108
+          }
+        }
+      },
+      "desktop_fresh_source_targets": {
+        "rows": 931,
+        "duplicate_city_month_rows": 0,
+        "comparison_status_counts": {
+          "excluded_outside_envelope": 24,
+          "exact_numeric_match": 594,
+          "match_at_export_precision": 84,
+          "no_accepted_counterpart": 1160
+        },
+        "comparison_status_counts_by_target": {
+          "monthend": {
+            "excluded_outside_envelope": 12,
+            "exact_numeric_match": 339,
+            "no_accepted_counterpart": 580
+          },
+          "average": {
+            "excluded_outside_envelope": 12,
+            "match_at_export_precision": 84,
+            "exact_numeric_match": 255,
+            "no_accepted_counterpart": 580
+          }
+        }
+      },
+      "PR1_unresolved_panel": {
+        "rows": 1511,
+        "duplicate_city_month_rows": 0,
+        "comparison_status_counts": {
+          "missing_source_target": 3022
+        },
+        "comparison_status_counts_by_target": {
+          "monthend": {
+            "missing_source_target": 1511
+          },
+          "average": {
+            "missing_source_target": 1511
+          }
+        }
+      },
+      "PR1_monthly_candidates": {
+        "rows": 350,
+        "duplicate_city_month_rows": 0,
+        "comparison_status_counts": {
+          "exact_numeric_match": 396,
+          "match_at_export_precision": 49,
+          "no_accepted_counterpart": 251,
+          "numeric_conflict": 4
+        },
+        "comparison_status_counts_by_target": {
+          "monthend": {
+            "exact_numeric_match": 225,
+            "no_accepted_counterpart": 124,
+            "numeric_conflict": 1
+          },
+          "average": {
+            "match_at_export_precision": 49,
+            "exact_numeric_match": 171,
+            "no_accepted_counterpart": 127,
+            "numeric_conflict": 3
+          }
+        }
+      },
+      "prior_restricted_Stage4": {
+        "rows": 645,
+        "duplicate_city_month_rows": 0,
+        "comparison_status_counts": {
+          "exact_numeric_match": 964,
+          "match_at_export_precision": 129,
+          "missing_source_target": 171,
+          "excluded_outside_envelope": 26
+        },
+        "comparison_status_counts_by_target": {
+          "monthend": {
+            "exact_numeric_match": 552,
+            "missing_source_target": 79,
+            "excluded_outside_envelope": 14
+          },
+          "average": {
+            "match_at_export_precision": 129,
+            "exact_numeric_match": 412,
+            "missing_source_target": 92,
+            "excluded_outside_envelope": 12
+          }
+        }
+      }
+    },
+    "critical_validity_qualifications": [
+      "Commercial chart observations and derived holds are not verified effective-date price paths",
+      "No examined CNG builder backward-fills dates before its earliest feed observation; do not equate every forward hold with a fabricated observation",
+      "Price equality does not certify publication availability or complete source history",
+      "Agra and Unnao retained as auxiliary only under current intended-city brief",
+      "Legacy publication proxies remain unverified; synthetic VAHAN not used",
+      "All reserved numeric comparison was source-quality audit only; no reserved EDA/model/metric selection"
+    ],
+    "reserved_outcome_quality_access": true,
+    "stage5_started": false,
+    "boundary_checks": [
+      "29-day February exact 14/15-day split",
+      "inclusive start and exclusive end",
+      "no extension past final endpoint",
+      "one-day gap remains uncovered",
+      "input interval overlap rejected by explicit assertion",
+      "source first-day bounds require known previous day"
+    ],
+    "excluded_intervals_checked": 12,
+    "excluded_intervals_used": 0,
+    "all_exports_lineage_rows_checked": 3256,
+    "explicit_predecessor_fields_checked": true,
+    "prior_stage4_matched_subset_conflicts": 0,
+    "local_archive_root": "/Users/virajvekariya/Desktop/[ME] BTP",
+    "reproduction_dependencies": "Standard-library Python, this repository with Git commit 6b08b99666ef2b08605c63499418503a4d666c3b available, current/accepted/prior targets, and optional Desktop archive supplied by --desktop-root; frozen audit input copies and source inventory are retained"
+  },
+  "gate_decision": "PASS restricted target transformation and source reconciliation checks, conditional on documented source-path/day-end/timing assumptions; no full-ten-city completion or Stage5 approval",
+  "limitations": [
+    "Seven intended markets lack accepted paths; auxiliary Agra/Unnao do not fill those cities",
+    "Source-supported intervals remain qualified retrospective paths; unknown original publication dates prohibit historical forecasting predictor use",
+    "cng_price_twap is the approved calendar-day-weighted mean of day-end quotes, not identified continuous-time TWAP",
+    "Reported lower/upper bounds are conditional on source completeness and within-day boundary uncertainty assumptions, not empirical prediction intervals",
+    "Reserved outcomes accessed only for source/mathematical audit; prior study exposure prevents claims of pristine untouched research history",
+    "Legacy matching or mathematical reproducibility does not validate authenticity or publication timing",
+    "No analysis here establishes forecasting improvement, stationarity, power, causal effect, H1, H2 or GAM superiority"
+  ],
+  "original_audit_failure": "An initial reviewer run failed on an incorrect expected sample_period enum (reserved instead of provisionally_reserved). A separate first final-review pass used abbreviated expected revision labels (hike/cut/no_change), generating 2283 string-label differences despite zero arithmetic or flag differences. Both earlier artifacts and sources are retained; corrected fresh passes use the recorded schema labels. These were reviewer implementation errors, not source-data repairs.",
+  "preserved_inputs": [
+    {
+      "role": "pre_fix",
+      "source_path": "/Users/virajvekariya/.codex/worktrees/stage3-consolidation/BTP/BTP_CNG_Data/stage4_2026-11-09/logs/versions/predecessor_lineage_v1/analysis/coverage_calendar.csv",
+      "audit_path": "/Users/virajvekariya/.codex/worktrees/stage3-consolidation/BTP/BTP_CNG_Data/stage4_2026-11-09/reconciliation_targets/runs/TARGET-FINAL-20261109T113332468231Z/pre_fix_coverage_calendar.csv",
+      "sha256": "a7e94e21288f1a2a8776f593b59f03eb3502f110ff14bd83ff2554f2a020be32"
+    },
+    {
+      "role": "corrected",
+      "source_path": "/Users/virajvekariya/.codex/worktrees/stage3-consolidation/BTP/BTP_CNG_Data/stage4_2026-11-09/analysis/coverage_calendar.csv",
+      "audit_path": "/Users/virajvekariya/.codex/worktrees/stage3-consolidation/BTP/BTP_CNG_Data/stage4_2026-11-09/reconciliation_targets/runs/TARGET-FINAL-20261109T113332468231Z/corrected_coverage_calendar.csv",
+      "sha256": "cc3b1d9b4085808e1fadad86a31bf940d2b9be77415270ecc2795749de1372e9"
+    },
+    {
+      "role": "pre_fix",
+      "source_path": "/Users/virajvekariya/.codex/worktrees/stage3-consolidation/BTP/BTP_CNG_Data/stage4_2026-11-09/logs/versions/predecessor_lineage_v1/analysis/analysis_targets.csv",
+      "audit_path": "/Users/virajvekariya/.codex/worktrees/stage3-consolidation/BTP/BTP_CNG_Data/stage4_2026-11-09/reconciliation_targets/runs/TARGET-FINAL-20261109T113332468231Z/pre_fix_analysis_targets.csv",
+      "sha256": "336ef9e1e652e1d55095d19f077bd13fd9655a49903735cf833b42f998cfdf63"
+    },
+    {
+      "role": "corrected",
+      "source_path": "/Users/virajvekariya/.codex/worktrees/stage3-consolidation/BTP/BTP_CNG_Data/stage4_2026-11-09/analysis/analysis_targets.csv",
+      "audit_path": "/Users/virajvekariya/.codex/worktrees/stage3-consolidation/BTP/BTP_CNG_Data/stage4_2026-11-09/reconciliation_targets/runs/TARGET-FINAL-20261109T113332468231Z/corrected_analysis_targets.csv",
+      "sha256": "e4abf67a42897b0bc90ffd2011bda520feeea6add2e4b3009f8dac793abf0260"
+    },
+    {
+      "role": "pre_fix",
+      "source_path": "/Users/virajvekariya/.codex/worktrees/stage3-consolidation/BTP/BTP_CNG_Data/stage4_2026-11-09/logs/versions/predecessor_lineage_v1/analysis/development_targets.csv",
+      "audit_path": "/Users/virajvekariya/.codex/worktrees/stage3-consolidation/BTP/BTP_CNG_Data/stage4_2026-11-09/reconciliation_targets/runs/TARGET-FINAL-20261109T113332468231Z/pre_fix_development_targets.csv",
+      "sha256": "f7952b60beb764238c11a9c356dbe6b91a0ddd65bedc36c9f3a8c75bab1d4f2a"
+    },
+    {
+      "role": "corrected",
+      "source_path": "/Users/virajvekariya/.codex/worktrees/stage3-consolidation/BTP/BTP_CNG_Data/stage4_2026-11-09/analysis/development_targets.csv",
+      "audit_path": "/Users/virajvekariya/.codex/worktrees/stage3-consolidation/BTP/BTP_CNG_Data/stage4_2026-11-09/reconciliation_targets/runs/TARGET-FINAL-20261109T113332468231Z/corrected_development_targets.csv",
+      "sha256": "23f18296032fecb43a4c9e252a741580605a1dd0d3065bec0981265d4cc01e73"
+    },
+    {
+      "role": "pre_fix",
+      "source_path": "/Users/virajvekariya/.codex/worktrees/stage3-consolidation/BTP/BTP_CNG_Data/stage4_2026-11-09/logs/versions/predecessor_lineage_v1/analysis/reserved_targets.csv",
+      "audit_path": "/Users/virajvekariya/.codex/worktrees/stage3-consolidation/BTP/BTP_CNG_Data/stage4_2026-11-09/reconciliation_targets/runs/TARGET-FINAL-20261109T113332468231Z/pre_fix_reserved_targets.csv",
+      "sha256": "688efb9b680a432a8d1e4252ca7d37d423a7c9fdcf130b3623819f0361634137"
+    },
+    {
+      "role": "corrected",
+      "source_path": "/Users/virajvekariya/.codex/worktrees/stage3-consolidation/BTP/BTP_CNG_Data/stage4_2026-11-09/analysis/reserved_targets.csv",
+      "audit_path": "/Users/virajvekariya/.codex/worktrees/stage3-consolidation/BTP/BTP_CNG_Data/stage4_2026-11-09/reconciliation_targets/runs/TARGET-FINAL-20261109T113332468231Z/corrected_reserved_targets.csv",
+      "sha256": "120d4e83fef333b44a4267ac24f48afac48a83cf141bab279b0a89392895856a"
+    },
+    {
+      "role": "pre_fix",
+      "source_path": "/Users/virajvekariya/.codex/worktrees/stage3-consolidation/BTP/BTP_CNG_Data/stage4_2026-11-09/logs/versions/predecessor_lineage_v1/analysis/auxiliary_coverage_calendar.csv",
+      "audit_path": "/Users/virajvekariya/.codex/worktrees/stage3-consolidation/BTP/BTP_CNG_Data/stage4_2026-11-09/reconciliation_targets/runs/TARGET-FINAL-20261109T113332468231Z/pre_fix_auxiliary_coverage_calendar.csv",
+      "sha256": "95fcbd66381499b377a4261bd364036ad2187413ffa4ca53fd523de4f3c6c529"
+    },
+    {
+      "role": "corrected",
+      "source_path": "/Users/virajvekariya/.codex/worktrees/stage3-consolidation/BTP/BTP_CNG_Data/stage4_2026-11-09/analysis/auxiliary_coverage_calendar.csv",
+      "audit_path": "/Users/virajvekariya/.codex/worktrees/stage3-consolidation/BTP/BTP_CNG_Data/stage4_2026-11-09/reconciliation_targets/runs/TARGET-FINAL-20261109T113332468231Z/corrected_auxiliary_coverage_calendar.csv",
+      "sha256": "2ed6e29b9ed867feb3e36978d8cb4d8ea84a1395c04c76d2b2d5eda12a087d66"
+    },
+    {
+      "role": "pre_fix",
+      "source_path": "/Users/virajvekariya/.codex/worktrees/stage3-consolidation/BTP/BTP_CNG_Data/stage4_2026-11-09/logs/versions/predecessor_lineage_v1/analysis/auxiliary_targets.csv",
+      "audit_path": "/Users/virajvekariya/.codex/worktrees/stage3-consolidation/BTP/BTP_CNG_Data/stage4_2026-11-09/reconciliation_targets/runs/TARGET-FINAL-20261109T113332468231Z/pre_fix_auxiliary_targets.csv",
+      "sha256": "c7951b859eeb3b8e4af40a7addca12ada56a8270fa07bfc951c7b203717b15b2"
+    },
+    {
+      "role": "corrected",
+      "source_path": "/Users/virajvekariya/.codex/worktrees/stage3-consolidation/BTP/BTP_CNG_Data/stage4_2026-11-09/analysis/auxiliary_targets.csv",
+      "audit_path": "/Users/virajvekariya/.codex/worktrees/stage3-consolidation/BTP/BTP_CNG_Data/stage4_2026-11-09/reconciliation_targets/runs/TARGET-FINAL-20261109T113332468231Z/corrected_auxiliary_targets.csv",
+      "sha256": "b2d104a75ac9ab70a8f4495884962602c7963ec35b3ffd692507c125ea9e6609"
+    }
+  ],
+  "stage5_started": false
+}

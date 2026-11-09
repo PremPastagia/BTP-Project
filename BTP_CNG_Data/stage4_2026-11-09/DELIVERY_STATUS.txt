@@ -1,0 +1,17 @@
+STAGE 4 REDO DELIVERY — VERIFIED 9 NOVEMBER 2026
+
+Qualified analytical checkpoint completed. Researcher acceptance remains pending.
+Independent scientific review: 23/23 checks pass; no critical analytical failure.
+Independent EDA: 2412/2412 arithmetic/eligibility checks pass.
+Final verification: all package, source-object, journal and immutable-input checks pass.
+Accepted Stage3 snapshot unchanged (9 manifest entries + pinned manifest identity).
+Previous Stage4 unchanged (91 manifest entries; no tracked modifications).
+Registry history remains append-only; later additions are source-journal links only.
+All target/availability/EDA inputs match the independently reviewed hashes.
+metadata/output_manifest.json binds all delivered files except itself.
+Git commit and remote branch supply the external immutable version identity.
+
+Read STAGE4_REDO_CHECKPOINT_REPORT.txt for actual data, assumptions and limitations.
+No full ten-city readiness, strict development H1 coverage, H2 effect, untouched final
+test, exact intraday TWAP, forecasting result or causal conclusion is established.
+Stage5 has not started. Review the Stage4 checkpoint before advancing.

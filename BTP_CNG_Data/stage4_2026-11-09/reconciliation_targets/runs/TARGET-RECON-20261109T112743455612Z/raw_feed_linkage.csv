@@ -1,0 +1,11 @@
+city,raw_sha256,raw_rows,unique_raw_pairs,table_rows,table_pairs_missing_in_raw,raw_pairs_missing_in_table,source
+Ahmedabad,6da6cd052bd99fae6c730a88ac494bda51c1cec874ed1675847621d076f1e36c,239,239,239,0,0,MyPetrolPrice chart payload; source identity does not certify price truth or effective/publication timing
+Bengaluru,31ccdd3e0d88dd482793d005b78f9d1057f7af15535a7db06553f504052646c9,206,206,206,0,0,MyPetrolPrice chart payload; source identity does not certify price truth or effective/publication timing
+Delhi,ddabd459bf99c26158748ccb5e4bb9bfc38ab328bd01c060b264388983643dd1,249,249,249,0,0,MyPetrolPrice chart payload; source identity does not certify price truth or effective/publication timing
+Gurgaon,e9a0e3dc289f0565cf23a5f045e012021655c6b9c65db6249945e40ab0bf095e,230,230,230,0,0,MyPetrolPrice chart payload; source identity does not certify price truth or effective/publication timing
+Hyderabad,75363f138a1129efd2032bdeb313601bcba9260568d46a08b6165c02ae92ceef,220,220,220,0,0,MyPetrolPrice chart payload; source identity does not certify price truth or effective/publication timing
+Kanpur,1719e301f41e6e6b0c1032b1c82e11a43d866a6b5a7642d6de4502c096309890,216,216,216,0,0,MyPetrolPrice chart payload; source identity does not certify price truth or effective/publication timing
+Lucknow,d242ddbb10517165f86a8db874796ce5ffe1ec53cfecdc895044be37bc2114a0,222,222,222,0,0,MyPetrolPrice chart payload; source identity does not certify price truth or effective/publication timing
+Mumbai,aab303b8fdbb24e701904ff6c06d4ee1299b128683e84a4b3b5e05e2a2a1a7f6,236,236,236,0,0,MyPetrolPrice chart payload; source identity does not certify price truth or effective/publication timing
+Noida,a28d1f9923451d8fa6b15710093ff51e2e63288f11def0230014193eb91f392d,239,239,239,0,0,MyPetrolPrice chart payload; source identity does not certify price truth or effective/publication timing
+Pune,95b4b63be539827804c3ba276c8fcf28f203632a4da4362fde4bb5620fd7e595,236,236,236,0,0,MyPetrolPrice chart payload; source identity does not certify price truth or effective/publication timing

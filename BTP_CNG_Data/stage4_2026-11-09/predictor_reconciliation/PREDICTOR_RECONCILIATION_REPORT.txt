@@ -1,0 +1,207 @@
+STAGE 4 PREDICTOR AND TEXT EVIDENCE RECONCILIATION — 9 NOVEMBER 2026
+
+Scope
+This is an executed data/source-availability audit. It reconciles immutable Git
+versions, the modified Desktop legacy copy, accepted native references, the
+consolidated corpus and prior Stage 4 integration. No forecasting models,
+inferential tests, sentiment features or final-test outcome analyses were run.
+Outcome-valued CSV fields are stripped before audit storage/comparison; the new
+analysis-target CSV supplies only city, month and partition metadata.
+
+Preregistration
+registry/S4-PRED-RECON-20261109-001.json was written before execution.
+registry/AMENDMENT_001_CORE_ORIGINS.json records the later root-supplied fixed
+primary calendar and preserves separation of strict and sensitivity evidence.
+
+1. WHICH REPORTED COUNTS ACTUALLY EXIST?
+
+Version                          external grid   corporate   news/captures  policy
+Git 6b08b99                       190 months        799 metadata 10 seed claims  8
+Modified Desktop legacy          190 months        799 metadata 10 seed claims  8
+Git 2c2e3b9                       191 months        0           125 captures   7
+Git 4d4959c/main                   191 months        0           125 captures   7
+Current repository legacy root   191 months        0           125 captures   7
+Repository legacy quarantine     191 months        0           125 captures   7
+PR #1 snapshot                    1 status row       188 metadata 125 captures   7
+
+The PR #1 one-row external table is a quarantine-status marker, not one month of
+observations. Its separate source-native tables hold the actual numerical data.
+The125 archive records are Wayback homepage captures, not125 news articles.
+These versions must not be combined as if they were cumulative new evidence.
+Exact file aliases are recorded separately; no source files were removed.
+
+The main and recovery branches are demonstrably different. The reported
+190/799/10/8 combination is present in frozen6b08b99; it should not be attributed
+to every current branch or treated as an accepted scientific-quality certificate.
+
+2. LEGACY NUMERICAL FIELDS
+
+The audit compared13,596 legacy predictor cells with same-period native records
+across explicitly labelled versions;10,524 comparisons have an exact value match
+to at least one native source vintage. These are repeated comparison operations,
+not counts of unique recovered observations. A matching value does not prove its
+release date, source version, geography, or real-time availability.
+
+Actual source-code findings:
+- External predictors are placed on a monthly grid, forward-filled and shifted.
+  The blanket publication date is constructed by adding one month and12days
+  to the month-start; it is not extracted individually from each source release.
+- The annual GDP table has26 records. All26 assigned May 31release dates precede
+  their own December 31observation-year ends. The code simultaneously describes
+  a151-day lag, but assigns the same year's May 31. These dates cannot validate
+  historical availability of the current-vintage annual estimates.
+- The monthly GDP column holds annual values under an assumed year/May rule.
+  It is not a new observed monthly GDP series or a recovered historical vintage.
+- All179 nonmissing paired FX rows have identical mean and month-end fields.
+  The code assigns the same Yahoo monthly closing value to both. Mean is an
+  unsupported label. The source timezone/DST month-decoding issue also remains
+  relevant in the old grid; the corrected native series is separate.
+- The field called TTF is sourced from the World Bank Europe natural-gas
+  benchmark. Its precise source definition must be retained; it is not silently
+  equated to a standalone TTF spot series.
+- Dubai, WTI, Europe gas and Japan LNG each repeat their December 2024 value in
+  all22 grid rows from January 2025through October 2026. The source code explicitly
+  forward-fills these fields. Brent and US gas have other source updates, so the
+  same blanket repetition claim is NOT made for those fields.
+- VAT and gas-policy histories include code-defined values; petrol/diesel,
+  cross-fuel spreads/ratios and lagged fields depend on source/timing assumptions.
+  Existing one-month shifts do not supply missing historical release evidence.
+- Synthetic/unobserved VAHAN fields are excluded from empirical inputs. They
+  appear only in an eligibility dictionary identifying the exclusion; no
+  synthetic series values, distributions or model features were used.
+
+The dictionary records each legacy field and each native variable/unit/geography/
+frequency/source-vintage group. No current annual/quarterly value was expanded
+into a fictional monthly measurement.
+
+3. THE 799CORPORATE RECORDS ARE NOT799DATED TEXT DOCUMENTS
+
+The legacy corpus has799 unique disclosure IDs and758 distinct nonempty attachment
+filenames. Its collection code requests page1only for16 company/year query windows.
+Fifteen company/year groups contain exactly50 rows and one contains49. This is a
+page-limited discovery sample, not a complete company-report archive.
+
+Only one row is marked locally downloaded. Its observation/dissemination claim
+is17October 2024, but the linked bytes are the IGL November 2024allocation letter.
+The code attaches that November PDF whenever an IGL headline contains an
+allocation/reduction keyword, rather than matching the actual attachment ID.
+The dated October row therefore cannot establish publication of that November
+document. corporate_reconciliation.csv preserves the concrete mismatch and PDF
+date evidence. No historical features were created from that link.
+
+All799dissemination timestamp strings lack an explicit timezone. The code uses
+the API NEWS_DT field and does not preserve original BSE response JSON here.
+The records remain useful retrieval leads, but field names and downloaded flags
+are not independent exchange-time/document-identity verification.
+
+The accepted native corpus contains251deduplicated document metadata records,
+whose exact raw bytes and aliases are separate from public-release evidence.
+They remain excluded as dated historical predictors. This audit does not infer
+publication time from a reporting year, a letter date or the current download.
+
+4. TEN NEWS/POLICY RECORDS AND EIGHT REGULATORY EVENTS
+
+All ten legacy news publication timestamps are literal values in the source
+script. All ten content hashes reproduce the hand-authored headline plus
+content_excerpt payload, not an original downloaded publisher document.
+The manually assigned sentiment labels lack a demonstrated annotation/validation
+protocol. These are seed claims, not ten independently verified full articles.
+The eight regulatory events are likewise code-defined event/reference claims;
+their existence does not establish a verified legal/effective/publication history.
+
+The accepted selected-news collection has24 records,22 with parseable aware
+publisher timestamp claims. It remains selected-event metadata, not a complete
+sentiment corpus or proof that months without selected articles had zero news.
+No new strict H2 predictor admission follows from the legacy count reconciliation.
+
+5. ADDITIONAL H1 MATERIAL RECOVERED FROM ORIGINAL PPAC SOURCES
+
+The prior integration excluded all unverified gas transcription candidates.
+This audit did not merely repeat that status: it independently inspected29 saved
+original notification PDFs with Poppler and eight saved official archive HTML
+captures with BeautifulSoup.
+
+Of54 monthly price/cap candidates,41 pass native monetary-role/value/GCV checks,
+official-title effective-interval checks and source-date consistency checks.
+They comprise21 calculated domestic formula-price records and20 nomination-field
+ceiling records. Forty listed release-date claims precede November 2025; one
+qualified record pertains to December 2025. Thirteen candidates remain manual
+review gaps owing to role/text/interval extraction failures or PDF decode warnings.
+These failures are not silently repaired or counted as verified observations.
+
+IMPORTANT EVIDENCE TIERS
+The41 records are qualified official-listing-date proxies for a possible later
+sensitivity analysis. The archive HTML was captured in November 2026. It is a
+retrospective official date claim, not independent archived proof of historical
+bytes or first public availability. Accordingly strict_historical_eligible=False
+for every record, and none is added to the strict ledger.
+
+For January 2025, the signed document claim is31December 2024while the official
+archive lists1January 2025. The qualified bound retains the latter date. It never
+backdates the record to the administrative signature date or imposes a generic
+one-month lag. Formula prices and nomination ceilings remain different variables;
+neither is equated to an operator's blended gas procurement cost.
+
+On the fixed primary analysis calendar,88qualified reference rows occur at52
+origins:46 development and6 reserved. An interval must contain the origin's month
+end, and the archive date claim must not exceed the origin. There are no expired
+notification holds, future backfills, city allocations or fake monthly values.
+These are native national notification references repeated across city calendars,
+not88 independent observed company-cost measurements. This is recoverable H1
+sensitivity material, not a tested H1 result or a strict real-time reconstruction.
+
+6. STRICT CORE-CALENDAR RECONCILIATION
+
+The redo primary calendar has424 unique origins: Delhi177,Noida174,Lucknow73.
+There are394 development origins and30 provisionally reserved origins.
+The old five-market ledger was filtered by exact city/month membership, without
+using target values. Its preserved date/vintage-qualified strict-filter ledger
+now has60 rows at12 coreorigins. All12 origins are reserved; zero development origins
+have a strict dated numerical factor. The60 rows reference12 distinct national
+source observations, not60 independent city measurements.
+
+Strict here means the earlier documented-date filter, NOT an unqualified claim
+of independently archived real-time bytes. GDP release and PNGRB upload-date
+qualifications remain in each inherited row and in provenance. Retrospective
+outcome acceptance does not certify historical availability of lagged prices.
+
+No substantive H1/H2 improvement, stationarity result, statistical significance
+or model superiority is claimed. Stage 5has not started in this subtask.
+
+7. EXECUTABLE OUTPUTS AND REPRODUCTION
+
+audit_predictors.py
+  Reads named Git versions and accessible local artifacts, strips outcome fields,
+  inventories schemas, hashes inputs, compares predictor values, inspects source
+  transformation code, and writes corpus/variable decisions.
+audit_ppac_release_claims.py
+  Decodes original official listing cards and notification monetary roles. Keeps
+  source-date proxy qualifications separate from strict historical eligibility.
+reconcile_core_availability.py
+  Maps the previous ledger to the supplied exact primary calendar and writes
+  strict and sensitivity reference files separately.
+
+All scripts take explicit repository/input/output path arguments. The original
+Desktop copy and PR #1 snapshot are separately named inputs in the first script.
+If the Desktop copy is unavailable, frozen6b08b99supplies the reported corpus
+and code; accessibility is recorded. Frozen6b08b99,2c2e3b9and4d4959cGit objects
+must be available. No collector or legacy source script is executed.
+Python standard library, BeautifulSoup and pdftotext are required.
+
+Important machine-readable outputs:
+audit_results.json / legacy_construction_findings.json
+input_hashes.csv / schema_inventory.csv / exact_file_aliases.csv
+variable_eligibility_dictionary.csv / native_variable_eligibility_dictionary.csv
+corpus_eligibility_dictionary.csv / native_corpus_eligibility_dictionary.csv
+legacy_native_value_matches.csv / policy_reconciliation.csv
+news_reconciliation.csv / corporate_reconciliation.csv
+source_transformation_evidence.csv
+ppac_native_release_claims.csv / ppac_source_gaps.csv / ppac_input_hashes.csv
+strict_core_asof_ledger.csv / core_origin_availability.csv
+qualified_PPAC_core_reference.csv / core_availability_summary.json
+core_input_hashes.json / audit_integrity_checks.json
+
+Every retained or excluded variable/corpus has a source, definition/grain, quality
+status, availability rule and decision. The remaining historical-vintage and
+corpus-coverage limits are explicit dependencies for later experimental design;
+they are not solved by rows, hashes, release-label names or favorable expectations.

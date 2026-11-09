@@ -1,0 +1,11 @@
+{
+  "core_calendar_path": "BTP_CNG_Data/stage4_2026-11-09/analysis/analysis_targets.csv",
+  "core_file_sha256": "e4abf67a42897b0bc90ffd2011bda520feeea6add2e4b3009f8dac793abf0260",
+  "previous_ledger_path": "BTP_CNG_Data/stage4_2026-11-06/integration/asof_numerical_ledger.csv",
+  "previous_ledger_sha256": "ccfb529b9c44889d69f42c1d1f9559845774f9daa20d62a54521b901568f39b8",
+  "previous_verification_receipt_sha256": "b571fe985d45136a1e8bb7b4bcd39e21051bcf8df387d5b99e599753474ddf7f",
+  "candidate_manifest_sha256": "706d47a615d1a9a4bd95c5a03d6c2c6c80cbd60e134107e1d5194c866410030f",
+  "accepted_manifest_sha256": "968d4ad2b34c444ab6e4c9da33eae5b0c9c14bde7c01d308084136874ce3cea3",
+  "registered_core_mapping_amendment_sha256": "babeb292b8ccdec5d53fc340dda073e76e29de88c615c1b72af56a65cbc63cc2",
+  "ppac_source_audit_sha256": "94e22870b36ae8ca6d8326a90b148ef7cdaae542f36f57eb04f7cef850e94e1e"
+}

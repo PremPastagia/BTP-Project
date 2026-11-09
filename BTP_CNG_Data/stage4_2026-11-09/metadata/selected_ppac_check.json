@@ -1,0 +1,46 @@
+{
+  "timestamp_utc": "2026-11-09T11:33:03.775411+00:00",
+  "implementation": "pypdf independent decode and manually specified role/value/date examples; no producer helper",
+  "source_examples": [
+    {
+      "candidate_id": "0e1a08d7f63acd0be92cd5c2",
+      "notification_sha256": "53f6326c28262acbbf08ee64b5f861dd59e2254335383509ab7861441e4c6e1f",
+      "role": "notified_calculated_domestic_formula_price",
+      "value": "8.27",
+      "unit": "USD/MMBTU_GCV",
+      "effective_start": "2023-05-01",
+      "signed_document_date": "30.04.2023",
+      "archive_publication_day_claim": "2023-04-30",
+      "arithmetic_and_role_check_passed": true,
+      "availability_conclusion": "Retrospective archive date claim only; signed date does not establish historical public availability"
+    },
+    {
+      "candidate_id": "81093ecd64a62d572e21c6d7",
+      "notification_sha256": "8ecab8d412d70b00b4d82074a441b460c4abeb06de30b7a832d477c283e7183e",
+      "role": "notified_calculated_domestic_formula_price",
+      "value": "7.30",
+      "unit": "USD/MMBTU_GCV",
+      "effective_start": "2025-01-01",
+      "signed_document_date": "31.12.2024",
+      "archive_publication_day_claim": "2025-01-01",
+      "arithmetic_and_role_check_passed": true,
+      "availability_conclusion": "Retrospective archive date claim only; signed date does not establish historical public availability"
+    },
+    {
+      "candidate_id": "6a32031b2ab4a522a8beade7",
+      "notification_sha256": "1b3c30dccfb58f3e8597ad4659bd245ae8ac0468152f8fc7bb2730656d31a06c",
+      "role": "nomination_field_explicit_ceiling",
+      "value": "6.50",
+      "unit": "USD/MMBTU_GCV",
+      "effective_start": "2024-04-01",
+      "signed_document_date": "31.03.2024",
+      "archive_publication_day_claim": "2024-03-31",
+      "arithmetic_and_role_check_passed": true,
+      "availability_conclusion": "Retrospective archive date claim only; signed date does not establish historical public availability"
+    }
+  ],
+  "all_passed": true,
+  "scope": "3 selected examples, not a verification of every PPAC candidate or vintage",
+  "important_boundary": "January2025 PDF signed31Dec2024 has archive-listed date1Jan2025. Do not assign31Dec public availability from signature.",
+  "strict_historical_admissions": 0
+}

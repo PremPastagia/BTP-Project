@@ -1,0 +1,108 @@
+[
+  {
+    "group": "PROJECT-RECONCILIATION",
+    "experiment_id": "S4R-LINK-PROJECT-RECONCILIATION-60a1cf5d9489d4f5",
+    "records": [
+      {
+        "path": "project_reconciliation/pre_execution_log.jsonl",
+        "sha256": "ffd84ee58b636075b93108e64b82c08dd3d6d65714373d08b844770ca276722a",
+        "bytes": 861
+      },
+      {
+        "path": "project_reconciliation/reconciliation_provenance.json",
+        "sha256": "80485784c03bbf0d36ac119691779cfc961733f11f5e981fd11dd415114d1471",
+        "bytes": 6922
+      },
+      {
+        "path": "project_reconciliation/evaluation_exposure.json",
+        "sha256": "2462767f22000d2f5e547a8e967fad93d1acd9a84db65baeecf6625fc0cf000f",
+        "bytes": 9163
+      }
+    ]
+  },
+  {
+    "group": "TARGET-RECONCILIATION",
+    "experiment_id": "S4R-LINK-TARGET-RECONCILIATION-651c1a7effb2c524",
+    "records": [
+      {
+        "path": "reconciliation_targets/execution_registry.jsonl",
+        "sha256": "2940aa4a22fa97ec96d39938f3304a16ca9d39344c5a210237491bd523b42f54",
+        "bytes": 6115
+      },
+      {
+        "path": "reconciliation_targets/FINAL_RECONCILIATION_REVIEW.json",
+        "sha256": "6a3d5b8a818070b4b077cd18b99b5a942984e7c371f2060d53f90558284844fa",
+        "bytes": 23224
+      }
+    ]
+  },
+  {
+    "group": "PREDICTOR-RECONCILIATION",
+    "experiment_id": "S4R-LINK-PREDICTOR-RECONCILIATION-0f43aea4e70b0d94",
+    "records": [
+      {
+        "path": "predictor_reconciliation/registry/S4-PRED-RECON-20261109-001.json",
+        "sha256": "ede8dbef7eec49a5cdab6c00badf7cc5e361d4eb39de772e8ea0c1b0481a86bc",
+        "bytes": 1959
+      },
+      {
+        "path": "predictor_reconciliation/registry/AMENDMENT_001_CORE_ORIGINS.json",
+        "sha256": "babeb292b8ccdec5d53fc340dda073e76e29de88c615c1b72af56a65cbc63cc2",
+        "bytes": 1009
+      },
+      {
+        "path": "predictor_reconciliation/audit_results.json",
+        "sha256": "57f2350f2dbafd554a71c8e2d8d6ab00a2232ed8a16291373c58c21795ceadef",
+        "bytes": 7302
+      },
+      {
+        "path": "predictor_reconciliation/ppac_audit_results.json",
+        "sha256": "89179480af39187d1ab14cabe53598e80eafb12d50381570dd25c9ce64145aff",
+        "bytes": 872
+      },
+      {
+        "path": "predictor_reconciliation/core_availability_summary.json",
+        "sha256": "9e50cc9da2a5a53508f19bf3bd7d225d2e09a41397fac256782b8264eae4d9ca",
+        "bytes": 1370
+      }
+    ]
+  },
+  {
+    "group": "INDEPENDENT-EDA",
+    "experiment_id": "S4R-LINK-INDEPENDENT-EDA-5cf51e42d8c6b716",
+    "records": [
+      {
+        "path": "project_reconciliation/independent_eda_audit/pre_execution.json",
+        "sha256": "200a801839d1ae396cb4d21ee91104ead31cb2bb2c99639d1115d52fdb3ae718",
+        "bytes": 1475
+      },
+      {
+        "path": "project_reconciliation/independent_eda_audit/result.json",
+        "sha256": "a52accec990a569b6b613f0a264e7ee8b900053ed8a5f1ac113bbb6351bc688c",
+        "bytes": 1375
+      }
+    ]
+  },
+  {
+    "group": "SELECTED-PPAC-CHECK",
+    "experiment_id": "S4R-LINK-SELECTED-PPAC-CHECK-88fb47d695577e97",
+    "records": [
+      {
+        "path": "metadata/selected_ppac_check.json",
+        "sha256": "3b1b43c2aeae8eae976b663fb1d987d88129ebf36c5ee266d472524770f67e51",
+        "bytes": 2268
+      }
+    ]
+  },
+  {
+    "group": "END-STAGE-REVIEW",
+    "experiment_id": "S4R-LINK-END-STAGE-REVIEW-51993e49a0af8549",
+    "records": [
+      {
+        "path": "reconciliation_targets/END_STAGE4_REDO_REVIEW.json",
+        "sha256": "3f75f89c468025854ab7eda8c0b42a53bd09cc751f8829f6237596c188c68632",
+        "bytes": 19680
+      }
+    ]
+  }
+]

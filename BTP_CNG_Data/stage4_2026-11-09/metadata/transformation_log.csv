@@ -1,0 +1,9 @@
+transformation,rule,qualification
+verify_snapshot,All manifest hashes/sizes match before calculation; accepted bytes never edited,No transformations on raw values
+select_scope,Only intended10cities Jan2011-Oct2026 primary; Agra/Unnao auxiliary,Earlier outputs remain intact
+expand_bounded_path,"Each accepted[start,end)tariff applies to its known calendar days; reject overlap","Conditional holds supported by accepted chronology, not observed daily measurements"
+calendar_targets,EOM only if final day known; day-end mean only everycalendar dayknown; lower/upper needs preceding day,"No backward fill, terminal extrapolation, interpolation or missing=zero"
+source_lineage,"Keep interval IDs, exact rawhashes,URL/cell locators including bounds predecessor",Lineage issue in firstnewrun corrected with originals preserved
+protect_reservation,Before parsing prices forEDA keep onlydevelopmentmonths<2025-11,Prior exposure cannot be ruledout; no pristinefinaltestclaim
+descriptive_profile,"Adjacent-only changes, matched correlations, distribution andyearlyprofiles",Outlierflagsretainallrows; no learned/preprocessingtransformfit
+predictor_gate,Audit native grain/source/publication/versions separately,No assumed fixed release lags or national-to-city fabricated allocation

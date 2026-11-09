@@ -1,0 +1,44 @@
+[
+  {
+    "collection": "current_worktree",
+    "command": "git rev-parse HEAD",
+    "exit_code": 0,
+    "output": "77947e7a3e6f688e318da5e71648fad1d78a35af",
+    "error": ""
+  },
+  {
+    "collection": "current_worktree",
+    "command": "git branch --show-current",
+    "exit_code": 0,
+    "output": "codex/stage3-consolidation-2026-11-06",
+    "error": ""
+  },
+  {
+    "collection": "current_worktree",
+    "command": "git status --short",
+    "exit_code": 0,
+    "output": "?? BTP_CNG_Data/stage4_2026-11-09/",
+    "error": ""
+  },
+  {
+    "collection": "desktop_nested_repository",
+    "command": "git rev-parse HEAD",
+    "exit_code": 0,
+    "output": "6b08b99666ef2b08605c63499418503a4d666c3b",
+    "error": ""
+  },
+  {
+    "collection": "desktop_nested_repository",
+    "command": "git branch --show-current",
+    "exit_code": 0,
+    "output": "stage3-recovery-expansion",
+    "error": ""
+  },
+  {
+    "collection": "desktop_nested_repository",
+    "command": "git status --short",
+    "exit_code": 0,
+    "output": "M BTP_CNG_Data/logs/01_extract_cng_panel.log\n M BTP_CNG_Data/logs/02_extract_external_shocks.log\n M BTP_CNG_Data/logs/03_extract_domestic_factors.log\n M BTP_CNG_Data/logs/04_ingest_disclosures_and_news.log\n M BTP_CNG_Data/logs/05_validate_integrity.log\n M BTP_CNG_Data/metadata/city_coverage_matrix.csv\n M BTP_CNG_Data/metadata/data_quality_report.md\n M BTP_CNG_Data/structured/corporate_disclosures/corporate_disclosures_metadata.csv\n M BTP_CNG_Data/structured/news/news_archive_metadata.csv\n M BTP_CNG_Data/structured/numerical_factors/demand_factors_monthly.csv\n M BTP_CNG_Data/structured/numerical_factors/external_shocks_daily.csv\n M BTP_CNG_Data/structured/numerical_factors/external_shocks_monthly.csv\n M BTP_CNG_Data/structured/numerical_factors/macro_annual_gdp.csv\n M BTP_CNG_Data/structured/policy_events/regulatory_timeline.csv\n M BTP_CNG_Data/structured/price_revisions/cng_monthly_panel.csv\n M BTP_CNG_Data/structured/price_revisions/cng_monthly_provisional.csv\n M BTP_CNG_Data/structured/price_revisions/discrete_observations.csv\n M BTP_CNG_Data/structured/price_revisions/discrete_revisions.csv",
+    "error": ""
+  }
+]

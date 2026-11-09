@@ -1,0 +1,40 @@
+{
+  "executed_at_utc": "2026-11-09T11:33:49.180480+00:00",
+  "primary_calendar_origins": 424,
+  "calendar_by_city": {
+    "Delhi": 177,
+    "Noida": 174,
+    "Lucknow": 73
+  },
+  "calendar_by_partition": {
+    "development": 394,
+    "provisionally_reserved": 30
+  },
+  "strict_ledger_rows": 60,
+  "strict_origins_with_any_factor": 12,
+  "strict_origins_by_partition": {
+    "provisionally_reserved": 12
+  },
+  "strict_distinct_native_source_observations": 12,
+  "strict_families": {
+    "demand_reported": 24,
+    "national_accounts_quarterly": 36
+  },
+  "qualified_PPAC_reference_rows": 88,
+  "qualified_PPAC_origins": 52,
+  "qualified_PPAC_origins_by_partition": {
+    "development": 46,
+    "provisionally_reserved": 6
+  },
+  "native_variable_vintage_groups": 437,
+  "native_corpus_records": 275,
+  "new_strict_H1_or_H2_admissions": 0,
+  "no_future_holdout_outcome_values_analyzed_or_disclosed": true,
+  "no_models_or_inferential_tests": true,
+  "stage5_started": false,
+  "limitations": [
+    "Strict refers to the earlier documented-date filter, not independently archived historical source bytes; original qualifications remain in every row.",
+    "Qualified official-listing PPAC proxy records are sensitivity-only and do not enter strict coverage totals.",
+    "National source values repeated across city calendars are not independent city measurements."
+  ]
+}

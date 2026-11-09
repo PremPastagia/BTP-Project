@@ -1,0 +1,22 @@
+[
+  {
+    "path": "BTP_CNG_Data/accepted_stage3_2026-11-06_restricted_v1/metadata/snapshot_manifest.json",
+    "sha256": "968d4ad2b34c444ab6e4c9da33eae5b0c9c14bde7c01d308084136874ce3cea3",
+    "bytes": 1408
+  },
+  {
+    "path": "BTP_CNG_Data/accepted_stage3_2026-11-06_restricted_v1/data/price_intervals.csv",
+    "sha256": "0a53065b6a816434d5ecc83a9cff4671fca7e74e75c4712a67f59cf59311a4c1",
+    "bytes": 237875
+  },
+  {
+    "path": "BTP_CNG_Data/stage4_2026-11-09/metadata/analysis_specification.json",
+    "sha256": "9b5168b9654736690ec98a081c7ec35869ae6d3ac3b0227f1abf929bc3d0c5a2",
+    "bytes": 1237
+  },
+  {
+    "path": "BTP_CNG_Data/stage4_2026-11-09/scripts/build_analysis.py",
+    "sha256": "c87a758e214d60335d84fe32f4202cc3abcdefc2bd45117c508831150abfa12b",
+    "bytes": 15087
+  }
+]

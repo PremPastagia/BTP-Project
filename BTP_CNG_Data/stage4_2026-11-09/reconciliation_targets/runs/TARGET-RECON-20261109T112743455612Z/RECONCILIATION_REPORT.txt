@@ -1,0 +1,73 @@
+TARGET RECONCILIATION AND INDEPENDENT RECONSTRUCTION — 9 NOVEMBER2026
+
+{
+  "run_id": "TARGET-RECON-20261109T112743455612Z",
+  "accepted_interval_rows": 275,
+  "approved_snapshot_sha256": "0a53065b6a816434d5ecc83a9cff4671fca7e74e75c4712a67f59cf59311a4c1",
+  "intended_cities": [
+    "Delhi",
+    "Mumbai",
+    "Pune",
+    "Ahmedabad",
+    "Gurgaon",
+    "Noida",
+    "Lucknow",
+    "Kanpur",
+    "Hyderabad",
+    "Bengaluru"
+  ],
+  "envelope": [
+    "2011-01",
+    "2026-10"
+  ],
+  "intended_grid_rows": 1900,
+  "primary_accepted_monthend": 424,
+  "primary_accepted_average": 416,
+  "primary_development_monthend": 394,
+  "primary_development_average": 386,
+  "auxiliary_monthend": 128,
+  "auxiliary_average": 125,
+  "cities_missing_accepted_paths": [
+    "Mumbai",
+    "Pune",
+    "Ahmedabad",
+    "Gurgaon",
+    "Kanpur",
+    "Hyderabad",
+    "Bengaluru"
+  ],
+  "legacy_observation_rows": 2293,
+  "legacy_baselines": 10,
+  "legacy_actual_nonzero_sampled_changes": 265,
+  "legacy_same_price_repeats": 2018,
+  "legacy_provisional_rows": 18,
+  "legacy_partial_first_months": 8,
+  "legacy_incomplete_November_rows": 10,
+  "raw_table_linkage_failures": 0,
+  "producer_math_discrepancies": 0,
+  "producer_lineage_discrepancies": 0,
+  "critical_validity_qualifications": [
+    "Commercial chart observations and derived holds are not verified effective-date price paths",
+    "No examined CNG builder backward-fills dates before its earliest feed observation; do not equate every forward hold with a fabricated observation",
+    "Price equality does not certify publication availability or complete source history",
+    "Agra and Unnao retained as auxiliary only under current intended-city brief",
+    "Legacy publication proxies remain unverified; synthetic VAHAN not used",
+    "All reserved numeric comparison was source-quality audit only; no reserved EDA/model/metric selection"
+  ],
+  "reserved_outcome_quality_access": true,
+  "stage5_started": false
+}
+
+Read city_month_reconciliation.csv for matches/conflicts/missing counterparts.
+Numbers in reserved comparison exports are masked. This pass accessed protected values
+only to verify source quality, arithmetic and lineage, never to select a model or sample.
+Legacy 275 is265nonzero sampled-price changes plus10baselines. The2,018
+same-price repeats are observations, not revisions. Main4d labels2,293points as revisions.
+The1,503complete legacy rows are a distinct recovery-branch artifact from main1,521.
+Eight initial partial historical months and ten incomplete November rows explain18
+provisional rows. Their numeric presence must not make them finalized monthly targets.
+The historical source chart plus forward holds can reproduce a number without proving
+it is a complete effective-date price path. No automatic promotion to accepted data.
+New intended ten-city scope does not add missing prices for seven cities.
+Jan2011–Oct2026 is190potential months, not190observed months for every city.
+Source versions, failed attempts and raw audit inputs are retained in this run folder.

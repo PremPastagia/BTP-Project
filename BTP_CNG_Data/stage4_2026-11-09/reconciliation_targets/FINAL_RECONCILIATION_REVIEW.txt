@@ -1,0 +1,70 @@
+INDEPENDENT TARGET RECONCILIATION — 9 NOVEMBER 2026
+
+Decision: PASS for restricted Stage 4 target transformations and reconciliation only.
+No Stage 5 work or researcher stage approval is claimed.
+
+Independent reconstruction
+Accepted input: 275 source intervals; all 12 explicitly excluded intervals stayed excluded.
+Exact rational prefix integrals independently reconstructed monthly price mass and covered days.
+Start dates are inclusive, end dates exclusive; no gaps were filled and no final quote extended.
+Hand checks include leap February, changing-price day boundaries and a one-day gap.
+All 3,256 exported rows were checked for arithmetic, scope, reservation status and exact
+row-specific interval/hash/URL/locator lineage, including explicit predecessor interval IDs.
+Current producer arithmetic discrepancies: 0.
+Current producer lineage discrepancies: 0.
+The preserved lineage-repair versions have 69 changed lineage rows and
+0 quantity/key discrepancies. No price or bound changed in the repair.
+
+Accepted scope inside January 2011 through October 2026
+The ten-city calendar has 1,900 potential rows, not 1,900 observed targets.
+Primary: 424 month-end quotes and 416 full-month day-end averages, in Delhi, Noida and Lucknow.
+Development portion: 394 month-end quotes and 386 averages.
+Agra and Unnao remain auxiliary: 128 month-end quotes and 125 averages.
+Missing accepted paths: Mumbai, Pune, Ahmedabad, Gurgaon, Kanpur, Hyderabad and Bengaluru.
+An auxiliary city cannot silently replace an intended city.
+Prior accepted Stage 4: all 552 available month-end and 541 average values inside the new
+envelope agree at their recorded precision; no matched-subset numerical conflicts.
+The previous version also included 14 month-end and 12 average values outside this envelope.
+
+Legacy evidence reconciliation
+Recovery Git 6b08b996 contains 1,503 complete-labelled rows plus 18 provisional rows.
+The 18 are eight partial historical first months and ten incomplete November 2026 rows.
+Main/current legacy 1,521 and recovery 1,503 are different artifacts, not a row-loss error.
+The 2,293 raw chart observations decompose into 10 initial baselines, 265 actual nonzero
+sampled changes and 2,018 same-price observations. The 275-row revision subset includes
+the 10 baselines. All raw chart pairs linked back to the saved raw HTML payloads.
+Independent replication checked all 1521 legacy complete/provisional rows: 0
+arithmetic/count differences; 0 observation-flag differences and 0 revision-set differences.
+Legacy flags can be reproduced without authenticating effective dates. Publication dates
+were copied from feed dates and remain unverified. Forward holds begin at the first feed
+observation; no examined builder backward-fills before that first observation.
+
+Against the accepted price paths, the 1,503 complete-labelled legacy rows contain
+216 month-end numerical conflicts and 250 average conflicts where counterparts exist.
+There are 187 exact month-end matches; 145 averages match exactly or at export precision.
+1,100 month-end and 1,108 average rows have no accepted counterpart.
+Matching does not promote a legacy observation to accepted evidence. Conflicts are retained,
+not averaged together. The PR1 1,511-row panel has missing target values throughout;
+its 350-row candidate file is a separate artifact with four target-cell conflicts.
+See the per-city/month CSV for every disposition and masked protected comparisons.
+
+Scientific limits and protection
+cng_price_twap names the approved calendar-day-weighted day-end average. True continuous
+time TWAP is unidentified from date-only changes; bounds are conditional source-path bounds.
+The bounds are not forecast uncertainty intervals. Unknown source publication times remain
+unknown; retrospective chronology values are not certified origin-time predictor features.
+Reserved November 2025–October 2026 values were accessed only to audit consistency,
+arithmetic and lineage, never for descriptive outcome exploration or model selection.
+This audit does not establish predictive performance, statistical power, H1, H2 or causality.
+The parent preserved the initial lineage-omission outputs before repair. An earlier reviewer
+run also failed on an incorrect enum expectation. A first final-review pass used shortened
+revision label names and generated string-label mismatches; both attempts remain preserved.
+
+Reproduction and evidence
+Main successful run: TARGET-RECON-20261109T113115894422Z
+Main run directory: /Users/virajvekariya/.codex/worktrees/stage3-consolidation/BTP/BTP_CNG_Data/stage4_2026-11-09/reconciliation_targets/runs/TARGET-RECON-20261109T113115894422Z
+Main source and input snapshots are retained there with hashes and a source inventory.
+This final receipt also freezes pre-repair/current target exports and records their hashes.
+The standard-library script accepts --desktop-root for the separate archived project files;
+local Git object 6b08b996 and repository accepted/current/prior inputs are required.
+This final review has 0 discrepancies requiring correction.

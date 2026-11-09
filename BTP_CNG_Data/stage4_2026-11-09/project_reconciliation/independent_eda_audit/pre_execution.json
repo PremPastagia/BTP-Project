@@ -1,0 +1,19 @@
+{
+  "timestamp_utc": "2026-11-09T11:34:18.063535+00:00",
+  "question": "Independent descriptive EDA arithmetic and scope verification",
+  "method": "NumPy/Pandas versus producer Decimal/statistics; numeric parsing only after development filter",
+  "inputs": {
+    "analysis/coverage_calendar.csv": "cc3b1d9b4085808e1fadad86a31bf940d2b9be77415270ecc2795749de1372e9",
+    "metadata/analysis_specification.json": "9b5168b9654736690ec98a081c7ec35869ae6d3ac3b0227f1abf929bc3d0c5a2",
+    "scripts/profile_analysis.py": "d8cee24e56e6f94a1087e223e495cc6d8452d53d01a16f8b238e17ae341d13b6",
+    "eda/adjacent_changes.csv": "7a5fdc3160e4af9de2a8248d1d6b3c12895d374c38c08ba6bee372b5e8ec4b97",
+    "eda/coverage_by_city.csv": "ca5c6ff3f5d4881be10f2897c0a032595637542fe4b4adef857b52215a37b8bd",
+    "eda/descriptive_summary.csv": "471c2eea3427cc9c2c5959e446e3e8d93814095ab4535c8db4f4f9df57a303f8",
+    "eda/flagged_changes.csv": "418881a75935a9c67307baf8ccef36446bc71553ffdedb96fecc92a115928b24",
+    "eda/matched_correlations.csv": "8f4d9fc3b9924cf1c014d90977974f6e03d41d78e7055855ca1fa65e8763f7ce",
+    "eda/missing_spans.csv": "65d02dd8629d9407641348fd369b250891e477e179a6751b8358bd685d774c9a",
+    "eda/persistence.csv": "060b8fd8352c20e896c5f0a1754669381824e6a1473cf5d4085d02e257ff0aae",
+    "eda/yearly_change_profile.csv": "892beba9af743a77e12ec0012d7704de318add284c5e1a1db194b7534b49240a"
+  },
+  "script_sha256": "9678e07d3e86229ee4b5619f8c3f0f6535853c701a31d140b9c3154882221b6f"
+}

@@ -1,0 +1,16 @@
+candidate_observation_id,source_id,role_match,basis_match,archive_dates,title_interval_match,native_period_words,PDF_decode_warning,decision
+e88cfa4933c9940f35e09737,ppac_notice_0406bd8a81de,False,True,"[""2025-07-31""]",True,True,,not_admitted_even_to_qualified_sensitivity_ledger
+d891e83153e7664f3dec8d79,ppac_notice_86173862b887,False,True,"[""2025-05-01""]",True,True,"Syntax Error (262): Bad block header in flate stream
+Syntax Error (334871): Bad block header in flate stream
+Syntax Error (334508): Bad block header in flate stream",not_admitted_even_to_qualified_sensitivity_ledger
+06ed34147fc4da3763f403c4,ppac_notice_72bf3683b37c,False,True,"[""2025-02-28""]",True,True,,not_admitted_even_to_qualified_sensitivity_ledger
+61a6df801b74bd6816e12683,ppac_notice_50f07917f2f0,False,True,"[""2024-08-31""]",True,True,,not_admitted_even_to_qualified_sensitivity_ledger
+eb5f2920a3bc53d7f4b6abaa,ppac_notice_50f07917f2f0,False,True,"[""2024-08-31""]",True,True,,not_admitted_even_to_qualified_sensitivity_ledger
+c7f46b58136b7ea29525dfd8,ppac_notice_de452f70e96a,False,True,"[""2024-07-31""]",True,True,,not_admitted_even_to_qualified_sensitivity_ledger
+661b20ee104609732c14e065,ppac_notice_44290efa2777,False,True,"[""2024-01-31""]",True,True,,not_admitted_even_to_qualified_sensitivity_ledger
+209e936fc64217c6699842d0,ppac_notice_44290efa2777,False,True,"[""2024-01-31""]",True,True,,not_admitted_even_to_qualified_sensitivity_ledger
+52d77da610e9e76265c0a35a,ppac_notice_47f32f28515a,False,True,"[""2023-11-30""]",True,True,,not_admitted_even_to_qualified_sensitivity_ledger
+0a655a11d5f74480f51f8171,ppac_notice_adf34350ad56,True,True,"[""2023-10-31""]",False,True,,not_admitted_even_to_qualified_sensitivity_ledger
+56fc27e40fee872d34e2d890,ppac_notice_adf34350ad56,True,True,"[""2023-10-31""]",False,True,,not_admitted_even_to_qualified_sensitivity_ledger
+815e19d3298510759597cd49,ppac_notice_c4e0f5ce089d,False,True,"[""2023-09-30""]",False,True,,not_admitted_even_to_qualified_sensitivity_ledger
+3db4fa799c20cc6a5225e574,ppac_notice_c4e0f5ce089d,False,True,"[""2023-09-30""]",False,True,,not_admitted_even_to_qualified_sensitivity_ledger

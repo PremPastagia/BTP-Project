@@ -1,0 +1,64 @@
+{
+  "updated_at_utc": "2026-11-09T11:41:01.785702+00:00",
+  "active_stage": 4,
+  "current_request": "Redo Stage4 against new handoff while preserving original nine-stage names",
+  "earlier_stage4": "Completed on6Nov with restricted5market scope, preserved; current redo inprogress",
+  "stage4_researcher_accepted": false,
+  "stages": [
+    {
+      "stage": 1,
+      "name": "Define the research problem",
+      "status": "completed_as_previously_recorded",
+      "evidence": "Existing approved project design; not repeated in this redo"
+    },
+    {
+      "stage": 2,
+      "name": "Understand the commodity market",
+      "status": "completed_as_previously_recorded",
+      "evidence": "Existing finalized Stage1\u20133 documentation; no new completion audit claimed"
+    },
+    {
+      "stage": 3,
+      "name": "Collect and systematically store data",
+      "status": "completed_restricted_accepted_scope",
+      "evidence": "accepted_stage3_2026-11-06_restricted_v1/metadata/acceptance.json",
+      "dependency": "Broader10city evidence, release vintages and H2 corpus remain incomplete"
+    },
+    {
+      "stage": 4,
+      "name": "Preprocessing, Integration and EDA",
+      "status": "completed_qualified_pending_researcher_review",
+      "inputs": "Restricted accepted snapshot plus independently identified legacy branch/desktop artifacts",
+      "outputs": "This versioned directory",
+      "checks_executed": "Independent target, source lineage, full legacy arithmetic and EDA checks passed; accepted snapshot and all91 prior Stage4 manifest entries unchanged; final end-stage/package receipts accompany the checkpoint",
+      "decisions": "Primary intended10city scope, Jan2011-Oct2026; Agra/Unnao auxiliary; no unsupported fill; prior reservation retained",
+      "dependencies": "Future forecasting availability/design decisions remain; seven-city paths/H2 still incomplete",
+      "evidence": "STAGE4_REDO_CHECKPOINT_REPORT.txt and independent audit receipts"
+    },
+    {
+      "stage": 5,
+      "name": "Stationarity, Structural Breaks and Statistical Properties",
+      "status": "not_started"
+    },
+    {
+      "stage": 6,
+      "name": "Model Identification and Experimental Design",
+      "status": "not_started"
+    },
+    {
+      "stage": 7,
+      "name": "Model Estimation and Diagnostics",
+      "status": "not_started"
+    },
+    {
+      "stage": 8,
+      "name": "Forecasting and Hypothesis Testing",
+      "status": "not_started"
+    },
+    {
+      "stage": 9,
+      "name": "Interpretation, Scenarios and Research Paper",
+      "status": "not_started"
+    }
+  ]
+}
